@@ -52,7 +52,7 @@ accented characters and special characters rendered correctly.
 
 | Text | Author | Normalization applied |
 |------|--------|-----------------------|
-| *La desinenza in A* | Dossi | Removal of inverted punctuation (`¿`, `¡`); grave → acute accent on conjunctions, pronouns, numbers, non-standard oxytones, and passato remoto forms; accent removed entirely on *oboe*, *aloe*, *me*, *te*; Removal of accents on non-oxytone words (non-final position); replacement of semiconsonantal `j` with `i`; replacement of double comma `,,` with `,` |
+| *La desinenza in A* | Dossi | Removal of inverted punctuation (`¿`, `¡`); grave → acute accent on conjunctions, pronouns, numbers, non-standard oxytones, and passato remoto forms; non-standard accents on monosyllables and disyllables removed entirely.; Removal of accents on non-oxytone words (non-final position); replacement of semiconsonantal `j` with `i`; replacement of double comma `,,` with `,` |
 | *Uno, nessuno e centomila* | Pirandello | Replacement of semiconsonantal `j` with `i` |
 | *Fosca* | Tarchetti | Replacement of `í`/`ú` (acute accent) with `ì`/`ù` (grave accent) |
 
