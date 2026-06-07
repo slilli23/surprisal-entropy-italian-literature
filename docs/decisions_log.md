@@ -52,16 +52,18 @@ accented characters and special characters rendered correctly.
 
 | Text | Author | Normalization applied |
 |------|--------|-----------------------|
-| *La desinenza in A* | Dossi | Removal of inverted punctuation (`¿`, `¡`); replacement of grave with acute accent on conjunctions, pronouns, numbers, non-standard oxytones, and passato remoto forms; non-standard accents on monosyllables and disyllables removed entirely; removal of accents on non-oxytone words (non-final position); replacement of double comma `,,` with `,`; replacement of semiconsonantal `j` with `i` (manual) |
+| *La desinenza in A* | Dossi | Removal of inverted punctuation (`¿`, `¡`); replacement of grave with acute accent on conjunctions, pronouns, numbers, non-standard oxytones, and passato remoto forms; non-standard accents on monosyllables and disyllables removed entirely; removal of accents on non-oxytone words (non-final position); replacement of double comma `,,` with `,`; replacement of semiconsonantal `j` with `i` (excluding stoplist forms) |
 | *Uno, nessuno e centomila* | Pirandello | Replacement of semiconsonantal `j` with `i` |
 | *Fosca* | Tarchetti | Replacement of `í`/`ú` (acute accent) with `ì`/`ù` (grave accent) |
 
-**Note on *La desinenza in A***: `tè` globally normalized to `te` (no accent). The single occurrence of the noun (*"una tazza di quella tepida aqua che chiamano il tè"*, occ. 130) was manually restored as `tè` in the normalized file; replacement of semiconsonantal `j` with `i` was not applied automatically to due to the systematic presence of French loanwords and dialogues in the text, where `j` retains its French consonantal value and must not be replaced. Italian instances of semiconsonantal `j` were identified and corrected manually. Accents on non-final syllables were removed throughout, including in French
-and Latin loanwords and quotations. Since the project aims to detect
-surprisal-based stylistic deviation, orthographic accuracy in multilingual
-passages is secondary: code-switching sections will already produce high
-surprisal values due to lexical and syntactic divergence from the Italian
-standard model.
+**Note on *La desinenza in A***: 
+- `Tè` globally normalized to `te` (no accent). The single occurrence of the noun (*"una tazza di quella tepida aqua che chiamano il tè"*, occ. 130) was manually restored as `tè` in the normalized file;
+- Semiconsonantal `j` → `i` normalization was not applied automatically to *La desinenza in A* due to the systematic presence of French loanwords and
+dialogues in the text, where `j` retains its French consonantal value and must not be replaced. The replacement was applied globally with a stoplist
+exempting French, dialect, and proper noun forms (see `J_STOPLIST` in `notebooks/01_normalization.ipynb`). 
+- Accents on non-final syllables were removed throughout, including in French and Latin loanwords and quotations. Since the project aims to detect
+surprisal-based stylistic deviation, orthographic accuracy in multilingual passages is secondary: code-switching sections will already produce high
+surprisal values due to lexical and syntactic divergence from the Italian standard model.
 
 ---
 
