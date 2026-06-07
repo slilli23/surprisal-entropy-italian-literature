@@ -56,7 +56,12 @@ accented characters and special characters rendered correctly.
 | *Uno, nessuno e centomila* | Pirandello | Replacement of semiconsonantal `j` with `i` |
 | *Fosca* | Tarchetti | Replacement of `í`/`ú` (acute accent) with `ì`/`ù` (grave accent) |
 
-**Note on *La desinenza in A***: `tè` globally normalized to `te` (no accent). The single occurrence of the noun (*"una tazza di quella tepida aqua che chiamano il tè"*, occ. 130) was manually restored as `tè` in the normalized file; replacement of semiconsonantal `j` with `i` was not applied automatically to due to the systematic presence of French loanwords and dialogues in the text, where `j` retains its French consonantal value and must not be replaced. Italian instances of semiconsonantal `j` were identified and corrected manually.
+**Note on *La desinenza in A***: `tè` globally normalized to `te` (no accent). The single occurrence of the noun (*"una tazza di quella tepida aqua che chiamano il tè"*, occ. 130) was manually restored as `tè` in the normalized file; replacement of semiconsonantal `j` with `i` was not applied automatically to due to the systematic presence of French loanwords and dialogues in the text, where `j` retains its French consonantal value and must not be replaced. Italian instances of semiconsonantal `j` were identified and corrected manually. Accents on non-final syllables were removed throughout, including in French
+and Latin loanwords and quotations. Since the project aims to detect
+surprisal-based stylistic deviation, orthographic accuracy in multilingual
+passages is secondary: code-switching sections will already produce high
+surprisal values due to lexical and syntactic divergence from the Italian
+standard model.
 
 ---
 
