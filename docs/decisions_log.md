@@ -52,7 +52,7 @@ accented characters and special characters rendered correctly.
 
 | Text | Author | Normalization applied |
 |------|--------|-----------------------|
-| *La desinenza in A* | Dossi | Removal of accents on non-oxytone words; normalization of anticipated punctuation (?); replace semiconsonantal `j` → `i` |
+| *La desinenza in A* | Dossi | Removal of accents on non-oxytone words; normalization of anticipated punctuation (?); replace semiconsonantal `j` → `i`; replace double comma `,,` → `,` |
 | *Uno, nessuno e centomila* | Pirandello | Replacement of semiconsonantal ‹j› with ‹i› |
 | *Fosca* | Tarchetti | Replacement of ‹í›/‹ú› (acute accent) with ‹ì›/‹ù› (grave accent) |
 
