@@ -52,9 +52,11 @@ accented characters and special characters rendered correctly.
 
 | Text | Author | Normalization applied |
 |------|--------|-----------------------|
-| *La desinenza in A* | Dossi | Removal of accents on non-oxytone words; normalization of anticipated punctuation (?); replace semiconsonantal `j` → `i`; replace double comma `,,` → `,` |
-| *Uno, nessuno e centomila* | Pirandello | Replacement of semiconsonantal ‹j› with ‹i› |
-| *Fosca* | Tarchetti | Replacement of ‹í›/‹ú› (acute accent) with ‹ì›/‹ù› (grave accent) |
+| *La desinenza in A* | Dossi | Removal of inverted punctuation (`¿`, `¡`); grave → acute accent on conjunctions, pronouns, numbers, non-standard oxytones, and passato remoto forms; accent removed entirely on *oboe*, *aloe*, *me*, *te*; Removal of accents on non-oxytone words (non-final position); replacement of semiconsonantal `j` with `i`; replacement of double comma `,,` with `,` |
+| *Uno, nessuno e centomila* | Pirandello | Replacement of semiconsonantal `j` with `i` |
+| *Fosca* | Tarchetti | Replacement of `í`/`ú` (acute accent) with `ì`/`ù` (grave accent) |
+
+**Note on *La desinenza in A***: `tè` globally normalized to `te` (no accent). The single occurrence of the noun (*"una tazza di quella tepida aqua che chiamano il tè"*, occ. 130) was manually restored as `tè` in the normalized file.
 
 ---
 
