@@ -16,19 +16,20 @@ Surprisal and entropy values are combined with POS distribution analysis to
 detect and interpret stylistically marked passages.
 
 ## Repository Structure
-surprisal-entropy-italian-literature/
-│
-├── data/
-│   ├── raw/            # Original texts (plain text, libre license)
-│   ├── normalized/     # Texts after graphic normalization
-│   └── chunks/         # Segmented texts for annotation and processing
-│
-├── notebooks/          # Jupyter notebooks (processing pipeline)
-├── scripts/            # Python utility functions
-├── docs/
-│   └── decisions_log.md  # Documentation of methodological choices
-└── README.md
 
+    surprisal-entropy-italian-literature/
+    │
+    ├── data/
+    │   ├── raw/              # Original texts (plain text, libre license)
+    │   ├── normalized/       # Texts after graphic normalization
+    │   └── chunks/           # Segmented texts for annotation and processing
+    │
+    ├── notebooks/            # Jupyter notebooks (processing pipeline)
+    ├── scripts/              # Python utility functions
+    ├── docs/
+    │   └── decisions_log.md  # Documentation of methodological choices
+    └── README.md
+    
 ## Corpus
 
 The corpus comprises Italian literary prose texts with open licenses,
