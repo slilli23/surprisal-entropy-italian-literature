@@ -29,7 +29,26 @@ was retained because it is internal to the narrative fiction.
 
 ---
 
-## 3. Graphic Normalization (text-specific)
+## 3. Encoding
+
+Encoding of files in `data/raw/` was detected using `chardet`. Files requiring
+conversion were read with their source encoding and rewritten as UTF-8 in
+`data/raw_utf8/`. Original files in `data/raw/` were not modified.
+
+| File | Source encoding | Confidence | Note |
+|------|----------------|------------|------|
+| `1878_dossi_desinenza_a.txt` | Windows-1252 | 67% | spot-check performed |
+| `1891_serao_paese_cuccagna.txt` | ISO-8859-1 | 61% | spot-check performed |
+| `1919_tozzi_occhi_chiusi.txt` | ISO-8859-1 | 75% | |
+| `1920_palazzeschi_il_codice_perela.txt` | UTF-8-SIG | 100% | BOM removed |
+| All others | UTF-8 | 83–85% | no conversion needed |
+
+Files with confidence below 70% (`1878_dossi_desinenza_a.txt`,
+`1891_serao_paese_cuccagna.txt`) were manually verified after conversion:
+accented characters and special characters rendered correctly.
+
+
+## 4. Graphic Normalization (text-specific)
 
 | Text | Author | Normalization applied |
 |------|--------|-----------------------|
