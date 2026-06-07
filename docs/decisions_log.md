@@ -52,11 +52,11 @@ accented characters and special characters rendered correctly.
 
 | Text | Author | Normalization applied |
 |------|--------|-----------------------|
-| *La desinenza in A* | Dossi | Removal of inverted punctuation (`¿`, `¡`); replacement of grave with acute accent on conjunctions, pronouns, numbers, non-standard oxytones, and passato remoto forms; non-standard accents on monosyllables and disyllables removed entirely; removal of accents on non-oxytone words (non-final position); replacement of semiconsonantal `j` with `i`; replacement of double comma `,,` with `,` |
+| *La desinenza in A* | Dossi | Removal of inverted punctuation (`¿`, `¡`); replacement of grave with acute accent on conjunctions, pronouns, numbers, non-standard oxytones, and passato remoto forms; non-standard accents on monosyllables and disyllables removed entirely; removal of accents on non-oxytone words (non-final position); replacement of double comma `,,` with `,`; replacement of semiconsonantal `j` with `i` (manual) |
 | *Uno, nessuno e centomila* | Pirandello | Replacement of semiconsonantal `j` with `i` |
 | *Fosca* | Tarchetti | Replacement of `í`/`ú` (acute accent) with `ì`/`ù` (grave accent) |
 
-**Note on *La desinenza in A***: `tè` globally normalized to `te` (no accent). The single occurrence of the noun (*"una tazza di quella tepida aqua che chiamano il tè"*, occ. 130) was manually restored as `tè` in the normalized file.
+**Note on *La desinenza in A***: `tè` globally normalized to `te` (no accent). The single occurrence of the noun (*"una tazza di quella tepida aqua che chiamano il tè"*, occ. 130) was manually restored as `tè` in the normalized file; replacement of semiconsonantal `j` with `i` was not applied automatically to due to the systematic presence of French loanwords and dialogues in the text, where `j` retains its French consonantal value and must not be replaced. Italian instances of semiconsonantal `j` were identified and corrected manually.
 
 ---
 
