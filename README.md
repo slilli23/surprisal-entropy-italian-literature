@@ -7,7 +7,7 @@ using surprisal and entropy as stylistic analysis tools.
 
 This repository contains the data and code developed for the research project
 *Misurare la creatività linguistica: sorpresa ed entropia come strumenti di
-analisi stilistica*, winner of the Dino Buzzetti Research Prize (AIUCD 2025).
+analisi stilistica*, winner of the Dino Buzzetti Research Prize (AIUCD 2026).
 
 The project investigates whether information-theoretic measures — word-level
 surprisal and context entropy — can identify deliberate linguistic deviation
@@ -61,7 +61,7 @@ If you use this repository in your research, please cite:
 @misc{lilli2025surprisal,
   author       = {Lilli, Silvia},
   title        = {surprisal-entropy-italian-literature},
-  year         = {2025},
+  year         = {2026},
   publisher    = {GitHub},
   url          = {https://github.com/slilli23/surprisal-entropy-italian-literature}
 }
