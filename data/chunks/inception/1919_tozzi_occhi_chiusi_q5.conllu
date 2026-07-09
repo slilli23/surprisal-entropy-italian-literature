@@ -1,0 +1,861 @@
+# sent_id = 1919_tozzi_occhi_chiusi_q5_1
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Poi esciva di bottega, perché non volesse obbligarlo a lavorare.
+1	Poi	_	ADV	B	_	_	_	_	start_char=547716|end_char=547719
+2	esciva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=547720|end_char=547726
+3	di	_	ADP	E	_	_	_	_	start_char=547727|end_char=547729
+4	bottega	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=547730|end_char=547737
+5	,	_	PUNCT	FF	_	_	_	_	start_char=547737|end_char=547738
+6	perché	_	SCONJ	CS	_	_	_	_	start_char=547739|end_char=547745
+7	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=547746|end_char=547749
+8	volesse	_	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=547750|end_char=547757
+9	obbligarlo	_	_	_	_	_	_	_	start_char=547758|end_char=547768
+10	a	_	ADP	E	_	_	_	_	start_char=547769|end_char=547770
+11	lavorare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=547771|end_char=547779
+12	.	_	PUNCT	FS	_	_	_	_	start_char=547779|end_char=547780
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_2
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = «È possibile ch'io sia costretto a correre dal pizzicagnolo, a comprare il formaggio?
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=547781|end_char=547782
+2	È	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=547782|end_char=547783
+3	possibile	_	ADJ	A	Number=Sing	_	_	_	start_char=547784|end_char=547793
+4	ch'	_	SCONJ	CS	_	_	_	_	SpaceAfter=No|start_char=547794|end_char=547797
+5	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=547797|end_char=547799
+6	sia	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=547800|end_char=547803
+7	costretto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=547804|end_char=547813
+8	a	_	ADP	E	_	_	_	_	start_char=547814|end_char=547815
+9	correre	_	VERB	V	VerbForm=Inf	_	_	_	start_char=547816|end_char=547823
+10	dal	_	_	_	_	_	_	_	start_char=547824|end_char=547827
+11	pizzicagnolo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=547828|end_char=547840
+12	,	_	PUNCT	FF	_	_	_	_	start_char=547840|end_char=547841
+13	a	_	ADP	E	_	_	_	_	start_char=547842|end_char=547843
+14	comprare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=547844|end_char=547852
+15	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=547853|end_char=547855
+16	formaggio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=547856|end_char=547865
+17	?	_	PUNCT	FS	_	_	_	_	start_char=547865|end_char=547866
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_3
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Oppure a prendere una sporta e farla riempire di pane?
+1	Oppure	_	CCONJ	CC	_	_	_	_	start_char=547867|end_char=547873
+2	a	_	ADP	E	_	_	_	_	start_char=547874|end_char=547875
+3	prendere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=547876|end_char=547884
+4	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=547885|end_char=547888
+5	sporta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=547889|end_char=547895
+6	e	_	CCONJ	CC	_	_	_	_	start_char=547896|end_char=547897
+7	farla	_	_	_	_	_	_	_	start_char=547898|end_char=547903
+8	riempire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=547904|end_char=547912
+9	di	_	ADP	E	_	_	_	_	start_char=547913|end_char=547915
+10	pane	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=547916|end_char=547920
+11	?	_	PUNCT	FS	_	_	_	_	start_char=547920|end_char=547921
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_4
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Oppure discutere con qualcuno che vuole scemare il conto?
+1	Oppure	_	CCONJ	CC	_	_	_	_	start_char=547922|end_char=547928
+2	discutere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=547929|end_char=547938
+3	con	_	ADP	E	_	_	_	_	start_char=547939|end_char=547942
+4	qualcuno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=547943|end_char=547951
+5	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=547952|end_char=547955
+6	vuole	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=547956|end_char=547961
+7	scemare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=547962|end_char=547969
+8	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=547970|end_char=547972
+9	conto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=547973|end_char=547978
+10	?	_	PUNCT	FS	_	_	_	_	start_char=547978|end_char=547979
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_5
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Ghìsola, del resto, non acconsentirebbe più a sposarmi.
+1	Ghìsola	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=547980|end_char=547987
+2	,	_	PUNCT	FF	_	_	_	_	start_char=547987|end_char=547988
+3	del	_	_	_	_	_	_	_	start_char=547989|end_char=547992
+4	resto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=547993|end_char=547998
+5	,	_	PUNCT	FF	_	_	_	_	start_char=547998|end_char=547999
+6	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=548000|end_char=548003
+7	acconsentirebbe	_	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=548004|end_char=548019
+8	più	_	ADV	B	_	_	_	_	start_char=548020|end_char=548023
+9	a	_	ADP	E	_	_	_	_	start_char=548024|end_char=548025
+10	sposarmi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=548026|end_char=548034
+11	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=548034|end_char=548035
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_6
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = »
+1	»	_	PUNCT	FB	_	_	_	_	SpacesAfter=\n|start_char=548035|end_char=548036
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_7
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Un giorno, ricevette una lettera.
+1	Un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=548037|end_char=548039
+2	giorno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=548040|end_char=548046
+3	,	_	PUNCT	FF	_	_	_	_	start_char=548046|end_char=548047
+4	ricevette	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=548048|end_char=548057
+5	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=548058|end_char=548061
+6	lettera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=548062|end_char=548069
+7	.	_	PUNCT	FS	_	_	_	_	start_char=548069|end_char=548070
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_8
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = La calligrafia della busta gli dette subito il senso di un avvenimento inevitabile.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=548071|end_char=548073
+2	calligrafia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=548074|end_char=548085
+3	della	_	_	_	_	_	_	_	start_char=548086|end_char=548091
+4	busta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=548092|end_char=548097
+5	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=548098|end_char=548101
+6	dette	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=548102|end_char=548107
+7	subito	_	ADV	B	_	_	_	_	start_char=548108|end_char=548114
+8	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=548115|end_char=548117
+9	senso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=548118|end_char=548123
+10	di	_	ADP	E	_	_	_	_	start_char=548124|end_char=548126
+11	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=548127|end_char=548129
+12	avvenimento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=548130|end_char=548141
+13	inevitabile	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=548142|end_char=548153
+14	.	_	PUNCT	FS	_	_	_	_	start_char=548153|end_char=548154
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_9
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Non voleva aprirla.
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=548155|end_char=548158
+2	voleva	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=548159|end_char=548165
+3	aprirla	_	_	_	_	_	_	_	SpaceAfter=No|start_char=548166|end_char=548173
+4	.	_	PUNCT	FS	_	_	_	_	start_char=548173|end_char=548174
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_10
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = E lesse:
+1	E	_	CCONJ	CC	_	_	_	_	start_char=548175|end_char=548176
+2	lesse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=548177|end_char=548182
+3	:	_	PUNCT	FC	_	_	_	_	start_char=548182|end_char=548183
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_11
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = «Ghìsola lo tradisce.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=548184|end_char=548185
+2	Ghìsola	_	PROPN	SP	_	_	_	_	start_char=548185|end_char=548192
+3	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=548193|end_char=548195
+4	tradisce	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=548196|end_char=548204
+5	.	_	PUNCT	FS	_	_	_	_	start_char=548204|end_char=548205
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_12
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Se vuole averne la prova, vada in via della Pergola...».
+1	Se	_	SCONJ	CS	_	_	_	_	start_char=548206|end_char=548208
+2	vuole	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=548209|end_char=548214
+3	averne	_	VERB	V	VerbForm=Inf	_	_	_	start_char=548215|end_char=548221
+4	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=548222|end_char=548224
+5	prova	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=548225|end_char=548230
+6	,	_	PUNCT	FF	_	_	_	_	start_char=548230|end_char=548231
+7	vada	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=548232|end_char=548236
+8	in	_	ADP	E	_	_	_	_	start_char=548237|end_char=548239
+9	via	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=548240|end_char=548243
+10	della	_	_	_	_	_	_	_	start_char=548244|end_char=548249
+11	Pergola	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=548250|end_char=548257
+12	...	_	PUNCT	FF	_	_	_	_	SpaceAfter=No|start_char=548257|end_char=548260
+13	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=548260|end_char=548261
+14	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=548261|end_char=548262
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_13
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Vi era il numero della casa, e un nome di donna; forse, falso.
+1	Vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=548263|end_char=548265
+2	era	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=548266|end_char=548269
+3	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=548270|end_char=548272
+4	numero	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=548273|end_char=548279
+5	della	_	_	_	_	_	_	_	start_char=548280|end_char=548285
+6	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=548286|end_char=548290
+7	,	_	PUNCT	FF	_	_	_	_	start_char=548290|end_char=548291
+8	e	_	CCONJ	CC	_	_	_	_	start_char=548292|end_char=548293
+9	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=548294|end_char=548296
+10	nome	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=548297|end_char=548301
+11	di	_	ADP	E	_	_	_	_	start_char=548302|end_char=548304
+12	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=548305|end_char=548310
+13	;	_	PUNCT	FC	_	_	_	_	start_char=548310|end_char=548311
+14	forse	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=548312|end_char=548317
+15	,	_	PUNCT	FF	_	_	_	_	start_char=548317|end_char=548318
+16	falso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=548319|end_char=548324
+17	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=548324|end_char=548325
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_14
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Gli parve che queste parole risolvessero una cosa inspiegabile.
+1	Gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=548326|end_char=548329
+2	parve	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=548330|end_char=548335
+3	che	_	SCONJ	CS	_	_	_	_	start_char=548336|end_char=548339
+4	queste	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=548340|end_char=548346
+5	parole	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=548347|end_char=548353
+6	risolvessero	_	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=548354|end_char=548366
+7	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=548367|end_char=548370
+8	cosa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=548371|end_char=548375
+9	inspiegabile	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=548376|end_char=548388
+10	.	_	PUNCT	FS	_	_	_	_	start_char=548388|end_char=548389
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_15
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Egli pensò:
+1	Egli	_	_	_	_	_	_	_	start_char=548390|end_char=548394
+2	pensò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=548395|end_char=548400
+3	:	_	PUNCT	FC	_	_	_	_	start_char=548400|end_char=548401
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_16
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = «Vi deve essere un vero motivo».
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=548402|end_char=548403
+2	Vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=548403|end_char=548405
+3	deve	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=548406|end_char=548410
+4	essere	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=548411|end_char=548417
+5	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=548418|end_char=548420
+6	vero	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=548421|end_char=548425
+7	motivo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=548426|end_char=548432
+8	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=548432|end_char=548433
+9	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=548433|end_char=548434
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_17
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = E tutte le avversità dolorose gli comparvero l'una dopo l'altra, provando meraviglia della compassione che una persona ignota aveva avuto di lui.
+1	E	_	CCONJ	CC	_	_	_	_	start_char=548435|end_char=548436
+2	tutte	_	DET	T	Gender=Fem|Number=Plur|PronType=Tot	_	_	_	start_char=548437|end_char=548442
+3	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=548443|end_char=548445
+4	avversità	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=548446|end_char=548455
+5	dolorose	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	start_char=548456|end_char=548464
+6	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=548465|end_char=548468
+7	comparvero	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=548469|end_char=548479
+8	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=548480|end_char=548482
+9	una	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=548482|end_char=548485
+10	dopo	_	ADP	E	_	_	_	_	start_char=548486|end_char=548490
+11	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=548491|end_char=548493
+12	altra	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=548493|end_char=548498
+13	,	_	PUNCT	FF	_	_	_	_	start_char=548498|end_char=548499
+14	provando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=548500|end_char=548508
+15	meraviglia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=548509|end_char=548519
+16	della	_	_	_	_	_	_	_	start_char=548520|end_char=548525
+17	compassione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=548526|end_char=548537
+18	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=548538|end_char=548541
+19	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=548542|end_char=548545
+20	persona	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=548546|end_char=548553
+21	ignota	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=548554|end_char=548560
+22	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=548561|end_char=548566
+23	avuto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=548567|end_char=548572
+24	di	_	ADP	E	_	_	_	_	start_char=548573|end_char=548575
+25	lui	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=548576|end_char=548579
+26	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=548579|end_char=548580
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_18
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Poi rifletté al modo di trovarsi i denari per andare a sorprendere Ghìsola.
+1	Poi	_	ADV	B	_	_	_	_	start_char=548581|end_char=548584
+2	rifletté	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=548585|end_char=548593
+3	al	_	_	_	_	_	_	_	start_char=548594|end_char=548596
+4	modo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=548597|end_char=548601
+5	di	_	ADP	E	_	_	_	_	start_char=548602|end_char=548604
+6	trovarsi	_	_	_	_	_	_	_	start_char=548605|end_char=548613
+7	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=548614|end_char=548615
+8	denari	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=548616|end_char=548622
+9	per	_	ADP	E	_	_	_	_	start_char=548623|end_char=548626
+10	andare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=548627|end_char=548633
+11	a	_	ADP	E	_	_	_	_	start_char=548634|end_char=548635
+12	sorprendere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=548636|end_char=548647
+13	Ghìsola	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=548648|end_char=548655
+14	.	_	PUNCT	FS	_	_	_	_	start_char=548655|end_char=548656
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_19
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Rebecca non glieli voleva prestare, rimproverandolo che non le avesse restituiti né meno gli altri.
+1	Rebecca	_	PROPN	SP	_	_	_	_	start_char=548657|end_char=548664
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=548665|end_char=548668
+3	glieli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=548669|end_char=548675
+4	voleva	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=548676|end_char=548682
+5	prestare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=548683|end_char=548691
+6	,	_	PUNCT	FF	_	_	_	_	start_char=548691|end_char=548692
+7	rimproverandolo	_	_	_	_	_	_	_	start_char=548693|end_char=548708
+8	che	_	SCONJ	CS	_	_	_	_	start_char=548709|end_char=548712
+9	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=548713|end_char=548716
+10	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=548717|end_char=548719
+11	avesse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=548720|end_char=548726
+12	restituiti	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=548727|end_char=548737
+13	né	_	ADV	BN	PronType=Neg	_	_	_	start_char=548738|end_char=548740
+14	meno	_	ADV	B	_	_	_	_	start_char=548741|end_char=548745
+15	gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=548746|end_char=548749
+16	altri	_	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	SpaceAfter=No|start_char=548750|end_char=548755
+17	.	_	PUNCT	FS	_	_	_	_	start_char=548755|end_char=548756
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_20
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Ma Pietro insisté: - Come vuoi che possa chiederli a mio padre?
+1	Ma	_	CCONJ	CC	_	_	_	_	start_char=548757|end_char=548759
+2	Pietro	_	PROPN	SP	_	_	_	_	start_char=548760|end_char=548766
+3	insisté	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=548767|end_char=548774
+4	:	_	PUNCT	FC	_	_	_	_	start_char=548774|end_char=548775
+5	-	_	PUNCT	FB	_	_	_	_	start_char=548776|end_char=548777
+6	Come	_	ADV	B	_	_	_	_	start_char=548778|end_char=548782
+7	vuoi	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=548783|end_char=548787
+8	che	_	SCONJ	CS	_	_	_	_	start_char=548788|end_char=548791
+9	possa	_	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=548792|end_char=548797
+10	chiederli	_	_	_	_	_	_	_	start_char=548798|end_char=548807
+11	a	_	ADP	E	_	_	_	_	start_char=548808|end_char=548809
+12	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=548810|end_char=548813
+13	padre	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=548814|end_char=548819
+14	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=548819|end_char=548820
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_21
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = - Se li faccia dare da qualche suo amico.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=548821|end_char=548822
+2	Se	_	SCONJ	CS	_	_	_	_	start_char=548823|end_char=548825
+3	li	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=548826|end_char=548828
+4	faccia	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=548829|end_char=548835
+5	dare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=548836|end_char=548840
+6	da	_	ADP	E	_	_	_	_	start_char=548841|end_char=548843
+7	qualche	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=548844|end_char=548851
+8	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=548852|end_char=548855
+9	amico	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=548856|end_char=548861
+10	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=548861|end_char=548862
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_22
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Intanto si mosse verso il canterano, determinata di prestarglieli perché appurasse l'innocenza della nipote.
+1	Intanto	_	ADV	B	_	_	_	_	start_char=548863|end_char=548870
+2	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=548871|end_char=548873
+3	mosse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=548874|end_char=548879
+4	verso	_	ADP	E	_	_	_	_	start_char=548880|end_char=548885
+5	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=548886|end_char=548888
+6	canterano	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=548889|end_char=548898
+7	,	_	PUNCT	FF	_	_	_	_	start_char=548898|end_char=548899
+8	determinata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=548900|end_char=548911
+9	di	_	ADP	E	_	_	_	_	start_char=548912|end_char=548914
+10	prestarglieli	_	_	_	_	_	_	_	start_char=548915|end_char=548928
+11	perché	_	SCONJ	CS	_	_	_	_	start_char=548929|end_char=548935
+12	appurasse	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=548936|end_char=548945
+13	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=548946|end_char=548948
+14	innocenza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=548948|end_char=548957
+15	della	_	_	_	_	_	_	_	start_char=548958|end_char=548963
+16	nipote	_	NOUN	S	Number=Sing	_	_	_	SpaceAfter=No|start_char=548964|end_char=548970
+17	.	_	PUNCT	FS	_	_	_	_	start_char=548970|end_char=548971
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_23
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Ma innanzi prese una pezza pulita per il suo bambino, che teneva in collo.
+1	Ma	_	CCONJ	CC	_	_	_	_	start_char=548972|end_char=548974
+2	innanzi	_	ADV	B	_	_	_	_	start_char=548975|end_char=548982
+3	prese	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=548983|end_char=548988
+4	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=548989|end_char=548992
+5	pezza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=548993|end_char=548998
+6	pulita	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=548999|end_char=549005
+7	per	_	ADP	E	_	_	_	_	start_char=549006|end_char=549009
+8	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=549010|end_char=549012
+9	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=549013|end_char=549016
+10	bambino	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=549017|end_char=549024
+11	,	_	PUNCT	FF	_	_	_	_	start_char=549024|end_char=549025
+12	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=549026|end_char=549029
+13	teneva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=549030|end_char=549036
+14	in	_	ADP	E	_	_	_	_	start_char=549037|end_char=549039
+15	collo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=549040|end_char=549045
+16	.	_	PUNCT	FS	_	_	_	_	start_char=549045|end_char=549046
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_24
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = La distese sopra il letto, buttò quella sporca sotto l'armadio; e pareva che il bambino, piangendo, le facesse dimenticare il denaro.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=549047|end_char=549049
+2	distese	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=549050|end_char=549057
+3	sopra	_	ADP	E	_	_	_	_	start_char=549058|end_char=549063
+4	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=549064|end_char=549066
+5	letto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=549067|end_char=549072
+6	,	_	PUNCT	FF	_	_	_	_	start_char=549072|end_char=549073
+7	buttò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=549074|end_char=549079
+8	quella	_	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=549080|end_char=549086
+9	sporca	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=549087|end_char=549093
+10	sotto	_	ADP	E	_	_	_	_	start_char=549094|end_char=549099
+11	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=549100|end_char=549102
+12	armadio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=549102|end_char=549109
+13	;	_	PUNCT	FC	_	_	_	_	start_char=549109|end_char=549110
+14	e	_	CCONJ	CC	_	_	_	_	start_char=549111|end_char=549112
+15	pareva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=549113|end_char=549119
+16	che	_	SCONJ	CS	_	_	_	_	start_char=549120|end_char=549123
+17	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=549124|end_char=549126
+18	bambino	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=549127|end_char=549134
+19	,	_	PUNCT	FF	_	_	_	_	start_char=549134|end_char=549135
+20	piangendo	_	VERB	V	VerbForm=Ger	_	_	_	SpaceAfter=No|start_char=549136|end_char=549145
+21	,	_	PUNCT	FF	_	_	_	_	start_char=549145|end_char=549146
+22	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=549147|end_char=549149
+23	facesse	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=549150|end_char=549157
+24	dimenticare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=549158|end_char=549169
+25	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=549170|end_char=549172
+26	denaro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=549173|end_char=549179
+27	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=549179|end_char=549180
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_25
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Tenne ancora il capo giù, come per riflettere; se fosse valso, sarebbe andata invece di lui da Domenico; ma per quello scopo non c'era da immischiarsene.
+1	Tenne	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=549181|end_char=549186
+2	ancora	_	ADV	B	_	_	_	_	start_char=549187|end_char=549193
+3	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=549194|end_char=549196
+4	capo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=549197|end_char=549201
+5	giù	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=549202|end_char=549205
+6	,	_	PUNCT	FF	_	_	_	_	start_char=549205|end_char=549206
+7	come	_	ADV	B	_	_	_	_	start_char=549207|end_char=549211
+8	per	_	ADP	E	_	_	_	_	start_char=549212|end_char=549215
+9	riflettere	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=549216|end_char=549226
+10	;	_	PUNCT	FC	_	_	_	_	start_char=549226|end_char=549227
+11	se	_	SCONJ	CS	_	_	_	_	start_char=549228|end_char=549230
+12	fosse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=549231|end_char=549236
+13	valso	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=549237|end_char=549242
+14	,	_	PUNCT	FF	_	_	_	_	start_char=549242|end_char=549243
+15	sarebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=549244|end_char=549251
+16	andata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=549252|end_char=549258
+17	invece	_	ADV	B	_	_	_	_	start_char=549259|end_char=549265
+18	di	_	ADP	E	_	_	_	_	start_char=549266|end_char=549268
+19	lui	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=549269|end_char=549272
+20	da	_	ADP	E	_	_	_	_	start_char=549273|end_char=549275
+21	Domenico	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=549276|end_char=549284
+22	;	_	PUNCT	FC	_	_	_	_	start_char=549284|end_char=549285
+23	ma	_	CCONJ	CC	_	_	_	_	start_char=549286|end_char=549288
+24	per	_	ADP	E	_	_	_	_	start_char=549289|end_char=549292
+25	quello	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=549293|end_char=549299
+26	scopo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=549300|end_char=549305
+27	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=549306|end_char=549309
+28	c'	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=549310|end_char=549312
+29	era	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=549312|end_char=549315
+30	da	_	ADP	E	_	_	_	_	start_char=549316|end_char=549318
+31	immischiarsene	_	_	_	_	_	_	_	SpaceAfter=No|start_char=549319|end_char=549333
+32	.	_	PUNCT	FS	_	_	_	_	start_char=549333|end_char=549334
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_26
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Gli disse: - Non può fare a meno d'andare subito domattina?
+1	Gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=549335|end_char=549338
+2	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=549339|end_char=549344
+3	:	_	PUNCT	FC	_	_	_	_	start_char=549344|end_char=549345
+4	-	_	PUNCT	FB	_	_	_	_	start_char=549346|end_char=549347
+5	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=549348|end_char=549351
+6	può	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=549352|end_char=549355
+7	fare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=549356|end_char=549360
+8	a	_	ADP	E	_	_	_	_	start_char=549361|end_char=549362
+9	meno	_	ADV	B	_	_	_	_	start_char=549363|end_char=549367
+10	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=549368|end_char=549370
+11	andare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=549370|end_char=549376
+12	subito	_	ADV	B	_	_	_	_	start_char=549377|end_char=549383
+13	domattina	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=549384|end_char=549393
+14	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=549393|end_char=549394
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_27
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Egli rispose: - È possibile dopo che ho ricevuto questa lettera?
+1	Egli	_	_	_	_	_	_	_	start_char=549395|end_char=549399
+2	rispose	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=549400|end_char=549407
+3	:	_	PUNCT	FC	_	_	_	_	start_char=549407|end_char=549408
+4	-	_	PUNCT	FB	_	_	_	_	start_char=549409|end_char=549410
+5	È	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=549411|end_char=549412
+6	possibile	_	ADJ	A	Number=Sing	_	_	_	start_char=549413|end_char=549422
+7	dopo	_	ADV	B	_	_	_	_	start_char=549423|end_char=549427
+8	che	_	SCONJ	CS	_	_	_	_	start_char=549428|end_char=549431
+9	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=549432|end_char=549434
+10	ricevuto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=549435|end_char=549443
+11	questa	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=549444|end_char=549450
+12	lettera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=549451|end_char=549458
+13	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=549458|end_char=549459
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_28
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Ella comprese e sospirò.
+1	Ella	_	_	_	_	_	_	_	start_char=549460|end_char=549464
+2	comprese	_	VERB	V	Number=Plur|Tense=Past|VerbForm=Fin	_	_	_	start_char=549465|end_char=549473
+3	e	_	CCONJ	CC	_	_	_	_	start_char=549474|end_char=549475
+4	sospirò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=549476|end_char=549483
+5	.	_	PUNCT	FS	_	_	_	_	start_char=549483|end_char=549484
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_29
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Egli, aspettando un poco, disse: - Dammeli.
+1	Egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=549485|end_char=549489
+2	,	_	PUNCT	FF	_	_	_	_	start_char=549489|end_char=549490
+3	aspettando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=549491|end_char=549501
+4	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=549502|end_char=549504
+5	poco	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=549505|end_char=549509
+6	,	_	PUNCT	FF	_	_	_	_	start_char=549509|end_char=549510
+7	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=549511|end_char=549516
+8	:	_	PUNCT	FC	_	_	_	_	start_char=549516|end_char=549517
+9	-	_	PUNCT	FB	_	_	_	_	start_char=549518|end_char=549519
+10	Dammeli	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=549520|end_char=549527
+11	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=549527|end_char=549528
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_30
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = - Quanti gliene occorrono?
+1	-	_	PUNCT	FF	_	_	_	_	start_char=549529|end_char=549530
+2	Quanti	_	DET	DQ	Gender=Masc|Number=Plur|PronType=Int	_	_	_	start_char=549531|end_char=549537
+3	gliene	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=549538|end_char=549544
+4	occorrono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=549545|end_char=549554
+5	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=549554|end_char=549555
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_31
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = - Più dell'altra volta.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=549556|end_char=549557
+2	Più	_	ADV	B	_	_	_	_	start_char=549558|end_char=549561
+3	dell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=549562|end_char=549567
+4	altra	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=549567|end_char=549572
+5	volta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=549573|end_char=549578
+6	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=549578|end_char=549579
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_32
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = - Dio mio, come faccio a trovarli!
+1	-	_	PUNCT	FF	_	_	_	_	start_char=549580|end_char=549581
+2	Dio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=549582|end_char=549585
+3	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=549586|end_char=549589
+4	,	_	PUNCT	FF	_	_	_	_	start_char=549589|end_char=549590
+5	come	_	ADV	B	_	_	_	_	start_char=549591|end_char=549595
+6	faccio	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=549596|end_char=549602
+7	a	_	ADP	E	_	_	_	_	start_char=549603|end_char=549604
+8	trovarli	_	_	_	_	_	_	_	SpaceAfter=No|start_char=549605|end_char=549613
+9	!	_	PUNCT	FS	_	_	_	_	start_char=549613|end_char=549614
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_33
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Perché non pensa a metterli da parte un pochi per settimana?
+1	Perché	_	ADV	B	_	_	_	_	start_char=549615|end_char=549621
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=549622|end_char=549625
+3	pensa	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=549626|end_char=549631
+4	a	_	ADP	E	_	_	_	_	start_char=549632|end_char=549633
+5	metterli	_	_	_	_	_	_	_	start_char=549634|end_char=549642
+6	da	_	ADP	E	_	_	_	_	start_char=549643|end_char=549645
+7	parte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=549646|end_char=549651
+8	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=549652|end_char=549654
+9	pochi	_	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=549655|end_char=549660
+10	per	_	ADP	E	_	_	_	_	start_char=549661|end_char=549664
+11	settimana	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=549665|end_char=549674
+12	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=549674|end_char=549675
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_34
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Egli sì rammaricò di non averci mai pensato; e gli parve inspiegabile: - Farò così da qui innanzi.
+1	Egli	_	_	_	_	_	_	_	start_char=549676|end_char=549680
+2	sì	_	INTJ	I	Polarity=Pos	_	_	_	start_char=549681|end_char=549683
+3	rammaricò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=549684|end_char=549693
+4	di	_	ADP	E	_	_	_	_	start_char=549694|end_char=549696
+5	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=549697|end_char=549700
+6	averci	_	_	_	_	_	_	_	start_char=549701|end_char=549707
+7	mai	_	ADV	B	_	_	_	_	start_char=549708|end_char=549711
+8	pensato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=549712|end_char=549719
+9	;	_	PUNCT	FC	_	_	_	_	start_char=549719|end_char=549720
+10	e	_	CCONJ	CC	_	_	_	_	start_char=549721|end_char=549722
+11	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=549723|end_char=549726
+12	parve	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=549727|end_char=549732
+13	inspiegabile	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=549733|end_char=549745
+14	:	_	PUNCT	FC	_	_	_	_	start_char=549745|end_char=549746
+15	-	_	PUNCT	FB	_	_	_	_	start_char=549747|end_char=549748
+16	Farò	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	start_char=549749|end_char=549753
+17	così	_	ADV	B	_	_	_	_	start_char=549754|end_char=549758
+18	da	_	ADP	E	_	_	_	_	start_char=549759|end_char=549761
+19	qui	_	ADV	B	_	_	_	_	start_char=549762|end_char=549765
+20	innanzi	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=549766|end_char=549773
+21	.	_	PUNCT	FS	_	_	_	_	start_char=549773|end_char=549774
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_35
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Questa volta...
+1	Questa	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=549775|end_char=549781
+2	volta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=549782|end_char=549787
+3	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=549787|end_char=549788
+4	..	_	PUNCT	FS	_	_	_	_	start_char=549788|end_char=549790
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_36
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = dammeli tu.
+1	dammeli	_	_	_	_	_	_	_	start_char=549791|end_char=549798
+2	tu	_	PRON	PC	Clitic=Yes|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=549799|end_char=549801
+3	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=549801|end_char=549802
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_37
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Se avesse dovuto attendere ancora, non avrebbe avuto l'animo d'insistere; ma Rebecca, credendo alla sua promessa, cedette.
+1	Se	_	SCONJ	CS	_	_	_	_	start_char=549803|end_char=549805
+2	avesse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=549806|end_char=549812
+3	dovuto	_	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=549813|end_char=549819
+4	attendere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=549820|end_char=549829
+5	ancora	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=549830|end_char=549836
+6	,	_	PUNCT	FF	_	_	_	_	start_char=549836|end_char=549837
+7	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=549838|end_char=549841
+8	avrebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=549842|end_char=549849
+9	avuto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=549850|end_char=549855
+10	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=549856|end_char=549858
+11	animo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=549858|end_char=549863
+12	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=549864|end_char=549866
+13	insistere	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=549866|end_char=549875
+14	;	_	PUNCT	FC	_	_	_	_	start_char=549875|end_char=549876
+15	ma	_	CCONJ	CC	_	_	_	_	start_char=549877|end_char=549879
+16	Rebecca	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=549880|end_char=549887
+17	,	_	PUNCT	FF	_	_	_	_	start_char=549887|end_char=549888
+18	credendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=549889|end_char=549897
+19	alla	_	_	_	_	_	_	_	start_char=549898|end_char=549902
+20	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=549903|end_char=549906
+21	promessa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=549907|end_char=549915
+22	,	_	PUNCT	FF	_	_	_	_	start_char=549915|end_char=549916
+23	cedette	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=549917|end_char=549924
+24	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=549924|end_char=549925
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_38
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Pietro contò da sé i denari; mentre ella, appoggiandosi al cassetto aperto, lo guardava in viso.
+1	Pietro	_	PROPN	SP	_	_	_	_	start_char=549926|end_char=549932
+2	contò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=549933|end_char=549938
+3	da	_	ADP	E	_	_	_	_	start_char=549939|end_char=549941
+4	sé	_	PRON	PE	Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=549942|end_char=549944
+5	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=549945|end_char=549946
+6	denari	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=549947|end_char=549953
+7	;	_	PUNCT	FC	_	_	_	_	start_char=549953|end_char=549954
+8	mentre	_	SCONJ	CS	_	_	_	_	start_char=549955|end_char=549961
+9	ella	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=549962|end_char=549966
+10	,	_	PUNCT	FF	_	_	_	_	start_char=549966|end_char=549967
+11	appoggiandosi	_	_	_	_	_	_	_	start_char=549968|end_char=549981
+12	al	_	_	_	_	_	_	_	start_char=549982|end_char=549984
+13	cassetto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=549985|end_char=549993
+14	aperto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=549994|end_char=550000
+15	,	_	PUNCT	FF	_	_	_	_	start_char=550000|end_char=550001
+16	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=550002|end_char=550004
+17	guardava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=550005|end_char=550013
+18	in	_	ADP	E	_	_	_	_	start_char=550014|end_char=550016
+19	viso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=550017|end_char=550021
+20	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=550021|end_char=550022
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_39
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Le sorrise e la ringraziò.
+1	Le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=550023|end_char=550025
+2	sorrise	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=550026|end_char=550033
+3	e	_	CCONJ	CC	_	_	_	_	start_char=550034|end_char=550035
+4	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=550036|end_char=550038
+5	ringraziò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=550039|end_char=550048
+6	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=550048|end_char=550049
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_40
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Rebecca, accompagnandolo in cima alle scale, gli raccomandò ancora: - Pensi che me li deve restituire.
+1	Rebecca	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=550050|end_char=550057
+2	,	_	PUNCT	FF	_	_	_	_	start_char=550057|end_char=550058
+3	accompagnandolo	_	_	_	_	_	_	_	start_char=550059|end_char=550074
+4	in	_	ADP	E	_	_	_	_	start_char=550075|end_char=550077
+5	cima	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=550078|end_char=550082
+6	alle	_	_	_	_	_	_	_	start_char=550083|end_char=550087
+7	scale	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=550088|end_char=550093
+8	,	_	PUNCT	FF	_	_	_	_	start_char=550093|end_char=550094
+9	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=550095|end_char=550098
+10	raccomandò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=550099|end_char=550109
+11	ancora	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=550110|end_char=550116
+12	:	_	PUNCT	FC	_	_	_	_	start_char=550116|end_char=550117
+13	-	_	PUNCT	FB	_	_	_	_	start_char=550118|end_char=550119
+14	Pensi	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=550120|end_char=550125
+15	che	_	SCONJ	CS	_	_	_	_	start_char=550126|end_char=550129
+16	me	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=550130|end_char=550132
+17	li	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=550133|end_char=550135
+18	deve	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=550136|end_char=550140
+19	restituire	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=550141|end_char=550151
+20	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=550151|end_char=550152
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_41
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Era vero che Ghìsola si faceva spedire le lettere a Badia a Ripoli, ma non poteva darsi che avesse cambiato dimora soltanto da pochi giorni?
+1	Era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=550153|end_char=550156
+2	vero	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=550157|end_char=550161
+3	che	_	SCONJ	CS	_	_	_	_	start_char=550162|end_char=550165
+4	Ghìsola	_	PROPN	SP	_	_	_	_	start_char=550166|end_char=550173
+5	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=550174|end_char=550176
+6	faceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=550177|end_char=550183
+7	spedire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=550184|end_char=550191
+8	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=550192|end_char=550194
+9	lettere	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=550195|end_char=550202
+10	a	_	ADP	E	_	_	_	_	start_char=550203|end_char=550204
+11	Badia	_	PROPN	SP	_	_	_	_	start_char=550205|end_char=550210
+12	a	_	ADP	E	_	_	_	_	start_char=550211|end_char=550212
+13	Ripoli	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=550213|end_char=550219
+14	,	_	PUNCT	FF	_	_	_	_	start_char=550219|end_char=550220
+15	ma	_	CCONJ	CC	_	_	_	_	start_char=550221|end_char=550223
+16	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=550224|end_char=550227
+17	poteva	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=550228|end_char=550234
+18	darsi	_	_	_	_	_	_	_	start_char=550235|end_char=550240
+19	che	_	SCONJ	CS	_	_	_	_	start_char=550241|end_char=550244
+20	avesse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=550245|end_char=550251
+21	cambiato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=550252|end_char=550260
+22	dimora	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=550261|end_char=550267
+23	soltanto	_	ADV	B	_	_	_	_	start_char=550268|end_char=550276
+24	da	_	ADP	E	_	_	_	_	start_char=550277|end_char=550279
+25	pochi	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=550280|end_char=550285
+26	giorni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=550286|end_char=550292
+27	?	_	PUNCT	FS	_	_	_	_	start_char=550292|end_char=550293
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_42
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Di che cosa poteva trattarsi?
+1	Di	_	ADP	E	_	_	_	_	start_char=550294|end_char=550296
+2	che	_	DET	DQ	PronType=Int	_	_	_	start_char=550297|end_char=550300
+3	cosa	_	PRON	PQ	Number=Sing|PronType=Int	_	_	_	start_char=550301|end_char=550305
+4	poteva	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=550306|end_char=550312
+5	trattarsi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=550313|end_char=550322
+6	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=550322|end_char=550323
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_43
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Si sforzò di definire tutte le specie di dubbii; ma poiché non ne teneva nessun conto, gli fu impossibile rispondersi.
+1	Si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=550324|end_char=550326
+2	sforzò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=550327|end_char=550333
+3	di	_	ADP	E	_	_	_	_	start_char=550334|end_char=550336
+4	definire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=550337|end_char=550345
+5	tutte	_	DET	T	Gender=Fem|Number=Plur|PronType=Tot	_	_	_	start_char=550346|end_char=550351
+6	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=550352|end_char=550354
+7	specie	_	NOUN	S	Gender=Fem	_	_	_	start_char=550355|end_char=550361
+8	di	_	ADP	E	_	_	_	_	start_char=550362|end_char=550364
+9	dubbii	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=550365|end_char=550371
+10	;	_	PUNCT	FC	_	_	_	_	start_char=550371|end_char=550372
+11	ma	_	CCONJ	CC	_	_	_	_	start_char=550373|end_char=550375
+12	poiché	_	SCONJ	CS	_	_	_	_	start_char=550376|end_char=550382
+13	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=550383|end_char=550386
+14	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=550387|end_char=550389
+15	teneva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=550390|end_char=550396
+16	nessun	_	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=550397|end_char=550403
+17	conto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=550404|end_char=550409
+18	,	_	PUNCT	FF	_	_	_	_	start_char=550409|end_char=550410
+19	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=550411|end_char=550414
+20	fu	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=550415|end_char=550417
+21	impossibile	_	ADJ	A	Number=Sing	_	_	_	start_char=550418|end_char=550429
+22	rispondersi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=550430|end_char=550441
+23	.	_	PUNCT	FS	_	_	_	_	start_char=550441|end_char=550442
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_44
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Per la prima volta, tutto il cumulo delle cose tristi gli parve lontano da sé e che gli fosse possibile distruggerlo.
+1	Per	_	ADP	E	_	_	_	_	start_char=550443|end_char=550446
+2	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=550447|end_char=550449
+3	prima	_	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	_	_	_	start_char=550450|end_char=550455
+4	volta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=550456|end_char=550461
+5	,	_	PUNCT	FF	_	_	_	_	start_char=550461|end_char=550462
+6	tutto	_	DET	T	Gender=Masc|Number=Sing|PronType=Tot	_	_	_	start_char=550463|end_char=550468
+7	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=550469|end_char=550471
+8	cumulo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=550472|end_char=550478
+9	delle	_	_	_	_	_	_	_	start_char=550479|end_char=550484
+10	cose	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=550485|end_char=550489
+11	tristi	_	ADJ	A	Number=Plur	_	_	_	start_char=550490|end_char=550496
+12	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=550497|end_char=550500
+13	parve	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=550501|end_char=550506
+14	lontano	_	ADV	B	_	_	_	_	start_char=550507|end_char=550514
+15	da	_	ADP	E	_	_	_	_	start_char=550515|end_char=550517
+16	sé	_	PRON	PE	Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=550518|end_char=550520
+17	e	_	CCONJ	CC	_	_	_	_	start_char=550521|end_char=550522
+18	che	_	SCONJ	CS	_	_	_	_	start_char=550523|end_char=550526
+19	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=550527|end_char=550530
+20	fosse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=550531|end_char=550536
+21	possibile	_	ADJ	A	Number=Sing	_	_	_	start_char=550537|end_char=550546
+22	distruggerlo	_	_	_	_	_	_	_	SpaceAfter=No|start_char=550547|end_char=550559
+23	.	_	PUNCT	FS	_	_	_	_	start_char=550559|end_char=550560
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_45
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Tutte le sofferenze gli parvero esteriori, provando una piccola felicità che non somigliava a nessun'altra.
+1	Tutte	_	DET	T	Gender=Fem|Number=Plur|PronType=Tot	_	_	_	start_char=550561|end_char=550566
+2	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=550567|end_char=550569
+3	sofferenze	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=550570|end_char=550580
+4	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=550581|end_char=550584
+5	parvero	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=550585|end_char=550592
+6	esteriori	_	ADJ	A	Number=Plur	_	_	_	SpaceAfter=No|start_char=550593|end_char=550602
+7	,	_	PUNCT	FF	_	_	_	_	start_char=550602|end_char=550603
+8	provando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=550604|end_char=550612
+9	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=550613|end_char=550616
+10	piccola	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=550617|end_char=550624
+11	felicità	_	NOUN	S	Gender=Fem	_	_	_	start_char=550625|end_char=550633
+12	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=550634|end_char=550637
+13	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=550638|end_char=550641
+14	somigliava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=550642|end_char=550652
+15	a	_	ADP	E	_	_	_	_	start_char=550653|end_char=550654
+16	nessun'	_	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=550655|end_char=550662
+17	altra	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=550662|end_char=550667
+18	.	_	PUNCT	FS	_	_	_	_	start_char=550667|end_char=550668
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_46
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Pensò:
+1	Pensò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=550669|end_char=550674
+2	:	_	PUNCT	FC	_	_	_	_	start_char=550674|end_char=550675
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_47
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = «Perché ho creduto subito alla lettera?».
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=550676|end_char=550677
+2	Perché	_	ADV	B	_	_	_	_	start_char=550677|end_char=550683
+3	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=550684|end_char=550686
+4	creduto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=550687|end_char=550694
+5	subito	_	ADV	B	_	_	_	_	start_char=550695|end_char=550701
+6	alla	_	_	_	_	_	_	_	start_char=550702|end_char=550706
+7	lettera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=550707|end_char=550714
+8	?	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=550714|end_char=550715
+9	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=550715|end_char=550716
+10	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=550716|end_char=550717
+
+# sent_id = 1919_tozzi_occhi_chiusi_q5_48
+# chunk_id = 1919_tozzi_occhi_chiusi_q5
+# quinto = 5
+# text = Durante il viaggio, gli sembrò d'essere in uno stato d'incoscienza e con la febbre.
+1	Durante	_	ADP	E	_	_	_	_	start_char=550718|end_char=550725
+2	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=550726|end_char=550728
+3	viaggio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=550729|end_char=550736
+4	,	_	PUNCT	FF	_	_	_	_	start_char=550736|end_char=550737
+5	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=550738|end_char=550741
+6	sembrò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=550742|end_char=550748
+7	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=550749|end_char=550751
+8	essere	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=550751|end_char=550757
+9	in	_	ADP	E	_	_	_	_	start_char=550758|end_char=550760
+10	uno	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=550761|end_char=550764
+11	stato	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=550765|end_char=550770
+12	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=550771|end_char=550773
+13	incoscienza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=550773|end_char=550784
+14	e	_	CCONJ	CC	_	_	_	_	start_char=550785|end_char=550786
+15	con	_	ADP	E	_	_	_	_	start_char=550787|end_char=550790
+16	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=550791|end_char=550793
+17	febbre	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=550794|end_char=550800
+18	.	_	PUNCT	FS	_	_	_	_	start_char=550800|end_char=550801
+

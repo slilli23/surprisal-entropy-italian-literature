@@ -1,0 +1,709 @@
+# sent_id = 1869_tarchetti_fosca_q4_1
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = O non era che un essere infinto, astuto, corrotto?
+1	O	_	CCONJ	CC	_	_	_	_	start_char=434267|end_char=434268
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=434269|end_char=434272
+3	era	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=434273|end_char=434276
+4	che	_	SCONJ	CS	_	_	_	_	start_char=434277|end_char=434280
+5	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=434281|end_char=434283
+6	essere	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=434284|end_char=434290
+7	infinto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=434291|end_char=434298
+8	,	_	PUNCT	FF	_	_	_	_	start_char=434298|end_char=434299
+9	astuto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=434300|end_char=434306
+10	,	_	PUNCT	FF	_	_	_	_	start_char=434306|end_char=434307
+11	corrotto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=434308|end_char=434316
+12	?	_	PUNCT	FS	_	_	_	_	start_char=434316|end_char=434317
+
+# sent_id = 1869_tarchetti_fosca_q4_2
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Aveva ella voluto abusare della mia semplicità, sorprendermi, condurre all'amore per la via della compassione; o le sue intenzioni erano pure, e questa mia stessa semplicità l'aveva invogliata della mia amicizia, della mia sola amicizia?
+1	Aveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=434318|end_char=434323
+2	ella	_	_	_	_	_	_	_	start_char=434324|end_char=434328
+3	voluto	_	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=434329|end_char=434335
+4	abusare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=434336|end_char=434343
+5	della	_	_	_	_	_	_	_	start_char=434344|end_char=434349
+6	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=434350|end_char=434353
+7	semplicità	_	NOUN	S	Gender=Fem	_	_	_	SpaceAfter=No|start_char=434354|end_char=434364
+8	,	_	PUNCT	FF	_	_	_	_	start_char=434364|end_char=434365
+9	sorprendermi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=434366|end_char=434378
+10	,	_	PUNCT	FF	_	_	_	_	start_char=434378|end_char=434379
+11	condurre	_	VERB	V	VerbForm=Inf	_	_	_	start_char=434380|end_char=434388
+12	all'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=434389|end_char=434393
+13	amore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=434393|end_char=434398
+14	per	_	ADP	E	_	_	_	_	start_char=434399|end_char=434402
+15	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=434403|end_char=434405
+16	via	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=434406|end_char=434409
+17	della	_	_	_	_	_	_	_	start_char=434410|end_char=434415
+18	compassione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=434416|end_char=434427
+19	;	_	PUNCT	FC	_	_	_	_	start_char=434427|end_char=434428
+20	o	_	CCONJ	CC	_	_	_	_	start_char=434429|end_char=434430
+21	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=434431|end_char=434433
+22	sue	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=434434|end_char=434437
+23	intenzioni	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=434438|end_char=434448
+24	erano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=434449|end_char=434454
+25	pure	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=434455|end_char=434459
+26	,	_	PUNCT	FF	_	_	_	_	start_char=434459|end_char=434460
+27	e	_	CCONJ	CC	_	_	_	_	start_char=434461|end_char=434462
+28	questa	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=434463|end_char=434469
+29	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=434470|end_char=434473
+30	stessa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=434474|end_char=434480
+31	semplicità	_	NOUN	S	Gender=Fem	_	_	_	start_char=434481|end_char=434491
+32	l'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=434492|end_char=434494
+33	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=434494|end_char=434499
+34	invogliata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=434500|end_char=434510
+35	della	_	_	_	_	_	_	_	start_char=434511|end_char=434516
+36	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=434517|end_char=434520
+37	amicizia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=434521|end_char=434529
+38	,	_	PUNCT	FF	_	_	_	_	start_char=434529|end_char=434530
+39	della	_	_	_	_	_	_	_	start_char=434531|end_char=434536
+40	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=434537|end_char=434540
+41	sola	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=434541|end_char=434545
+42	amicizia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=434546|end_char=434554
+43	?	_	PUNCT	FS	_	_	_	_	start_char=434554|end_char=434555
+
+# sent_id = 1869_tarchetti_fosca_q4_3
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Infelice lo era, e assai: le miserie sue dovevano essere infinite; né era strano che ella potesse desiderare un'anima in cui versarsi, desiderarla con tale intensità di desiderio, e invocarne la pietà con tale abbandono.
+1	Infelice	_	ADJ	A	Number=Sing	_	_	_	start_char=434556|end_char=434564
+2	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=434565|end_char=434567
+3	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=434568|end_char=434571
+4	,	_	PUNCT	FF	_	_	_	_	start_char=434571|end_char=434572
+5	e	_	CCONJ	CC	_	_	_	_	start_char=434573|end_char=434574
+6	assai	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=434575|end_char=434580
+7	:	_	PUNCT	FC	_	_	_	_	start_char=434580|end_char=434581
+8	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=434582|end_char=434584
+9	miserie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=434585|end_char=434592
+10	sue	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=434593|end_char=434596
+11	dovevano	_	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=434597|end_char=434605
+12	essere	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=434606|end_char=434612
+13	infinite	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=434613|end_char=434621
+14	;	_	PUNCT	FC	_	_	_	_	start_char=434621|end_char=434622
+15	né	_	ADV	BN	PronType=Neg	_	_	_	start_char=434623|end_char=434625
+16	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=434626|end_char=434629
+17	strano	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=434630|end_char=434636
+18	che	_	SCONJ	CS	_	_	_	_	start_char=434637|end_char=434640
+19	ella	_	_	_	_	_	_	_	start_char=434641|end_char=434645
+20	potesse	_	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=434646|end_char=434653
+21	desiderare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=434654|end_char=434664
+22	un'	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=434665|end_char=434668
+23	anima	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=434668|end_char=434673
+24	in	_	ADP	E	_	_	_	_	start_char=434674|end_char=434676
+25	cui	_	PRON	PR	PronType=Rel	_	_	_	start_char=434677|end_char=434680
+26	versarsi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=434681|end_char=434689
+27	,	_	PUNCT	FF	_	_	_	_	start_char=434689|end_char=434690
+28	desiderarla	_	_	_	_	_	_	_	start_char=434691|end_char=434702
+29	con	_	ADP	E	_	_	_	_	start_char=434703|end_char=434706
+30	tale	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	start_char=434707|end_char=434711
+31	intensità	_	NOUN	S	Gender=Fem	_	_	_	start_char=434712|end_char=434721
+32	di	_	ADP	E	_	_	_	_	start_char=434722|end_char=434724
+33	desiderio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=434725|end_char=434734
+34	,	_	PUNCT	FF	_	_	_	_	start_char=434734|end_char=434735
+35	e	_	CCONJ	CC	_	_	_	_	start_char=434736|end_char=434737
+36	invocarne	_	_	_	_	_	_	_	start_char=434738|end_char=434747
+37	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=434748|end_char=434750
+38	pietà	_	NOUN	S	Gender=Fem	_	_	_	start_char=434751|end_char=434756
+39	con	_	ADP	E	_	_	_	_	start_char=434757|end_char=434760
+40	tale	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	start_char=434761|end_char=434765
+41	abbandono	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=434766|end_char=434775
+42	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=434775|end_char=434776
+
+# sent_id = 1869_tarchetti_fosca_q4_4
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Oltre a ciò Fosca non era una donna comune.
+1	Oltre	_	ADV	B	_	_	_	_	start_char=434778|end_char=434783
+2	a	_	ADP	E	_	_	_	_	start_char=434784|end_char=434785
+3	ciò	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=434786|end_char=434789
+4	Fosca	_	PROPN	SP	_	_	_	_	start_char=434790|end_char=434795
+5	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=434796|end_char=434799
+6	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=434800|end_char=434803
+7	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=434804|end_char=434807
+8	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=434808|end_char=434813
+9	comune	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=434814|end_char=434820
+10	.	_	PUNCT	FS	_	_	_	_	start_char=434820|end_char=434821
+
+# sent_id = 1869_tarchetti_fosca_q4_5
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Il suo spirito era assai colto, la sua intelligenza assai vasta; e la sua stessa infermità, la sua bruttezza erano tali circostanze che concorrevano a formare un'eccezione.
+1	Il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=434822|end_char=434824
+2	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=434825|end_char=434828
+3	spirito	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=434829|end_char=434836
+4	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=434837|end_char=434840
+5	assai	_	ADV	B	_	_	_	_	start_char=434841|end_char=434846
+6	colto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=434847|end_char=434852
+7	,	_	PUNCT	FF	_	_	_	_	start_char=434852|end_char=434853
+8	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=434854|end_char=434856
+9	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=434857|end_char=434860
+10	intelligenza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=434861|end_char=434873
+11	assai	_	ADV	B	_	_	_	_	start_char=434874|end_char=434879
+12	vasta	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=434880|end_char=434885
+13	;	_	PUNCT	FC	_	_	_	_	start_char=434885|end_char=434886
+14	e	_	CCONJ	CC	_	_	_	_	start_char=434887|end_char=434888
+15	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=434889|end_char=434891
+16	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=434892|end_char=434895
+17	stessa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=434896|end_char=434902
+18	infermità	_	NOUN	S	Gender=Fem	_	_	_	SpaceAfter=No|start_char=434903|end_char=434912
+19	,	_	PUNCT	FF	_	_	_	_	start_char=434912|end_char=434913
+20	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=434914|end_char=434916
+21	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=434917|end_char=434920
+22	bruttezza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=434921|end_char=434930
+23	erano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=434931|end_char=434936
+24	tali	_	DET	DD	Number=Plur|PronType=Dem	_	_	_	start_char=434937|end_char=434941
+25	circostanze	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=434942|end_char=434953
+26	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=434954|end_char=434957
+27	concorrevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=434958|end_char=434970
+28	a	_	ADP	E	_	_	_	_	start_char=434971|end_char=434972
+29	formare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=434973|end_char=434980
+30	un'	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=434981|end_char=434984
+31	eccezione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=434984|end_char=434993
+32	.	_	PUNCT	FS	_	_	_	_	start_char=434993|end_char=434994
+
+# sent_id = 1869_tarchetti_fosca_q4_6
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Le sue passioni, i suoi sentimenti, le sue idee dovevano anche essere eccezionali; ed era forse sotto questo aspetto che bisognava giudicarne.
+1	Le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=434995|end_char=434997
+2	sue	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=434998|end_char=435001
+3	passioni	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=435002|end_char=435010
+4	,	_	PUNCT	FF	_	_	_	_	start_char=435010|end_char=435011
+5	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=435012|end_char=435013
+6	suoi	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=435014|end_char=435018
+7	sentimenti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=435019|end_char=435029
+8	,	_	PUNCT	FF	_	_	_	_	start_char=435029|end_char=435030
+9	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=435031|end_char=435033
+10	sue	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=435034|end_char=435037
+11	idee	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=435038|end_char=435042
+12	dovevano	_	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=435043|end_char=435051
+13	anche	_	ADV	B	_	_	_	_	start_char=435052|end_char=435057
+14	essere	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=435058|end_char=435064
+15	eccezionali	_	ADJ	A	Number=Plur	_	_	_	SpaceAfter=No|start_char=435065|end_char=435076
+16	;	_	PUNCT	FC	_	_	_	_	start_char=435076|end_char=435077
+17	ed	_	CCONJ	CC	_	_	_	_	start_char=435078|end_char=435080
+18	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=435081|end_char=435084
+19	forse	_	ADV	B	_	_	_	_	start_char=435085|end_char=435090
+20	sotto	_	ADP	E	_	_	_	_	start_char=435091|end_char=435096
+21	questo	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=435097|end_char=435103
+22	aspetto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=435104|end_char=435111
+23	che	_	SCONJ	CS	_	_	_	_	start_char=435112|end_char=435115
+24	bisognava	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=435116|end_char=435125
+25	giudicarne	_	_	_	_	_	_	_	SpaceAfter=No|start_char=435126|end_char=435136
+26	.	_	PUNCT	FS	_	_	_	_	start_char=435136|end_char=435137
+
+# sent_id = 1869_tarchetti_fosca_q4_7
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Nondimeno quell'aprirmi subito l'anima sua; quell'abbandonarsi così a me nel primo giorno che mi vedeva, quel richiedermi disperatamente della mia amicizia…
+1	Nondimeno	_	ADV	B	_	_	_	_	start_char=435138|end_char=435147
+2	quell'	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=435148|end_char=435154
+3	aprirmi	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=435154|end_char=435161
+4	subito	_	ADV	B	_	_	_	_	start_char=435162|end_char=435168
+5	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=435169|end_char=435171
+6	anima	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=435171|end_char=435176
+7	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=435177|end_char=435180
+8	;	_	PUNCT	FC	_	_	_	_	start_char=435180|end_char=435181
+9	quell'	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=435182|end_char=435188
+10	abbandonarsi	_	_	_	_	_	_	_	start_char=435188|end_char=435200
+11	così	_	ADV	B	_	_	_	_	start_char=435201|end_char=435205
+12	a	_	ADP	E	_	_	_	_	start_char=435206|end_char=435207
+13	me	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=435208|end_char=435210
+14	nel	_	_	_	_	_	_	_	start_char=435211|end_char=435214
+15	primo	_	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	_	_	_	start_char=435215|end_char=435220
+16	giorno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=435221|end_char=435227
+17	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=435228|end_char=435231
+18	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=435232|end_char=435234
+19	vedeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=435235|end_char=435241
+20	,	_	PUNCT	FF	_	_	_	_	start_char=435241|end_char=435242
+21	quel	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=435243|end_char=435247
+22	richiedermi	_	_	_	_	_	_	_	start_char=435248|end_char=435259
+23	disperatamente	_	ADV	B	_	_	_	_	start_char=435260|end_char=435274
+24	della	_	_	_	_	_	_	_	start_char=435275|end_char=435280
+25	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=435281|end_char=435284
+26	amicizia…	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n|start_char=435285|end_char=435294
+
+# sent_id = 1869_tarchetti_fosca_q4_8
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Diffidavo dell'amicizia di una donna, e mi doleva non poco di aver accettato quella di lei.
+1	Diffidavo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=435296|end_char=435305
+2	dell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=435306|end_char=435311
+3	amicizia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=435311|end_char=435319
+4	di	_	ADP	E	_	_	_	_	start_char=435320|end_char=435322
+5	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=435323|end_char=435326
+6	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=435327|end_char=435332
+7	,	_	PUNCT	FF	_	_	_	_	start_char=435332|end_char=435333
+8	e	_	CCONJ	CC	_	_	_	_	start_char=435334|end_char=435335
+9	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=435336|end_char=435338
+10	doleva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=435339|end_char=435345
+11	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=435346|end_char=435349
+12	poco	_	ADV	B	_	_	_	_	start_char=435350|end_char=435354
+13	di	_	ADP	E	_	_	_	_	start_char=435355|end_char=435357
+14	aver	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=435358|end_char=435362
+15	accettato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=435363|end_char=435372
+16	quella	_	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=435373|end_char=435379
+17	di	_	ADP	E	_	_	_	_	start_char=435380|end_char=435382
+18	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=435383|end_char=435386
+19	.	_	PUNCT	FS	_	_	_	_	start_char=435386|end_char=435387
+
+# sent_id = 1869_tarchetti_fosca_q4_9
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Io sapeva che noi non possiamo sottrarci mai agli istinti, e che tra un uomo e una donna giovani, che vogliono violentare la natura amandosi di amicizia, non può esistere che un affetto monco, artificiale, violento, spesso ridicolo, perché non conduce che ad un amore già nudo d'ogni illusione e d'ogni attrattiva.
+1	Io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=435388|end_char=435390
+2	sapeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=435391|end_char=435397
+3	che	_	SCONJ	CS	_	_	_	_	start_char=435398|end_char=435401
+4	noi	_	PRON	PE	Number=Plur|Person=1|PronType=Prs	_	_	_	start_char=435402|end_char=435405
+5	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=435406|end_char=435409
+6	possiamo	_	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=435410|end_char=435418
+7	sottrarci	_	_	_	_	_	_	_	start_char=435419|end_char=435428
+8	mai	_	ADV	B	_	_	_	_	start_char=435429|end_char=435432
+9	agli	_	_	_	_	_	_	_	start_char=435433|end_char=435437
+10	istinti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=435438|end_char=435445
+11	,	_	PUNCT	FF	_	_	_	_	start_char=435445|end_char=435446
+12	e	_	CCONJ	CC	_	_	_	_	start_char=435447|end_char=435448
+13	che	_	SCONJ	CS	_	_	_	_	start_char=435449|end_char=435452
+14	tra	_	ADP	E	_	_	_	_	start_char=435453|end_char=435456
+15	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=435457|end_char=435459
+16	uomo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=435460|end_char=435464
+17	e	_	CCONJ	CC	_	_	_	_	start_char=435465|end_char=435466
+18	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=435467|end_char=435470
+19	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=435471|end_char=435476
+20	giovani	_	ADJ	A	Number=Plur	_	_	_	SpaceAfter=No|start_char=435477|end_char=435484
+21	,	_	PUNCT	FF	_	_	_	_	start_char=435484|end_char=435485
+22	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=435486|end_char=435489
+23	vogliono	_	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=435490|end_char=435498
+24	violentare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=435499|end_char=435509
+25	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=435510|end_char=435512
+26	natura	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=435513|end_char=435519
+27	amandosi	_	_	_	_	_	_	_	start_char=435520|end_char=435528
+28	di	_	ADP	E	_	_	_	_	start_char=435529|end_char=435531
+29	amicizia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=435532|end_char=435540
+30	,	_	PUNCT	FF	_	_	_	_	start_char=435540|end_char=435541
+31	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=435542|end_char=435545
+32	può	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=435546|end_char=435549
+33	esistere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=435550|end_char=435558
+34	che	_	SCONJ	CS	_	_	_	_	start_char=435559|end_char=435562
+35	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=435563|end_char=435565
+36	affetto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=435566|end_char=435573
+37	monco	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=435574|end_char=435579
+38	,	_	PUNCT	FF	_	_	_	_	start_char=435579|end_char=435580
+39	artificiale	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=435581|end_char=435592
+40	,	_	PUNCT	FF	_	_	_	_	start_char=435592|end_char=435593
+41	violento	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=435594|end_char=435602
+42	,	_	PUNCT	FF	_	_	_	_	start_char=435602|end_char=435603
+43	spesso	_	ADV	B	_	_	_	_	start_char=435604|end_char=435610
+44	ridicolo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=435611|end_char=435619
+45	,	_	PUNCT	FF	_	_	_	_	start_char=435619|end_char=435620
+46	perché	_	SCONJ	CS	_	_	_	_	start_char=435621|end_char=435627
+47	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=435628|end_char=435631
+48	conduce	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=435632|end_char=435639
+49	che	_	CCONJ	CC	_	_	_	_	start_char=435640|end_char=435643
+50	ad	_	ADP	E	_	_	_	_	start_char=435644|end_char=435646
+51	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=435647|end_char=435649
+52	amore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=435650|end_char=435655
+53	già	_	ADV	B	_	_	_	_	start_char=435656|end_char=435659
+54	nudo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=435660|end_char=435664
+55	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=435665|end_char=435667
+56	ogni	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=435667|end_char=435671
+57	illusione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=435672|end_char=435681
+58	e	_	CCONJ	CC	_	_	_	_	start_char=435682|end_char=435683
+59	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=435684|end_char=435686
+60	ogni	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=435686|end_char=435690
+61	attrattiva	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=435691|end_char=435701
+62	.	_	PUNCT	FS	_	_	_	_	start_char=435701|end_char=435702
+
+# sent_id = 1869_tarchetti_fosca_q4_10
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = L'amicizia ci ha fatto veder tutta l'indiscretezza della sua intimità, ci ha spogliati di ogni velo; non si può più essere né amici veri, né amanti veri; ed è così che la natura si vendica spesso dell'oltraggio che ha ricevuto.
+1	L'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=435703|end_char=435705
+2	amicizia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=435705|end_char=435713
+3	ci	_	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	_	_	_	start_char=435714|end_char=435716
+4	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=435717|end_char=435719
+5	fatto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=435720|end_char=435725
+6	veder	_	VERB	V	VerbForm=Inf	_	_	_	start_char=435726|end_char=435731
+7	tutta	_	DET	T	Gender=Fem|Number=Sing|PronType=Tot	_	_	_	start_char=435732|end_char=435737
+8	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=435738|end_char=435740
+9	indiscretezza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=435740|end_char=435753
+10	della	_	_	_	_	_	_	_	start_char=435754|end_char=435759
+11	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=435760|end_char=435763
+12	intimità	_	NOUN	S	Gender=Fem	_	_	_	SpaceAfter=No|start_char=435764|end_char=435772
+13	,	_	PUNCT	FF	_	_	_	_	start_char=435772|end_char=435773
+14	ci	_	PRON	PC	Clitic=Yes|Number=Plur|PronType=Prs	_	_	_	start_char=435774|end_char=435776
+15	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=435777|end_char=435779
+16	spogliati	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=435780|end_char=435789
+17	di	_	ADP	E	_	_	_	_	start_char=435790|end_char=435792
+18	ogni	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=435793|end_char=435797
+19	velo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=435798|end_char=435802
+20	;	_	PUNCT	FC	_	_	_	_	start_char=435802|end_char=435803
+21	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=435804|end_char=435807
+22	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=435808|end_char=435810
+23	può	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=435811|end_char=435814
+24	più	_	ADV	B	_	_	_	_	start_char=435815|end_char=435818
+25	essere	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=435819|end_char=435825
+26	né	_	ADV	BN	PronType=Neg	_	_	_	start_char=435826|end_char=435828
+27	amici	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=435829|end_char=435834
+28	veri	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=435835|end_char=435839
+29	,	_	PUNCT	FF	_	_	_	_	start_char=435839|end_char=435840
+30	né	_	ADV	BN	PronType=Neg	_	_	_	start_char=435841|end_char=435843
+31	amanti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=435844|end_char=435850
+32	veri	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=435851|end_char=435855
+33	;	_	PUNCT	FC	_	_	_	_	start_char=435855|end_char=435856
+34	ed	_	CCONJ	CC	_	_	_	_	start_char=435857|end_char=435859
+35	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=435860|end_char=435861
+36	così	_	ADV	B	_	_	_	_	start_char=435862|end_char=435866
+37	che	_	SCONJ	CS	_	_	_	_	start_char=435867|end_char=435870
+38	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=435871|end_char=435873
+39	natura	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=435874|end_char=435880
+40	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=435881|end_char=435883
+41	vendica	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=435884|end_char=435891
+42	spesso	_	ADV	B	_	_	_	_	start_char=435892|end_char=435898
+43	dell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=435899|end_char=435904
+44	oltraggio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=435904|end_char=435913
+45	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=435914|end_char=435917
+46	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=435918|end_char=435920
+47	ricevuto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=435921|end_char=435929
+48	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=435929|end_char=435930
+
+# sent_id = 1869_tarchetti_fosca_q4_11
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Avrei dato un anno della mia vita per potermi sottrarre a quella promessa, per poter infrangere quel legame.
+1	Avrei	_	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=435932|end_char=435937
+2	dato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=435938|end_char=435942
+3	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=435943|end_char=435945
+4	anno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=435946|end_char=435950
+5	della	_	_	_	_	_	_	_	start_char=435951|end_char=435956
+6	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=435957|end_char=435960
+7	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=435961|end_char=435965
+8	per	_	ADP	E	_	_	_	_	start_char=435966|end_char=435969
+9	potermi	_	_	_	_	_	_	_	start_char=435970|end_char=435977
+10	sottrarre	_	VERB	V	VerbForm=Inf	_	_	_	start_char=435978|end_char=435987
+11	a	_	ADP	E	_	_	_	_	start_char=435988|end_char=435989
+12	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=435990|end_char=435996
+13	promessa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=435997|end_char=436005
+14	,	_	PUNCT	FF	_	_	_	_	start_char=436005|end_char=436006
+15	per	_	ADP	E	_	_	_	_	start_char=436007|end_char=436010
+16	poter	_	AUX	VM	VerbForm=Inf	_	_	_	start_char=436011|end_char=436016
+17	infrangere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=436017|end_char=436027
+18	quel	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=436028|end_char=436032
+19	legame	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=436033|end_char=436039
+20	.	_	PUNCT	FS	_	_	_	_	start_char=436039|end_char=436040
+
+# sent_id = 1869_tarchetti_fosca_q4_12
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Se tutto ciò non fosse avvenuto!
+1	Se	_	SCONJ	CS	_	_	_	_	start_char=436041|end_char=436043
+2	tutto	_	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=436044|end_char=436049
+3	ciò	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=436050|end_char=436053
+4	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=436054|end_char=436057
+5	fosse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=436058|end_char=436063
+6	avvenuto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=436064|end_char=436072
+7	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=436072|end_char=436073
+
+# sent_id = 1869_tarchetti_fosca_q4_13
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Prevedeva che quella donna si sarebbe posta fra me e la mia felicità, avrebbe attraversato il mio avvenire.
+1	Prevedeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=436075|end_char=436084
+2	che	_	SCONJ	CS	_	_	_	_	start_char=436085|end_char=436088
+3	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=436089|end_char=436095
+4	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=436096|end_char=436101
+5	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=436102|end_char=436104
+6	sarebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=436105|end_char=436112
+7	posta	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=436113|end_char=436118
+8	fra	_	ADP	E	_	_	_	_	start_char=436119|end_char=436122
+9	me	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=436123|end_char=436125
+10	e	_	CCONJ	CC	_	_	_	_	start_char=436126|end_char=436127
+11	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=436128|end_char=436130
+12	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=436131|end_char=436134
+13	felicità	_	NOUN	S	Gender=Fem	_	_	_	SpaceAfter=No|start_char=436135|end_char=436143
+14	,	_	PUNCT	FF	_	_	_	_	start_char=436143|end_char=436144
+15	avrebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=436145|end_char=436152
+16	attraversato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=436153|end_char=436165
+17	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=436166|end_char=436168
+18	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=436169|end_char=436172
+19	avvenire	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=436173|end_char=436181
+20	.	_	PUNCT	FS	_	_	_	_	start_char=436181|end_char=436182
+
+# sent_id = 1869_tarchetti_fosca_q4_14
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Non sapeva immaginare le ragioni di questo timore, ma il cuore me lo diceva, né il mio cuore mi aveva mai ingannato.
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=436183|end_char=436186
+2	sapeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=436187|end_char=436193
+3	immaginare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=436194|end_char=436204
+4	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=436205|end_char=436207
+5	ragioni	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=436208|end_char=436215
+6	di	_	ADP	E	_	_	_	_	start_char=436216|end_char=436218
+7	questo	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=436219|end_char=436225
+8	timore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=436226|end_char=436232
+9	,	_	PUNCT	FF	_	_	_	_	start_char=436232|end_char=436233
+10	ma	_	CCONJ	CC	_	_	_	_	start_char=436234|end_char=436236
+11	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=436237|end_char=436239
+12	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=436240|end_char=436245
+13	me	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=436246|end_char=436248
+14	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=436249|end_char=436251
+15	diceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=436252|end_char=436258
+16	,	_	PUNCT	FF	_	_	_	_	start_char=436258|end_char=436259
+17	né	_	ADV	BN	PronType=Neg	_	_	_	start_char=436260|end_char=436262
+18	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=436263|end_char=436265
+19	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=436266|end_char=436269
+20	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=436270|end_char=436275
+21	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=436276|end_char=436278
+22	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=436279|end_char=436284
+23	mai	_	ADV	B	_	_	_	_	start_char=436285|end_char=436288
+24	ingannato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=436289|end_char=436298
+25	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=436298|end_char=436299
+
+# sent_id = 1869_tarchetti_fosca_q4_15
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Cercai in quella notte di prendere una risoluzione pronta ed efficace, di fuggirla, di essere crudele.
+1	Cercai	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	start_char=436301|end_char=436307
+2	in	_	ADP	E	_	_	_	_	start_char=436308|end_char=436310
+3	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=436311|end_char=436317
+4	notte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=436318|end_char=436323
+5	di	_	ADP	E	_	_	_	_	start_char=436324|end_char=436326
+6	prendere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=436327|end_char=436335
+7	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=436336|end_char=436339
+8	risoluzione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=436340|end_char=436351
+9	pronta	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=436352|end_char=436358
+10	ed	_	CCONJ	CC	_	_	_	_	start_char=436359|end_char=436361
+11	efficace	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=436362|end_char=436370
+12	,	_	PUNCT	FF	_	_	_	_	start_char=436370|end_char=436371
+13	di	_	ADP	E	_	_	_	_	start_char=436372|end_char=436374
+14	fuggirla	_	_	_	_	_	_	_	SpaceAfter=No|start_char=436375|end_char=436383
+15	,	_	PUNCT	FF	_	_	_	_	start_char=436383|end_char=436384
+16	di	_	ADP	E	_	_	_	_	start_char=436385|end_char=436387
+17	essere	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=436388|end_char=436394
+18	crudele	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=436395|end_char=436402
+19	.	_	PUNCT	FS	_	_	_	_	start_char=436402|end_char=436403
+
+# sent_id = 1869_tarchetti_fosca_q4_16
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Ma Dio mio!
+1	Ma	_	CCONJ	CC	_	_	_	_	start_char=436404|end_char=436406
+2	Dio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=436407|end_char=436410
+3	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=436411|end_char=436414
+4	!	_	PUNCT	FS	_	_	_	_	start_char=436414|end_char=436415
+
+# sent_id = 1869_tarchetti_fosca_q4_17
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Come potevo io essere crudele?
+1	Come	_	ADV	B	_	_	_	_	start_char=436416|end_char=436420
+2	potevo	_	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=436421|end_char=436427
+3	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=436428|end_char=436430
+4	essere	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=436431|end_char=436437
+5	crudele	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=436438|end_char=436445
+6	?	_	PUNCT	FS	_	_	_	_	start_char=436445|end_char=436446
+
+# sent_id = 1869_tarchetti_fosca_q4_18
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Io non era mai stato nella mia vita che semplice, che affettuoso, che buono!
+1	Io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=436447|end_char=436449
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=436450|end_char=436453
+3	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=436454|end_char=436457
+4	mai	_	ADV	B	_	_	_	_	start_char=436458|end_char=436461
+5	stato	_	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=436462|end_char=436467
+6	nella	_	_	_	_	_	_	_	start_char=436468|end_char=436473
+7	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=436474|end_char=436477
+8	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=436478|end_char=436482
+9	che	_	SCONJ	CS	_	_	_	_	start_char=436483|end_char=436486
+10	semplice	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=436487|end_char=436495
+11	,	_	PUNCT	FF	_	_	_	_	start_char=436495|end_char=436496
+12	che	_	ADP	E	_	_	_	_	start_char=436497|end_char=436500
+13	affettuoso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=436501|end_char=436511
+14	,	_	PUNCT	FF	_	_	_	_	start_char=436511|end_char=436512
+15	che	_	DET	DE	PronType=Exc	_	_	_	start_char=436513|end_char=436516
+16	buono	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=436517|end_char=436522
+17	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n\n\n\n\n|start_char=436522|end_char=436523
+
+# sent_id = 1869_tarchetti_fosca_q4_19
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = XVIII
+1	XVIII	_	ADJ	NO	Number=Sing|NumType=Ord	_	_	_	SpacesAfter=\n\n\n|start_char=436529|end_char=436534
+
+# sent_id = 1869_tarchetti_fosca_q4_20
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = V'era però un mezzo ben certo di rendere impossibile ogni altro legame, e di distruggere quello che avevamo già contratto – evitare di trovarmi solo con lei.
+1	V'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=436537|end_char=436539
+2	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=436539|end_char=436542
+3	però	_	ADV	B	_	_	_	_	start_char=436543|end_char=436547
+4	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=436548|end_char=436550
+5	mezzo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=436551|end_char=436556
+6	ben	_	ADV	B	_	_	_	_	start_char=436557|end_char=436560
+7	certo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=436561|end_char=436566
+8	di	_	ADP	E	_	_	_	_	start_char=436567|end_char=436569
+9	rendere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=436570|end_char=436577
+10	impossibile	_	ADJ	A	Number=Sing	_	_	_	start_char=436578|end_char=436589
+11	ogni	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=436590|end_char=436594
+12	altro	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=436595|end_char=436600
+13	legame	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=436601|end_char=436607
+14	,	_	PUNCT	FF	_	_	_	_	start_char=436607|end_char=436608
+15	e	_	CCONJ	CC	_	_	_	_	start_char=436609|end_char=436610
+16	di	_	ADP	E	_	_	_	_	start_char=436611|end_char=436613
+17	distruggere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=436614|end_char=436625
+18	quello	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=436626|end_char=436632
+19	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=436633|end_char=436636
+20	avevamo	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=436637|end_char=436644
+21	già	_	ADV	B	_	_	_	_	start_char=436645|end_char=436648
+22	contratto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=436649|end_char=436658
+23	–	_	PUNCT	FB	_	_	_	_	start_char=436659|end_char=436660
+24	evitare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=436661|end_char=436668
+25	di	_	ADP	E	_	_	_	_	start_char=436669|end_char=436671
+26	trovarmi	_	_	_	_	_	_	_	start_char=436672|end_char=436680
+27	solo	_	ADV	B	_	_	_	_	start_char=436681|end_char=436685
+28	con	_	ADP	E	_	_	_	_	start_char=436686|end_char=436689
+29	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=436690|end_char=436693
+30	.	_	PUNCT	FS	_	_	_	_	start_char=436693|end_char=436694
+
+# sent_id = 1869_tarchetti_fosca_q4_21
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Fuggirla era follia; l'avessi pur potuto, non l'avrei dovuto; tale estremo era inopportuno, né ella il meritava, né suo cugino ci sarebbe passato sopra senza volerne sapere le cause.
+1	Fuggirla	_	_	_	_	_	_	_	start_char=436695|end_char=436703
+2	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=436704|end_char=436707
+3	follia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=436708|end_char=436714
+4	;	_	PUNCT	FC	_	_	_	_	start_char=436714|end_char=436715
+5	l'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=436716|end_char=436718
+6	avessi	_	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=436718|end_char=436724
+7	pur	_	ADV	B	_	_	_	_	start_char=436725|end_char=436728
+8	potuto	_	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=436729|end_char=436735
+9	,	_	PUNCT	FF	_	_	_	_	start_char=436735|end_char=436736
+10	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=436737|end_char=436740
+11	l'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=436741|end_char=436743
+12	avrei	_	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=436743|end_char=436748
+13	dovuto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=436749|end_char=436755
+14	;	_	PUNCT	FC	_	_	_	_	start_char=436755|end_char=436756
+15	tale	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	start_char=436757|end_char=436761
+16	estremo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=436762|end_char=436769
+17	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=436770|end_char=436773
+18	inopportuno	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=436774|end_char=436785
+19	,	_	PUNCT	FF	_	_	_	_	start_char=436785|end_char=436786
+20	né	_	ADV	BN	PronType=Neg	_	_	_	start_char=436787|end_char=436789
+21	ella	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=436790|end_char=436794
+22	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=436795|end_char=436797
+23	meritava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=436798|end_char=436806
+24	,	_	PUNCT	FF	_	_	_	_	start_char=436806|end_char=436807
+25	né	_	ADV	BN	PronType=Neg	_	_	_	start_char=436808|end_char=436810
+26	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=436811|end_char=436814
+27	cugino	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=436815|end_char=436821
+28	ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=436822|end_char=436824
+29	sarebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=436825|end_char=436832
+30	passato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=436833|end_char=436840
+31	sopra	_	ADV	B	_	_	_	_	start_char=436841|end_char=436846
+32	senza	_	ADP	E	_	_	_	_	start_char=436847|end_char=436852
+33	volerne	_	_	_	_	_	_	_	start_char=436853|end_char=436860
+34	sapere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=436861|end_char=436867
+35	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=436868|end_char=436870
+36	cause	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=436871|end_char=436876
+37	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=436876|end_char=436877
+
+# sent_id = 1869_tarchetti_fosca_q4_22
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Ella avrebbe potuto leggere nell'anima mia il pentimento che io sentiva di quel primo abbandono, e la risoluzione decisa di dimenticarlo;
+1	Ella	_	PRON	PE	Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=436879|end_char=436883
+2	avrebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=436884|end_char=436891
+3	potuto	_	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=436892|end_char=436898
+4	leggere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=436899|end_char=436906
+5	nell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=436907|end_char=436912
+6	anima	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=436912|end_char=436917
+7	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=436918|end_char=436921
+8	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=436922|end_char=436924
+9	pentimento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=436925|end_char=436935
+10	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=436936|end_char=436939
+11	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=436940|end_char=436942
+12	sentiva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=436943|end_char=436950
+13	di	_	ADP	E	_	_	_	_	start_char=436951|end_char=436953
+14	quel	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=436954|end_char=436958
+15	primo	_	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	_	_	_	start_char=436959|end_char=436964
+16	abbandono	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=436965|end_char=436974
+17	,	_	PUNCT	FF	_	_	_	_	start_char=436974|end_char=436975
+18	e	_	CCONJ	CC	_	_	_	_	start_char=436976|end_char=436977
+19	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=436978|end_char=436980
+20	risoluzione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=436981|end_char=436992
+21	decisa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=436993|end_char=436999
+22	di	_	ADP	E	_	_	_	_	start_char=437000|end_char=437002
+23	dimenticarlo	_	_	_	_	_	_	_	SpaceAfter=No|start_char=437003|end_char=437015
+24	;	_	PUNCT	FC	_	_	_	_	start_char=437015|end_char=437016
+
+# sent_id = 1869_tarchetti_fosca_q4_23
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = il mio contegno doveva essere sufficiente a ciò, né il suo orgoglio le avrebbe permesso di chiedermene una spiegazione.
+1	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=437017|end_char=437019
+2	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=437020|end_char=437023
+3	contegno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=437024|end_char=437032
+4	doveva	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=437033|end_char=437039
+5	essere	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=437040|end_char=437046
+6	sufficiente	_	ADJ	A	Number=Sing	_	_	_	start_char=437047|end_char=437058
+7	a	_	ADP	E	_	_	_	_	start_char=437059|end_char=437060
+8	ciò	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=437061|end_char=437064
+9	,	_	PUNCT	FF	_	_	_	_	start_char=437064|end_char=437065
+10	né	_	ADV	BN	PronType=Neg	_	_	_	start_char=437066|end_char=437068
+11	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=437069|end_char=437071
+12	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=437072|end_char=437075
+13	orgoglio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=437076|end_char=437084
+14	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=437085|end_char=437087
+15	avrebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=437088|end_char=437095
+16	permesso	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=437096|end_char=437104
+17	di	_	ADP	E	_	_	_	_	start_char=437105|end_char=437107
+18	chiedermene	_	_	_	_	_	_	_	start_char=437108|end_char=437119
+19	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=437120|end_char=437123
+20	spiegazione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=437124|end_char=437135
+21	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=437135|end_char=437136
+
+# sent_id = 1869_tarchetti_fosca_q4_24
+# chunk_id = 1869_tarchetti_fosca_q4
+# quinto = 4
+# text = Riuscii per alcuni giorni ad evitare di trovarci soli – cosa che non ebbe a costarmi poca fatica, perché ella, dal canto suo, poneva in opera ogni strattagemma possibile per ottenere uno scopo contrario.
+1	Riuscii	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	start_char=437138|end_char=437145
+2	per	_	ADP	E	_	_	_	_	start_char=437146|end_char=437149
+3	alcuni	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=437150|end_char=437156
+4	giorni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=437157|end_char=437163
+5	ad	_	ADP	E	_	_	_	_	start_char=437164|end_char=437166
+6	evitare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=437167|end_char=437174
+7	di	_	ADP	E	_	_	_	_	start_char=437175|end_char=437177
+8	trovarci	_	_	_	_	_	_	_	start_char=437178|end_char=437186
+9	soli	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=437187|end_char=437191
+10	–	_	PUNCT	FB	_	_	_	_	start_char=437192|end_char=437193
+11	cosa	_	PRON	PQ	Number=Sing|PronType=Int	_	_	_	start_char=437194|end_char=437198
+12	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=437199|end_char=437202
+13	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=437203|end_char=437206
+14	ebbe	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=437207|end_char=437211
+15	a	_	ADP	E	_	_	_	_	start_char=437212|end_char=437213
+16	costarmi	_	_	_	_	_	_	_	start_char=437214|end_char=437222
+17	poca	_	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=437223|end_char=437227
+18	fatica	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=437228|end_char=437234
+19	,	_	PUNCT	FF	_	_	_	_	start_char=437234|end_char=437235
+20	perché	_	SCONJ	CS	_	_	_	_	start_char=437236|end_char=437242
+21	ella	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=437243|end_char=437247
+22	,	_	PUNCT	FF	_	_	_	_	start_char=437247|end_char=437248
+23	dal	_	_	_	_	_	_	_	start_char=437249|end_char=437252
+24	canto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=437253|end_char=437258
+25	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=437259|end_char=437262
+26	,	_	PUNCT	FF	_	_	_	_	start_char=437262|end_char=437263
+27	poneva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=437264|end_char=437270
+28	in	_	ADP	E	_	_	_	_	start_char=437271|end_char=437273
+29	opera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=437274|end_char=437279
+30	ogni	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=437280|end_char=437284
+31	strattagemma	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=437285|end_char=437297
+32	possibile	_	ADJ	A	Number=Sing	_	_	_	start_char=437298|end_char=437307
+33	per	_	ADP	E	_	_	_	_	start_char=437308|end_char=437311
+34	ottenere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=437312|end_char=437320
+35	uno	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=437321|end_char=437324
+36	scopo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=437325|end_char=437330
+37	contrario	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=437331|end_char=437340
+38	.	_	PUNCT	FS	_	_	_	_	start_char=437340|end_char=437341
+

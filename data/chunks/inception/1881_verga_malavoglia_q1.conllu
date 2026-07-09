@@ -1,0 +1,745 @@
+# sent_id = 1881_verga_malavoglia_q1_1
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=66857|end_char=66858
+
+# sent_id = 1881_verga_malavoglia_q1_2
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = Almeno avete il piacere di essere parenti di Vittorio Emanuele, giacché dovete dar la sua parte anche a lui!
+1	Almeno	_	ADV	B	_	_	_	_	start_char=66859|end_char=66865
+2	avete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=66866|end_char=66871
+3	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=66872|end_char=66874
+4	piacere	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=66875|end_char=66882
+5	di	_	ADP	E	_	_	_	_	start_char=66883|end_char=66885
+6	essere	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=66886|end_char=66892
+7	parenti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=66893|end_char=66900
+8	di	_	ADP	E	_	_	_	_	start_char=66901|end_char=66903
+9	Vittorio	_	PROPN	SP	_	_	_	_	start_char=66904|end_char=66912
+10	Emanuele	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=66913|end_char=66921
+11	,	_	PUNCT	FF	_	_	_	_	start_char=66921|end_char=66922
+12	giacché	_	SCONJ	CS	_	_	_	_	start_char=66923|end_char=66930
+13	dovete	_	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=66931|end_char=66937
+14	dar	_	VERB	V	VerbForm=Inf	_	_	_	start_char=66938|end_char=66941
+15	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=66942|end_char=66944
+16	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=66945|end_char=66948
+17	parte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=66949|end_char=66954
+18	anche	_	ADV	B	_	_	_	_	start_char=66955|end_char=66960
+19	a	_	ADP	E	_	_	_	_	start_char=66961|end_char=66962
+20	lui	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=66963|end_char=66966
+21	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=66966|end_char=66967
+
+# sent_id = 1881_verga_malavoglia_q1_3
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = E tutti si tenevano la pancia dalle risate, ché il proverbio dice:
+1	E	_	CCONJ	CC	_	_	_	_	start_char=66969|end_char=66970
+2	tutti	_	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=66971|end_char=66976
+3	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=66977|end_char=66979
+4	tenevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=66980|end_char=66988
+5	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=66989|end_char=66991
+6	pancia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=66992|end_char=66998
+7	dalle	_	_	_	_	_	_	_	start_char=66999|end_char=67004
+8	risate	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=67005|end_char=67011
+9	,	_	PUNCT	FF	_	_	_	_	start_char=67011|end_char=67012
+10	ché	_	SCONJ	CS	_	_	_	_	start_char=67013|end_char=67016
+11	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=67017|end_char=67019
+12	proverbio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=67020|end_char=67029
+13	dice	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=67030|end_char=67034
+14	:	_	PUNCT	FC	_	_	_	_	start_char=67034|end_char=67035
+
+# sent_id = 1881_verga_malavoglia_q1_4
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = «Né visita di morto senza riso, né sposalizio senza pianto».
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=67036|end_char=67037
+2	Né	_	ADV	BN	PronType=Neg	_	_	_	start_char=67037|end_char=67039
+3	visita	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=67040|end_char=67046
+4	di	_	ADP	E	_	_	_	_	start_char=67047|end_char=67049
+5	morto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=67050|end_char=67055
+6	senza	_	ADP	E	_	_	_	_	start_char=67056|end_char=67061
+7	riso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=67062|end_char=67066
+8	,	_	PUNCT	FF	_	_	_	_	start_char=67066|end_char=67067
+9	né	_	ADV	BN	PronType=Neg	_	_	_	start_char=67068|end_char=67070
+10	sposalizio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=67071|end_char=67081
+11	senza	_	ADP	E	_	_	_	_	start_char=67082|end_char=67087
+12	pianto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=67088|end_char=67094
+13	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=67094|end_char=67095
+14	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=67095|end_char=67096
+
+# sent_id = 1881_verga_malavoglia_q1_5
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = La moglie dello speziale torceva il muso a quegli schiamazzi, e stava coi guanti sulla pancia, e la faccia lunga, come si usa in città per quelle circostanze, che solo a guardarla la gente ammutoliva, quasi ci fosse il morto lì davanti, e per questo la chiamavano la Signora.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=67098|end_char=67100
+2	moglie	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=67101|end_char=67107
+3	dello	_	_	_	_	_	_	_	start_char=67108|end_char=67113
+4	speziale	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=67114|end_char=67122
+5	torceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=67123|end_char=67130
+6	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=67131|end_char=67133
+7	muso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=67134|end_char=67138
+8	a	_	ADP	E	_	_	_	_	start_char=67139|end_char=67140
+9	quegli	_	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	_	_	_	start_char=67141|end_char=67147
+10	schiamazzi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=67148|end_char=67158
+11	,	_	PUNCT	FF	_	_	_	_	start_char=67158|end_char=67159
+12	e	_	CCONJ	CC	_	_	_	_	start_char=67160|end_char=67161
+13	stava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=67162|end_char=67167
+14	coi	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=67168|end_char=67171
+15	guanti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=67172|end_char=67178
+16	sulla	_	_	_	_	_	_	_	start_char=67179|end_char=67184
+17	pancia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=67185|end_char=67191
+18	,	_	PUNCT	FF	_	_	_	_	start_char=67191|end_char=67192
+19	e	_	CCONJ	CC	_	_	_	_	start_char=67193|end_char=67194
+20	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=67195|end_char=67197
+21	faccia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=67198|end_char=67204
+22	lunga	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=67205|end_char=67210
+23	,	_	PUNCT	FF	_	_	_	_	start_char=67210|end_char=67211
+24	come	_	SCONJ	CS	_	_	_	_	start_char=67212|end_char=67216
+25	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=67217|end_char=67219
+26	usa	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=67220|end_char=67223
+27	in	_	ADP	E	_	_	_	_	start_char=67224|end_char=67226
+28	città	_	NOUN	S	Gender=Fem	_	_	_	start_char=67227|end_char=67232
+29	per	_	ADP	E	_	_	_	_	start_char=67233|end_char=67236
+30	quelle	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=67237|end_char=67243
+31	circostanze	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=67244|end_char=67255
+32	,	_	PUNCT	FF	_	_	_	_	start_char=67255|end_char=67256
+33	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=67257|end_char=67260
+34	solo	_	ADV	B	_	_	_	_	start_char=67261|end_char=67265
+35	a	_	ADP	E	_	_	_	_	start_char=67266|end_char=67267
+36	guardarla	_	_	_	_	_	_	_	start_char=67268|end_char=67277
+37	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=67278|end_char=67280
+38	gente	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=67281|end_char=67286
+39	ammutoliva	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=67287|end_char=67297
+40	,	_	PUNCT	FF	_	_	_	_	start_char=67297|end_char=67298
+41	quasi	_	ADV	B	_	_	_	_	start_char=67299|end_char=67304
+42	ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=67305|end_char=67307
+43	fosse	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=67308|end_char=67313
+44	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=67314|end_char=67316
+45	morto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=67317|end_char=67322
+46	lì	_	ADV	B	_	_	_	_	start_char=67323|end_char=67325
+47	davanti	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=67326|end_char=67333
+48	,	_	PUNCT	FF	_	_	_	_	start_char=67333|end_char=67334
+49	e	_	CCONJ	CC	_	_	_	_	start_char=67335|end_char=67336
+50	per	_	ADP	E	_	_	_	_	start_char=67337|end_char=67340
+51	questo	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=67341|end_char=67347
+52	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=67348|end_char=67350
+53	chiamavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=67351|end_char=67361
+54	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=67362|end_char=67364
+55	Signora	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=67365|end_char=67372
+56	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=67372|end_char=67373
+
+# sent_id = 1881_verga_malavoglia_q1_6
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = Don Silvestro faceva il gallo colle donne, e si muoveva ogni momento col pretesto di offrire le scranne ai nuovi arrivati, per far scricchiolare le sue scarpe verniciate.
+1	Don	_	PROPN	SP	_	_	_	_	start_char=67375|end_char=67378
+2	Silvestro	_	PROPN	SP	_	_	_	_	start_char=67379|end_char=67388
+3	faceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=67389|end_char=67395
+4	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=67396|end_char=67398
+5	gallo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=67399|end_char=67404
+6	colle	_	ADP	E	_	_	_	_	start_char=67405|end_char=67410
+7	donne	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=67411|end_char=67416
+8	,	_	PUNCT	FF	_	_	_	_	start_char=67416|end_char=67417
+9	e	_	CCONJ	CC	_	_	_	_	start_char=67418|end_char=67419
+10	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=67420|end_char=67422
+11	muoveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=67423|end_char=67430
+12	ogni	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=67431|end_char=67435
+13	momento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=67436|end_char=67443
+14	col	_	_	_	_	_	_	_	start_char=67444|end_char=67447
+15	pretesto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=67448|end_char=67456
+16	di	_	ADP	E	_	_	_	_	start_char=67457|end_char=67459
+17	offrire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=67460|end_char=67467
+18	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=67468|end_char=67470
+19	scranne	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=67471|end_char=67478
+20	ai	_	_	_	_	_	_	_	start_char=67479|end_char=67481
+21	nuovi	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=67482|end_char=67487
+22	arrivati	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=67488|end_char=67496
+23	,	_	PUNCT	FF	_	_	_	_	start_char=67496|end_char=67497
+24	per	_	ADP	E	_	_	_	_	start_char=67498|end_char=67501
+25	far	_	VERB	V	VerbForm=Inf	_	_	_	start_char=67502|end_char=67505
+26	scricchiolare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=67506|end_char=67519
+27	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=67520|end_char=67522
+28	sue	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=67523|end_char=67526
+29	scarpe	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=67527|end_char=67533
+30	verniciate	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=67534|end_char=67544
+31	.	_	PUNCT	FS	_	_	_	_	start_char=67544|end_char=67545
+
+# sent_id = 1881_verga_malavoglia_q1_7
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = — Li dovrebbero abbruciare, tutti quelli delle tasse! brontolava comare Zuppidda, gialla come se avesse mangiato dei limoni, e glielo diceva in faccia a don Silvestro, quasi ei fosse quello delle tasse.
+1	—	_	PUNCT	FF	_	_	_	_	start_char=67546|end_char=67547
+2	Li	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=67548|end_char=67550
+3	dovrebbero	_	AUX	VM	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=67551|end_char=67561
+4	abbruciare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=67562|end_char=67572
+5	,	_	PUNCT	FF	_	_	_	_	start_char=67572|end_char=67573
+6	tutti	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=67574|end_char=67579
+7	quelli	_	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	_	_	_	start_char=67580|end_char=67586
+8	delle	_	_	_	_	_	_	_	start_char=67587|end_char=67592
+9	tasse	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=67593|end_char=67598
+10	!	_	PUNCT	FS	_	_	_	_	start_char=67598|end_char=67599
+11	brontolava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=67600|end_char=67610
+12	comare	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=67611|end_char=67617
+13	Zuppidda	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=67618|end_char=67626
+14	,	_	PUNCT	FF	_	_	_	_	start_char=67626|end_char=67627
+15	gialla	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=67628|end_char=67634
+16	come	_	ADP	E	_	_	_	_	start_char=67635|end_char=67639
+17	se	_	SCONJ	CS	_	_	_	_	start_char=67640|end_char=67642
+18	avesse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=67643|end_char=67649
+19	mangiato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=67650|end_char=67658
+20	dei	_	_	_	_	_	_	_	start_char=67659|end_char=67662
+21	limoni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=67663|end_char=67669
+22	,	_	PUNCT	FF	_	_	_	_	start_char=67669|end_char=67670
+23	e	_	CCONJ	CC	_	_	_	_	start_char=67671|end_char=67672
+24	glielo	_	PRON	PE	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=67673|end_char=67679
+25	diceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=67680|end_char=67686
+26	in	_	ADP	E	_	_	_	_	start_char=67687|end_char=67689
+27	faccia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=67690|end_char=67696
+28	a	_	ADP	E	_	_	_	_	start_char=67697|end_char=67698
+29	don	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=67699|end_char=67702
+30	Silvestro	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=67703|end_char=67712
+31	,	_	PUNCT	FF	_	_	_	_	start_char=67712|end_char=67713
+32	quasi	_	ADV	B	_	_	_	_	start_char=67714|end_char=67719
+33	ei	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=67720|end_char=67722
+34	fosse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=67723|end_char=67728
+35	quello	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=67729|end_char=67735
+36	delle	_	_	_	_	_	_	_	start_char=67736|end_char=67741
+37	tasse	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=67742|end_char=67747
+38	.	_	PUNCT	FS	_	_	_	_	start_char=67747|end_char=67748
+
+# sent_id = 1881_verga_malavoglia_q1_8
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = Ella lo sapeva benissimo quello che volevano certi mangiacarte che non avevano calze sotto gli stivali inverniciati, e cercavano di ficcarsi in casa della gente per papparsi la dote e la figliuola:
+1	Ella	_	_	_	_	_	_	_	start_char=67749|end_char=67753
+2	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=67754|end_char=67756
+3	sapeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=67757|end_char=67763
+4	benissimo	_	ADV	B	_	_	_	_	start_char=67764|end_char=67773
+5	quello	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=67774|end_char=67780
+6	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=67781|end_char=67784
+7	volevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=67785|end_char=67793
+8	certi	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=67794|end_char=67799
+9	mangiacarte	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=67800|end_char=67811
+10	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=67812|end_char=67815
+11	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=67816|end_char=67819
+12	avevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=67820|end_char=67827
+13	calze	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=67828|end_char=67833
+14	sotto	_	ADP	E	_	_	_	_	start_char=67834|end_char=67839
+15	gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=67840|end_char=67843
+16	stivali	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=67844|end_char=67851
+17	inverniciati	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=67852|end_char=67864
+18	,	_	PUNCT	FF	_	_	_	_	start_char=67864|end_char=67865
+19	e	_	CCONJ	CC	_	_	_	_	start_char=67866|end_char=67867
+20	cercavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=67868|end_char=67877
+21	di	_	ADP	E	_	_	_	_	start_char=67878|end_char=67880
+22	ficcarsi	_	_	_	_	_	_	_	start_char=67881|end_char=67889
+23	in	_	ADP	E	_	_	_	_	start_char=67890|end_char=67892
+24	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=67893|end_char=67897
+25	della	_	_	_	_	_	_	_	start_char=67898|end_char=67903
+26	gente	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=67904|end_char=67909
+27	per	_	ADP	E	_	_	_	_	start_char=67910|end_char=67913
+28	papparsi	_	_	_	_	_	_	_	start_char=67914|end_char=67922
+29	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=67923|end_char=67925
+30	dote	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=67926|end_char=67930
+31	e	_	CCONJ	CC	_	_	_	_	start_char=67931|end_char=67932
+32	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=67933|end_char=67935
+33	figliuola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=67936|end_char=67945
+34	:	_	PUNCT	FC	_	_	_	_	start_char=67945|end_char=67946
+
+# sent_id = 1881_verga_malavoglia_q1_9
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = «Bella, non voglio te, voglio i tuoi soldi».
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=67947|end_char=67948
+2	Bella	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=67948|end_char=67953
+3	,	_	PUNCT	FF	_	_	_	_	start_char=67953|end_char=67954
+4	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=67955|end_char=67958
+5	voglio	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=67959|end_char=67965
+6	te	_	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=67966|end_char=67968
+7	,	_	PUNCT	FF	_	_	_	_	start_char=67968|end_char=67969
+8	voglio	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=67970|end_char=67976
+9	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=67977|end_char=67978
+10	tuoi	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=67979|end_char=67983
+11	soldi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=67984|end_char=67989
+12	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=67989|end_char=67990
+13	.	_	PUNCT	FS	_	_	_	_	start_char=67990|end_char=67991
+
+# sent_id = 1881_verga_malavoglia_q1_10
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = Per questo aveva lasciata a casa sua figlia Barbara.
+1	Per	_	ADP	E	_	_	_	_	start_char=67992|end_char=67995
+2	questo	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=67996|end_char=68002
+3	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=68003|end_char=68008
+4	lasciata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=68009|end_char=68017
+5	a	_	ADP	E	_	_	_	_	start_char=68018|end_char=68019
+6	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=68020|end_char=68024
+7	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=68025|end_char=68028
+8	figlia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=68029|end_char=68035
+9	Barbara	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=68036|end_char=68043
+10	.	_	PUNCT	FS	_	_	_	_	start_char=68043|end_char=68044
+
+# sent_id = 1881_verga_malavoglia_q1_11
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = — Quelle facce lì non mi piacciono.
+1	—	_	PUNCT	FF	_	_	_	_	start_char=68045|end_char=68046
+2	Quelle	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=68047|end_char=68053
+3	facce	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=68054|end_char=68059
+4	lì	_	ADV	B	_	_	_	_	start_char=68060|end_char=68062
+5	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=68063|end_char=68066
+6	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=68067|end_char=68069
+7	piacciono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=68070|end_char=68079
+8	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=68079|end_char=68080
+
+# sent_id = 1881_verga_malavoglia_q1_12
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=68082|end_char=68083
+
+# sent_id = 1881_verga_malavoglia_q1_13
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = A chi lo dite! esclamò padron Cipolla; a me mi scorticano vivo come san Bartolomeo.
+1	A	_	ADP	E	_	_	_	_	start_char=68084|end_char=68085
+2	chi	_	PRON	PR	PronType=Rel	_	_	_	start_char=68086|end_char=68089
+3	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=68090|end_char=68092
+4	dite	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=68093|end_char=68097
+5	!	_	PUNCT	FS	_	_	_	_	start_char=68097|end_char=68098
+6	esclamò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=68099|end_char=68106
+7	padron	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=68107|end_char=68113
+8	Cipolla	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=68114|end_char=68121
+9	;	_	PUNCT	FC	_	_	_	_	start_char=68121|end_char=68122
+10	a	_	ADP	E	_	_	_	_	start_char=68123|end_char=68124
+11	me	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=68125|end_char=68127
+12	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=68128|end_char=68130
+13	scorticano	_	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=68131|end_char=68141
+14	vivo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=68142|end_char=68146
+15	come	_	ADP	E	_	_	_	_	start_char=68147|end_char=68151
+16	san	_	PROPN	SP	_	_	_	_	start_char=68152|end_char=68155
+17	Bartolomeo	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=68156|end_char=68166
+18	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=68166|end_char=68167
+
+# sent_id = 1881_verga_malavoglia_q1_14
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = — Benedetto Dio! esclamò mastro Turi Zuppiddu, minacciando col pugno che pareva la malabestia del suo mestiere.
+1	—	_	PUNCT	FF	_	_	_	_	start_char=68169|end_char=68170
+2	Benedetto	_	PROPN	SP	_	_	_	_	start_char=68171|end_char=68180
+3	Dio	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=68181|end_char=68184
+4	!	_	PUNCT	FS	_	_	_	_	start_char=68184|end_char=68185
+5	esclamò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=68186|end_char=68193
+6	mastro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=68194|end_char=68200
+7	Turi	_	PROPN	SP	_	_	_	_	start_char=68201|end_char=68205
+8	Zuppiddu	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=68206|end_char=68214
+9	,	_	PUNCT	FF	_	_	_	_	start_char=68214|end_char=68215
+10	minacciando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=68216|end_char=68227
+11	col	_	_	_	_	_	_	_	start_char=68228|end_char=68231
+12	pugno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=68232|end_char=68237
+13	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=68238|end_char=68241
+14	pareva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=68242|end_char=68248
+15	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=68249|end_char=68251
+16	malabestia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=68252|end_char=68262
+17	del	_	_	_	_	_	_	_	start_char=68263|end_char=68266
+18	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=68267|end_char=68270
+19	mestiere	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=68271|end_char=68279
+20	.	_	PUNCT	FS	_	_	_	_	start_char=68279|end_char=68280
+
+# sent_id = 1881_verga_malavoglia_q1_15
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = Va a finire brutta, va a finire, con questi italiani!
+1	Va	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=68281|end_char=68283
+2	a	_	ADP	E	_	_	_	_	start_char=68284|end_char=68285
+3	finire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=68286|end_char=68292
+4	brutta	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=68293|end_char=68299
+5	,	_	PUNCT	FF	_	_	_	_	start_char=68299|end_char=68300
+6	va	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=68301|end_char=68303
+7	a	_	ADP	E	_	_	_	_	start_char=68304|end_char=68305
+8	finire	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=68306|end_char=68312
+9	,	_	PUNCT	FF	_	_	_	_	start_char=68312|end_char=68313
+10	con	_	ADP	E	_	_	_	_	start_char=68314|end_char=68317
+11	questi	_	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	_	_	_	start_char=68318|end_char=68324
+12	italiani	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=68325|end_char=68333
+13	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=68333|end_char=68334
+
+# sent_id = 1881_verga_malavoglia_q1_16
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=68336|end_char=68337
+
+# sent_id = 1881_verga_malavoglia_q1_17
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = Voi state zitto! gli diede sulla voce comare Venera, ché non sapete nulla.
+1	Voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=68338|end_char=68341
+2	state	_	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=68342|end_char=68347
+3	zitto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=68348|end_char=68353
+4	!	_	PUNCT	FS	_	_	_	_	start_char=68353|end_char=68354
+5	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=68355|end_char=68358
+6	diede	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=68359|end_char=68364
+7	sulla	_	_	_	_	_	_	_	start_char=68365|end_char=68370
+8	voce	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=68371|end_char=68375
+9	comare	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=68376|end_char=68382
+10	Venera	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=68383|end_char=68389
+11	,	_	PUNCT	FF	_	_	_	_	start_char=68389|end_char=68390
+12	ché	_	SCONJ	CS	_	_	_	_	start_char=68391|end_char=68394
+13	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=68395|end_char=68398
+14	sapete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=68399|end_char=68405
+15	nulla	_	_	_	_	_	_	_	SpaceAfter=No|start_char=68406|end_char=68411
+16	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=68411|end_char=68412
+
+# sent_id = 1881_verga_malavoglia_q1_18
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=68414|end_char=68415
+
+# sent_id = 1881_verga_malavoglia_q1_19
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = Io dico quel che hai detto tu, che ci levano la camicia di dosso, ci levano!
+1	Io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=68416|end_char=68418
+2	dico	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=68419|end_char=68423
+3	quel	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=68424|end_char=68428
+4	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=68429|end_char=68432
+5	hai	_	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=68433|end_char=68436
+6	detto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=68437|end_char=68442
+7	tu	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=68443|end_char=68445
+8	,	_	PUNCT	FF	_	_	_	_	start_char=68445|end_char=68446
+9	che	_	SCONJ	CS	_	_	_	_	start_char=68447|end_char=68450
+10	ci	_	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	_	_	_	start_char=68451|end_char=68453
+11	levano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=68454|end_char=68460
+12	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=68461|end_char=68463
+13	camicia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=68464|end_char=68471
+14	di	_	ADP	E	_	_	_	_	start_char=68472|end_char=68474
+15	dosso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=68475|end_char=68480
+16	,	_	PUNCT	FF	_	_	_	_	start_char=68480|end_char=68481
+17	ci	_	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	_	_	_	start_char=68482|end_char=68484
+18	levano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=68485|end_char=68491
+19	!	_	PUNCT	FS	_	_	_	_	start_char=68491|end_char=68492
+
+# sent_id = 1881_verga_malavoglia_q1_20
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = borbottò compare Turi, mogio mogio.
+1	borbottò	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=68493|end_char=68501
+2	compare	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=68502|end_char=68509
+3	Turi	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=68510|end_char=68514
+4	,	_	PUNCT	FF	_	_	_	_	start_char=68514|end_char=68515
+5	mogio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=68516|end_char=68521
+6	mogio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=68522|end_char=68527
+7	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=68527|end_char=68528
+
+# sent_id = 1881_verga_malavoglia_q1_21
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = Allora Piedipapera, per tagliar corto, disse piano a padron Cipolla: — Dovreste pigliarvela voi, comare Barbara, per consolarvi; così la mamma e la figliuola non si darebbero più l'anima al diavolo.
+1	Allora	_	ADV	B	_	_	_	_	start_char=68530|end_char=68536
+2	Piedipapera	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=68537|end_char=68548
+3	,	_	PUNCT	FF	_	_	_	_	start_char=68548|end_char=68549
+4	per	_	ADP	E	_	_	_	_	start_char=68550|end_char=68553
+5	tagliar	_	VERB	V	VerbForm=Inf	_	_	_	start_char=68554|end_char=68561
+6	corto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=68562|end_char=68567
+7	,	_	PUNCT	FF	_	_	_	_	start_char=68567|end_char=68568
+8	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=68569|end_char=68574
+9	piano	_	ADV	B	_	_	_	_	start_char=68575|end_char=68580
+10	a	_	ADP	E	_	_	_	_	start_char=68581|end_char=68582
+11	padron	_	PROPN	SP	_	_	_	_	start_char=68583|end_char=68589
+12	Cipolla	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=68590|end_char=68597
+13	:	_	PUNCT	FC	_	_	_	_	start_char=68597|end_char=68598
+14	—	_	PUNCT	FF	_	_	_	_	start_char=68599|end_char=68600
+15	Dovreste	_	AUX	VM	Mood=Cnd|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=68601|end_char=68609
+16	pigliarvela	_	_	_	_	_	_	_	start_char=68610|end_char=68621
+17	voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=68622|end_char=68625
+18	,	_	PUNCT	FF	_	_	_	_	start_char=68625|end_char=68626
+19	comare	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=68627|end_char=68633
+20	Barbara	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=68634|end_char=68641
+21	,	_	PUNCT	FF	_	_	_	_	start_char=68641|end_char=68642
+22	per	_	ADP	E	_	_	_	_	start_char=68643|end_char=68646
+23	consolarvi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=68647|end_char=68657
+24	;	_	PUNCT	FC	_	_	_	_	start_char=68657|end_char=68658
+25	così	_	ADV	B	_	_	_	_	start_char=68659|end_char=68663
+26	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=68664|end_char=68666
+27	mamma	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=68667|end_char=68672
+28	e	_	CCONJ	CC	_	_	_	_	start_char=68673|end_char=68674
+29	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=68675|end_char=68677
+30	figliuola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=68678|end_char=68687
+31	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=68688|end_char=68691
+32	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=68692|end_char=68694
+33	darebbero	_	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=68695|end_char=68704
+34	più	_	ADV	B	_	_	_	_	start_char=68705|end_char=68708
+35	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=68709|end_char=68711
+36	anima	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=68711|end_char=68716
+37	al	_	_	_	_	_	_	_	start_char=68717|end_char=68719
+38	diavolo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=68720|end_char=68727
+39	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=68727|end_char=68728
+
+# sent_id = 1881_verga_malavoglia_q1_22
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=68730|end_char=68731
+
+# sent_id = 1881_verga_malavoglia_q1_23
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = È una vera porcheria! esclamava donna Rosolina, la sorella del curato, rossa come un tacchino, e facendosi vento col fazzoletto; e se la prendeva con Garibaldi che metteva le tasse, e al giorno d'oggi non si poteva più vivere, e nessuno si maritava più.
+1	È	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=68732|end_char=68733
+2	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=68734|end_char=68737
+3	vera	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=68738|end_char=68742
+4	porcheria	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=68743|end_char=68752
+5	!	_	PUNCT	FS	_	_	_	_	start_char=68752|end_char=68753
+6	esclamava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=68754|end_char=68763
+7	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=68764|end_char=68769
+8	Rosolina	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=68770|end_char=68778
+9	,	_	PUNCT	FF	_	_	_	_	start_char=68778|end_char=68779
+10	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=68780|end_char=68782
+11	sorella	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=68783|end_char=68790
+12	del	_	_	_	_	_	_	_	start_char=68791|end_char=68794
+13	curato	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=68795|end_char=68801
+14	,	_	PUNCT	FF	_	_	_	_	start_char=68801|end_char=68802
+15	rossa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=68803|end_char=68808
+16	come	_	ADP	E	_	_	_	_	start_char=68809|end_char=68813
+17	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=68814|end_char=68816
+18	tacchino	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=68817|end_char=68825
+19	,	_	PUNCT	FF	_	_	_	_	start_char=68825|end_char=68826
+20	e	_	CCONJ	CC	_	_	_	_	start_char=68827|end_char=68828
+21	facendosi	_	_	_	_	_	_	_	start_char=68829|end_char=68838
+22	vento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=68839|end_char=68844
+23	col	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=68845|end_char=68848
+24	fazzoletto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=68849|end_char=68859
+25	;	_	PUNCT	FC	_	_	_	_	start_char=68859|end_char=68860
+26	e	_	CCONJ	CC	_	_	_	_	start_char=68861|end_char=68862
+27	se	_	SCONJ	CS	_	_	_	_	start_char=68863|end_char=68865
+28	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=68866|end_char=68868
+29	prendeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=68869|end_char=68877
+30	con	_	ADP	E	_	_	_	_	start_char=68878|end_char=68881
+31	Garibaldi	_	PROPN	SP	_	_	_	_	start_char=68882|end_char=68891
+32	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=68892|end_char=68895
+33	metteva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=68896|end_char=68903
+34	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=68904|end_char=68906
+35	tasse	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=68907|end_char=68912
+36	,	_	PUNCT	FF	_	_	_	_	start_char=68912|end_char=68913
+37	e	_	CCONJ	CC	_	_	_	_	start_char=68914|end_char=68915
+38	al	_	_	_	_	_	_	_	start_char=68916|end_char=68918
+39	giorno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=68919|end_char=68925
+40	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=68926|end_char=68928
+41	oggi	_	ADV	B	_	_	_	_	start_char=68928|end_char=68932
+42	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=68933|end_char=68936
+43	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=68937|end_char=68939
+44	poteva	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=68940|end_char=68946
+45	più	_	ADV	B	_	_	_	_	start_char=68947|end_char=68950
+46	vivere	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=68951|end_char=68957
+47	,	_	PUNCT	FF	_	_	_	_	start_char=68957|end_char=68958
+48	e	_	CCONJ	CC	_	_	_	_	start_char=68959|end_char=68960
+49	nessuno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=68961|end_char=68968
+50	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=68969|end_char=68971
+51	maritava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=68972|end_char=68980
+52	più	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=68981|end_char=68984
+53	.	_	PUNCT	FS	_	_	_	_	start_char=68984|end_char=68985
+
+# sent_id = 1881_verga_malavoglia_q1_24
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = — O a donna Rosolina cosa gliene importa oramai?
+1	—	_	PUNCT	FF	_	_	_	_	start_char=68986|end_char=68987
+2	O	_	CCONJ	CC	_	_	_	_	start_char=68988|end_char=68989
+3	a	_	ADP	E	_	_	_	_	start_char=68990|end_char=68991
+4	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=68992|end_char=68997
+5	Rosolina	_	PROPN	SP	_	_	_	_	start_char=68998|end_char=69006
+6	cosa	_	PRON	PQ	Number=Sing|PronType=Int	_	_	_	start_char=69007|end_char=69011
+7	gliene	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=69012|end_char=69018
+8	importa	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=69019|end_char=69026
+9	oramai	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=69027|end_char=69033
+10	?	_	PUNCT	FS	_	_	_	_	start_char=69033|end_char=69034
+
+# sent_id = 1881_verga_malavoglia_q1_25
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = susurrava Piedipapera.
+1	susurrava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=69035|end_char=69044
+2	Piedipapera	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=69045|end_char=69056
+3	.	_	PUNCT	FS	_	_	_	_	start_char=69056|end_char=69057
+
+# sent_id = 1881_verga_malavoglia_q1_26
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = Donna Rosolina intanto raccontava a don Silvestro le grosse faccende che ci aveva per le mani: dieci canne di ordito sul telaio, i legumi da seccare per l'inverno, la conserva dei pomidoro da fare, che lei ci aveva un segreto tutto suo per avere la conserva dei pomidoro fresca tutto l'inverno.
+1	Donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=69058|end_char=69063
+2	Rosolina	_	PROPN	SP	_	_	_	_	start_char=69064|end_char=69072
+3	intanto	_	ADV	B	_	_	_	_	start_char=69073|end_char=69080
+4	raccontava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=69081|end_char=69091
+5	a	_	ADP	E	_	_	_	_	start_char=69092|end_char=69093
+6	don	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=69094|end_char=69097
+7	Silvestro	_	PROPN	SP	_	_	_	_	start_char=69098|end_char=69107
+8	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=69108|end_char=69110
+9	grosse	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	start_char=69111|end_char=69117
+10	faccende	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=69118|end_char=69126
+11	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=69127|end_char=69130
+12	ci	_	PRON	PC	Clitic=Yes|Number=Plur|PronType=Prs	_	_	_	start_char=69131|end_char=69133
+13	aveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=69134|end_char=69139
+14	per	_	ADP	E	_	_	_	_	start_char=69140|end_char=69143
+15	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=69144|end_char=69146
+16	mani	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=69147|end_char=69151
+17	:	_	PUNCT	FC	_	_	_	_	start_char=69151|end_char=69152
+18	dieci	_	NUM	N	NumType=Card	_	_	_	start_char=69153|end_char=69158
+19	canne	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=69159|end_char=69164
+20	di	_	ADP	E	_	_	_	_	start_char=69165|end_char=69167
+21	ordito	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=69168|end_char=69174
+22	sul	_	_	_	_	_	_	_	start_char=69175|end_char=69178
+23	telaio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=69179|end_char=69185
+24	,	_	PUNCT	FF	_	_	_	_	start_char=69185|end_char=69186
+25	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=69187|end_char=69188
+26	legumi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=69189|end_char=69195
+27	da	_	ADP	E	_	_	_	_	start_char=69196|end_char=69198
+28	seccare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=69199|end_char=69206
+29	per	_	ADP	E	_	_	_	_	start_char=69207|end_char=69210
+30	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=69211|end_char=69213
+31	inverno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=69213|end_char=69220
+32	,	_	PUNCT	FF	_	_	_	_	start_char=69220|end_char=69221
+33	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=69222|end_char=69224
+34	conserva	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=69225|end_char=69233
+35	dei	_	_	_	_	_	_	_	start_char=69234|end_char=69237
+36	pomidoro	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=69238|end_char=69246
+37	da	_	ADP	E	_	_	_	_	start_char=69247|end_char=69249
+38	fare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=69250|end_char=69254
+39	,	_	PUNCT	FF	_	_	_	_	start_char=69254|end_char=69255
+40	che	_	SCONJ	CS	_	_	_	_	start_char=69256|end_char=69259
+41	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=69260|end_char=69263
+42	ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=69264|end_char=69266
+43	aveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=69267|end_char=69272
+44	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=69273|end_char=69275
+45	segreto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=69276|end_char=69283
+46	tutto	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=69284|end_char=69289
+47	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=69290|end_char=69293
+48	per	_	ADP	E	_	_	_	_	start_char=69294|end_char=69297
+49	avere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=69298|end_char=69303
+50	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=69304|end_char=69306
+51	conserva	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=69307|end_char=69315
+52	dei	_	_	_	_	_	_	_	start_char=69316|end_char=69319
+53	pomidoro	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=69320|end_char=69328
+54	fresca	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=69329|end_char=69335
+55	tutto	_	DET	T	Gender=Masc|Number=Sing|PronType=Tot	_	_	_	start_char=69336|end_char=69341
+56	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=69342|end_char=69344
+57	inverno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=69344|end_char=69351
+58	.	_	PUNCT	FS	_	_	_	_	start_char=69351|end_char=69352
+
+# sent_id = 1881_verga_malavoglia_q1_27
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = – Una casa senza donna non poteva andare; ma la donna bisognava che avesse il giudizio nelle mani, come s'intendeva lei; e non fosse di quelle fraschette che pensano a lisciarsi e nient'altro, «coi capelli lunghi e il cervello corto», ché allora un povero marito se ne va sott'acqua come compare Bastianazzo, buon'anima.
+1	–	_	PUNCT	FF	_	_	_	_	start_char=69353|end_char=69354
+2	Una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=69355|end_char=69358
+3	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=69359|end_char=69363
+4	senza	_	ADP	E	_	_	_	_	start_char=69364|end_char=69369
+5	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=69370|end_char=69375
+6	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=69376|end_char=69379
+7	poteva	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=69380|end_char=69386
+8	andare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=69387|end_char=69393
+9	;	_	PUNCT	FC	_	_	_	_	start_char=69393|end_char=69394
+10	ma	_	CCONJ	CC	_	_	_	_	start_char=69395|end_char=69397
+11	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=69398|end_char=69400
+12	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=69401|end_char=69406
+13	bisognava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=69407|end_char=69416
+14	che	_	SCONJ	CS	_	_	_	_	start_char=69417|end_char=69420
+15	avesse	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=69421|end_char=69427
+16	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=69428|end_char=69430
+17	giudizio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=69431|end_char=69439
+18	nelle	_	_	_	_	_	_	_	start_char=69440|end_char=69445
+19	mani	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=69446|end_char=69450
+20	,	_	PUNCT	FF	_	_	_	_	start_char=69450|end_char=69451
+21	come	_	SCONJ	CS	_	_	_	_	start_char=69452|end_char=69456
+22	s'	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=69457|end_char=69459
+23	intendeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=69459|end_char=69468
+24	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=69469|end_char=69472
+25	;	_	PUNCT	FC	_	_	_	_	start_char=69472|end_char=69473
+26	e	_	CCONJ	CC	_	_	_	_	start_char=69474|end_char=69475
+27	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=69476|end_char=69479
+28	fosse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=69480|end_char=69485
+29	di	_	ADP	E	_	_	_	_	start_char=69486|end_char=69488
+30	quelle	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=69489|end_char=69495
+31	fraschette	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=69496|end_char=69506
+32	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=69507|end_char=69510
+33	pensano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=69511|end_char=69518
+34	a	_	ADP	E	_	_	_	_	start_char=69519|end_char=69520
+35	lisciarsi	_	_	_	_	_	_	_	start_char=69521|end_char=69530
+36	e	_	CCONJ	CC	_	_	_	_	start_char=69531|end_char=69532
+37	nient'	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=69533|end_char=69539
+38	altro	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=69539|end_char=69544
+39	,	_	PUNCT	FF	_	_	_	_	start_char=69544|end_char=69545
+40	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=69546|end_char=69547
+41	coi	_	DET	DD	Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=69547|end_char=69550
+42	capelli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=69551|end_char=69558
+43	lunghi	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=69559|end_char=69565
+44	e	_	CCONJ	CC	_	_	_	_	start_char=69566|end_char=69567
+45	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=69568|end_char=69570
+46	cervello	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=69571|end_char=69579
+47	corto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=69580|end_char=69585
+48	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=69585|end_char=69586
+49	,	_	PUNCT	FF	_	_	_	_	start_char=69586|end_char=69587
+50	ché	_	SCONJ	CS	_	_	_	_	start_char=69588|end_char=69591
+51	allora	_	ADV	B	_	_	_	_	start_char=69592|end_char=69598
+52	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=69599|end_char=69601
+53	povero	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=69602|end_char=69608
+54	marito	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=69609|end_char=69615
+55	se	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=69616|end_char=69618
+56	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=69619|end_char=69621
+57	va	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=69622|end_char=69624
+58	sott'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=69625|end_char=69630
+59	acqua	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=69630|end_char=69635
+60	come	_	SCONJ	CS	_	_	_	_	start_char=69636|end_char=69640
+61	compare	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=69641|end_char=69648
+62	Bastianazzo	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=69649|end_char=69660
+63	,	_	PUNCT	FF	_	_	_	_	start_char=69660|end_char=69661
+64	buon'	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=69662|end_char=69667
+65	anima	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=69667|end_char=69672
+66	.	_	PUNCT	FS	_	_	_	_	start_char=69672|end_char=69673
+
+# sent_id = 1881_verga_malavoglia_q1_28
+# chunk_id = 1881_verga_malavoglia_q1
+# quinto = 1
+# text = — Beato lui! sospirava la Santuzza, è morto in un giorno segnalato, la vigilia dei Dolori di Maria Vergine, e prega lassù per noi peccatori, fra gli angeli e i santi del paradiso.
+1	—	_	PUNCT	FF	_	_	_	_	start_char=69674|end_char=69675
+2	Beato	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=69676|end_char=69681
+3	lui	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=69682|end_char=69685
+4	!	_	PUNCT	FS	_	_	_	_	start_char=69685|end_char=69686
+5	sospirava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=69687|end_char=69696
+6	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=69697|end_char=69699
+7	Santuzza	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=69700|end_char=69708
+8	,	_	PUNCT	FF	_	_	_	_	start_char=69708|end_char=69709
+9	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=69710|end_char=69711
+10	morto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=69712|end_char=69717
+11	in	_	ADP	E	_	_	_	_	start_char=69718|end_char=69720
+12	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=69721|end_char=69723
+13	giorno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=69724|end_char=69730
+14	segnalato	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=69731|end_char=69740
+15	,	_	PUNCT	FF	_	_	_	_	start_char=69740|end_char=69741
+16	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=69742|end_char=69744
+17	vigilia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=69745|end_char=69752
+18	dei	_	_	_	_	_	_	_	start_char=69753|end_char=69756
+19	Dolori	_	PROPN	SP	_	_	_	_	start_char=69757|end_char=69763
+20	di	_	ADP	E	_	_	_	_	start_char=69764|end_char=69766
+21	Maria	_	PROPN	SP	_	_	_	_	start_char=69767|end_char=69772
+22	Vergine	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=69773|end_char=69780
+23	,	_	PUNCT	FF	_	_	_	_	start_char=69780|end_char=69781
+24	e	_	CCONJ	CC	_	_	_	_	start_char=69782|end_char=69783
+25	prega	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=69784|end_char=69789
+26	lassù	_	ADV	B	_	_	_	_	start_char=69790|end_char=69795
+27	per	_	ADP	E	_	_	_	_	start_char=69796|end_char=69799
+28	noi	_	PRON	PE	Number=Plur|Person=1|PronType=Prs	_	_	_	start_char=69800|end_char=69803
+29	peccatori	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=69804|end_char=69813
+30	,	_	PUNCT	FF	_	_	_	_	start_char=69813|end_char=69814
+31	fra	_	ADP	E	_	_	_	_	start_char=69815|end_char=69818
+32	gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=69819|end_char=69822
+33	angeli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=69823|end_char=69829
+34	e	_	CCONJ	CC	_	_	_	_	start_char=69830|end_char=69831
+35	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=69832|end_char=69833
+36	santi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=69834|end_char=69839
+37	del	_	_	_	_	_	_	_	start_char=69840|end_char=69843
+38	paradiso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=69844|end_char=69852
+39	.	_	PUNCT	FS	_	_	_	_	start_char=69852|end_char=69853
+

@@ -1,0 +1,843 @@
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_1
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = «Che testamento?», diss'egli.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391015|end_char=391016
+2	Che	_	DET	DQ	PronType=Exc	_	_	_	start_char=391016|end_char=391019
+3	testamento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=391020|end_char=391030
+4	?	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=391030|end_char=391031
+5	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391031|end_char=391032
+6	,	_	PUNCT	FF	_	_	_	_	start_char=391032|end_char=391033
+7	diss'	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=391034|end_char=391039
+8	egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=391039|end_char=391043
+9	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=391043|end_char=391044
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_2
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = «Via!», riprese Pasotti freddo e beffardo.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391046|end_char=391047
+2	Via	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=391047|end_char=391050
+3	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=391050|end_char=391051
+4	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391051|end_char=391052
+5	,	_	PUNCT	FF	_	_	_	_	start_char=391052|end_char=391053
+6	riprese	_	VERB	V	Number=Sing|Tense=Past|VerbForm=Fin	_	_	_	start_char=391054|end_char=391061
+7	Pasotti	_	PROPN	SP	_	_	_	_	start_char=391062|end_char=391069
+8	freddo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=391070|end_char=391076
+9	e	_	CCONJ	CC	_	_	_	_	start_char=391077|end_char=391078
+10	beffardo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=391079|end_char=391087
+11	.	_	PUNCT	FS	_	_	_	_	start_char=391087|end_char=391088
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_3
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = «C'intendiamo bene!
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391089|end_char=391090
+2	C'	_	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=391090|end_char=391092
+3	intendiamo	_	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=391092|end_char=391102
+4	bene	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=391103|end_char=391107
+5	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=391107|end_char=391108
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_4
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = »
+1	»	_	PUNCT	FB	_	_	_	_	SpacesAfter=\n\n|start_char=391108|end_char=391109
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_5
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Una vampa di collera riaccese il sangue a Franco.
+1	Una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=391111|end_char=391114
+2	vampa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=391115|end_char=391120
+3	di	_	ADP	E	_	_	_	_	start_char=391121|end_char=391123
+4	collera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=391124|end_char=391131
+5	riaccese	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=391132|end_char=391140
+6	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=391141|end_char=391143
+7	sangue	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391144|end_char=391150
+8	a	_	ADP	E	_	_	_	_	start_char=391151|end_char=391152
+9	Franco	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=391153|end_char=391159
+10	.	_	PUNCT	FS	_	_	_	_	start_char=391159|end_char=391160
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_6
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = «Ma no!», diss'egli.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391161|end_char=391162
+2	Ma	_	CCONJ	CC	_	_	_	_	start_char=391162|end_char=391164
+3	no	_	INTJ	I	Polarity=Neg	_	_	_	SpaceAfter=No|start_char=391165|end_char=391167
+4	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=391167|end_char=391168
+5	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391168|end_char=391169
+6	,	_	PUNCT	FF	_	_	_	_	start_char=391169|end_char=391170
+7	diss'	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=391171|end_char=391176
+8	egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=391176|end_char=391180
+9	.	_	PUNCT	FS	_	_	_	_	start_char=391180|end_char=391181
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_7
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = «Fuori!
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391182|end_char=391183
+2	Fuori	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=391183|end_char=391188
+3	!	_	PUNCT	FS	_	_	_	_	start_char=391188|end_char=391189
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_8
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = parla!
+1	parla	_	_	_	_	_	_	_	SpaceAfter=No|start_char=391190|end_char=391195
+2	!	_	PUNCT	FS	_	_	_	_	start_char=391195|end_char=391196
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_9
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Cosa ne sai tu di testamenti?
+1	Cosa	_	PRON	PQ	Number=Sing|PronType=Int	_	_	_	start_char=391197|end_char=391201
+2	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=391202|end_char=391204
+3	sai	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=391205|end_char=391208
+4	tu	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=391209|end_char=391211
+5	di	_	ADP	E	_	_	_	_	start_char=391212|end_char=391214
+6	testamenti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=391215|end_char=391225
+7	?	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=391225|end_char=391226
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_10
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = »
+1	»	_	PUNCT	FB	_	_	_	_	SpacesAfter=\n\n|start_char=391226|end_char=391227
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_11
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = «Ah!», fece Pasotti con ironica dolcezza.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391229|end_char=391230
+2	Ah!	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=391230|end_char=391233
+3	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391233|end_char=391234
+4	,	_	PUNCT	FF	_	_	_	_	start_char=391234|end_char=391235
+5	fece	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=391236|end_char=391240
+6	Pasotti	_	PROPN	SP	_	_	_	_	start_char=391241|end_char=391248
+7	con	_	ADP	E	_	_	_	_	start_char=391249|end_char=391252
+8	ironica	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=391253|end_char=391260
+9	dolcezza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=391261|end_char=391269
+10	.	_	PUNCT	FS	_	_	_	_	start_char=391269|end_char=391270
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_12
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = «Adesso va benissimo.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391271|end_char=391272
+2	Adesso	_	ADV	B	_	_	_	_	start_char=391272|end_char=391278
+3	va	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=391279|end_char=391281
+4	benissimo	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=391282|end_char=391291
+5	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=391291|end_char=391292
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_13
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = »
+1	»	_	PUNCT	FB	_	_	_	_	SpacesAfter=\n\n|start_char=391292|end_char=391293
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_14
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Franco l'avrebbe strozzato.
+1	Franco	_	PROPN	SP	_	_	_	_	start_char=391295|end_char=391301
+2	l'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=391302|end_char=391304
+3	avrebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=391304|end_char=391311
+4	strozzato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=391312|end_char=391321
+5	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=391321|end_char=391322
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_15
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = «Sono stato a Lodi, non te l'ho detto?
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391324|end_char=391325
+2	Sono	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=391325|end_char=391329
+3	stato	_	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=391330|end_char=391335
+4	a	_	ADP	E	_	_	_	_	start_char=391336|end_char=391337
+5	Lodi	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=391338|end_char=391342
+6	,	_	PUNCT	FF	_	_	_	_	start_char=391342|end_char=391343
+7	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=391344|end_char=391347
+8	te	_	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=391348|end_char=391350
+9	l'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=391351|end_char=391353
+10	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=391353|end_char=391355
+11	detto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=391356|end_char=391361
+12	?	_	PUNCT	FS	_	_	_	_	start_char=391361|end_char=391362
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_16
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Dunque so.»
+1	Dunque	_	ADV	B	_	_	_	_	start_char=391363|end_char=391369
+2	so	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=391370|end_char=391372
+3	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=391372|end_char=391373
+4	»	_	PUNCT	FB	_	_	_	_	SpacesAfter=\n\n|start_char=391373|end_char=391374
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_17
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Franco, fuori di sé, protestò di non capire niente.
+1	Franco	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=391376|end_char=391382
+2	,	_	PUNCT	FF	_	_	_	_	start_char=391382|end_char=391383
+3	fuori	_	ADV	B	_	_	_	_	start_char=391384|end_char=391389
+4	di	_	ADP	E	_	_	_	_	start_char=391390|end_char=391392
+5	sé	_	PRON	PE	Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=391393|end_char=391395
+6	,	_	PUNCT	FF	_	_	_	_	start_char=391395|end_char=391396
+7	protestò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=391397|end_char=391405
+8	di	_	ADP	E	_	_	_	_	start_char=391406|end_char=391408
+9	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=391409|end_char=391412
+10	capire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=391413|end_char=391419
+11	niente	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=391420|end_char=391426
+12	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=391426|end_char=391427
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_18
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = «Oh già!», riprese Pasotti, beffardo più di prima.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391429|end_char=391430
+2	Oh	_	INTJ	I	_	_	_	_	start_char=391430|end_char=391432
+3	già	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=391433|end_char=391436
+4	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=391436|end_char=391437
+5	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391437|end_char=391438
+6	,	_	PUNCT	FF	_	_	_	_	start_char=391438|end_char=391439
+7	riprese	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=391440|end_char=391447
+8	Pasotti	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=391448|end_char=391455
+9	,	_	PUNCT	FF	_	_	_	_	start_char=391455|end_char=391456
+10	beffardo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=391457|end_char=391465
+11	più	_	ADV	B	_	_	_	_	start_char=391466|end_char=391469
+12	di	_	ADP	E	_	_	_	_	start_char=391470|end_char=391472
+13	prima	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=391473|end_char=391478
+14	.	_	PUNCT	FS	_	_	_	_	start_char=391478|end_char=391479
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_19
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = «Lo informerò io il signore.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=391480|end_char=391481
+2	Lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=391481|end_char=391483
+3	informerò	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	start_char=391484|end_char=391493
+4	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=391494|end_char=391496
+5	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=391497|end_char=391499
+6	signore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=391500|end_char=391507
+7	.	_	PUNCT	FS	_	_	_	_	start_char=391507|end_char=391508
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_20
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Sappia dunque che il signor professore Gilardoni, il quale non è affatto amico Suo, si è recato in fine di dicembre a Lodi, e si è presentato alla marchesa con una copia senza valor legale di un preteso testamento del povero Suo nonno.
+1	Sappia	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=391509|end_char=391515
+2	dunque	_	ADV	B	_	_	_	_	start_char=391516|end_char=391522
+3	che	_	SCONJ	CS	_	_	_	_	start_char=391523|end_char=391526
+4	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=391527|end_char=391529
+5	signor	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391530|end_char=391536
+6	professore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391537|end_char=391547
+7	Gilardoni	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=391548|end_char=391557
+8	,	_	PUNCT	FF	_	_	_	_	start_char=391557|end_char=391558
+9	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=391559|end_char=391561
+10	quale	_	PRON	PR	Number=Sing|PronType=Rel	_	_	_	start_char=391562|end_char=391567
+11	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=391568|end_char=391571
+12	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=391572|end_char=391573
+13	affatto	_	ADV	B	_	_	_	_	start_char=391574|end_char=391581
+14	amico	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391582|end_char=391587
+15	Suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=391588|end_char=391591
+16	,	_	PUNCT	FF	_	_	_	_	start_char=391591|end_char=391592
+17	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=391593|end_char=391595
+18	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=391596|end_char=391597
+19	recato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=391598|end_char=391604
+20	in	_	ADP	E	_	_	_	_	start_char=391605|end_char=391607
+21	fine	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=391608|end_char=391612
+22	di	_	ADP	E	_	_	_	_	start_char=391613|end_char=391615
+23	dicembre	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391616|end_char=391624
+24	a	_	ADP	E	_	_	_	_	start_char=391625|end_char=391626
+25	Lodi	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=391627|end_char=391631
+26	,	_	PUNCT	FF	_	_	_	_	start_char=391631|end_char=391632
+27	e	_	CCONJ	CC	_	_	_	_	start_char=391633|end_char=391634
+28	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=391635|end_char=391637
+29	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=391638|end_char=391639
+30	presentato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=391640|end_char=391650
+31	alla	_	_	_	_	_	_	_	start_char=391651|end_char=391655
+32	marchesa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=391656|end_char=391664
+33	con	_	ADP	E	_	_	_	_	start_char=391665|end_char=391668
+34	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=391669|end_char=391672
+35	copia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=391673|end_char=391678
+36	senza	_	ADP	E	_	_	_	_	start_char=391679|end_char=391684
+37	valor	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391685|end_char=391690
+38	legale	_	ADJ	A	Number=Sing	_	_	_	start_char=391691|end_char=391697
+39	di	_	ADP	E	_	_	_	_	start_char=391698|end_char=391700
+40	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=391701|end_char=391703
+41	preteso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=391704|end_char=391711
+42	testamento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391712|end_char=391722
+43	del	_	_	_	_	_	_	_	start_char=391723|end_char=391726
+44	povero	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=391727|end_char=391733
+45	Suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=391734|end_char=391737
+46	nonno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=391738|end_char=391743
+47	.	_	PUNCT	FS	_	_	_	_	start_char=391743|end_char=391744
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_21
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = In questo testamento Ella, signor don Franco, è istituito erede universale con accompagnamento di offese atroci alla moglie e al figlio del testatore.
+1	In	_	ADP	E	_	_	_	_	start_char=391745|end_char=391747
+2	questo	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=391748|end_char=391754
+3	testamento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391755|end_char=391765
+4	Ella	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=391766|end_char=391770
+5	,	_	PUNCT	FF	_	_	_	_	start_char=391770|end_char=391771
+6	signor	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391772|end_char=391778
+7	don	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391779|end_char=391782
+8	Franco	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=391783|end_char=391789
+9	,	_	PUNCT	FF	_	_	_	_	start_char=391789|end_char=391790
+10	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=391791|end_char=391792
+11	istituito	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=391793|end_char=391802
+12	erede	_	NOUN	S	Number=Sing	_	_	_	start_char=391803|end_char=391808
+13	universale	_	ADJ	A	Number=Sing	_	_	_	start_char=391809|end_char=391819
+14	con	_	ADP	E	_	_	_	_	start_char=391820|end_char=391823
+15	accompagnamento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391824|end_char=391839
+16	di	_	ADP	E	_	_	_	_	start_char=391840|end_char=391842
+17	offese	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=391843|end_char=391849
+18	atroci	_	ADJ	A	Number=Plur	_	_	_	start_char=391850|end_char=391856
+19	alla	_	_	_	_	_	_	_	start_char=391857|end_char=391861
+20	moglie	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=391862|end_char=391868
+21	e	_	CCONJ	CC	_	_	_	_	start_char=391869|end_char=391870
+22	al	_	_	_	_	_	_	_	start_char=391871|end_char=391873
+23	figlio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391874|end_char=391880
+24	del	_	_	_	_	_	_	_	start_char=391881|end_char=391884
+25	testatore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=391885|end_char=391894
+26	.	_	PUNCT	FS	_	_	_	_	start_char=391894|end_char=391895
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_22
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Ecco che adesso Ella sa.
+1	Ecco	_	ADV	B	_	_	_	_	start_char=391896|end_char=391900
+2	che	_	SCONJ	CS	_	_	_	_	start_char=391901|end_char=391904
+3	adesso	_	ADV	B	_	_	_	_	start_char=391905|end_char=391911
+4	Ella	_	_	_	_	_	_	_	start_char=391912|end_char=391916
+5	sa	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=391917|end_char=391919
+6	.	_	PUNCT	FS	_	_	_	_	start_char=391919|end_char=391920
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_23
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Del resto il signor Gilardoni è stato fedele alla consegna, ha detto di esser venuto di suo capo, senza farne saper niente a voi.
+1	Del	_	_	_	_	_	_	_	start_char=391921|end_char=391924
+2	resto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391925|end_char=391930
+3	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=391931|end_char=391933
+4	signor	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391934|end_char=391940
+5	Gilardoni	_	PROPN	SP	_	_	_	_	start_char=391941|end_char=391950
+6	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=391951|end_char=391952
+7	stato	_	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=391953|end_char=391958
+8	fedele	_	ADJ	A	Number=Sing	_	_	_	start_char=391959|end_char=391965
+9	alla	_	_	_	_	_	_	_	start_char=391966|end_char=391970
+10	consegna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=391971|end_char=391979
+11	,	_	PUNCT	FF	_	_	_	_	start_char=391979|end_char=391980
+12	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=391981|end_char=391983
+13	detto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=391984|end_char=391989
+14	di	_	ADP	E	_	_	_	_	start_char=391990|end_char=391992
+15	esser	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=391993|end_char=391998
+16	venuto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=391999|end_char=392005
+17	di	_	ADP	E	_	_	_	_	start_char=392006|end_char=392008
+18	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=392009|end_char=392012
+19	capo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=392013|end_char=392017
+20	,	_	PUNCT	FF	_	_	_	_	start_char=392017|end_char=392018
+21	senza	_	ADP	E	_	_	_	_	start_char=392019|end_char=392024
+22	farne	_	_	_	_	_	_	_	start_char=392025|end_char=392030
+23	saper	_	VERB	V	VerbForm=Inf	_	_	_	start_char=392031|end_char=392036
+24	niente	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=392037|end_char=392043
+25	a	_	ADP	E	_	_	_	_	start_char=392044|end_char=392045
+26	voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=392046|end_char=392049
+27	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=392049|end_char=392050
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_24
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = »
+1	»	_	PUNCT	FB	_	_	_	_	SpacesAfter=\n\n|start_char=392050|end_char=392051
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_25
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Franco ascoltò, livido come un cadavere, sentendosi oscurar la vista e l'anima, raccogliendo tutte le sue forze per non smarrirsi, per dare una risposta degna.
+1	Franco	_	PROPN	SP	_	_	_	_	start_char=392053|end_char=392059
+2	ascoltò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=392060|end_char=392067
+3	,	_	PUNCT	FF	_	_	_	_	start_char=392067|end_char=392068
+4	livido	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=392069|end_char=392075
+5	come	_	ADP	E	_	_	_	_	start_char=392076|end_char=392080
+6	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=392081|end_char=392083
+7	cadavere	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=392084|end_char=392092
+8	,	_	PUNCT	FF	_	_	_	_	start_char=392092|end_char=392093
+9	sentendosi	_	_	_	_	_	_	_	start_char=392094|end_char=392104
+10	oscurar	_	VERB	V	VerbForm=Inf	_	_	_	start_char=392105|end_char=392112
+11	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=392113|end_char=392115
+12	vista	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392116|end_char=392121
+13	e	_	CCONJ	CC	_	_	_	_	start_char=392122|end_char=392123
+14	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=392124|end_char=392126
+15	anima	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=392126|end_char=392131
+16	,	_	PUNCT	FF	_	_	_	_	start_char=392131|end_char=392132
+17	raccogliendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=392133|end_char=392145
+18	tutte	_	DET	T	Gender=Fem|Number=Plur|PronType=Tot	_	_	_	start_char=392146|end_char=392151
+19	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=392152|end_char=392154
+20	sue	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=392155|end_char=392158
+21	forze	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=392159|end_char=392164
+22	per	_	ADP	E	_	_	_	_	start_char=392165|end_char=392168
+23	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=392169|end_char=392172
+24	smarrirsi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=392173|end_char=392182
+25	,	_	PUNCT	FF	_	_	_	_	start_char=392182|end_char=392183
+26	per	_	ADP	E	_	_	_	_	start_char=392184|end_char=392187
+27	dare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=392188|end_char=392192
+28	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=392193|end_char=392196
+29	risposta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392197|end_char=392205
+30	degna	_	_	_	_	_	_	_	SpaceAfter=No|start_char=392206|end_char=392211
+31	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=392211|end_char=392212
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_26
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = «Hai ragione», diss'egli.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=392214|end_char=392215
+2	Hai	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392215|end_char=392218
+3	ragione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=392219|end_char=392226
+4	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=392226|end_char=392227
+5	,	_	PUNCT	FF	_	_	_	_	start_char=392227|end_char=392228
+6	diss'	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=392229|end_char=392234
+7	egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=392234|end_char=392238
+8	.	_	PUNCT	FS	_	_	_	_	start_char=392238|end_char=392239
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_27
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = «Anche la nonna ha ragione.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=392240|end_char=392241
+2	Anche	_	ADV	B	_	_	_	_	start_char=392241|end_char=392246
+3	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=392247|end_char=392249
+4	nonna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392250|end_char=392255
+5	ha	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392256|end_char=392258
+6	ragione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=392259|end_char=392266
+7	.	_	PUNCT	FS	_	_	_	_	start_char=392266|end_char=392267
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_28
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Chi ha torto è il professor Gilardoni.
+1	Chi	_	PRON	PQ	PronType=Int	_	_	_	start_char=392268|end_char=392271
+2	ha	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392272|end_char=392274
+3	torto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=392275|end_char=392280
+4	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392281|end_char=392282
+5	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=392283|end_char=392285
+6	professor	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=392286|end_char=392295
+7	Gilardoni	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=392296|end_char=392305
+8	.	_	PUNCT	FS	_	_	_	_	start_char=392305|end_char=392306
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_29
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Egli mi ha mostrato quel testamento tre anni sono, la notte del mio matrimonio.
+1	Egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=392307|end_char=392311
+2	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=392312|end_char=392314
+3	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392315|end_char=392317
+4	mostrato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=392318|end_char=392326
+5	quel	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=392327|end_char=392331
+6	testamento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=392332|end_char=392342
+7	tre	_	NUM	N	NumType=Card	_	_	_	start_char=392343|end_char=392346
+8	anni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=392347|end_char=392351
+9	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=392352|end_char=392356
+10	,	_	PUNCT	FF	_	_	_	_	start_char=392356|end_char=392357
+11	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=392358|end_char=392360
+12	notte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392361|end_char=392366
+13	del	_	_	_	_	_	_	_	start_char=392367|end_char=392370
+14	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=392371|end_char=392374
+15	matrimonio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=392375|end_char=392385
+16	.	_	PUNCT	FS	_	_	_	_	start_char=392385|end_char=392386
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_30
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Gli ho detto di abbruciarlo e ho creduto che l'avesse fatto.
+1	Gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=392387|end_char=392390
+2	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392391|end_char=392393
+3	detto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=392394|end_char=392399
+4	di	_	ADP	E	_	_	_	_	start_char=392400|end_char=392402
+5	abbruciarlo	_	_	_	_	_	_	_	start_char=392403|end_char=392414
+6	e	_	CCONJ	CC	_	_	_	_	start_char=392415|end_char=392416
+7	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392417|end_char=392419
+8	creduto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=392420|end_char=392427
+9	che	_	SCONJ	CS	_	_	_	_	start_char=392428|end_char=392431
+10	l'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=392432|end_char=392434
+11	avesse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=392434|end_char=392440
+12	fatto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=392441|end_char=392446
+13	.	_	PUNCT	FS	_	_	_	_	start_char=392446|end_char=392447
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_31
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Se non lo ha fatto, mi ha ingannato.
+1	Se	_	SCONJ	CS	_	_	_	_	start_char=392448|end_char=392450
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=392451|end_char=392454
+3	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=392455|end_char=392457
+4	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392458|end_char=392460
+5	fatto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=392461|end_char=392466
+6	,	_	PUNCT	FF	_	_	_	_	start_char=392466|end_char=392467
+7	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=392468|end_char=392470
+8	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392471|end_char=392473
+9	ingannato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=392474|end_char=392483
+10	.	_	PUNCT	FS	_	_	_	_	start_char=392483|end_char=392484
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_32
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Se si è recato a Lodi per quella bella impresa che dice, ha commesso una indelicatezza e una stoltezza enorme.
+1	Se	_	SCONJ	CS	_	_	_	_	start_char=392485|end_char=392487
+2	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=392488|end_char=392490
+3	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392491|end_char=392492
+4	recato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=392493|end_char=392499
+5	a	_	ADP	E	_	_	_	_	start_char=392500|end_char=392501
+6	Lodi	_	PROPN	SP	_	_	_	_	start_char=392502|end_char=392506
+7	per	_	ADP	E	_	_	_	_	start_char=392507|end_char=392510
+8	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=392511|end_char=392517
+9	bella	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=392518|end_char=392523
+10	impresa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392524|end_char=392531
+11	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=392532|end_char=392535
+12	dice	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=392536|end_char=392540
+13	,	_	PUNCT	FF	_	_	_	_	start_char=392540|end_char=392541
+14	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392542|end_char=392544
+15	commesso	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=392545|end_char=392553
+16	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=392554|end_char=392557
+17	indelicatezza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392558|end_char=392571
+18	e	_	CCONJ	CC	_	_	_	_	start_char=392572|end_char=392573
+19	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=392574|end_char=392577
+20	stoltezza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392578|end_char=392587
+21	enorme	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=392588|end_char=392594
+22	.	_	PUNCT	FS	_	_	_	_	start_char=392594|end_char=392595
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_33
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Voi avete avuto ragione di pensar male di noi.
+1	Voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=392596|end_char=392599
+2	avete	_	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392600|end_char=392605
+3	avuto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=392606|end_char=392611
+4	ragione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392612|end_char=392619
+5	di	_	ADP	E	_	_	_	_	start_char=392620|end_char=392622
+6	pensar	_	VERB	V	VerbForm=Inf	_	_	_	start_char=392623|end_char=392629
+7	male	_	ADV	B	_	_	_	_	start_char=392630|end_char=392634
+8	di	_	ADP	E	_	_	_	_	start_char=392635|end_char=392637
+9	noi	_	PRON	PE	Number=Plur|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=392638|end_char=392641
+10	.	_	PUNCT	FS	_	_	_	_	start_char=392641|end_char=392642
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_34
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Ma sappilo bene!
+1	Ma	_	CCONJ	CC	_	_	_	_	start_char=392643|end_char=392645
+2	sappilo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392646|end_char=392653
+3	bene	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=392654|end_char=392658
+4	!	_	PUNCT	FS	_	_	_	_	start_char=392658|end_char=392659
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_35
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Io disprezzo il danaro della nonna quanto il danaro del Governo: e siccome questa signora ha la fortuna di essere la madre di mio padre, mai, capisci, mai, e adoperi ella pure contro di noi tutte le bassezze, tutte le perfidie che vuole, mai non userò una carta che la disonora!
+1	Io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=392660|end_char=392662
+2	disprezzo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392663|end_char=392672
+3	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=392673|end_char=392675
+4	danaro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=392676|end_char=392682
+5	della	_	_	_	_	_	_	_	start_char=392683|end_char=392688
+6	nonna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392689|end_char=392694
+7	quanto	_	ADV	B	_	_	_	_	start_char=392695|end_char=392701
+8	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=392702|end_char=392704
+9	danaro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=392705|end_char=392711
+10	del	_	_	_	_	_	_	_	start_char=392712|end_char=392715
+11	Governo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=392716|end_char=392723
+12	:	_	PUNCT	FC	_	_	_	_	start_char=392723|end_char=392724
+13	e	_	CCONJ	CC	_	_	_	_	start_char=392725|end_char=392726
+14	siccome	_	SCONJ	CS	_	_	_	_	start_char=392727|end_char=392734
+15	questa	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=392735|end_char=392741
+16	signora	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392742|end_char=392749
+17	ha	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392750|end_char=392752
+18	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=392753|end_char=392755
+19	fortuna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392756|end_char=392763
+20	di	_	ADP	E	_	_	_	_	start_char=392764|end_char=392766
+21	essere	_	AUX	V	VerbForm=Inf	_	_	_	start_char=392767|end_char=392773
+22	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=392774|end_char=392776
+23	madre	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392777|end_char=392782
+24	di	_	ADP	E	_	_	_	_	start_char=392783|end_char=392785
+25	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=392786|end_char=392789
+26	padre	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=392790|end_char=392795
+27	,	_	PUNCT	FF	_	_	_	_	start_char=392795|end_char=392796
+28	mai	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=392797|end_char=392800
+29	,	_	PUNCT	FF	_	_	_	_	start_char=392800|end_char=392801
+30	capisci	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=392802|end_char=392809
+31	,	_	PUNCT	FF	_	_	_	_	start_char=392809|end_char=392810
+32	mai	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=392811|end_char=392814
+33	,	_	PUNCT	FF	_	_	_	_	start_char=392814|end_char=392815
+34	e	_	CCONJ	CC	_	_	_	_	start_char=392816|end_char=392817
+35	adoperi	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392818|end_char=392825
+36	ella	_	_	_	_	_	_	_	start_char=392826|end_char=392830
+37	pure	_	ADV	B	_	_	_	_	start_char=392831|end_char=392835
+38	contro	_	ADP	E	_	_	_	_	start_char=392836|end_char=392842
+39	di	_	ADP	E	_	_	_	_	start_char=392843|end_char=392845
+40	noi	_	PRON	PE	Number=Plur|Person=1|PronType=Prs	_	_	_	start_char=392846|end_char=392849
+41	tutte	_	DET	DI	PronType=Ind	_	_	_	start_char=392850|end_char=392855
+42	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=392856|end_char=392858
+43	bassezze	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=392859|end_char=392867
+44	,	_	PUNCT	FF	_	_	_	_	start_char=392867|end_char=392868
+45	tutte	_	DET	DI	PronType=Ind	_	_	_	start_char=392869|end_char=392874
+46	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=392875|end_char=392877
+47	perfidie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=392878|end_char=392886
+48	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=392887|end_char=392890
+49	vuole	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=392891|end_char=392896
+50	,	_	PUNCT	FF	_	_	_	_	start_char=392896|end_char=392897
+51	mai	_	ADV	B	_	_	_	_	start_char=392898|end_char=392901
+52	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=392902|end_char=392905
+53	userò	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	start_char=392906|end_char=392911
+54	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=392912|end_char=392915
+55	carta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392916|end_char=392921
+56	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=392922|end_char=392925
+57	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=392926|end_char=392928
+58	disonora	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=392929|end_char=392937
+59	!	_	PUNCT	FS	_	_	_	_	start_char=392937|end_char=392938
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_36
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Sono troppo superiore a lei!
+1	Sono	_	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392939|end_char=392943
+2	troppo	_	ADV	B	_	_	_	_	start_char=392944|end_char=392950
+3	superiore	_	ADJ	A	Degree=Cmp|Number=Sing	_	_	_	start_char=392951|end_char=392960
+4	a	_	ADP	E	_	_	_	_	start_char=392961|end_char=392962
+5	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=392963|end_char=392966
+6	!	_	PUNCT	FS	_	_	_	_	start_char=392966|end_char=392967
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_37
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Va' e dille questo a nome mio e dille che si riprenda le sue offerte perché le sdegno!
+1	Va'	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392968|end_char=392971
+2	e	_	CCONJ	CC	_	_	_	_	start_char=392972|end_char=392973
+3	dille	_	_	_	_	_	_	_	start_char=392974|end_char=392979
+4	questo	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=392980|end_char=392986
+5	a	_	ADP	E	_	_	_	_	start_char=392987|end_char=392988
+6	nome	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=392989|end_char=392993
+7	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=392994|end_char=392997
+8	e	_	CCONJ	CC	_	_	_	_	start_char=392998|end_char=392999
+9	dille	_	_	_	_	_	_	_	start_char=393000|end_char=393005
+10	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=393006|end_char=393009
+11	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=393010|end_char=393012
+12	riprenda	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=393013|end_char=393021
+13	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=393022|end_char=393024
+14	sue	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=393025|end_char=393028
+15	offerte	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=393029|end_char=393036
+16	perché	_	SCONJ	CS	_	_	_	_	start_char=393037|end_char=393043
+17	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=393044|end_char=393046
+18	sdegno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=393047|end_char=393053
+19	!	_	PUNCT	FS	_	_	_	_	start_char=393053|end_char=393054
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_38
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Buona sera.
+1	Buona	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=393055|end_char=393060
+2	sera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=393061|end_char=393065
+3	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=393065|end_char=393066
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_39
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = »
+1	»	_	PUNCT	FB	_	_	_	_	SpacesAfter=\n\n|start_char=393066|end_char=393067
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_40
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Lasciò Pasotti sbalordito e se n'andò tutto tremante di sovreccitazione e di collera, dimenticò di ripigliar la sua lanterna, discese al buio, a gran passi, non sapendo né curando affatto dove mettesse i piedi, esclamando di tempo in tempo, buttando fuori ciò che aveva dentro di rovente: pezzi d'ira contro il Gilardoni, pezzi di accusa contro Luisa.
+1	Lasciò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=393069|end_char=393075
+2	Pasotti	_	PROPN	SP	_	_	_	_	start_char=393076|end_char=393083
+3	sbalordito	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=393084|end_char=393094
+4	e	_	CCONJ	CC	_	_	_	_	start_char=393095|end_char=393096
+5	se	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=393097|end_char=393099
+6	n'	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=393100|end_char=393102
+7	andò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=393102|end_char=393106
+8	tutto	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=393107|end_char=393112
+9	tremante	_	ADJ	A	Number=Sing	_	_	_	start_char=393113|end_char=393121
+10	di	_	ADP	E	_	_	_	_	start_char=393122|end_char=393124
+11	sovreccitazione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=393125|end_char=393140
+12	e	_	CCONJ	CC	_	_	_	_	start_char=393141|end_char=393142
+13	di	_	ADP	E	_	_	_	_	start_char=393143|end_char=393145
+14	collera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=393146|end_char=393153
+15	,	_	PUNCT	FF	_	_	_	_	start_char=393153|end_char=393154
+16	dimenticò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=393155|end_char=393164
+17	di	_	ADP	E	_	_	_	_	start_char=393165|end_char=393167
+18	ripigliar	_	VERB	V	VerbForm=Inf	_	_	_	start_char=393168|end_char=393177
+19	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=393178|end_char=393180
+20	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=393181|end_char=393184
+21	lanterna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=393185|end_char=393193
+22	,	_	PUNCT	FF	_	_	_	_	start_char=393193|end_char=393194
+23	discese	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=393195|end_char=393202
+24	al	_	_	_	_	_	_	_	start_char=393203|end_char=393205
+25	buio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=393206|end_char=393210
+26	,	_	PUNCT	FF	_	_	_	_	start_char=393210|end_char=393211
+27	a	_	ADP	E	_	_	_	_	start_char=393212|end_char=393213
+28	gran	_	ADJ	A	_	_	_	_	start_char=393214|end_char=393218
+29	passi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=393219|end_char=393224
+30	,	_	PUNCT	FF	_	_	_	_	start_char=393224|end_char=393225
+31	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=393226|end_char=393229
+32	sapendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=393230|end_char=393237
+33	né	_	ADV	BN	PronType=Neg	_	_	_	start_char=393238|end_char=393240
+34	curando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=393241|end_char=393248
+35	affatto	_	ADV	B	_	_	_	_	start_char=393249|end_char=393256
+36	dove	_	ADV	B	_	_	_	_	start_char=393257|end_char=393261
+37	mettesse	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=393262|end_char=393270
+38	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=393271|end_char=393272
+39	piedi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=393273|end_char=393278
+40	,	_	PUNCT	FF	_	_	_	_	start_char=393278|end_char=393279
+41	esclamando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=393280|end_char=393290
+42	di	_	ADP	E	_	_	_	_	start_char=393291|end_char=393293
+43	tempo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=393294|end_char=393299
+44	in	_	ADP	E	_	_	_	_	start_char=393300|end_char=393302
+45	tempo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=393303|end_char=393308
+46	,	_	PUNCT	FF	_	_	_	_	start_char=393308|end_char=393309
+47	buttando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=393310|end_char=393318
+48	fuori	_	ADV	B	_	_	_	_	start_char=393319|end_char=393324
+49	ciò	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=393325|end_char=393328
+50	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=393329|end_char=393332
+51	aveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=393333|end_char=393338
+52	dentro	_	ADV	B	_	_	_	_	start_char=393339|end_char=393345
+53	di	_	ADP	E	_	_	_	_	start_char=393346|end_char=393348
+54	rovente	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=393349|end_char=393356
+55	:	_	PUNCT	FC	_	_	_	_	start_char=393356|end_char=393357
+56	pezzi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=393358|end_char=393363
+57	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=393364|end_char=393366
+58	ira	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=393366|end_char=393369
+59	contro	_	ADP	E	_	_	_	_	start_char=393370|end_char=393376
+60	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=393377|end_char=393379
+61	Gilardoni	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=393380|end_char=393389
+62	,	_	PUNCT	FF	_	_	_	_	start_char=393389|end_char=393390
+63	pezzi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=393391|end_char=393396
+64	di	_	ADP	E	_	_	_	_	start_char=393397|end_char=393399
+65	accusa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=393400|end_char=393406
+66	contro	_	ADP	E	_	_	_	_	start_char=393407|end_char=393413
+67	Luisa	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=393414|end_char=393419
+68	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=393419|end_char=393420
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_41
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Lo zio era andato a letto per tempo e Luisa aspettava Franco nel salottino con Maria che teneva alzata perché suo padre potesse averla un poco, l'ultima sera.
+1	Lo	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=393422|end_char=393424
+2	zio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=393425|end_char=393428
+3	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=393429|end_char=393432
+4	andato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=393433|end_char=393439
+5	a	_	ADP	E	_	_	_	_	start_char=393440|end_char=393441
+6	letto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=393442|end_char=393447
+7	per	_	ADP	E	_	_	_	_	start_char=393448|end_char=393451
+8	tempo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=393452|end_char=393457
+9	e	_	CCONJ	CC	_	_	_	_	start_char=393458|end_char=393459
+10	Luisa	_	PROPN	SP	_	_	_	_	start_char=393460|end_char=393465
+11	aspettava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=393466|end_char=393475
+12	Franco	_	PROPN	SP	_	_	_	_	start_char=393476|end_char=393482
+13	nel	_	_	_	_	_	_	_	start_char=393483|end_char=393486
+14	salottino	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=393487|end_char=393496
+15	con	_	ADP	E	_	_	_	_	start_char=393497|end_char=393500
+16	Maria	_	PROPN	SP	_	_	_	_	start_char=393501|end_char=393506
+17	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=393507|end_char=393510
+18	teneva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=393511|end_char=393517
+19	alzata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=393518|end_char=393524
+20	perché	_	SCONJ	CS	_	_	_	_	start_char=393525|end_char=393531
+21	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=393532|end_char=393535
+22	padre	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=393536|end_char=393541
+23	potesse	_	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=393542|end_char=393549
+24	averla	_	_	_	_	_	_	_	start_char=393550|end_char=393556
+25	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=393557|end_char=393559
+26	poco	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=393560|end_char=393564
+27	,	_	PUNCT	FF	_	_	_	_	start_char=393564|end_char=393565
+28	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=393566|end_char=393568
+29	ultima	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=393568|end_char=393574
+30	sera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=393575|end_char=393579
+31	.	_	PUNCT	FS	_	_	_	_	start_char=393579|end_char=393580
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_42
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = La povera Ombretta Pipì aveva cominciato presto a infastidirsi, a far una boccuccia grossa, un visetto piagnoloso, a domandar con una vocina dolente:
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=393581|end_char=393583
+2	povera	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=393584|end_char=393590
+3	Ombretta	_	PROPN	SP	_	_	_	_	start_char=393591|end_char=393599
+4	Pipì	_	PROPN	SP	_	_	_	_	start_char=393600|end_char=393604
+5	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=393605|end_char=393610
+6	cominciato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=393611|end_char=393621
+7	presto	_	ADV	B	_	_	_	_	start_char=393622|end_char=393628
+8	a	_	ADP	E	_	_	_	_	start_char=393629|end_char=393630
+9	infastidirsi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=393631|end_char=393643
+10	,	_	PUNCT	FF	_	_	_	_	start_char=393643|end_char=393644
+11	a	_	ADP	E	_	_	_	_	start_char=393645|end_char=393646
+12	far	_	VERB	V	VerbForm=Inf	_	_	_	start_char=393647|end_char=393650
+13	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=393651|end_char=393654
+14	boccuccia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=393655|end_char=393664
+15	grossa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=393665|end_char=393671
+16	,	_	PUNCT	FF	_	_	_	_	start_char=393671|end_char=393672
+17	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=393673|end_char=393675
+18	visetto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=393676|end_char=393683
+19	piagnoloso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=393684|end_char=393694
+20	,	_	PUNCT	FF	_	_	_	_	start_char=393694|end_char=393695
+21	a	_	ADP	E	_	_	_	_	start_char=393696|end_char=393697
+22	domandar	_	VERB	V	VerbForm=Inf	_	_	_	start_char=393698|end_char=393706
+23	con	_	ADP	E	_	_	_	_	start_char=393707|end_char=393710
+24	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=393711|end_char=393714
+25	vocina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=393715|end_char=393721
+26	dolente	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=393722|end_char=393729
+27	:	_	PUNCT	FC	_	_	_	_	start_char=393729|end_char=393730
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_43
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = «Quando viene, papà?».
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=393731|end_char=393732
+2	Quando	_	ADV	B	_	_	_	_	start_char=393732|end_char=393738
+3	viene	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=393739|end_char=393744
+4	,	_	PUNCT	FF	_	_	_	_	start_char=393744|end_char=393745
+5	papà	_	NOUN	S	Gender=Masc	_	_	_	SpaceAfter=No|start_char=393746|end_char=393750
+6	?	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=393750|end_char=393751
+7	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=393751|end_char=393752
+8	.	_	PUNCT	FS	_	_	_	_	start_char=393752|end_char=393753
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_44
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Ma ell'aveva una mamma unica al mondo per consolare gli afflitti.
+1	Ma	_	CCONJ	CC	_	_	_	_	start_char=393754|end_char=393756
+2	ell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=393757|end_char=393761
+3	aveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=393761|end_char=393766
+4	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=393767|end_char=393770
+5	mamma	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=393771|end_char=393776
+6	unica	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=393777|end_char=393782
+7	al	_	_	_	_	_	_	_	start_char=393783|end_char=393785
+8	mondo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=393786|end_char=393791
+9	per	_	ADP	E	_	_	_	_	start_char=393792|end_char=393795
+10	consolare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=393796|end_char=393805
+11	gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=393806|end_char=393809
+12	afflitti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=393810|end_char=393818
+13	.	_	PUNCT	FS	_	_	_	_	start_char=393818|end_char=393819
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q2_45
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q2
+# quinto = 2
+# text = Ombrettina non teneva da un pezzo scarpettine sane e le scarpettine, anche in Valsolda, costavano denari.
+1	Ombrettina	_	PROPN	SP	_	_	_	_	start_char=393820|end_char=393830
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=393831|end_char=393834
+3	teneva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=393835|end_char=393841
+4	da	_	ADP	E	_	_	_	_	start_char=393842|end_char=393844
+5	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=393845|end_char=393847
+6	pezzo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=393848|end_char=393853
+7	scarpettine	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=393854|end_char=393865
+8	sane	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	start_char=393866|end_char=393870
+9	e	_	CCONJ	CC	_	_	_	_	start_char=393871|end_char=393872
+10	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=393873|end_char=393875
+11	scarpettine	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=393876|end_char=393887
+12	,	_	PUNCT	FF	_	_	_	_	start_char=393887|end_char=393888
+13	anche	_	ADV	B	_	_	_	_	start_char=393889|end_char=393894
+14	in	_	ADP	E	_	_	_	_	start_char=393895|end_char=393897
+15	Valsolda	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=393898|end_char=393906
+16	,	_	PUNCT	FF	_	_	_	_	start_char=393906|end_char=393907
+17	costavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=393908|end_char=393917
+18	denari	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=393918|end_char=393924
+19	.	_	PUNCT	FS	_	_	_	_	start_char=393924|end_char=393925
+

@@ -1,0 +1,864 @@
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_1
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Finalmente un gruppo di persone comparve sulla svolta.
+1	Finalmente	_	ADV	B	_	_	_	_	start_char=1164674|end_char=1164684
+2	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1164685|end_char=1164687
+3	gruppo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1164688|end_char=1164694
+4	di	_	ADP	E	_	_	_	_	start_char=1164695|end_char=1164697
+5	persone	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=1164698|end_char=1164705
+6	comparve	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1164706|end_char=1164714
+7	sulla	_	_	_	_	_	_	_	start_char=1164715|end_char=1164720
+8	svolta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1164721|end_char=1164727
+9	.	_	PUNCT	FS	_	_	_	_	start_char=1164727|end_char=1164728
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_2
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Luisa distinse la portantina, dietro la portantina Pasotti e don Giuseppe, poi, ultimi, i due barcaiuoli della marchesa.
+1	Luisa	_	PROPN	SP	_	_	_	_	start_char=1164729|end_char=1164734
+2	distinse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1164735|end_char=1164743
+3	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1164744|end_char=1164746
+4	portantina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1164747|end_char=1164757
+5	,	_	PUNCT	FF	_	_	_	_	start_char=1164757|end_char=1164758
+6	dietro	_	ADP	E	_	_	_	_	start_char=1164759|end_char=1164765
+7	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1164766|end_char=1164768
+8	portantina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1164769|end_char=1164779
+9	Pasotti	_	PROPN	SP	_	_	_	_	start_char=1164780|end_char=1164787
+10	e	_	CCONJ	CC	_	_	_	_	start_char=1164788|end_char=1164789
+11	don	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1164790|end_char=1164793
+12	Giuseppe	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1164794|end_char=1164802
+13	,	_	PUNCT	FF	_	_	_	_	start_char=1164802|end_char=1164803
+14	poi	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1164804|end_char=1164807
+15	,	_	PUNCT	FF	_	_	_	_	start_char=1164807|end_char=1164808
+16	ultimi	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=1164809|end_char=1164815
+17	,	_	PUNCT	FF	_	_	_	_	start_char=1164815|end_char=1164816
+18	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=1164817|end_char=1164818
+19	due	_	NUM	N	NumType=Card	_	_	_	start_char=1164819|end_char=1164822
+20	barcaiuoli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1164823|end_char=1164833
+21	della	_	_	_	_	_	_	_	start_char=1164834|end_char=1164839
+22	marchesa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1164840|end_char=1164848
+23	.	_	PUNCT	FS	_	_	_	_	start_char=1164848|end_char=1164849
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_3
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Non si mosse ancora, seguì con gli occhi la portantina che avanzava molto lentamente e chiuse l'ombrello perché non pioveva quasi più.
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1164850|end_char=1164853
+2	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=1164854|end_char=1164856
+3	mosse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1164857|end_char=1164862
+4	ancora	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1164863|end_char=1164869
+5	,	_	PUNCT	FF	_	_	_	_	start_char=1164869|end_char=1164870
+6	seguì	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1164871|end_char=1164876
+7	con	_	ADP	E	_	_	_	_	start_char=1164877|end_char=1164880
+8	gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=1164881|end_char=1164884
+9	occhi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1164885|end_char=1164890
+10	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1164891|end_char=1164893
+11	portantina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1164894|end_char=1164904
+12	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=1164905|end_char=1164908
+13	avanzava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1164909|end_char=1164917
+14	molto	_	ADV	B	_	_	_	_	start_char=1164918|end_char=1164923
+15	lentamente	_	ADV	B	_	_	_	_	start_char=1164924|end_char=1164934
+16	e	_	CCONJ	CC	_	_	_	_	start_char=1164935|end_char=1164936
+17	chiuse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1164937|end_char=1164943
+18	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=1164944|end_char=1164946
+19	ombrello	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1164946|end_char=1164954
+20	perché	_	SCONJ	CS	_	_	_	_	start_char=1164955|end_char=1164961
+21	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1164962|end_char=1164965
+22	pioveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1164966|end_char=1164973
+23	quasi	_	ADV	B	_	_	_	_	start_char=1164974|end_char=1164979
+24	più	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1164980|end_char=1164983
+25	.	_	PUNCT	FS	_	_	_	_	start_char=1164983|end_char=1164984
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_4
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Ricomparvero cinque o sei ragazzi d'Albogasio.
+1	Ricomparvero	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1164985|end_char=1164997
+2	cinque	_	NUM	N	NumType=Card	_	_	_	start_char=1164998|end_char=1165004
+3	o	_	CCONJ	CC	_	_	_	_	start_char=1165005|end_char=1165006
+4	sei	_	_	_	_	_	_	_	start_char=1165007|end_char=1165010
+5	ragazzi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1165011|end_char=1165018
+6	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=1165019|end_char=1165021
+7	Albogasio	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1165021|end_char=1165030
+8	.	_	PUNCT	FS	_	_	_	_	start_char=1165030|end_char=1165031
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_5
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Ella disse loro bruscamente di andarsene.
+1	Ella	_	_	_	_	_	_	_	start_char=1165032|end_char=1165036
+2	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1165037|end_char=1165042
+3	loro	_	PRON	PE	Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=1165043|end_char=1165047
+4	bruscamente	_	ADV	B	_	_	_	_	start_char=1165048|end_char=1165059
+5	di	_	ADP	E	_	_	_	_	start_char=1165060|end_char=1165062
+6	andarsene	_	_	_	_	_	_	_	SpaceAfter=No|start_char=1165063|end_char=1165072
+7	.	_	PUNCT	FS	_	_	_	_	start_char=1165072|end_char=1165073
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_6
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Indugiavano a obbedire ma un improvviso scroscio di pioggia, senza vento né tuoni, li pose in fuga.
+1	Indugiavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1165074|end_char=1165085
+2	a	_	ADP	E	_	_	_	_	start_char=1165086|end_char=1165087
+3	obbedire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=1165088|end_char=1165096
+4	ma	_	CCONJ	CC	_	_	_	_	start_char=1165097|end_char=1165099
+5	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1165100|end_char=1165102
+6	improvviso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=1165103|end_char=1165113
+7	scroscio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1165114|end_char=1165122
+8	di	_	ADP	E	_	_	_	_	start_char=1165123|end_char=1165125
+9	pioggia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165126|end_char=1165133
+10	,	_	PUNCT	FF	_	_	_	_	start_char=1165133|end_char=1165134
+11	senza	_	ADP	E	_	_	_	_	start_char=1165135|end_char=1165140
+12	vento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1165141|end_char=1165146
+13	né	_	ADV	BN	PronType=Neg	_	_	_	start_char=1165147|end_char=1165149
+14	tuoni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=1165150|end_char=1165155
+15	,	_	PUNCT	FF	_	_	_	_	start_char=1165155|end_char=1165156
+16	li	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=1165157|end_char=1165159
+17	pose	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1165160|end_char=1165164
+18	in	_	ADP	E	_	_	_	_	start_char=1165165|end_char=1165167
+19	fuga	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165168|end_char=1165172
+20	.	_	PUNCT	FS	_	_	_	_	start_char=1165172|end_char=1165173
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_7
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = La portantina toccava allora il piede della scalinata.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1165174|end_char=1165176
+2	portantina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1165177|end_char=1165187
+3	toccava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1165188|end_char=1165195
+4	allora	_	ADV	B	_	_	_	_	start_char=1165196|end_char=1165202
+5	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1165203|end_char=1165205
+6	piede	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1165206|end_char=1165211
+7	della	_	_	_	_	_	_	_	start_char=1165212|end_char=1165217
+8	scalinata	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165218|end_char=1165227
+9	.	_	PUNCT	FS	_	_	_	_	start_char=1165227|end_char=1165228
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_8
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Luisa si mosse.
+1	Luisa	_	PROPN	SP	_	_	_	_	start_char=1165229|end_char=1165234
+2	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=1165235|end_char=1165237
+3	mosse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1165238|end_char=1165243
+4	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=1165243|end_char=1165244
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_9
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Aveva l'occhio freddo, la persona eretta.
+1	Aveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1165246|end_char=1165251
+2	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=1165252|end_char=1165254
+3	occhio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1165254|end_char=1165260
+4	freddo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165261|end_char=1165267
+5	,	_	PUNCT	FF	_	_	_	_	start_char=1165267|end_char=1165268
+6	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1165269|end_char=1165271
+7	persona	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1165272|end_char=1165279
+8	eretta	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165280|end_char=1165286
+9	.	_	PUNCT	FS	_	_	_	_	start_char=1165286|end_char=1165287
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_10
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Raccolta in un solo pensiero, disprezzò la pioggia scrosciante che le batteva sul capo e sulle spalle, che la cingeva d'un torbido velo e di strepito.
+1	Raccolta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1165288|end_char=1165296
+2	in	_	ADP	E	_	_	_	_	start_char=1165297|end_char=1165299
+3	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1165300|end_char=1165302
+4	solo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=1165303|end_char=1165307
+5	pensiero	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165308|end_char=1165316
+6	,	_	PUNCT	FF	_	_	_	_	start_char=1165316|end_char=1165317
+7	disprezzò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1165318|end_char=1165327
+8	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1165328|end_char=1165330
+9	pioggia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1165331|end_char=1165338
+10	scrosciante	_	ADJ	A	Number=Sing	_	_	_	start_char=1165339|end_char=1165350
+11	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=1165351|end_char=1165354
+12	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=1165355|end_char=1165357
+13	batteva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1165358|end_char=1165365
+14	sul	_	_	_	_	_	_	_	start_char=1165366|end_char=1165369
+15	capo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1165370|end_char=1165374
+16	e	_	CCONJ	CC	_	_	_	_	start_char=1165375|end_char=1165376
+17	sulle	_	_	_	_	_	_	_	start_char=1165377|end_char=1165382
+18	spalle	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1165383|end_char=1165389
+19	,	_	PUNCT	FF	_	_	_	_	start_char=1165389|end_char=1165390
+20	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=1165391|end_char=1165394
+21	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=1165395|end_char=1165397
+22	cingeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1165398|end_char=1165405
+23	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=1165406|end_char=1165408
+24	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1165408|end_char=1165410
+25	torbido	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=1165411|end_char=1165418
+26	velo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1165419|end_char=1165423
+27	e	_	CCONJ	CC	_	_	_	_	start_char=1165424|end_char=1165425
+28	di	_	ADP	E	_	_	_	_	start_char=1165426|end_char=1165428
+29	strepito	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165429|end_char=1165437
+30	.	_	PUNCT	FS	_	_	_	_	start_char=1165437|end_char=1165438
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_11
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Le piaceva, forse, quella passione delle cose intorno alla sua propria.
+1	Le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=1165439|end_char=1165441
+2	piaceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1165442|end_char=1165449
+3	,	_	PUNCT	FF	_	_	_	_	start_char=1165449|end_char=1165450
+4	forse	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1165451|end_char=1165456
+5	,	_	PUNCT	FF	_	_	_	_	start_char=1165456|end_char=1165457
+6	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=1165458|end_char=1165464
+7	passione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1165465|end_char=1165473
+8	delle	_	_	_	_	_	_	_	start_char=1165474|end_char=1165479
+9	cose	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=1165480|end_char=1165484
+10	intorno	_	ADV	B	_	_	_	_	start_char=1165485|end_char=1165492
+11	alla	_	_	_	_	_	_	_	start_char=1165493|end_char=1165497
+12	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=1165498|end_char=1165501
+13	propria	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=1165502|end_char=1165509
+14	.	_	PUNCT	FS	_	_	_	_	start_char=1165509|end_char=1165510
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_12
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Discendeva lenta lenta, con l'ombrello chiuso, stringendone forte il manico, come fosse stato la impugnatura d'un'arma.
+1	Discendeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1165511|end_char=1165521
+2	lenta	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=1165522|end_char=1165527
+3	lenta	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165528|end_char=1165533
+4	,	_	PUNCT	FF	_	_	_	_	start_char=1165533|end_char=1165534
+5	con	_	ADP	E	_	_	_	_	start_char=1165535|end_char=1165538
+6	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=1165539|end_char=1165541
+7	ombrello	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1165541|end_char=1165549
+8	chiuso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165550|end_char=1165556
+9	,	_	PUNCT	FF	_	_	_	_	start_char=1165556|end_char=1165557
+10	stringendone	_	_	_	_	_	_	_	start_char=1165558|end_char=1165570
+11	forte	_	ADJ	A	Number=Sing	_	_	_	start_char=1165571|end_char=1165576
+12	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1165577|end_char=1165579
+13	manico	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165580|end_char=1165586
+14	,	_	PUNCT	FF	_	_	_	_	start_char=1165586|end_char=1165587
+15	come	_	SCONJ	CS	_	_	_	_	start_char=1165588|end_char=1165592
+16	fosse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1165593|end_char=1165598
+17	stato	_	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=1165599|end_char=1165604
+18	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1165605|end_char=1165607
+19	impugnatura	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1165608|end_char=1165619
+20	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=1165620|end_char=1165622
+21	un'	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=1165622|end_char=1165625
+22	arma	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165625|end_char=1165629
+23	.	_	PUNCT	FS	_	_	_	_	start_char=1165629|end_char=1165630
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_13
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = La scalinata è un po' tortuosa, bisogna scendere alquanti scalini prima di vederne il fondo.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1165631|end_char=1165633
+2	scalinata	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1165634|end_char=1165643
+3	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1165644|end_char=1165645
+4	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1165646|end_char=1165648
+5	po'	_	ADV	B	_	_	_	_	start_char=1165649|end_char=1165652
+6	tortuosa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165653|end_char=1165661
+7	,	_	PUNCT	FF	_	_	_	_	start_char=1165661|end_char=1165662
+8	bisogna	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1165663|end_char=1165670
+9	scendere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=1165671|end_char=1165679
+10	alquanti	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=1165680|end_char=1165688
+11	scalini	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1165689|end_char=1165696
+12	prima	_	ADV	B	_	_	_	_	start_char=1165697|end_char=1165702
+13	di	_	ADP	E	_	_	_	_	start_char=1165703|end_char=1165705
+14	vederne	_	_	_	_	_	_	_	start_char=1165706|end_char=1165713
+15	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1165714|end_char=1165716
+16	fondo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165717|end_char=1165722
+17	.	_	PUNCT	FS	_	_	_	_	start_char=1165722|end_char=1165723
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_14
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Giunta sulla svolta, scorse la portantina, ferma.
+1	Giunta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1165724|end_char=1165730
+2	sulla	_	_	_	_	_	_	_	start_char=1165731|end_char=1165736
+3	svolta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165737|end_char=1165743
+4	,	_	PUNCT	FF	_	_	_	_	start_char=1165743|end_char=1165744
+5	scorse	_	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=1165745|end_char=1165751
+6	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1165752|end_char=1165754
+7	portantina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165755|end_char=1165765
+8	,	_	PUNCT	FF	_	_	_	_	start_char=1165765|end_char=1165766
+9	ferma	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1165767|end_char=1165772
+10	.	_	PUNCT	FS	_	_	_	_	start_char=1165772|end_char=1165773
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_15
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = I due barcaiuoli pigliavano il posto di due portatori.
+1	I	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=1165774|end_char=1165775
+2	due	_	NUM	N	NumType=Card	_	_	_	start_char=1165776|end_char=1165779
+3	barcaiuoli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1165780|end_char=1165790
+4	pigliavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1165791|end_char=1165801
+5	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1165802|end_char=1165804
+6	posto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1165805|end_char=1165810
+7	di	_	ADP	E	_	_	_	_	start_char=1165811|end_char=1165813
+8	due	_	NUM	N	NumType=Card	_	_	_	start_char=1165814|end_char=1165817
+9	portatori	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=1165818|end_char=1165827
+10	.	_	PUNCT	FS	_	_	_	_	start_char=1165827|end_char=1165828
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_16
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Luisa discese fin dove si spandono sopra la scalinata i rami d'un gran noce.
+1	Luisa	_	PROPN	SP	_	_	_	_	start_char=1165829|end_char=1165834
+2	discese	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1165835|end_char=1165842
+3	fin	_	ADP	E	_	_	_	_	start_char=1165843|end_char=1165846
+4	dove	_	ADV	B	_	_	_	_	start_char=1165847|end_char=1165851
+5	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=1165852|end_char=1165854
+6	spandono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1165855|end_char=1165863
+7	sopra	_	ADP	E	_	_	_	_	start_char=1165864|end_char=1165869
+8	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1165870|end_char=1165872
+9	scalinata	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1165873|end_char=1165882
+10	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=1165883|end_char=1165884
+11	rami	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1165885|end_char=1165889
+12	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=1165890|end_char=1165892
+13	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1165892|end_char=1165894
+14	gran	_	ADJ	A	Number=Sing	_	_	_	start_char=1165895|end_char=1165899
+15	noce	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1165900|end_char=1165904
+16	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=1165904|end_char=1165905
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_17
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Lì si fermò, proprio nel momento in cui i portatori della marchesa cominciavano a salire.
+1	Lì	_	ADV	B	_	_	_	_	start_char=1165907|end_char=1165909
+2	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=1165910|end_char=1165912
+3	fermò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1165913|end_char=1165918
+4	,	_	PUNCT	FF	_	_	_	_	start_char=1165918|end_char=1165919
+5	proprio	_	ADV	B	_	_	_	_	start_char=1165920|end_char=1165927
+6	nel	_	_	_	_	_	_	_	start_char=1165928|end_char=1165931
+7	momento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1165932|end_char=1165939
+8	in	_	ADP	E	_	_	_	_	start_char=1165940|end_char=1165942
+9	cui	_	PRON	PR	PronType=Rel	_	_	_	start_char=1165943|end_char=1165946
+10	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=1165947|end_char=1165948
+11	portatori	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1165949|end_char=1165958
+12	della	_	_	_	_	_	_	_	start_char=1165959|end_char=1165964
+13	marchesa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1165965|end_char=1165973
+14	cominciavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1165974|end_char=1165986
+15	a	_	ADP	E	_	_	_	_	start_char=1165987|end_char=1165988
+16	salire	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=1165989|end_char=1165995
+17	.	_	PUNCT	FS	_	_	_	_	start_char=1165995|end_char=1165996
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_18
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Tutto andava bene.
+1	Tutto	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=1165997|end_char=1166002
+2	andava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1166003|end_char=1166009
+3	bene	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1166010|end_char=1166014
+4	.	_	PUNCT	FS	_	_	_	_	start_char=1166014|end_char=1166015
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_19
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Pasotti e don Giuseppe, salendo dietro la portantina con l'ombrello aperto, non potevano vederla.
+1	Pasotti	_	PROPN	SP	_	_	_	_	start_char=1166016|end_char=1166023
+2	e	_	CCONJ	CC	_	_	_	_	start_char=1166024|end_char=1166025
+3	don	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1166026|end_char=1166029
+4	Giuseppe	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1166030|end_char=1166038
+5	,	_	PUNCT	FF	_	_	_	_	start_char=1166038|end_char=1166039
+6	salendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=1166040|end_char=1166047
+7	dietro	_	ADP	E	_	_	_	_	start_char=1166048|end_char=1166054
+8	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1166055|end_char=1166057
+9	portantina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1166058|end_char=1166068
+10	con	_	ADP	E	_	_	_	_	start_char=1166069|end_char=1166072
+11	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=1166073|end_char=1166075
+12	ombrello	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1166075|end_char=1166083
+13	aperto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1166084|end_char=1166090
+14	,	_	PUNCT	FF	_	_	_	_	start_char=1166090|end_char=1166091
+15	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1166092|end_char=1166095
+16	potevano	_	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1166096|end_char=1166104
+17	vederla	_	_	_	_	_	_	_	SpaceAfter=No|start_char=1166105|end_char=1166112
+18	.	_	PUNCT	FS	_	_	_	_	start_char=1166112|end_char=1166113
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_20
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = I portatori, giunti che fossero a lei, bisognava che si fermassero, che si facessero da banda per lasciarle il passo.
+1	I	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=1166114|end_char=1166115
+2	portatori	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=1166116|end_char=1166125
+3	,	_	PUNCT	FF	_	_	_	_	start_char=1166125|end_char=1166126
+4	giunti	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=1166127|end_char=1166133
+5	che	_	SCONJ	CS	_	_	_	_	start_char=1166134|end_char=1166137
+6	fossero	_	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1166138|end_char=1166145
+7	a	_	ADP	E	_	_	_	_	start_char=1166146|end_char=1166147
+8	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=1166148|end_char=1166151
+9	,	_	PUNCT	FF	_	_	_	_	start_char=1166151|end_char=1166152
+10	bisognava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1166153|end_char=1166162
+11	che	_	SCONJ	CS	_	_	_	_	start_char=1166163|end_char=1166166
+12	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=1166167|end_char=1166169
+13	fermassero	_	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1166170|end_char=1166180
+14	,	_	PUNCT	FF	_	_	_	_	start_char=1166180|end_char=1166181
+15	che	_	SCONJ	CS	_	_	_	_	start_char=1166182|end_char=1166185
+16	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=1166186|end_char=1166188
+17	facessero	_	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1166189|end_char=1166198
+18	da	_	ADP	E	_	_	_	_	start_char=1166199|end_char=1166201
+19	banda	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1166202|end_char=1166207
+20	per	_	ADP	E	_	_	_	_	start_char=1166208|end_char=1166211
+21	lasciarle	_	_	_	_	_	_	_	start_char=1166212|end_char=1166221
+22	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1166222|end_char=1166224
+23	passo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1166225|end_char=1166230
+24	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=1166230|end_char=1166231
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_21
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Quando si avvicinarono, riconobbe i due ch'erano alla testa della portantina, un fratello d'Ismaele e un cugino della Veronica.
+1	Quando	_	SCONJ	CS	_	_	_	_	start_char=1166233|end_char=1166239
+2	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=1166240|end_char=1166242
+3	avvicinarono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1166243|end_char=1166255
+4	,	_	PUNCT	FF	_	_	_	_	start_char=1166255|end_char=1166256
+5	riconobbe	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1166257|end_char=1166266
+6	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=1166267|end_char=1166268
+7	due	_	NUM	N	NumType=Card	_	_	_	start_char=1166269|end_char=1166272
+8	ch'	_	PRON	PR	PronType=Rel	_	_	_	SpaceAfter=No|start_char=1166273|end_char=1166276
+9	erano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1166276|end_char=1166281
+10	alla	_	_	_	_	_	_	_	start_char=1166282|end_char=1166286
+11	testa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1166287|end_char=1166292
+12	della	_	_	_	_	_	_	_	start_char=1166293|end_char=1166298
+13	portantina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1166299|end_char=1166309
+14	,	_	PUNCT	FF	_	_	_	_	start_char=1166309|end_char=1166310
+15	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1166311|end_char=1166313
+16	fratello	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1166314|end_char=1166322
+17	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=1166323|end_char=1166325
+18	Ismaele	_	PROPN	SP	_	_	_	_	start_char=1166325|end_char=1166332
+19	e	_	CCONJ	CC	_	_	_	_	start_char=1166333|end_char=1166334
+20	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1166335|end_char=1166337
+21	cugino	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1166338|end_char=1166344
+22	della	_	_	_	_	_	_	_	start_char=1166345|end_char=1166350
+23	Veronica	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1166351|end_char=1166359
+24	.	_	PUNCT	FS	_	_	_	_	start_char=1166359|end_char=1166360
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_22
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = A quattro passi accennò loro, con un gesto imperioso, di fermarsi.
+1	A	_	ADP	E	_	_	_	_	start_char=1166361|end_char=1166362
+2	quattro	_	NUM	N	NumType=Card	_	_	_	start_char=1166363|end_char=1166370
+3	passi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1166371|end_char=1166376
+4	accennò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1166377|end_char=1166384
+5	loro	_	PRON	PE	Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=1166385|end_char=1166389
+6	,	_	PUNCT	FF	_	_	_	_	start_char=1166389|end_char=1166390
+7	con	_	ADP	E	_	_	_	_	start_char=1166391|end_char=1166394
+8	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1166395|end_char=1166397
+9	gesto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1166398|end_char=1166403
+10	imperioso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1166404|end_char=1166413
+11	,	_	PUNCT	FF	_	_	_	_	start_char=1166413|end_char=1166414
+12	di	_	ADP	E	_	_	_	_	start_char=1166415|end_char=1166417
+13	fermarsi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=1166418|end_char=1166426
+14	.	_	PUNCT	FS	_	_	_	_	start_char=1166426|end_char=1166427
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_23
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Obbedirono immediatamente, posarono la portantina a terra e così fecero, senza saperne il perché, i due portatori che seguivano.
+1	Obbedirono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1166428|end_char=1166438
+2	immediatamente	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1166439|end_char=1166453
+3	,	_	PUNCT	FF	_	_	_	_	start_char=1166453|end_char=1166454
+4	posarono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1166455|end_char=1166463
+5	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1166464|end_char=1166466
+6	portantina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1166467|end_char=1166477
+7	a	_	ADP	E	_	_	_	_	start_char=1166478|end_char=1166479
+8	terra	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1166480|end_char=1166485
+9	e	_	CCONJ	CC	_	_	_	_	start_char=1166486|end_char=1166487
+10	così	_	ADV	B	_	_	_	_	start_char=1166488|end_char=1166492
+11	fecero	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1166493|end_char=1166499
+12	,	_	PUNCT	FF	_	_	_	_	start_char=1166499|end_char=1166500
+13	senza	_	ADP	E	_	_	_	_	start_char=1166501|end_char=1166506
+14	saperne	_	VERB	V	VerbForm=Inf	_	_	_	start_char=1166507|end_char=1166514
+15	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1166515|end_char=1166517
+16	perché	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1166518|end_char=1166524
+17	,	_	PUNCT	FF	_	_	_	_	start_char=1166524|end_char=1166525
+18	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=1166526|end_char=1166527
+19	due	_	NUM	N	NumType=Card	_	_	_	start_char=1166528|end_char=1166531
+20	portatori	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1166532|end_char=1166541
+21	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=1166542|end_char=1166545
+22	seguivano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1166546|end_char=1166555
+23	.	_	PUNCT	FS	_	_	_	_	start_char=1166555|end_char=1166556
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_24
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Pasotti alzò l'ombrello, vide Luisa, fece un atto di sorpresa, un cipiglio nero; afferrò don Giuseppe, lo trasse da banda per lasciarla passare, non sospettando che l'incontro fosse premeditato.
+1	Pasotti	_	PROPN	SP	_	_	_	_	start_char=1166557|end_char=1166564
+2	alzò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1166565|end_char=1166569
+3	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=1166570|end_char=1166572
+4	ombrello	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1166572|end_char=1166580
+5	,	_	PUNCT	FF	_	_	_	_	start_char=1166580|end_char=1166581
+6	vide	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1166582|end_char=1166586
+7	Luisa	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1166587|end_char=1166592
+8	,	_	PUNCT	FF	_	_	_	_	start_char=1166592|end_char=1166593
+9	fece	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1166594|end_char=1166598
+10	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1166599|end_char=1166601
+11	atto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1166602|end_char=1166606
+12	di	_	ADP	E	_	_	_	_	start_char=1166607|end_char=1166609
+13	sorpresa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1166610|end_char=1166618
+14	,	_	PUNCT	FF	_	_	_	_	start_char=1166618|end_char=1166619
+15	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1166620|end_char=1166622
+16	cipiglio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1166623|end_char=1166631
+17	nero	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1166632|end_char=1166636
+18	;	_	PUNCT	FC	_	_	_	_	start_char=1166636|end_char=1166637
+19	afferrò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1166638|end_char=1166645
+20	don	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1166646|end_char=1166649
+21	Giuseppe	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1166650|end_char=1166658
+22	,	_	PUNCT	FF	_	_	_	_	start_char=1166658|end_char=1166659
+23	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=1166660|end_char=1166662
+24	trasse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1166663|end_char=1166669
+25	da	_	ADP	E	_	_	_	_	start_char=1166670|end_char=1166672
+26	banda	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1166673|end_char=1166678
+27	per	_	ADP	E	_	_	_	_	start_char=1166679|end_char=1166682
+28	lasciarla	_	_	_	_	_	_	_	start_char=1166683|end_char=1166692
+29	passare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=1166693|end_char=1166700
+30	,	_	PUNCT	FF	_	_	_	_	start_char=1166700|end_char=1166701
+31	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1166702|end_char=1166705
+32	sospettando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=1166706|end_char=1166717
+33	che	_	SCONJ	CS	_	_	_	_	start_char=1166718|end_char=1166721
+34	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=1166722|end_char=1166724
+35	incontro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1166724|end_char=1166732
+36	fosse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1166733|end_char=1166738
+37	premeditato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=1166739|end_char=1166750
+38	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=1166750|end_char=1166751
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_25
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Ma Luisa non si mosse.
+1	Ma	_	CCONJ	CC	_	_	_	_	start_char=1166753|end_char=1166755
+2	Luisa	_	PROPN	SP	_	_	_	_	start_char=1166756|end_char=1166761
+3	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1166762|end_char=1166765
+4	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=1166766|end_char=1166768
+5	mosse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1166769|end_char=1166774
+6	.	_	PUNCT	FS	_	_	_	_	start_char=1166774|end_char=1166775
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_26
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = «Ella non credeva incontrarmi, signor Pasotti», disse a voce alta.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1166776|end_char=1166777
+2	Ella	_	PROPN	SP	_	_	_	_	start_char=1166777|end_char=1166781
+3	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1166782|end_char=1166785
+4	credeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1166786|end_char=1166793
+5	incontrarmi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=1166794|end_char=1166805
+6	,	_	PUNCT	FF	_	_	_	_	start_char=1166805|end_char=1166806
+7	signor	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1166807|end_char=1166813
+8	Pasotti	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1166814|end_char=1166821
+9	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1166821|end_char=1166822
+10	,	_	PUNCT	FF	_	_	_	_	start_char=1166822|end_char=1166823
+11	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1166824|end_char=1166829
+12	a	_	ADP	E	_	_	_	_	start_char=1166830|end_char=1166831
+13	voce	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1166832|end_char=1166836
+14	alta	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1166837|end_char=1166841
+15	.	_	PUNCT	FS	_	_	_	_	start_char=1166841|end_char=1166842
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_27
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = La marchesa mise il capo fuori, la ravvisò, si ritrasse dicendo con qualche vigor nuovo nella sua voce floscia:
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1166843|end_char=1166845
+2	marchesa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1166846|end_char=1166854
+3	mise	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1166855|end_char=1166859
+4	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1166860|end_char=1166862
+5	capo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1166863|end_char=1166867
+6	fuori	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1166868|end_char=1166873
+7	,	_	PUNCT	FF	_	_	_	_	start_char=1166873|end_char=1166874
+8	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=1166875|end_char=1166877
+9	ravvisò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1166878|end_char=1166885
+10	,	_	PUNCT	FF	_	_	_	_	start_char=1166885|end_char=1166886
+11	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=1166887|end_char=1166889
+12	ritrasse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1166890|end_char=1166898
+13	dicendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=1166899|end_char=1166906
+14	con	_	ADP	E	_	_	_	_	start_char=1166907|end_char=1166910
+15	qualche	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=1166911|end_char=1166918
+16	vigor	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1166919|end_char=1166924
+17	nuovo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=1166925|end_char=1166930
+18	nella	_	_	_	_	_	_	_	start_char=1166931|end_char=1166936
+19	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=1166937|end_char=1166940
+20	voce	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1166941|end_char=1166945
+21	floscia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1166946|end_char=1166953
+22	:	_	PUNCT	FC	_	_	_	_	SpacesAfter=\n\n|start_char=1166953|end_char=1166954
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_28
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = «Avanti!
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1166956|end_char=1166957
+2	Avanti	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1166957|end_char=1166963
+3	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=1166963|end_char=1166964
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_29
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = »
+1	»	_	PUNCT	FB	_	_	_	_	SpacesAfter=\n\n|start_char=1166964|end_char=1166965
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_30
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = In quel momento partirono dall'alto del sagrato acute, disperate grida: «Sciora Lüisa!
+1	In	_	ADP	E	_	_	_	_	start_char=1166967|end_char=1166969
+2	quel	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=1166970|end_char=1166974
+3	momento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1166975|end_char=1166982
+4	partirono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1166983|end_char=1166992
+5	dall'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=1166993|end_char=1166998
+6	alto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1166998|end_char=1167002
+7	del	_	_	_	_	_	_	_	start_char=1167003|end_char=1167006
+8	sagrato	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1167007|end_char=1167014
+9	acute	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1167015|end_char=1167020
+10	,	_	PUNCT	FF	_	_	_	_	start_char=1167020|end_char=1167021
+11	disperate	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	start_char=1167022|end_char=1167031
+12	grida	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1167032|end_char=1167037
+13	:	_	PUNCT	FC	_	_	_	_	start_char=1167037|end_char=1167038
+14	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1167039|end_char=1167040
+15	Sciora	_	PROPN	SP	_	_	_	_	start_char=1167040|end_char=1167046
+16	Lüisa	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1167047|end_char=1167052
+17	!	_	PUNCT	FS	_	_	_	_	start_char=1167052|end_char=1167053
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_31
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Sciora Lüisa!».
+1	Sciora	_	PROPN	SP	_	_	_	_	start_char=1167054|end_char=1167060
+2	Lü	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1167061|end_char=1167063
+3	isa	_	X	SW	Foreign=Yes	_	_	_	SpaceAfter=No|start_char=1167063|end_char=1167066
+4	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=1167066|end_char=1167067
+5	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1167067|end_char=1167068
+6	.	_	PUNCT	FS	_	_	_	_	start_char=1167068|end_char=1167069
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_32
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Luisa non udì.
+1	Luisa	_	PROPN	SP	_	_	_	_	start_char=1167070|end_char=1167075
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1167076|end_char=1167079
+3	udì	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1167080|end_char=1167083
+4	.	_	PUNCT	FS	_	_	_	_	start_char=1167083|end_char=1167084
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_33
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Pasotti aveva irosamente gridato ai portatori «avanti!» e i portatori riprendevano le stanghe.
+1	Pasotti	_	PROPN	SP	_	_	_	_	start_char=1167085|end_char=1167092
+2	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1167093|end_char=1167098
+3	irosamente	_	ADV	B	_	_	_	_	start_char=1167099|end_char=1167109
+4	gridato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=1167110|end_char=1167117
+5	ai	_	_	_	_	_	_	_	start_char=1167118|end_char=1167120
+6	portatori	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1167121|end_char=1167130
+7	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1167131|end_char=1167132
+8	avanti	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1167132|end_char=1167138
+9	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=1167138|end_char=1167139
+10	»	_	PUNCT	FB	_	_	_	_	start_char=1167139|end_char=1167140
+11	e	_	CCONJ	CC	_	_	_	_	start_char=1167141|end_char=1167142
+12	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=1167143|end_char=1167144
+13	portatori	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1167145|end_char=1167154
+14	riprendevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1167155|end_char=1167167
+15	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=1167168|end_char=1167170
+16	stanghe	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1167171|end_char=1167178
+17	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=1167178|end_char=1167179
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_34
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = «Avanti pure!», diss'ella, risoluta di mettersi a fianco della portantina.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1167181|end_char=1167182
+2	Avanti	_	ADV	B	_	_	_	_	start_char=1167182|end_char=1167188
+3	pure	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1167189|end_char=1167193
+4	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=1167193|end_char=1167194
+5	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1167194|end_char=1167195
+6	,	_	PUNCT	FF	_	_	_	_	start_char=1167195|end_char=1167196
+7	diss'	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1167197|end_char=1167202
+8	ella	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=1167202|end_char=1167206
+9	,	_	PUNCT	FF	_	_	_	_	start_char=1167206|end_char=1167207
+10	risoluta	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=1167208|end_char=1167216
+11	di	_	ADP	E	_	_	_	_	start_char=1167217|end_char=1167219
+12	mettersi	_	_	_	_	_	_	_	start_char=1167220|end_char=1167228
+13	a	_	ADP	E	_	_	_	_	start_char=1167229|end_char=1167230
+14	fianco	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1167231|end_char=1167237
+15	della	_	_	_	_	_	_	_	start_char=1167238|end_char=1167243
+16	portantina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1167244|end_char=1167254
+17	.	_	PUNCT	FS	_	_	_	_	start_char=1167254|end_char=1167255
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_35
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = «Non ho a dire che due parole.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1167256|end_char=1167257
+2	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1167257|end_char=1167260
+3	ho	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1167261|end_char=1167263
+4	a	_	ADP	E	_	_	_	_	start_char=1167264|end_char=1167265
+5	dire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=1167266|end_char=1167270
+6	che	_	SCONJ	CS	_	_	_	_	start_char=1167271|end_char=1167274
+7	due	_	NUM	N	NumType=Card	_	_	_	start_char=1167275|end_char=1167278
+8	parole	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1167279|end_char=1167285
+9	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=1167285|end_char=1167286
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_36
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = »
+1	»	_	PUNCT	FB	_	_	_	_	SpacesAfter=\n\n|start_char=1167286|end_char=1167287
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_37
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Se Pasotti e la vecchia marchesa avevano prima immaginato lagrime e suppliche, dovettero attendersi allora dal fiero viso e dalla vibrante voce ben altro.
+1	Se	_	SCONJ	CS	_	_	_	_	start_char=1167289|end_char=1167291
+2	Pasotti	_	PROPN	SP	_	_	_	_	start_char=1167292|end_char=1167299
+3	e	_	CCONJ	CC	_	_	_	_	start_char=1167300|end_char=1167301
+4	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1167302|end_char=1167304
+5	vecchia	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=1167305|end_char=1167312
+6	marchesa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1167313|end_char=1167321
+7	avevano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1167322|end_char=1167329
+8	prima	_	ADV	B	_	_	_	_	start_char=1167330|end_char=1167335
+9	immaginato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=1167336|end_char=1167346
+10	lagrime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=1167347|end_char=1167354
+11	e	_	CCONJ	CC	_	_	_	_	start_char=1167355|end_char=1167356
+12	suppliche	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1167357|end_char=1167366
+13	,	_	PUNCT	FF	_	_	_	_	start_char=1167366|end_char=1167367
+14	dovettero	_	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1167368|end_char=1167377
+15	attendersi	_	_	_	_	_	_	_	start_char=1167378|end_char=1167388
+16	allora	_	ADV	B	_	_	_	_	start_char=1167389|end_char=1167395
+17	dal	_	_	_	_	_	_	_	start_char=1167396|end_char=1167399
+18	fiero	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=1167400|end_char=1167405
+19	viso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1167406|end_char=1167410
+20	e	_	CCONJ	CC	_	_	_	_	start_char=1167411|end_char=1167412
+21	dalla	_	_	_	_	_	_	_	start_char=1167413|end_char=1167418
+22	vibrante	_	ADJ	A	Number=Sing	_	_	_	start_char=1167419|end_char=1167427
+23	voce	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1167428|end_char=1167432
+24	ben	_	ADV	B	_	_	_	_	start_char=1167433|end_char=1167436
+25	altro	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=1167437|end_char=1167442
+26	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=1167442|end_char=1167443
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_38
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = «Parole, adesso?», fece Pasotti avanzandosi quasi minaccioso.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1167445|end_char=1167446
+2	Parole	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1167446|end_char=1167452
+3	,	_	PUNCT	FF	_	_	_	_	start_char=1167452|end_char=1167453
+4	adesso	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1167454|end_char=1167460
+5	?	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=1167460|end_char=1167461
+6	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1167461|end_char=1167462
+7	,	_	PUNCT	FF	_	_	_	_	start_char=1167462|end_char=1167463
+8	fece	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1167464|end_char=1167468
+9	Pasotti	_	PROPN	SP	_	_	_	_	start_char=1167469|end_char=1167476
+10	avanzandosi	_	_	_	_	_	_	_	start_char=1167477|end_char=1167488
+11	quasi	_	ADV	B	_	_	_	_	start_char=1167489|end_char=1167494
+12	minaccioso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1167495|end_char=1167505
+13	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=1167505|end_char=1167506
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_39
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = «Sciora Lüisa!
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1167508|end_char=1167509
+2	Sciora	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1167509|end_char=1167515
+3	Lüisa	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1167516|end_char=1167521
+4	!	_	PUNCT	FS	_	_	_	_	start_char=1167521|end_char=1167522
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_40
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Sciora Luisa!», si gridò da vicino con accento di strazio; e venne con le grida un rumor di passi precipitosi.
+1	Sciora	_	PROPN	SP	_	_	_	_	start_char=1167523|end_char=1167529
+2	Luisa	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1167530|end_char=1167535
+3	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=1167535|end_char=1167536
+4	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1167536|end_char=1167537
+5	,	_	PUNCT	FF	_	_	_	_	start_char=1167537|end_char=1167538
+6	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=1167539|end_char=1167541
+7	gridò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1167542|end_char=1167547
+8	da	_	ADP	E	_	_	_	_	start_char=1167548|end_char=1167550
+9	vicino	_	ADV	B	_	_	_	_	start_char=1167551|end_char=1167557
+10	con	_	ADP	E	_	_	_	_	start_char=1167558|end_char=1167561
+11	accento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1167562|end_char=1167569
+12	di	_	ADP	E	_	_	_	_	start_char=1167570|end_char=1167572
+13	strazio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1167573|end_char=1167580
+14	;	_	PUNCT	FC	_	_	_	_	start_char=1167580|end_char=1167581
+15	e	_	CCONJ	CC	_	_	_	_	start_char=1167582|end_char=1167583
+16	venne	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1167584|end_char=1167589
+17	con	_	ADP	E	_	_	_	_	start_char=1167590|end_char=1167593
+18	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=1167594|end_char=1167596
+19	grida	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=1167597|end_char=1167602
+20	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1167603|end_char=1167605
+21	rumor	_	NOUN	S	Gender=Masc	_	_	_	start_char=1167606|end_char=1167611
+22	di	_	ADP	E	_	_	_	_	start_char=1167612|end_char=1167614
+23	passi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1167615|end_char=1167620
+24	precipitosi	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=1167621|end_char=1167632
+25	.	_	PUNCT	FS	_	_	_	_	start_char=1167632|end_char=1167633
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_41
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Ma Luisa non parve udir niente.
+1	Ma	_	CCONJ	CC	_	_	_	_	start_char=1167634|end_char=1167636
+2	Luisa	_	PROPN	SP	_	_	_	_	start_char=1167637|end_char=1167642
+3	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1167643|end_char=1167646
+4	parve	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1167647|end_char=1167652
+5	udir	_	VERB	V	VerbForm=Inf	_	_	_	start_char=1167653|end_char=1167657
+6	niente	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=1167658|end_char=1167664
+7	.	_	PUNCT	FS	_	_	_	_	start_char=1167664|end_char=1167665
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_42
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = «Sì, adesso!», rispose a Pasotti con alterezza inesprimibile.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1167666|end_char=1167667
+2	Sì	_	INTJ	I	Polarity=Pos	_	_	_	SpaceAfter=No|start_char=1167667|end_char=1167669
+3	,	_	PUNCT	FF	_	_	_	_	start_char=1167669|end_char=1167670
+4	adesso	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1167671|end_char=1167677
+5	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=1167677|end_char=1167678
+6	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1167678|end_char=1167679
+7	,	_	PUNCT	FF	_	_	_	_	start_char=1167679|end_char=1167680
+8	rispose	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1167681|end_char=1167688
+9	a	_	ADP	E	_	_	_	_	start_char=1167689|end_char=1167690
+10	Pasotti	_	PROPN	SP	_	_	_	_	start_char=1167691|end_char=1167698
+11	con	_	ADP	E	_	_	_	_	start_char=1167699|end_char=1167702
+12	alterezza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1167703|end_char=1167712
+13	inesprimibile	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=1167713|end_char=1167726
+14	.	_	PUNCT	FS	_	_	_	_	start_char=1167726|end_char=1167727
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_43
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = «Io avverto, per mia bontà, questa signora.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1167728|end_char=1167729
+2	Io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=1167729|end_char=1167731
+3	avverto	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1167732|end_char=1167739
+4	,	_	PUNCT	FF	_	_	_	_	start_char=1167739|end_char=1167740
+5	per	_	ADP	E	_	_	_	_	start_char=1167741|end_char=1167744
+6	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=1167745|end_char=1167748
+7	bontà	_	NOUN	S	Gender=Fem	_	_	_	SpaceAfter=No|start_char=1167749|end_char=1167754
+8	,	_	PUNCT	FF	_	_	_	_	start_char=1167754|end_char=1167755
+9	questa	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=1167756|end_char=1167762
+10	signora	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1167763|end_char=1167770
+11	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=1167770|end_char=1167771
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_44
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = ..»
+1	..	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=1167771|end_char=1167773
+2	»	_	PUNCT	FB	_	_	_	_	SpacesAfter=\n\n|start_char=1167773|end_char=1167774
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_45
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = «Sciora Lüisa!
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=1167776|end_char=1167777
+2	Sciora	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1167777|end_char=1167783
+3	Lü	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1167784|end_char=1167786
+4	isa	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1167786|end_char=1167789
+5	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=1167789|end_char=1167790
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_46
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = »
+1	»	_	PUNCT	FB	_	_	_	_	SpacesAfter=\n\n|start_char=1167790|end_char=1167791
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q5_47
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q5
+# quinto = 5
+# text = Ella dovette pure interrompersi e voltarsi.
+1	Ella	_	_	_	_	_	_	_	start_char=1167793|end_char=1167797
+2	dovette	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1167798|end_char=1167805
+3	pure	_	ADV	B	_	_	_	_	start_char=1167806|end_char=1167810
+4	interrompersi	_	_	_	_	_	_	_	start_char=1167811|end_char=1167824
+5	e	_	CCONJ	CC	_	_	_	_	start_char=1167825|end_char=1167826
+6	voltarsi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=1167827|end_char=1167835
+7	.	_	PUNCT	FS	_	_	_	_	start_char=1167835|end_char=1167836
+

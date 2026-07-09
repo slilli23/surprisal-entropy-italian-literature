@@ -1,0 +1,988 @@
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_1
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=344211|end_char=344212
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_2
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Ogni notte, signor Perelà, io esco dalla mia casa, mi fermo al cancello, traverso la via, i campi, scavalco quel muro, e là dove è il mio fanciullo io mi distendo per rendergli quell'ultimo istante di vita.
+1	Ogni	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=344213|end_char=344217
+2	notte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=344218|end_char=344223
+3	,	_	PUNCT	FF	_	_	_	_	start_char=344223|end_char=344224
+4	signor	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=344225|end_char=344231
+5	Perelà	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=344232|end_char=344238
+6	,	_	PUNCT	FF	_	_	_	_	start_char=344238|end_char=344239
+7	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=344240|end_char=344242
+8	esco	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344243|end_char=344247
+9	dalla	_	_	_	_	_	_	_	start_char=344248|end_char=344253
+10	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=344254|end_char=344257
+11	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=344258|end_char=344262
+12	,	_	PUNCT	FF	_	_	_	_	start_char=344262|end_char=344263
+13	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=344264|end_char=344266
+14	fermo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344267|end_char=344272
+15	al	_	_	_	_	_	_	_	SpacesAfter=\n|start_char=344273|end_char=344275
+16	cancello	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=344276|end_char=344284
+17	,	_	PUNCT	FF	_	_	_	_	start_char=344284|end_char=344285
+18	traverso	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=344286|end_char=344294
+19	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=344295|end_char=344297
+20	via	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=344298|end_char=344301
+21	,	_	PUNCT	FF	_	_	_	_	start_char=344301|end_char=344302
+22	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=344303|end_char=344304
+23	campi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=344305|end_char=344310
+24	,	_	PUNCT	FF	_	_	_	_	start_char=344310|end_char=344311
+25	scavalco	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344312|end_char=344320
+26	quel	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=344321|end_char=344325
+27	muro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=344326|end_char=344330
+28	,	_	PUNCT	FF	_	_	_	_	start_char=344330|end_char=344331
+29	e	_	CCONJ	CC	_	_	_	_	start_char=344332|end_char=344333
+30	là	_	ADV	B	_	_	_	_	start_char=344334|end_char=344336
+31	dove	_	ADV	B	_	_	_	_	start_char=344337|end_char=344341
+32	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpacesAfter=\n|start_char=344342|end_char=344343
+33	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=344344|end_char=344346
+34	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=344347|end_char=344350
+35	fanciullo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=344351|end_char=344360
+36	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=344361|end_char=344363
+37	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=344364|end_char=344366
+38	distendo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344367|end_char=344375
+39	per	_	ADP	E	_	_	_	_	start_char=344376|end_char=344379
+40	rendergli	_	_	_	_	_	_	_	start_char=344380|end_char=344389
+41	quell'	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=344390|end_char=344396
+42	ultimo	_	ADJ	A	Gender=Masc|Number=Sing|NumType=Ord	_	_	_	start_char=344396|end_char=344402
+43	istante	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=344403|end_char=344410
+44	di	_	ADP	E	_	_	_	_	SpacesAfter=\n|start_char=344411|end_char=344413
+45	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=344414|end_char=344418
+46	.	_	PUNCT	FS	_	_	_	_	start_char=344418|end_char=344419
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_3
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = È la nostra comunione.
+1	È	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344420|end_char=344421
+2	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=344422|end_char=344424
+3	nostra	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=344425|end_char=344431
+4	comunione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=344432|end_char=344441
+5	.	_	PUNCT	FS	_	_	_	_	start_char=344441|end_char=344442
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_4
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Io muoio in quell'istante, ed egli rivive il momento supremo del nostro amore.
+1	Io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=344443|end_char=344445
+2	muoio	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344446|end_char=344451
+3	in	_	ADP	E	_	_	_	_	start_char=344452|end_char=344454
+4	quell'	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=344455|end_char=344461
+5	istante	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=344461|end_char=344468
+6	,	_	PUNCT	FF	_	_	_	_	start_char=344468|end_char=344469
+7	ed	_	CCONJ	CC	_	_	_	_	start_char=344470|end_char=344472
+8	egli	_	_	_	_	_	_	_	start_char=344473|end_char=344477
+9	rivive	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpacesAfter=\n|start_char=344478|end_char=344484
+10	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=344485|end_char=344487
+11	momento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=344488|end_char=344495
+12	supremo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=344496|end_char=344503
+13	del	_	_	_	_	_	_	_	start_char=344504|end_char=344507
+14	nostro	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=344508|end_char=344514
+15	amore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=344515|end_char=344520
+16	.	_	PUNCT	FS	_	_	_	_	start_char=344520|end_char=344521
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_5
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Non sono più che il ciborio che custodisce quella reliquia.
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=344522|end_char=344525
+2	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344526|end_char=344530
+3	più	_	ADV	B	_	_	_	_	start_char=344531|end_char=344534
+4	che	_	SCONJ	CS	_	_	_	_	start_char=344535|end_char=344538
+5	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=344539|end_char=344541
+6	ciborio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=344542|end_char=344549
+7	che	_	PRON	PR	PronType=Rel	_	_	_	SpacesAfter=\n|start_char=344550|end_char=344553
+8	custodisce	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344554|end_char=344564
+9	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=344565|end_char=344571
+10	reliquia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=344572|end_char=344580
+11	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=344580|end_char=344581
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_6
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = I preti s'illudono di avere nella loro ostia la parte di un Dio che non hanno, ma io ho ancora in me l'ultimo sorso di vita che gli sugai.
+1	I	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=344583|end_char=344584
+2	preti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=344585|end_char=344590
+3	s'	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=344591|end_char=344593
+4	illudono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344593|end_char=344601
+5	di	_	ADP	E	_	_	_	_	start_char=344602|end_char=344604
+6	avere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=344605|end_char=344610
+7	nella	_	_	_	_	_	_	_	start_char=344611|end_char=344616
+8	loro	_	DET	AP	Poss=Yes|PronType=Prs	_	_	_	start_char=344617|end_char=344621
+9	ostia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=344622|end_char=344627
+10	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=344628|end_char=344630
+11	parte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=344631|end_char=344636
+12	di	_	ADP	E	_	_	_	_	start_char=344637|end_char=344639
+13	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=344640|end_char=344642
+14	Dio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=344643|end_char=344646
+15	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=344647|end_char=344650
+16	non	_	ADV	BN	PronType=Neg	_	_	_	SpacesAfter=\n|start_char=344651|end_char=344654
+17	hanno	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=344655|end_char=344660
+18	,	_	PUNCT	FF	_	_	_	_	start_char=344660|end_char=344661
+19	ma	_	CCONJ	CC	_	_	_	_	start_char=344662|end_char=344664
+20	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=344665|end_char=344667
+21	ho	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344668|end_char=344670
+22	ancora	_	ADV	B	_	_	_	_	start_char=344671|end_char=344677
+23	in	_	ADP	E	_	_	_	_	start_char=344678|end_char=344680
+24	me	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=344681|end_char=344683
+25	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=344684|end_char=344686
+26	ultimo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=344686|end_char=344692
+27	sorso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=344693|end_char=344698
+28	di	_	ADP	E	_	_	_	_	start_char=344699|end_char=344701
+29	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=344702|end_char=344706
+30	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=344707|end_char=344710
+31	gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=344711|end_char=344714
+32	sugai	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=344715|end_char=344720
+33	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=344720|end_char=344721
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_7
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=344723|end_char=344724
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_8
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Chi è che ancora non ha detto nulla?
+1	Chi	_	PRON	PQ	PronType=Int	_	_	_	start_char=344725|end_char=344728
+2	è	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344729|end_char=344730
+3	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=344731|end_char=344734
+4	ancora	_	ADV	B	_	_	_	_	start_char=344735|end_char=344741
+5	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=344742|end_char=344745
+6	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344746|end_char=344748
+7	detto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=344749|end_char=344754
+8	nulla	_	_	_	_	_	_	_	SpaceAfter=No|start_char=344755|end_char=344760
+9	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=344760|end_char=344761
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_9
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=344763|end_char=344764
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_10
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Quella dispettosa di Nadina.
+1	Quella	_	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=344765|end_char=344771
+2	dispettosa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=344772|end_char=344782
+3	di	_	ADP	E	_	_	_	_	start_char=344783|end_char=344785
+4	Nadina	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=344786|end_char=344792
+5	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=344792|end_char=344793
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_11
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=344795|end_char=344796
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_12
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Enos, Enos, non ha parlato!
+1	Enos	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=344797|end_char=344801
+2	,	_	PUNCT	FF	_	_	_	_	start_char=344801|end_char=344802
+3	Enos	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=344803|end_char=344807
+4	,	_	PUNCT	FF	_	_	_	_	start_char=344807|end_char=344808
+5	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=344809|end_char=344812
+6	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344813|end_char=344815
+7	parlato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=344816|end_char=344823
+8	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n\n\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s|start_char=344823|end_char=344824
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_13
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = _M.lle Enos Copertino.
+1	_M.lle	_	PROPN	SP	_	_	_	_	start_char=344851|end_char=344857
+2	Enos	_	PROPN	SP	_	_	_	_	start_char=344858|end_char=344862
+3	Copertino	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=344863|end_char=344872
+4	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=344872|end_char=344873
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_14
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = _
+1	_	_	SYM	SYM	_	_	_	_	SpacesAfter=\n\n|start_char=344873|end_char=344874
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_15
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=344876|end_char=344877
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_16
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Enos Copertino, la più grande violinista del regno!
+1	Enos	_	PROPN	SP	_	_	_	_	start_char=344878|end_char=344882
+2	Copertino	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=344883|end_char=344892
+3	,	_	PUNCT	FF	_	_	_	_	start_char=344892|end_char=344893
+4	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=344894|end_char=344896
+5	più	_	ADV	B	_	_	_	_	start_char=344897|end_char=344900
+6	grande	_	ADJ	A	Number=Sing	_	_	_	start_char=344901|end_char=344907
+7	violinista	_	NOUN	S	Number=Sing	_	_	_	start_char=344908|end_char=344918
+8	del	_	_	_	_	_	_	_	start_char=344919|end_char=344922
+9	regno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=344923|end_char=344928
+10	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=344928|end_char=344929
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_17
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=344931|end_char=344932
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_18
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Signor Perelà è inutile domandare a lei.
+1	Signor	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=344933|end_char=344939
+2	Perelà	_	PROPN	SP	_	_	_	_	start_char=344940|end_char=344946
+3	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344947|end_char=344948
+4	inutile	_	ADJ	A	Number=Sing	_	_	_	start_char=344949|end_char=344956
+5	domandare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=344957|end_char=344966
+6	a	_	ADP	E	_	_	_	_	start_char=344967|end_char=344968
+7	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=344969|end_char=344972
+8	.	_	PUNCT	FS	_	_	_	_	start_char=344972|end_char=344973
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_19
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = La grande artista non ha mai aperto a nessun cuore la sua confidenza.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=344974|end_char=344976
+2	grande	_	ADJ	A	Number=Sing	_	_	_	start_char=344977|end_char=344983
+3	artista	_	NOUN	S	Number=Sing	_	_	_	start_char=344984|end_char=344991
+4	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=344992|end_char=344995
+5	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=344996|end_char=344998
+6	mai	_	ADV	BN	_	_	_	_	SpacesAfter=\n|start_char=344999|end_char=345002
+7	aperto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=345003|end_char=345009
+8	a	_	ADP	E	_	_	_	_	start_char=345010|end_char=345011
+9	nessun	_	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=345012|end_char=345018
+10	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=345019|end_char=345024
+11	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=345025|end_char=345027
+12	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=345028|end_char=345031
+13	confidenza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=345032|end_char=345042
+14	.	_	PUNCT	FS	_	_	_	_	start_char=345042|end_char=345043
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_20
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Ella non risponderebbe.
+1	Ella	_	_	_	_	_	_	_	start_char=345044|end_char=345048
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=345049|end_char=345052
+3	risponderebbe	_	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=345053|end_char=345066
+4	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=345066|end_char=345067
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_21
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=345069|end_char=345070
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_22
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Essa vive insieme con la celebre attrice Catulva.
+1	Essa	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=345071|end_char=345075
+2	vive	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345076|end_char=345080
+3	insieme	_	ADV	B	_	_	_	_	start_char=345081|end_char=345088
+4	con	_	ADP	E	_	_	_	_	start_char=345089|end_char=345092
+5	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=345093|end_char=345095
+6	celebre	_	ADJ	A	Number=Sing	_	_	_	start_char=345096|end_char=345103
+7	attrice	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=345104|end_char=345111
+8	Catulva	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=345112|end_char=345119
+9	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=345119|end_char=345120
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_23
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=345122|end_char=345123
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_24
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Se ne dicono però, per quanto non le dica lei.
+1	Se	_	SCONJ	CS	_	_	_	_	start_char=345124|end_char=345126
+2	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=345127|end_char=345129
+3	dicono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345130|end_char=345136
+4	però	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=345137|end_char=345141
+5	,	_	PUNCT	FF	_	_	_	_	start_char=345141|end_char=345142
+6	per	_	ADP	E	_	_	_	_	start_char=345143|end_char=345146
+7	quanto	_	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	_	_	_	start_char=345147|end_char=345153
+8	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=345154|end_char=345157
+9	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=345158|end_char=345160
+10	dica	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345161|end_char=345165
+11	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=345166|end_char=345169
+12	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=345169|end_char=345170
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_25
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=345172|end_char=345173
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_26
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Enos vive in una sua villa misteriosa dove nessuno può entrare: nessun uomo penetra mai.
+1	Enos	_	PROPN	SP	_	_	_	_	start_char=345174|end_char=345178
+2	vive	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345179|end_char=345183
+3	in	_	ADP	E	_	_	_	_	start_char=345184|end_char=345186
+4	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=345187|end_char=345190
+5	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=345191|end_char=345194
+6	villa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=345195|end_char=345200
+7	misteriosa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=345201|end_char=345211
+8	dove	_	ADV	B	_	_	_	_	start_char=345212|end_char=345216
+9	nessuno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=345217|end_char=345224
+10	può	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345225|end_char=345228
+11	entrare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=345229|end_char=345236
+12	:	_	PUNCT	FC	_	_	_	_	SpacesAfter=\n|start_char=345236|end_char=345237
+13	nessun	_	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=345238|end_char=345244
+14	uomo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=345245|end_char=345249
+15	penetra	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345250|end_char=345257
+16	mai	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=345258|end_char=345261
+17	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=345261|end_char=345262
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_27
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=345264|end_char=345265
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_28
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Le è compagna la Catulva, la grande attrice drammatica.
+1	Le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=345266|end_char=345268
+2	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345269|end_char=345270
+3	compagna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=345271|end_char=345279
+4	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=345280|end_char=345282
+5	Catulva	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=345283|end_char=345290
+6	,	_	PUNCT	FF	_	_	_	_	start_char=345290|end_char=345291
+7	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=345292|end_char=345294
+8	grande	_	ADJ	A	Number=Sing	_	_	_	start_char=345295|end_char=345301
+9	attrice	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=345302|end_char=345309
+10	drammatica	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=345310|end_char=345320
+11	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=345320|end_char=345321
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_29
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=345323|end_char=345324
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_30
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Si racconta che di notte, nel loro giardino, si vedono due ombre, che sembrano due lunghissime gonne brune, che si rotolano avvinte sulla terra.
+1	Si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=345325|end_char=345327
+2	racconta	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345328|end_char=345336
+3	che	_	SCONJ	CS	_	_	_	_	start_char=345337|end_char=345340
+4	di	_	ADP	E	_	_	_	_	start_char=345341|end_char=345343
+5	notte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=345344|end_char=345349
+6	,	_	PUNCT	FF	_	_	_	_	start_char=345349|end_char=345350
+7	nel	_	_	_	_	_	_	_	start_char=345351|end_char=345354
+8	loro	_	DET	AP	Poss=Yes|PronType=Prs	_	_	_	start_char=345355|end_char=345359
+9	giardino	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=345360|end_char=345368
+10	,	_	PUNCT	FF	_	_	_	_	start_char=345368|end_char=345369
+11	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=345370|end_char=345372
+12	vedono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345373|end_char=345379
+13	due	_	NUM	N	NumType=Card	_	_	_	start_char=345380|end_char=345383
+14	ombre	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=345384|end_char=345389
+15	,	_	PUNCT	FF	_	_	_	_	SpacesAfter=\n|start_char=345389|end_char=345390
+16	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=345391|end_char=345394
+17	sembrano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345395|end_char=345403
+18	due	_	NUM	N	NumType=Card	_	_	_	start_char=345404|end_char=345407
+19	lunghissime	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	start_char=345408|end_char=345419
+20	gonne	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=345420|end_char=345425
+21	brune	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=345426|end_char=345431
+22	,	_	PUNCT	FF	_	_	_	_	start_char=345431|end_char=345432
+23	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=345433|end_char=345436
+24	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=345437|end_char=345439
+25	rotolano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345440|end_char=345448
+26	avvinte	_	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=345449|end_char=345456
+27	sulla	_	_	_	_	_	_	_	SpacesAfter=\n|start_char=345457|end_char=345462
+28	terra	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=345463|end_char=345468
+29	.	_	PUNCT	FS	_	_	_	_	start_char=345468|end_char=345469
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_31
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Ma.... di lei.... nessuno sa.... nessuno può dire....
+1	Ma....	_	PUNCT	FS	_	_	_	_	start_char=345470|end_char=345476
+2	di	_	ADP	E	_	_	_	_	start_char=345477|end_char=345479
+3	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=345480|end_char=345483
+4	....	_	PUNCT	FS	_	_	_	_	start_char=345483|end_char=345487
+5	nessuno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=345488|end_char=345495
+6	sa....	_	PUNCT	FS	_	_	_	_	start_char=345496|end_char=345502
+7	nessuno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=345503|end_char=345510
+8	può	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345511|end_char=345514
+9	dire	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=345515|end_char=345519
+10	....	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n\n\n\n|start_char=345519|end_char=345523
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_32
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = «DIO»
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=345528|end_char=345529
+2	DIO	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=345529|end_char=345532
+3	»	_	PUNCT	FB	_	_	_	_	SpacesAfter=\n\n\n|start_char=345532|end_char=345533
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_33
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Penso oramai come voi, Perelà, a quelle tre donne, io sono alla sommità di un camino e le sento parlare.
+1	Penso	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345536|end_char=345541
+2	oramai	_	ADV	B	_	_	_	_	start_char=345542|end_char=345548
+3	come	_	ADP	E	_	_	_	_	start_char=345549|end_char=345553
+4	voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=345554|end_char=345557
+5	,	_	PUNCT	FF	_	_	_	_	start_char=345557|end_char=345558
+6	Perelà	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=345559|end_char=345565
+7	,	_	PUNCT	FF	_	_	_	_	start_char=345565|end_char=345566
+8	a	_	ADP	E	_	_	_	_	start_char=345567|end_char=345568
+9	quelle	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=345569|end_char=345575
+10	tre	_	NUM	N	NumType=Card	_	_	_	start_char=345576|end_char=345579
+11	donne	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=345580|end_char=345585
+12	,	_	PUNCT	FF	_	_	_	_	start_char=345585|end_char=345586
+13	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=345587|end_char=345589
+14	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345590|end_char=345594
+15	alla	_	_	_	_	_	_	_	start_char=345595|end_char=345599
+16	sommità	_	NOUN	S	Gender=Fem	_	_	_	SpacesAfter=\n|start_char=345600|end_char=345607
+17	di	_	ADP	E	_	_	_	_	start_char=345608|end_char=345610
+18	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=345611|end_char=345613
+19	camino	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=345614|end_char=345620
+20	e	_	CCONJ	CC	_	_	_	_	start_char=345621|end_char=345622
+21	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=345623|end_char=345625
+22	sento	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345626|end_char=345631
+23	parlare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=345632|end_char=345639
+24	.	_	PUNCT	FS	_	_	_	_	start_char=345639|end_char=345640
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_34
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Il loro bisbiglio attrae ogni mio senso, io sono incapace di vedere, e di muovere anche poco le mie membra.
+1	Il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=345641|end_char=345643
+2	loro	_	DET	AP	Poss=Yes|PronType=Prs	_	_	_	start_char=345644|end_char=345648
+3	bisbiglio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=345649|end_char=345658
+4	attrae	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345659|end_char=345665
+5	ogni	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=345666|end_char=345670
+6	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	SpacesAfter=\n|start_char=345671|end_char=345674
+7	senso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=345675|end_char=345680
+8	,	_	PUNCT	FF	_	_	_	_	start_char=345680|end_char=345681
+9	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=345682|end_char=345684
+10	sono	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345685|end_char=345689
+11	incapace	_	ADJ	A	Number=Sing	_	_	_	start_char=345690|end_char=345698
+12	di	_	ADP	E	_	_	_	_	start_char=345699|end_char=345701
+13	vedere	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=345702|end_char=345708
+14	,	_	PUNCT	FF	_	_	_	_	start_char=345708|end_char=345709
+15	e	_	CCONJ	CC	_	_	_	_	start_char=345710|end_char=345711
+16	di	_	ADP	E	_	_	_	_	start_char=345712|end_char=345714
+17	muovere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=345715|end_char=345722
+18	anche	_	ADV	B	_	_	_	_	start_char=345723|end_char=345728
+19	poco	_	ADV	B	_	_	_	_	start_char=345729|end_char=345733
+20	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=345734|end_char=345736
+21	mie	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	SpacesAfter=\n|start_char=345737|end_char=345740
+22	membra	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=345741|end_char=345747
+23	.	_	PUNCT	FS	_	_	_	_	start_char=345747|end_char=345748
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_35
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Esse parlano dell'umano dolore.
+1	Esse	_	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=345749|end_char=345753
+2	parlano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345754|end_char=345761
+3	dell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=345762|end_char=345767
+4	umano	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=345767|end_char=345772
+5	dolore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=345773|end_char=345779
+6	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=345779|end_char=345780
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_36
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Quale delle tre parla?
+1	Quale	_	PRON	PQ	Number=Sing|PronType=Int	_	_	_	start_char=345782|end_char=345787
+2	delle	_	_	_	_	_	_	_	start_char=345788|end_char=345793
+3	tre	_	NUM	N	NumType=Card	_	_	_	start_char=345794|end_char=345797
+4	parla	_	_	_	_	_	_	_	SpaceAfter=No|start_char=345798|end_char=345803
+5	?	_	PUNCT	FS	_	_	_	_	start_char=345803|end_char=345804
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_37
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = È _Pena_?
+1	È	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345805|end_char=345806
+2	_Pena_	_	SYM	SYM	_	_	_	_	SpaceAfter=No|start_char=345807|end_char=345813
+3	?	_	PUNCT	FS	_	_	_	_	start_char=345813|end_char=345814
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_38
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = È _Rete_?
+1	È	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345815|end_char=345816
+2	_Rete_	_	SYM	SYM	_	_	_	_	SpaceAfter=No|start_char=345817|end_char=345823
+3	?	_	PUNCT	FS	_	_	_	_	start_char=345823|end_char=345824
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_39
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = È _Lama_?
+1	È	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345825|end_char=345826
+2	_Lama_	_	SYM	SYM	_	_	_	_	SpaceAfter=No|start_char=345827|end_char=345833
+3	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=345833|end_char=345834
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_40
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Una narra tutta la _pena_ di un cuore; una spiega tutta la _rete_ che lo allacciò, quel cuore; ed una tiene in mano la _lama_ che lo trafiggerà.
+1	Una	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=345836|end_char=345839
+2	narra	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345840|end_char=345845
+3	tutta	_	DET	DI	PronType=Ind	_	_	_	start_char=345846|end_char=345851
+4	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=345852|end_char=345854
+5	_pena_	_	SYM	SYM	_	_	_	_	start_char=345855|end_char=345861
+6	di	_	ADP	E	_	_	_	_	start_char=345862|end_char=345864
+7	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=345865|end_char=345867
+8	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=345868|end_char=345873
+9	;	_	PUNCT	FC	_	_	_	_	start_char=345873|end_char=345874
+10	una	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=345875|end_char=345878
+11	spiega	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345879|end_char=345885
+12	tutta	_	DET	DI	PronType=Ind	_	_	_	start_char=345886|end_char=345891
+13	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=345892|end_char=345894
+14	_rete_	_	SYM	SYM	_	_	_	_	SpacesAfter=\n|start_char=345895|end_char=345901
+15	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=345902|end_char=345905
+16	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=345906|end_char=345908
+17	allacciò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=345909|end_char=345917
+18	,	_	PUNCT	FF	_	_	_	_	start_char=345917|end_char=345918
+19	quel	_	DET	DD	PronType=Dem	_	_	_	start_char=345919|end_char=345923
+20	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=345924|end_char=345929
+21	;	_	PUNCT	FC	_	_	_	_	start_char=345929|end_char=345930
+22	ed	_	CCONJ	CC	_	_	_	_	start_char=345931|end_char=345933
+23	una	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=345934|end_char=345937
+24	tiene	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=345938|end_char=345943
+25	in	_	ADP	E	_	_	_	_	start_char=345944|end_char=345946
+26	mano	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=345947|end_char=345951
+27	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=345952|end_char=345954
+28	_lama_	_	SYM	SYM	_	_	_	_	start_char=345955|end_char=345961
+29	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=345962|end_char=345965
+30	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpacesAfter=\n|start_char=345966|end_char=345968
+31	trafiggerà	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=345969|end_char=345979
+32	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=345979|end_char=345980
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_41
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=345982|end_char=345983
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_42
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = _Dio._
+1	_Dio._	_	SYM	SYM	_	_	_	_	SpacesAfter=\n\n|start_char=345984|end_char=345990
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_43
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=345992|end_char=345993
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_44
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Sì!
+1	Sì	_	INTJ	I	Polarity=Pos	_	_	_	SpaceAfter=No|start_char=345994|end_char=345996
+2	!	_	PUNCT	FS	_	_	_	_	start_char=345996|end_char=345997
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_45
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Le sento, le sento!
+1	Le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=345998|end_char=346000
+2	sento	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=346001|end_char=346006
+3	,	_	PUNCT	FF	_	_	_	_	start_char=346006|end_char=346007
+4	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=346008|end_char=346010
+5	sento	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=346011|end_char=346016
+6	!	_	PUNCT	FS	_	_	_	_	start_char=346016|end_char=346017
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_46
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = E non so che mi spinge a distinguere una cosa di loro.
+1	E	_	CCONJ	CC	_	_	_	_	start_char=346018|end_char=346019
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=346020|end_char=346023
+3	so	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=346024|end_char=346026
+4	che	_	SCONJ	CS	_	_	_	_	start_char=346027|end_char=346030
+5	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=346031|end_char=346033
+6	spinge	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=346034|end_char=346040
+7	a	_	ADP	E	_	_	_	_	start_char=346041|end_char=346042
+8	distinguere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=346043|end_char=346054
+9	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=346055|end_char=346058
+10	cosa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n|start_char=346059|end_char=346063
+11	di	_	ADP	E	_	_	_	_	start_char=346064|end_char=346066
+12	loro	_	PRON	PE	Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=346067|end_char=346071
+13	.	_	PUNCT	FS	_	_	_	_	start_char=346071|end_char=346072
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_47
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Dite, signor Perelà, dite, quale cosa desideraste più vedere di quelle tre donne?
+1	Dite	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=346073|end_char=346077
+2	,	_	PUNCT	FF	_	_	_	_	start_char=346077|end_char=346078
+3	signor	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=346079|end_char=346085
+4	Perelà	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=346086|end_char=346092
+5	,	_	PUNCT	FF	_	_	_	_	start_char=346092|end_char=346093
+6	dite	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=346094|end_char=346098
+7	,	_	PUNCT	FF	_	_	_	_	start_char=346098|end_char=346099
+8	quale	_	DET	DQ	Number=Sing|PronType=Int	_	_	_	start_char=346100|end_char=346105
+9	cosa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=346106|end_char=346110
+10	desideraste	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=346111|end_char=346122
+11	più	_	ADV	B	_	_	_	_	start_char=346123|end_char=346126
+12	vedere	_	VERB	V	VerbForm=Inf	_	_	_	SpacesAfter=\n|start_char=346127|end_char=346133
+13	di	_	ADP	E	_	_	_	_	start_char=346134|end_char=346136
+14	quelle	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=346137|end_char=346143
+15	tre	_	NUM	N	NumType=Card	_	_	_	start_char=346144|end_char=346147
+16	donne	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=346148|end_char=346153
+17	?	_	PUNCT	FS	_	_	_	_	start_char=346153|end_char=346154
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_48
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Quale fu quella cosa che imaginaste di più, o che vi lusingaste di avere meglio imaginata?
+1	Quale	_	PRON	PQ	Number=Sing|PronType=Int	_	_	_	start_char=346155|end_char=346160
+2	fu	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=346161|end_char=346163
+3	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=346164|end_char=346170
+4	cosa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=346171|end_char=346175
+5	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=346176|end_char=346179
+6	imaginaste	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=346180|end_char=346190
+7	di	_	ADP	E	_	_	_	_	start_char=346191|end_char=346193
+8	più	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=346194|end_char=346197
+9	,	_	PUNCT	FF	_	_	_	_	start_char=346197|end_char=346198
+10	o	_	CCONJ	CC	_	_	_	_	start_char=346199|end_char=346200
+11	che	_	SCONJ	CS	_	_	_	_	SpacesAfter=\n|start_char=346201|end_char=346204
+12	vi	_	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=346205|end_char=346207
+13	lusingaste	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=346208|end_char=346218
+14	di	_	ADP	E	_	_	_	_	start_char=346219|end_char=346221
+15	avere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=346222|end_char=346227
+16	meglio	_	ADV	B	_	_	_	_	start_char=346228|end_char=346234
+17	imaginata	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=346235|end_char=346244
+18	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=346244|end_char=346245
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_49
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=346247|end_char=346248
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_50
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Gli occhi di _Pena_, le mani di _Rete_, il sorriso di _Lama_.
+1	Gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=346249|end_char=346252
+2	occhi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=346253|end_char=346258
+3	di	_	ADP	E	_	_	_	_	start_char=346259|end_char=346261
+4	_Pena_	_	SYM	SYM	_	_	_	_	SpaceAfter=No|start_char=346262|end_char=346268
+5	,	_	PUNCT	FF	_	_	_	_	start_char=346268|end_char=346269
+6	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=346270|end_char=346272
+7	mani	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=346273|end_char=346277
+8	di	_	ADP	E	_	_	_	_	start_char=346278|end_char=346280
+9	_Rete_	_	SYM	SYM	_	_	_	_	SpaceAfter=No|start_char=346281|end_char=346287
+10	,	_	PUNCT	FF	_	_	_	_	start_char=346287|end_char=346288
+11	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=346289|end_char=346291
+12	sorriso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=346292|end_char=346299
+13	di	_	ADP	E	_	_	_	_	start_char=346300|end_char=346302
+14	_Lama_	_	SYM	SYM	_	_	_	_	SpaceAfter=No|start_char=346303|end_char=346309
+15	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=346309|end_char=346310
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_51
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=346312|end_char=346313
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_52
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Guardate, guardatemi negli occhi, guardate le mie mani, guardate il mio sorriso.
+1	Guardate	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=346314|end_char=346322
+2	,	_	PUNCT	FF	_	_	_	_	start_char=346322|end_char=346323
+3	guardatemi	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=346324|end_char=346334
+4	negli	_	_	_	_	_	_	_	start_char=346335|end_char=346340
+5	occhi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=346341|end_char=346346
+6	,	_	PUNCT	FF	_	_	_	_	start_char=346346|end_char=346347
+7	guardate	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=346348|end_char=346356
+8	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=346357|end_char=346359
+9	mie	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=346360|end_char=346363
+10	mani	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=346364|end_char=346368
+11	,	_	PUNCT	FF	_	_	_	_	start_char=346368|end_char=346369
+12	guardate	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=346370|end_char=346378
+13	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	SpacesAfter=\n|start_char=346379|end_char=346381
+14	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=346382|end_char=346385
+15	sorriso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=346386|end_char=346393
+16	.	_	PUNCT	FS	_	_	_	_	start_char=346393|end_char=346394
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_53
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Io mi sento in quest'istante di riassumere tutte quelle membra!
+1	Io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=346395|end_char=346397
+2	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=346398|end_char=346400
+3	sento	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=346401|end_char=346406
+4	in	_	ADP	E	_	_	_	_	start_char=346407|end_char=346409
+5	quest'	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=346410|end_char=346416
+6	istante	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=346416|end_char=346423
+7	di	_	ADP	E	_	_	_	_	start_char=346424|end_char=346426
+8	riassumere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=346427|end_char=346437
+9	tutte	_	DET	T	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	start_char=346438|end_char=346443
+10	quelle	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	SpacesAfter=\n|start_char=346444|end_char=346450
+11	membra	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=346451|end_char=346457
+12	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=346457|end_char=346458
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_54
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=346460|end_char=346461
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_55
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = _Dio._
+1	_Dio._	_	SYM	SYM	_	_	_	_	SpacesAfter=\n\n|start_char=346462|end_char=346468
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_56
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=346470|end_char=346471
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_57
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Dite, voi credevi, dite, che la Regina avesse altri occhi?
+1	Dite	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=346472|end_char=346476
+2	,	_	PUNCT	FF	_	_	_	_	start_char=346476|end_char=346477
+3	voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=346478|end_char=346481
+4	credevi	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=346482|end_char=346489
+5	,	_	PUNCT	FF	_	_	_	_	start_char=346489|end_char=346490
+6	dite	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=346491|end_char=346495
+7	,	_	PUNCT	FF	_	_	_	_	start_char=346495|end_char=346496
+8	che	_	SCONJ	CS	_	_	_	_	start_char=346497|end_char=346500
+9	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=346501|end_char=346503
+10	Regina	_	PROPN	SP	_	_	_	_	start_char=346504|end_char=346510
+11	avesse	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=346511|end_char=346517
+12	altri	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=346518|end_char=346523
+13	occhi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=346524|end_char=346529
+14	?	_	PUNCT	FS	_	_	_	_	start_char=346529|end_char=346530
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_58
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Altre mani?
+1	Altre	_	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	SpacesAfter=\n|start_char=346531|end_char=346536
+2	mani	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=346537|end_char=346541
+3	?	_	PUNCT	FS	_	_	_	_	start_char=346541|end_char=346542
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_59
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Altro sorriso?
+1	Altro	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=346543|end_char=346548
+2	sorriso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=346549|end_char=346556
+3	?	_	PUNCT	FS	_	_	_	_	start_char=346556|end_char=346557
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_60
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Le dame della società ieri certo v'intrattennero allegramente, ma io.... io sono la Regina....
+1	Le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=346558|end_char=346560
+2	dame	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=346561|end_char=346565
+3	della	_	_	_	_	_	_	_	start_char=346566|end_char=346571
+4	società	_	NOUN	S	Gender=Fem	_	_	_	start_char=346572|end_char=346579
+5	ieri	_	ADV	B	_	_	_	_	start_char=346580|end_char=346584
+6	certo	_	ADV	B	_	_	_	_	start_char=346585|end_char=346590
+7	v'	_	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=346591|end_char=346593
+8	intrattennero	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	SpacesAfter=\n|start_char=346593|end_char=346606
+9	allegramente	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=346607|end_char=346619
+10	,	_	PUNCT	FF	_	_	_	_	start_char=346619|end_char=346620
+11	ma	_	CCONJ	CC	_	_	_	_	start_char=346621|end_char=346623
+12	io....	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=346624|end_char=346630
+13	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=346631|end_char=346633
+14	sono	_	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=346634|end_char=346638
+15	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=346639|end_char=346641
+16	Regina	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=346642|end_char=346648
+17	....	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=346648|end_char=346652
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_61
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=346654|end_char=346655
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_62
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = _Dio._
+1	_Dio._	_	SYM	SYM	_	_	_	_	SpacesAfter=\n\n|start_char=346656|end_char=346662
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_63
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=346664|end_char=346665
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_64
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = La Regina frugare non può nel suo passato, e s'ella scruta nell'avvenire, ahimè, voi la vedete raccogliere una spada pesante bagnata di sangue, e trascinarsi via con quella, via lontano, via.... scomparire.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=346666|end_char=346668
+2	Regina	_	PROPN	SP	_	_	_	_	start_char=346669|end_char=346675
+3	frugare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=346676|end_char=346683
+4	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=346684|end_char=346687
+5	può	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=346688|end_char=346691
+6	nel	_	_	_	_	_	_	_	start_char=346692|end_char=346695
+7	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=346696|end_char=346699
+8	passato	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=346700|end_char=346707
+9	,	_	PUNCT	FF	_	_	_	_	start_char=346707|end_char=346708
+10	e	_	CCONJ	CC	_	_	_	_	start_char=346709|end_char=346710
+11	s'	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=346711|end_char=346713
+12	ella	_	_	_	_	_	_	_	start_char=346713|end_char=346717
+13	scruta	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpacesAfter=\n|start_char=346718|end_char=346724
+14	nell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=346725|end_char=346730
+15	avvenire	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=346730|end_char=346738
+16	,	_	PUNCT	FF	_	_	_	_	start_char=346738|end_char=346739
+17	ahimè	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=346740|end_char=346745
+18	,	_	PUNCT	FF	_	_	_	_	start_char=346745|end_char=346746
+19	voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=346747|end_char=346750
+20	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=346751|end_char=346753
+21	vedete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=346754|end_char=346760
+22	raccogliere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=346761|end_char=346772
+23	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=346773|end_char=346776
+24	spada	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=346777|end_char=346782
+25	pesante	_	ADJ	A	Number=Sing	_	_	_	SpacesAfter=\n|start_char=346783|end_char=346790
+26	bagnata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=346791|end_char=346798
+27	di	_	ADP	E	_	_	_	_	start_char=346799|end_char=346801
+28	sangue	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=346802|end_char=346808
+29	,	_	PUNCT	FF	_	_	_	_	start_char=346808|end_char=346809
+30	e	_	CCONJ	CC	_	_	_	_	start_char=346810|end_char=346811
+31	trascinarsi	_	_	_	_	_	_	_	start_char=346812|end_char=346823
+32	via	_	ADV	B	_	_	_	_	start_char=346824|end_char=346827
+33	con	_	ADP	E	_	_	_	_	start_char=346828|end_char=346831
+34	quella	_	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=346832|end_char=346838
+35	,	_	PUNCT	FF	_	_	_	_	start_char=346838|end_char=346839
+36	via	_	ADV	B	_	_	_	_	start_char=346840|end_char=346843
+37	lontano	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=346844|end_char=346851
+38	,	_	PUNCT	FF	_	_	_	_	start_char=346851|end_char=346852
+39	via	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=346853|end_char=346856
+40	....	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=346856|end_char=346860
+41	scomparire	_	_	_	_	_	_	_	SpaceAfter=No|start_char=346861|end_char=346871
+42	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=346871|end_char=346872
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_65
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Ma io vi posso insegnare un giuoco però, un giuoco da Regina, il giuoco che si chiama dello Stato.
+1	Ma	_	CCONJ	CC	_	_	_	_	start_char=346874|end_char=346876
+2	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=346877|end_char=346879
+3	vi	_	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=346880|end_char=346882
+4	posso	_	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=346883|end_char=346888
+5	insegnare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=346889|end_char=346898
+6	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=346899|end_char=346901
+7	giuoco	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=346902|end_char=346908
+8	però	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=346909|end_char=346913
+9	,	_	PUNCT	FF	_	_	_	_	start_char=346913|end_char=346914
+10	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=346915|end_char=346917
+11	giuoco	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=346918|end_char=346924
+12	da	_	ADP	E	_	_	_	_	start_char=346925|end_char=346927
+13	Regina	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=346928|end_char=346934
+14	,	_	PUNCT	FF	_	_	_	_	start_char=346934|end_char=346935
+15	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=346936|end_char=346938
+16	giuoco	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n|start_char=346939|end_char=346945
+17	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=346946|end_char=346949
+18	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=346950|end_char=346952
+19	chiama	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=346953|end_char=346959
+20	dello	_	_	_	_	_	_	_	start_char=346960|end_char=346965
+21	Stato	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=346966|end_char=346971
+22	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=346971|end_char=346972
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_66
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=346974|end_char=346975
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_67
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = _Dio._
+1	_Dio._	_	SYM	SYM	_	_	_	_	SpacesAfter=\n\n|start_char=346976|end_char=346982
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_68
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=346984|end_char=346985
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_69
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Prendete, ecco le carte, queste sono le dame, tenete, questi i cavalieri, li tengo io, qua le carte di spade.
+1	Prendete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=346986|end_char=346994
+2	,	_	PUNCT	FF	_	_	_	_	start_char=346994|end_char=346995
+3	ecco	_	ADV	B	_	_	_	_	start_char=346996|end_char=347000
+4	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=347001|end_char=347003
+5	carte	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=347004|end_char=347009
+6	,	_	PUNCT	FF	_	_	_	_	start_char=347009|end_char=347010
+7	queste	_	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=347011|end_char=347017
+8	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=347018|end_char=347022
+9	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=347023|end_char=347025
+10	dame	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=347026|end_char=347030
+11	,	_	PUNCT	FF	_	_	_	_	start_char=347030|end_char=347031
+12	tenete	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=347032|end_char=347038
+13	,	_	PUNCT	FF	_	_	_	_	start_char=347038|end_char=347039
+14	questi	_	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	_	_	_	start_char=347040|end_char=347046
+15	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	SpacesAfter=\n|start_char=347047|end_char=347048
+16	cavalieri	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=347049|end_char=347058
+17	,	_	PUNCT	FF	_	_	_	_	start_char=347058|end_char=347059
+18	li	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=347060|end_char=347062
+19	tengo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=347063|end_char=347068
+20	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=347069|end_char=347071
+21	,	_	PUNCT	FF	_	_	_	_	start_char=347071|end_char=347072
+22	qua	_	ADV	B	_	_	_	_	start_char=347073|end_char=347076
+23	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=347077|end_char=347079
+24	carte	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=347080|end_char=347085
+25	di	_	ADP	E	_	_	_	_	start_char=347086|end_char=347088
+26	spade	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=347089|end_char=347094
+27	.	_	PUNCT	FS	_	_	_	_	start_char=347094|end_char=347095
+
+# sent_id = 1920_palazzeschi_il_codice_perela_q4_70
+# chunk_id = 1920_palazzeschi_il_codice_perela_q4
+# quinto = 4
+# text = Mescolate le dame voi, io mescolo i cavalieri, mescolate le carte di denari, io le carte di spade.
+1	Mescolate	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=347096|end_char=347105
+2	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=347106|end_char=347108
+3	dame	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=347109|end_char=347113
+4	voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=347114|end_char=347117
+5	,	_	PUNCT	FF	_	_	_	_	SpacesAfter=\n|start_char=347117|end_char=347118
+6	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=347119|end_char=347121
+7	mescolo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=347122|end_char=347129
+8	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=347130|end_char=347131
+9	cavalieri	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=347132|end_char=347141
+10	,	_	PUNCT	FF	_	_	_	_	start_char=347141|end_char=347142
+11	mescolate	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=347143|end_char=347152
+12	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=347153|end_char=347155
+13	carte	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=347156|end_char=347161
+14	di	_	ADP	E	_	_	_	_	start_char=347162|end_char=347164
+15	denari	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=347165|end_char=347171
+16	,	_	PUNCT	FF	_	_	_	_	start_char=347171|end_char=347172
+17	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=347173|end_char=347175
+18	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=347176|end_char=347178
+19	carte	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=347179|end_char=347184
+20	di	_	ADP	E	_	_	_	_	SpacesAfter=\n|start_char=347185|end_char=347187
+21	spade	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=347188|end_char=347193
+22	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=347193|end_char=347194
+

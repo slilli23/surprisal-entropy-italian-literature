@@ -1,0 +1,804 @@
+# sent_id = 1891_serao_paese_cuccagna_q2_1
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Se tua moglie nega, potete andarvene dalla mia casa, subito.
+1	Se	_	SCONJ	CS	_	_	_	_	start_char=390081|end_char=390083
+2	tua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=390084|end_char=390087
+3	moglie	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=390088|end_char=390094
+4	nega	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=390095|end_char=390099
+5	,	_	PUNCT	FF	_	_	_	_	start_char=390099|end_char=390100
+6	potete	_	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=390101|end_char=390107
+7	andarvene	_	_	_	_	_	_	_	start_char=390108|end_char=390117
+8	dalla	_	_	_	_	_	_	_	start_char=390118|end_char=390123
+9	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=390124|end_char=390127
+10	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=390128|end_char=390132
+11	,	_	PUNCT	FF	_	_	_	_	start_char=390132|end_char=390133
+12	subito	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=390134|end_char=390140
+13	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=390140|end_char=390141
+
+# sent_id = 1891_serao_paese_cuccagna_q2_2
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = - Nossignore, nossignore, Eccellenza: vado subito, - disse umilmente il servo.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=390148|end_char=390149
+2	Nossignore	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=390150|end_char=390160
+3	,	_	PUNCT	FF	_	_	_	_	start_char=390160|end_char=390161
+4	nossignore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=390162|end_char=390172
+5	,	_	PUNCT	FF	_	_	_	_	start_char=390172|end_char=390173
+6	Eccellenza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=390174|end_char=390184
+7	:	_	PUNCT	FC	_	_	_	_	start_char=390184|end_char=390185
+8	vado	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=390186|end_char=390190
+9	subito	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=390191|end_char=390197
+10	,	_	PUNCT	FF	_	_	_	_	start_char=390197|end_char=390198
+11	-	_	PUNCT	FB	_	_	_	_	start_char=390199|end_char=390200
+12	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=390201|end_char=390206
+13	umilmente	_	ADV	B	_	_	_	_	start_char=390207|end_char=390216
+14	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=390217|end_char=390219
+15	servo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=390220|end_char=390225
+16	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=390225|end_char=390226
+
+# sent_id = 1891_serao_paese_cuccagna_q2_3
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Ma di là, vi fu la scena.
+1	Ma	_	CCONJ	CC	_	_	_	_	start_char=390233|end_char=390235
+2	di	_	ADP	E	_	_	_	_	start_char=390236|end_char=390238
+3	là	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=390239|end_char=390241
+4	,	_	PUNCT	FF	_	_	_	_	start_char=390241|end_char=390242
+5	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=390243|end_char=390245
+6	fu	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=390246|end_char=390248
+7	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=390249|end_char=390251
+8	scena	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=390252|end_char=390257
+9	.	_	PUNCT	FS	_	_	_	_	start_char=390257|end_char=390258
+
+# sent_id = 1891_serao_paese_cuccagna_q2_4
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Il dialogo fra marito e moglie fu lungo, agitato, la donna non voleva lasciarsi portar via il denaro: gridava piangeva, singhiozzava.
+1	Il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=390259|end_char=390261
+2	dialogo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=390262|end_char=390269
+3	fra	_	ADP	E	_	_	_	_	start_char=390270|end_char=390273
+4	marito	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=390274|end_char=390280
+5	e	_	CCONJ	CC	_	_	_	_	start_char=390281|end_char=390282
+6	moglie	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=390283|end_char=390289
+7	fu	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=390290|end_char=390292
+8	lungo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=390293|end_char=390298
+9	,	_	PUNCT	FF	_	_	_	_	start_char=390298|end_char=390299
+10	agitato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=390300|end_char=390307
+11	,	_	PUNCT	FF	_	_	_	_	start_char=390307|end_char=390308
+12	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=390309|end_char=390311
+13	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=390312|end_char=390317
+14	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=390318|end_char=390321
+15	voleva	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=390322|end_char=390328
+16	lasciarsi	_	_	_	_	_	_	_	start_char=390329|end_char=390338
+17	portar	_	VERB	V	VerbForm=Inf	_	_	_	start_char=390339|end_char=390345
+18	via	_	ADV	B	_	_	_	_	start_char=390346|end_char=390349
+19	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=390350|end_char=390352
+20	denaro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=390353|end_char=390359
+21	:	_	PUNCT	FC	_	_	_	_	start_char=390359|end_char=390360
+22	gridava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=390361|end_char=390368
+23	piangeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=390369|end_char=390377
+24	,	_	PUNCT	FF	_	_	_	_	start_char=390377|end_char=390378
+25	singhiozzava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=390379|end_char=390391
+26	.	_	PUNCT	FS	_	_	_	_	start_char=390391|end_char=390392
+
+# sent_id = 1891_serao_paese_cuccagna_q2_5
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Alla fine vi fu un silenzio: e poi come un lamento.
+1	Alla	_	_	_	_	_	_	_	start_char=390393|end_char=390397
+2	fine	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=390398|end_char=390402
+3	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=390403|end_char=390405
+4	fu	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=390406|end_char=390408
+5	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=390409|end_char=390411
+6	silenzio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=390412|end_char=390420
+7	:	_	PUNCT	FC	_	_	_	_	start_char=390420|end_char=390421
+8	e	_	CCONJ	CC	_	_	_	_	start_char=390422|end_char=390423
+9	poi	_	ADV	B	_	_	_	_	start_char=390424|end_char=390427
+10	come	_	ADP	E	_	_	_	_	start_char=390428|end_char=390432
+11	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=390433|end_char=390435
+12	lamento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=390436|end_char=390443
+13	.	_	PUNCT	FS	_	_	_	_	start_char=390443|end_char=390444
+
+# sent_id = 1891_serao_paese_cuccagna_q2_6
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Giovanni rientrò, con la vecchia faccia sconvolta, più curvo, quasi colpito da un tremor paralitico.
+1	Giovanni	_	PROPN	SP	_	_	_	_	start_char=390445|end_char=390453
+2	rientrò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=390454|end_char=390461
+3	,	_	PUNCT	FF	_	_	_	_	start_char=390461|end_char=390462
+4	con	_	ADP	E	_	_	_	_	start_char=390463|end_char=390466
+5	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=390467|end_char=390469
+6	vecchia	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=390470|end_char=390477
+7	faccia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=390478|end_char=390484
+8	sconvolta	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=390485|end_char=390494
+9	,	_	PUNCT	FF	_	_	_	_	start_char=390494|end_char=390495
+10	più	_	ADV	B	_	_	_	_	start_char=390496|end_char=390499
+11	curvo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=390500|end_char=390505
+12	,	_	PUNCT	FF	_	_	_	_	start_char=390505|end_char=390506
+13	quasi	_	ADV	B	_	_	_	_	start_char=390507|end_char=390512
+14	colpito	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=390513|end_char=390520
+15	da	_	ADP	E	_	_	_	_	start_char=390521|end_char=390523
+16	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=390524|end_char=390526
+17	tremor	_	NOUN	S	Gender=Masc	_	_	_	start_char=390527|end_char=390533
+18	paralitico	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=390534|end_char=390544
+19	.	_	PUNCT	FS	_	_	_	_	start_char=390544|end_char=390545
+
+# sent_id = 1891_serao_paese_cuccagna_q2_7
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = E deponendo altre cinquanta lire sulla scrivania, in silenzio, con gli occhi rossi delle scarse e brucianti lacrime dei vecchi, egli colpì tanto il marchese, che costui, placato a un tratto, disse bonariamente: - Sono trecento lire, fra ieri sera e stamattina: stasera avrete tutto.
+1	E	_	CCONJ	CC	_	_	_	_	start_char=390546|end_char=390547
+2	deponendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=390548|end_char=390557
+3	altre	_	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	start_char=390558|end_char=390563
+4	cinquanta	_	NUM	N	NumType=Card	_	_	_	start_char=390564|end_char=390573
+5	lire	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=390574|end_char=390578
+6	sulla	_	_	_	_	_	_	_	start_char=390579|end_char=390584
+7	scrivania	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=390585|end_char=390594
+8	,	_	PUNCT	FF	_	_	_	_	start_char=390594|end_char=390595
+9	in	_	ADP	E	_	_	_	_	start_char=390596|end_char=390598
+10	silenzio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=390599|end_char=390607
+11	,	_	PUNCT	FF	_	_	_	_	start_char=390607|end_char=390608
+12	con	_	ADP	E	_	_	_	_	start_char=390609|end_char=390612
+13	gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=390613|end_char=390616
+14	occhi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=390617|end_char=390622
+15	rossi	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=390623|end_char=390628
+16	delle	_	_	_	_	_	_	_	start_char=390629|end_char=390634
+17	scarse	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	start_char=390635|end_char=390641
+18	e	_	CCONJ	CC	_	_	_	_	start_char=390642|end_char=390643
+19	brucianti	_	ADJ	A	Number=Plur	_	_	_	start_char=390644|end_char=390653
+20	lacrime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=390654|end_char=390661
+21	dei	_	_	_	_	_	_	_	start_char=390662|end_char=390665
+22	vecchi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=390666|end_char=390672
+23	,	_	PUNCT	FF	_	_	_	_	start_char=390672|end_char=390673
+24	egli	_	_	_	_	_	_	_	start_char=390674|end_char=390678
+25	colpì	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=390679|end_char=390684
+26	tanto	_	ADV	B	_	_	_	_	start_char=390685|end_char=390690
+27	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=390691|end_char=390693
+28	marchese	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=390694|end_char=390702
+29	,	_	PUNCT	FF	_	_	_	_	start_char=390702|end_char=390703
+30	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=390704|end_char=390707
+31	costui	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=390708|end_char=390714
+32	,	_	PUNCT	FF	_	_	_	_	start_char=390714|end_char=390715
+33	placato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=390716|end_char=390723
+34	a	_	ADP	E	_	_	_	_	start_char=390724|end_char=390725
+35	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=390726|end_char=390728
+36	tratto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=390729|end_char=390735
+37	,	_	PUNCT	FF	_	_	_	_	start_char=390735|end_char=390736
+38	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=390737|end_char=390742
+39	bonariamente	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=390743|end_char=390755
+40	:	_	PUNCT	FC	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=390755|end_char=390756
+41	-	_	PUNCT	FB	_	_	_	_	start_char=390763|end_char=390764
+42	Sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=390765|end_char=390769
+43	trecento	_	NUM	N	NumType=Card	_	_	_	start_char=390770|end_char=390778
+44	lire	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=390779|end_char=390783
+45	,	_	PUNCT	FF	_	_	_	_	start_char=390783|end_char=390784
+46	fra	_	ADP	E	_	_	_	_	start_char=390785|end_char=390788
+47	ieri	_	ADV	B	_	_	_	_	start_char=390789|end_char=390793
+48	sera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=390794|end_char=390798
+49	e	_	CCONJ	CC	_	_	_	_	start_char=390799|end_char=390800
+50	stamattina	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=390801|end_char=390811
+51	:	_	PUNCT	FC	_	_	_	_	start_char=390811|end_char=390812
+52	stasera	_	ADV	B	_	_	_	_	start_char=390813|end_char=390820
+53	avrete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	_	_	_	start_char=390821|end_char=390827
+54	tutto	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=390828|end_char=390833
+55	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=390833|end_char=390834
+
+# sent_id = 1891_serao_paese_cuccagna_q2_8
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = - E il pranzo di oggi?
+1	-	_	PUNCT	FF	_	_	_	_	start_char=390841|end_char=390842
+2	E	_	CCONJ	CC	_	_	_	_	start_char=390843|end_char=390844
+3	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=390845|end_char=390847
+4	pranzo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=390848|end_char=390854
+5	di	_	ADP	E	_	_	_	_	start_char=390855|end_char=390857
+6	oggi	_	NOUN	S	Gender=Masc	_	_	_	SpaceAfter=No|start_char=390858|end_char=390862
+7	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=390862|end_char=390863
+
+# sent_id = 1891_serao_paese_cuccagna_q2_9
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = - Verrò io, alle quattro, - disse vagamente il marchese.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=390870|end_char=390871
+2	Verrò	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	start_char=390872|end_char=390877
+3	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=390878|end_char=390880
+4	,	_	PUNCT	FF	_	_	_	_	start_char=390880|end_char=390881
+5	alle	_	_	_	_	_	_	_	start_char=390882|end_char=390886
+6	quattro	_	NUM	N	NumType=Card	_	_	_	SpaceAfter=No|start_char=390887|end_char=390894
+7	,	_	PUNCT	FF	_	_	_	_	start_char=390894|end_char=390895
+8	-	_	PUNCT	FB	_	_	_	_	start_char=390896|end_char=390897
+9	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=390898|end_char=390903
+10	vagamente	_	ADV	B	_	_	_	_	start_char=390904|end_char=390913
+11	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=390914|end_char=390916
+12	marchese	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=390917|end_char=390925
+13	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=390925|end_char=390926
+
+# sent_id = 1891_serao_paese_cuccagna_q2_10
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = - La signorina è ammalata, vorrà un po'di brodo, stamane - mormorò il servo.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=390933|end_char=390934
+2	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=390935|end_char=390937
+3	signorina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=390938|end_char=390947
+4	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=390948|end_char=390949
+5	ammalata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=390950|end_char=390958
+6	,	_	PUNCT	FF	_	_	_	_	start_char=390958|end_char=390959
+7	vorrà	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	start_char=390960|end_char=390965
+8	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=390966|end_char=390968
+9	po'	_	PRON	PI	Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=390969|end_char=390972
+10	di	_	ADP	E	_	_	_	_	start_char=390972|end_char=390974
+11	brodo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=390975|end_char=390980
+12	,	_	PUNCT	FF	_	_	_	_	start_char=390980|end_char=390981
+13	stamane	_	ADV	B	_	_	_	_	start_char=390982|end_char=390989
+14	-	_	PUNCT	FB	_	_	_	_	start_char=390990|end_char=390991
+15	mormorò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=390992|end_char=390999
+16	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=391000|end_char=391002
+17	servo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=391003|end_char=391008
+18	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=391008|end_char=391009
+
+# sent_id = 1891_serao_paese_cuccagna_q2_11
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Allora, cercandosi in tasca, con la smorfia dolorosa dell'avaro, il marchese di Formosa diede tre lire al servo, seguendole con lo sguardo avido.
+1	Allora	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=391016|end_char=391022
+2	,	_	PUNCT	FF	_	_	_	_	start_char=391022|end_char=391023
+3	cercandosi	_	_	_	_	_	_	_	start_char=391024|end_char=391034
+4	in	_	ADP	E	_	_	_	_	start_char=391035|end_char=391037
+5	tasca	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=391038|end_char=391043
+6	,	_	PUNCT	FF	_	_	_	_	start_char=391043|end_char=391044
+7	con	_	ADP	E	_	_	_	_	start_char=391045|end_char=391048
+8	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=391049|end_char=391051
+9	smorfia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=391052|end_char=391059
+10	dolorosa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=391060|end_char=391068
+11	dell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=391069|end_char=391074
+12	avaro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=391074|end_char=391079
+13	,	_	PUNCT	FF	_	_	_	_	start_char=391079|end_char=391080
+14	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=391081|end_char=391083
+15	marchese	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391084|end_char=391092
+16	di	_	ADP	E	_	_	_	_	start_char=391093|end_char=391095
+17	Formosa	_	PROPN	SP	_	_	_	_	start_char=391096|end_char=391103
+18	diede	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=391104|end_char=391109
+19	tre	_	NUM	N	NumType=Card	_	_	_	start_char=391110|end_char=391113
+20	lire	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=391114|end_char=391118
+21	al	_	_	_	_	_	_	_	start_char=391119|end_char=391121
+22	servo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=391122|end_char=391127
+23	,	_	PUNCT	FF	_	_	_	_	start_char=391127|end_char=391128
+24	seguendole	_	_	_	_	_	_	_	start_char=391129|end_char=391139
+25	con	_	ADP	E	_	_	_	_	start_char=391140|end_char=391143
+26	lo	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=391144|end_char=391146
+27	sguardo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391147|end_char=391154
+28	avido	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=391155|end_char=391160
+29	.	_	PUNCT	FS	_	_	_	_	start_char=391160|end_char=391161
+
+# sent_id = 1891_serao_paese_cuccagna_q2_12
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Avevano bussato, Formosa trasalì, era la risposta del dottor Amati: non importa, adesso, se diceva no!
+1	Avevano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=391162|end_char=391169
+2	bussato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=391170|end_char=391177
+3	,	_	PUNCT	FF	_	_	_	_	start_char=391177|end_char=391178
+4	Formosa	_	PROPN	SP	_	_	_	_	start_char=391179|end_char=391186
+5	trasalì	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=391187|end_char=391194
+6	,	_	PUNCT	FF	_	_	_	_	start_char=391194|end_char=391195
+7	era	_	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=391196|end_char=391199
+8	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=391200|end_char=391202
+9	risposta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=391203|end_char=391211
+10	del	_	_	_	_	_	_	_	start_char=391212|end_char=391215
+11	dottor	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391216|end_char=391222
+12	Amati	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=391223|end_char=391228
+13	:	_	PUNCT	FC	_	_	_	_	start_char=391228|end_char=391229
+14	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=391230|end_char=391233
+15	importa	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=391234|end_char=391241
+16	,	_	PUNCT	FF	_	_	_	_	start_char=391241|end_char=391242
+17	adesso	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=391243|end_char=391249
+18	,	_	PUNCT	FF	_	_	_	_	start_char=391249|end_char=391250
+19	se	_	SCONJ	CS	_	_	_	_	start_char=391251|end_char=391253
+20	diceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=391254|end_char=391260
+21	no	_	INTJ	I	Polarity=Neg	_	_	_	SpaceAfter=No|start_char=391261|end_char=391263
+22	!	_	PUNCT	FS	_	_	_	_	start_char=391263|end_char=391264
+
+# sent_id = 1891_serao_paese_cuccagna_q2_13
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Ma come ebbe nelle mani la busta, alla divinazione del tatto comprese che i denari chiesti vi erano, e rosso di gioia, si mise la busta in tasca senz'aprirla.
+1	Ma	_	CCONJ	CC	_	_	_	_	start_char=391265|end_char=391267
+2	come	_	SCONJ	CS	_	_	_	_	start_char=391268|end_char=391272
+3	ebbe	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=391273|end_char=391277
+4	nelle	_	_	_	_	_	_	_	start_char=391278|end_char=391283
+5	mani	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=391284|end_char=391288
+6	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=391289|end_char=391291
+7	busta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=391292|end_char=391297
+8	,	_	PUNCT	FF	_	_	_	_	start_char=391297|end_char=391298
+9	alla	_	_	_	_	_	_	_	start_char=391299|end_char=391303
+10	divinazione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=391304|end_char=391315
+11	del	_	_	_	_	_	_	_	start_char=391316|end_char=391319
+12	tatto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391320|end_char=391325
+13	comprese	_	VERB	V	Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=391326|end_char=391334
+14	che	_	SCONJ	CS	_	_	_	_	start_char=391335|end_char=391338
+15	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=391339|end_char=391340
+16	denari	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=391341|end_char=391347
+17	chiesti	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=391348|end_char=391355
+18	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=391356|end_char=391358
+19	erano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=391359|end_char=391364
+20	,	_	PUNCT	FF	_	_	_	_	start_char=391364|end_char=391365
+21	e	_	CCONJ	CC	_	_	_	_	start_char=391366|end_char=391367
+22	rosso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=391368|end_char=391373
+23	di	_	ADP	E	_	_	_	_	start_char=391374|end_char=391376
+24	gioia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=391377|end_char=391382
+25	,	_	PUNCT	FF	_	_	_	_	start_char=391382|end_char=391383
+26	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=391384|end_char=391386
+27	mise	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=391387|end_char=391391
+28	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=391392|end_char=391394
+29	busta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=391395|end_char=391400
+30	in	_	ADP	E	_	_	_	_	start_char=391401|end_char=391403
+31	tasca	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=391404|end_char=391409
+32	senz'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=391410|end_char=391415
+33	aprirla	_	_	_	_	_	_	_	SpaceAfter=No|start_char=391415|end_char=391422
+34	.	_	PUNCT	FS	_	_	_	_	start_char=391422|end_char=391423
+
+# sent_id = 1891_serao_paese_cuccagna_q2_14
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Usciva, adesso, usciva alle otto del mattino, come se lo portasse un soffio irresistibile: usciva senza voltarsi indietro, a guardare la figlia inferma, la sua casa nuda, i suoi servi piangenti che gli avevano dato tutto, il suo vicino a cui egli non aveva pagato le visite e a cui aveva osato chieder del denaro in prestito: usciva, portando seco trecentocinquanta lire, che avrebbe messe tutte sul biglietto dello spirito, mentre aveva lasciato digiuni i due poveri vecchi servi, e aveva lesinato sopra un po'di brodo per Bianca Maria.
+1	Usciva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=391424|end_char=391430
+2	,	_	PUNCT	FF	_	_	_	_	start_char=391430|end_char=391431
+3	adesso	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=391432|end_char=391438
+4	,	_	PUNCT	FF	_	_	_	_	start_char=391438|end_char=391439
+5	usciva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=391440|end_char=391446
+6	alle	_	_	_	_	_	_	_	start_char=391447|end_char=391451
+7	otto	_	NUM	N	NumType=Card	_	_	_	start_char=391452|end_char=391456
+8	del	_	_	_	_	_	_	_	start_char=391457|end_char=391460
+9	mattino	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=391461|end_char=391468
+10	,	_	PUNCT	FF	_	_	_	_	start_char=391468|end_char=391469
+11	come	_	SCONJ	CS	_	_	_	_	start_char=391470|end_char=391474
+12	se	_	SCONJ	CS	_	_	_	_	start_char=391475|end_char=391477
+13	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=391478|end_char=391480
+14	portasse	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=391481|end_char=391489
+15	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=391490|end_char=391492
+16	soffio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391493|end_char=391499
+17	irresistibile	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=391500|end_char=391513
+18	:	_	PUNCT	FC	_	_	_	_	start_char=391513|end_char=391514
+19	usciva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=391515|end_char=391521
+20	senza	_	ADP	E	_	_	_	_	start_char=391522|end_char=391527
+21	voltarsi	_	_	_	_	_	_	_	start_char=391528|end_char=391536
+22	indietro	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=391537|end_char=391545
+23	,	_	PUNCT	FF	_	_	_	_	start_char=391545|end_char=391546
+24	a	_	ADP	E	_	_	_	_	start_char=391547|end_char=391548
+25	guardare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=391549|end_char=391557
+26	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=391558|end_char=391560
+27	figlia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=391561|end_char=391567
+28	inferma	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=391568|end_char=391575
+29	,	_	PUNCT	FF	_	_	_	_	start_char=391575|end_char=391576
+30	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=391577|end_char=391579
+31	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=391580|end_char=391583
+32	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=391584|end_char=391588
+33	nuda	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=391589|end_char=391593
+34	,	_	PUNCT	FF	_	_	_	_	start_char=391593|end_char=391594
+35	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=391595|end_char=391596
+36	suoi	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=391597|end_char=391601
+37	servi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=391602|end_char=391607
+38	piangenti	_	ADJ	A	Number=Plur	_	_	_	start_char=391608|end_char=391617
+39	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=391618|end_char=391621
+40	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=391622|end_char=391625
+41	avevano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=391626|end_char=391633
+42	dato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=391634|end_char=391638
+43	tutto	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=391639|end_char=391644
+44	,	_	PUNCT	FF	_	_	_	_	start_char=391644|end_char=391645
+45	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=391646|end_char=391648
+46	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=391649|end_char=391652
+47	vicino	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391653|end_char=391659
+48	a	_	ADP	E	_	_	_	_	start_char=391660|end_char=391661
+49	cui	_	PRON	PR	PronType=Rel	_	_	_	start_char=391662|end_char=391665
+50	egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=391666|end_char=391670
+51	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=391671|end_char=391674
+52	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=391675|end_char=391680
+53	pagato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=391681|end_char=391687
+54	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=391688|end_char=391690
+55	visite	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=391691|end_char=391697
+56	e	_	CCONJ	CC	_	_	_	_	start_char=391698|end_char=391699
+57	a	_	ADP	E	_	_	_	_	start_char=391700|end_char=391701
+58	cui	_	PRON	PR	PronType=Rel	_	_	_	start_char=391702|end_char=391705
+59	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=391706|end_char=391711
+60	osato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=391712|end_char=391717
+61	chieder	_	VERB	V	VerbForm=Inf	_	_	_	start_char=391718|end_char=391725
+62	del	_	_	_	_	_	_	_	start_char=391726|end_char=391729
+63	denaro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391730|end_char=391736
+64	in	_	ADP	E	_	_	_	_	start_char=391737|end_char=391739
+65	prestito	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=391740|end_char=391748
+66	:	_	PUNCT	FC	_	_	_	_	start_char=391748|end_char=391749
+67	usciva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=391750|end_char=391756
+68	,	_	PUNCT	FF	_	_	_	_	start_char=391756|end_char=391757
+69	portando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=391758|end_char=391766
+70	seco	_	ADV	B	_	_	_	_	start_char=391767|end_char=391771
+71	trecentocinquanta	_	NUM	N	NumType=Card	_	_	_	start_char=391772|end_char=391789
+72	lire	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=391790|end_char=391794
+73	,	_	PUNCT	FF	_	_	_	_	start_char=391794|end_char=391795
+74	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=391796|end_char=391799
+75	avrebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=391800|end_char=391807
+76	messe	_	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=391808|end_char=391813
+77	tutte	_	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	start_char=391814|end_char=391819
+78	sul	_	_	_	_	_	_	_	start_char=391820|end_char=391823
+79	biglietto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391824|end_char=391833
+80	dello	_	_	_	_	_	_	_	start_char=391834|end_char=391839
+81	spirito	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=391840|end_char=391847
+82	,	_	PUNCT	FF	_	_	_	_	start_char=391847|end_char=391848
+83	mentre	_	SCONJ	CS	_	_	_	_	start_char=391849|end_char=391855
+84	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=391856|end_char=391861
+85	lasciato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=391862|end_char=391870
+86	digiuni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=391871|end_char=391878
+87	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=391879|end_char=391880
+88	due	_	NUM	N	NumType=Card	_	_	_	start_char=391881|end_char=391884
+89	poveri	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=391885|end_char=391891
+90	vecchi	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=391892|end_char=391898
+91	servi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=391899|end_char=391904
+92	,	_	PUNCT	FF	_	_	_	_	start_char=391904|end_char=391905
+93	e	_	CCONJ	CC	_	_	_	_	start_char=391906|end_char=391907
+94	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=391908|end_char=391913
+95	lesinato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=391914|end_char=391922
+96	sopra	_	ADP	E	_	_	_	_	start_char=391923|end_char=391928
+97	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=391929|end_char=391931
+98	po'	_	PRON	PI	Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=391932|end_char=391935
+99	di	_	ADP	E	_	_	_	_	start_char=391935|end_char=391937
+100	brodo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=391938|end_char=391943
+101	per	_	ADP	E	_	_	_	_	start_char=391944|end_char=391947
+102	Bianca	_	PROPN	SP	_	_	_	_	start_char=391948|end_char=391954
+103	Maria	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=391955|end_char=391960
+104	.	_	PUNCT	FS	_	_	_	_	start_char=391960|end_char=391961
+
+# sent_id = 1891_serao_paese_cuccagna_q2_15
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Niuno lo rivide, in casa, sino al pomeriggio.
+1	Niuno	_	PROPN	SP	_	_	_	_	start_char=391962|end_char=391967
+2	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=391968|end_char=391970
+3	rivide	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=391971|end_char=391977
+4	,	_	PUNCT	FF	_	_	_	_	start_char=391977|end_char=391978
+5	in	_	ADP	E	_	_	_	_	start_char=391979|end_char=391981
+6	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=391982|end_char=391986
+7	,	_	PUNCT	FF	_	_	_	_	start_char=391986|end_char=391987
+8	sino	_	ADV	B	_	_	_	_	start_char=391988|end_char=391992
+9	al	_	_	_	_	_	_	_	start_char=391993|end_char=391995
+10	pomeriggio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=391996|end_char=392006
+11	.	_	PUNCT	FS	_	_	_	_	start_char=392006|end_char=392007
+
+# sent_id = 1891_serao_paese_cuccagna_q2_16
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = La fanciulla era restata a letto, vinta dalla febbre, ardendo, respirando faticosamente chiedendo ogni tanto da bere, niente altro.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=392008|end_char=392010
+2	fanciulla	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392011|end_char=392020
+3	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=392021|end_char=392024
+4	restata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=392025|end_char=392032
+5	a	_	ADP	E	_	_	_	_	start_char=392033|end_char=392034
+6	letto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=392035|end_char=392040
+7	,	_	PUNCT	FF	_	_	_	_	start_char=392040|end_char=392041
+8	vinta	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=392042|end_char=392047
+9	dalla	_	_	_	_	_	_	_	start_char=392048|end_char=392053
+10	febbre	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=392054|end_char=392060
+11	,	_	PUNCT	FF	_	_	_	_	start_char=392060|end_char=392061
+12	ardendo	_	VERB	V	VerbForm=Ger	_	_	_	SpaceAfter=No|start_char=392062|end_char=392069
+13	,	_	PUNCT	FF	_	_	_	_	start_char=392069|end_char=392070
+14	respirando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=392071|end_char=392081
+15	faticosamente	_	ADV	B	_	_	_	_	start_char=392082|end_char=392095
+16	chiedendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=392096|end_char=392105
+17	ogni	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=392106|end_char=392110
+18	tanto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=392111|end_char=392116
+19	da	_	ADP	E	_	_	_	_	start_char=392117|end_char=392119
+20	bere	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=392120|end_char=392124
+21	,	_	PUNCT	FF	_	_	_	_	start_char=392124|end_char=392125
+22	niente	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=392126|end_char=392132
+23	altro	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=392133|end_char=392138
+24	.	_	PUNCT	FS	_	_	_	_	start_char=392138|end_char=392139
+
+# sent_id = 1891_serao_paese_cuccagna_q2_17
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Margherita si era seduta accanto al letto, dicendo mentalmente il rosario, due o tre volte, per lasciar passare le ore: e ogni tanto metteva la mano sulla fronte dell'inferma, sgomentandosi del calore.
+1	Margherita	_	PROPN	SP	_	_	_	_	start_char=392140|end_char=392150
+2	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=392151|end_char=392153
+3	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=392154|end_char=392157
+4	seduta	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=392158|end_char=392164
+5	accanto	_	ADV	B	_	_	_	_	start_char=392165|end_char=392172
+6	al	_	_	_	_	_	_	_	start_char=392173|end_char=392175
+7	letto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=392176|end_char=392181
+8	,	_	PUNCT	FF	_	_	_	_	start_char=392181|end_char=392182
+9	dicendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=392183|end_char=392190
+10	mentalmente	_	ADV	B	_	_	_	_	start_char=392191|end_char=392202
+11	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=392203|end_char=392205
+12	rosario	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=392206|end_char=392213
+13	,	_	PUNCT	FF	_	_	_	_	start_char=392213|end_char=392214
+14	due	_	NUM	N	NumType=Card	_	_	_	start_char=392215|end_char=392218
+15	o	_	CCONJ	CC	_	_	_	_	start_char=392219|end_char=392220
+16	tre	_	NUM	N	NumType=Card	_	_	_	start_char=392221|end_char=392224
+17	volte	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=392225|end_char=392230
+18	,	_	PUNCT	FF	_	_	_	_	start_char=392230|end_char=392231
+19	per	_	ADP	E	_	_	_	_	start_char=392232|end_char=392235
+20	lasciar	_	VERB	V	VerbForm=Inf	_	_	_	start_char=392236|end_char=392243
+21	passare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=392244|end_char=392251
+22	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=392252|end_char=392254
+23	ore	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=392255|end_char=392258
+24	:	_	PUNCT	FC	_	_	_	_	start_char=392258|end_char=392259
+25	e	_	CCONJ	CC	_	_	_	_	start_char=392260|end_char=392261
+26	ogni	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=392262|end_char=392266
+27	tanto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=392267|end_char=392272
+28	metteva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=392273|end_char=392280
+29	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=392281|end_char=392283
+30	mano	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392284|end_char=392288
+31	sulla	_	_	_	_	_	_	_	start_char=392289|end_char=392294
+32	fronte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392295|end_char=392301
+33	dell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=392302|end_char=392307
+34	inferma	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=392307|end_char=392314
+35	,	_	PUNCT	FF	_	_	_	_	start_char=392314|end_char=392315
+36	sgomentandosi	_	_	_	_	_	_	_	start_char=392316|end_char=392329
+37	del	_	_	_	_	_	_	_	start_char=392330|end_char=392333
+38	calore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=392334|end_char=392340
+39	.	_	PUNCT	FS	_	_	_	_	start_char=392340|end_char=392341
+
+# sent_id = 1891_serao_paese_cuccagna_q2_18
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = La malata taceva: dormiva, con la respirazione oppressa.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=392342|end_char=392344
+2	malata	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392345|end_char=392351
+3	taceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=392352|end_char=392358
+4	:	_	PUNCT	FC	_	_	_	_	start_char=392358|end_char=392359
+5	dormiva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=392360|end_char=392367
+6	,	_	PUNCT	FF	_	_	_	_	start_char=392367|end_char=392368
+7	con	_	ADP	E	_	_	_	_	start_char=392369|end_char=392372
+8	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=392373|end_char=392375
+9	respirazione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392376|end_char=392388
+10	oppressa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=392389|end_char=392397
+11	.	_	PUNCT	FS	_	_	_	_	start_char=392397|end_char=392398
+
+# sent_id = 1891_serao_paese_cuccagna_q2_19
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = A un tratto, aprendo gli occhi, disse nitidamente a Margherita: - Chiamami il dottore...
+1	A	_	ADP	E	_	_	_	_	start_char=392399|end_char=392400
+2	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=392401|end_char=392403
+3	tratto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=392404|end_char=392410
+4	,	_	PUNCT	FF	_	_	_	_	start_char=392410|end_char=392411
+5	aprendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=392412|end_char=392419
+6	gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=392420|end_char=392423
+7	occhi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=392424|end_char=392429
+8	,	_	PUNCT	FF	_	_	_	_	start_char=392429|end_char=392430
+9	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=392431|end_char=392436
+10	nitidamente	_	ADV	B	_	_	_	_	start_char=392437|end_char=392448
+11	a	_	ADP	E	_	_	_	_	start_char=392449|end_char=392450
+12	Margherita	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=392451|end_char=392461
+13	:	_	PUNCT	FC	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=392461|end_char=392462
+14	-	_	PUNCT	FB	_	_	_	_	start_char=392469|end_char=392470
+15	Chiamami	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392471|end_char=392479
+16	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=392480|end_char=392482
+17	dottore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=392483|end_char=392490
+18	...	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=392490|end_char=392493
+
+# sent_id = 1891_serao_paese_cuccagna_q2_20
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = - Ora non sarà in casa.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=392500|end_char=392501
+2	Ora	_	ADV	B	_	_	_	_	start_char=392502|end_char=392505
+3	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=392506|end_char=392509
+4	sarà	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	start_char=392510|end_char=392514
+5	in	_	ADP	E	_	_	_	_	start_char=392515|end_char=392517
+6	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=392518|end_char=392522
+7	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=392522|end_char=392523
+
+# sent_id = 1891_serao_paese_cuccagna_q2_21
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = - Quando ritorna...
+1	-	_	PUNCT	FF	_	_	_	_	start_char=392530|end_char=392531
+2	Quando	_	SCONJ	CS	_	_	_	_	start_char=392532|end_char=392538
+3	ritorna	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=392539|end_char=392546
+4	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=392546|end_char=392547
+5	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=392547|end_char=392548
+6	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=392548|end_char=392549
+
+# sent_id = 1891_serao_paese_cuccagna_q2_22
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = E richiuse gli occhi.
+1	E	_	CCONJ	CC	_	_	_	_	start_char=392556|end_char=392557
+2	richiuse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=392558|end_char=392566
+3	gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=392567|end_char=392570
+4	occhi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=392571|end_char=392576
+5	.	_	PUNCT	FS	_	_	_	_	start_char=392576|end_char=392577
+
+# sent_id = 1891_serao_paese_cuccagna_q2_23
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Il dottore non venne che alle quattro e mezzo.
+1	Il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=392578|end_char=392580
+2	dottore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=392581|end_char=392588
+3	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=392589|end_char=392592
+4	venne	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=392593|end_char=392598
+5	che	_	SCONJ	CS	_	_	_	_	start_char=392599|end_char=392602
+6	alle	_	_	_	_	_	_	_	start_char=392603|end_char=392607
+7	quattro	_	NUM	N	NumType=Card	_	_	_	start_char=392608|end_char=392615
+8	e	_	CCONJ	CC	_	_	_	_	start_char=392616|end_char=392617
+9	mezzo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=392618|end_char=392623
+10	.	_	PUNCT	FS	_	_	_	_	start_char=392623|end_char=392624
+
+# sent_id = 1891_serao_paese_cuccagna_q2_24
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Si fermò sulla soglia della cameretta, odorando l'aria di febbre.
+1	Si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=392625|end_char=392627
+2	fermò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=392628|end_char=392633
+3	sulla	_	_	_	_	_	_	_	start_char=392634|end_char=392639
+4	soglia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392640|end_char=392646
+5	della	_	_	_	_	_	_	_	start_char=392647|end_char=392652
+6	cameretta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=392653|end_char=392662
+7	,	_	PUNCT	FF	_	_	_	_	start_char=392662|end_char=392663
+8	odorando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=392664|end_char=392672
+9	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=392673|end_char=392675
+10	aria	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392675|end_char=392679
+11	di	_	ADP	E	_	_	_	_	start_char=392680|end_char=392682
+12	febbre	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=392683|end_char=392689
+13	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=392689|end_char=392690
+
+# sent_id = 1891_serao_paese_cuccagna_q2_25
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = - Potevate chiamarmi prima, - disse ruvidamente a Margherita.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=392697|end_char=392698
+2	Potevate	_	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=392699|end_char=392707
+3	chiamarmi	_	_	_	_	_	_	_	start_char=392708|end_char=392717
+4	prima	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=392718|end_char=392723
+5	,	_	PUNCT	FF	_	_	_	_	start_char=392723|end_char=392724
+6	-	_	PUNCT	FB	_	_	_	_	start_char=392725|end_char=392726
+7	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=392727|end_char=392732
+8	ruvidamente	_	ADV	B	_	_	_	_	start_char=392733|end_char=392744
+9	a	_	ADP	E	_	_	_	_	start_char=392745|end_char=392746
+10	Margherita	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=392747|end_char=392757
+11	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=392757|end_char=392758
+
+# sent_id = 1891_serao_paese_cuccagna_q2_26
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = - Oh Vostra Eccellenza, se potessi dirvi.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=392765|end_char=392766
+2	Oh	_	INTJ	I	_	_	_	_	start_char=392767|end_char=392769
+3	Vostra	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=392770|end_char=392776
+4	Eccellenza	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=392777|end_char=392787
+5	,	_	PUNCT	FF	_	_	_	_	start_char=392787|end_char=392788
+6	se	_	SCONJ	CS	_	_	_	_	start_char=392789|end_char=392791
+7	potessi	_	AUX	VM	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=392792|end_char=392799
+8	dirvi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=392800|end_char=392805
+9	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=392805|end_char=392806
+
+# sent_id = 1891_serao_paese_cuccagna_q2_27
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Egli le ordinò di tacere.
+1	Egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=392813|end_char=392817
+2	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=392818|end_char=392820
+3	ordinò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=392821|end_char=392827
+4	di	_	ADP	E	_	_	_	_	start_char=392828|end_char=392830
+5	tacere	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=392831|end_char=392837
+6	.	_	PUNCT	FS	_	_	_	_	start_char=392837|end_char=392838
+
+# sent_id = 1891_serao_paese_cuccagna_q2_28
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = La malata lo guardava coi suoi belli e dolci occhi, sbarrati, e gli tendeva la mano.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=392839|end_char=392841
+2	malata	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392842|end_char=392848
+3	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=392849|end_char=392851
+4	guardava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=392852|end_char=392860
+5	coi	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=392861|end_char=392864
+6	suoi	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=392865|end_char=392869
+7	belli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=392870|end_char=392875
+8	e	_	CCONJ	CC	_	_	_	_	start_char=392876|end_char=392877
+9	dolci	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=392878|end_char=392883
+10	occhi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=392884|end_char=392889
+11	,	_	PUNCT	FF	_	_	_	_	start_char=392889|end_char=392890
+12	sbarrati	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=392891|end_char=392899
+13	,	_	PUNCT	FF	_	_	_	_	start_char=392899|end_char=392900
+14	e	_	CCONJ	CC	_	_	_	_	start_char=392901|end_char=392902
+15	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=392903|end_char=392906
+16	tendeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=392907|end_char=392914
+17	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=392915|end_char=392917
+18	mano	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=392918|end_char=392922
+19	.	_	PUNCT	FS	_	_	_	_	start_char=392922|end_char=392923
+
+# sent_id = 1891_serao_paese_cuccagna_q2_29
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = E il forte uomo, dalla testa poderosa, dalla faccia genialmente brutta, prese, innanzi a quella fragile creatura, quella profonda aria di tenerezza che gli sgorgava spontanea dal cuore.
+1	E	_	CCONJ	CC	_	_	_	_	start_char=392924|end_char=392925
+2	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=392926|end_char=392928
+3	forte	_	ADJ	A	Number=Sing	_	_	_	start_char=392929|end_char=392934
+4	uomo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=392935|end_char=392939
+5	,	_	PUNCT	FF	_	_	_	_	start_char=392939|end_char=392940
+6	dalla	_	_	_	_	_	_	_	start_char=392941|end_char=392946
+7	testa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392947|end_char=392952
+8	poderosa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=392953|end_char=392961
+9	,	_	PUNCT	FF	_	_	_	_	start_char=392961|end_char=392962
+10	dalla	_	_	_	_	_	_	_	start_char=392963|end_char=392968
+11	faccia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=392969|end_char=392975
+12	genialmente	_	ADV	B	_	_	_	_	start_char=392976|end_char=392987
+13	brutta	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=392988|end_char=392994
+14	,	_	PUNCT	FF	_	_	_	_	start_char=392994|end_char=392995
+15	prese	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=392996|end_char=393001
+16	,	_	PUNCT	FF	_	_	_	_	start_char=393001|end_char=393002
+17	innanzi	_	ADV	B	_	_	_	_	start_char=393003|end_char=393010
+18	a	_	ADP	E	_	_	_	_	start_char=393011|end_char=393012
+19	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=393013|end_char=393019
+20	fragile	_	ADJ	A	Number=Sing	_	_	_	start_char=393020|end_char=393027
+21	creatura	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=393028|end_char=393036
+22	,	_	PUNCT	FF	_	_	_	_	start_char=393036|end_char=393037
+23	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=393038|end_char=393044
+24	profonda	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=393045|end_char=393053
+25	aria	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=393054|end_char=393058
+26	di	_	ADP	E	_	_	_	_	start_char=393059|end_char=393061
+27	tenerezza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=393062|end_char=393071
+28	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=393072|end_char=393075
+29	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=393076|end_char=393079
+30	sgorgava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=393080|end_char=393088
+31	spontanea	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=393089|end_char=393098
+32	dal	_	_	_	_	_	_	_	start_char=393099|end_char=393102
+33	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=393103|end_char=393108
+34	.	_	PUNCT	FS	_	_	_	_	start_char=393108|end_char=393109
+
+# sent_id = 1891_serao_paese_cuccagna_q2_30
+# chunk_id = 1891_serao_paese_cuccagna_q2
+# quinto = 2
+# text = Il medico sentì subito che quella febbre sarebbe finita: già decadeva, con la rapidità delle effimere: ma a lui restava confitta in cuore la spina di quella povera esistenza, traballante fra la vita e la morte, vinta da un morbo di cui egli non trovava le cause.
+1	Il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=393110|end_char=393112
+2	medico	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=393113|end_char=393119
+3	sentì	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=393120|end_char=393125
+4	subito	_	ADV	B	_	_	_	_	start_char=393126|end_char=393132
+5	che	_	SCONJ	CS	_	_	_	_	start_char=393133|end_char=393136
+6	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=393137|end_char=393143
+7	febbre	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=393144|end_char=393150
+8	sarebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=393151|end_char=393158
+9	finita	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=393159|end_char=393165
+10	:	_	PUNCT	FC	_	_	_	_	start_char=393165|end_char=393166
+11	già	_	ADV	B	_	_	_	_	start_char=393167|end_char=393170
+12	decadeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=393171|end_char=393179
+13	,	_	PUNCT	FF	_	_	_	_	start_char=393179|end_char=393180
+14	con	_	ADP	E	_	_	_	_	start_char=393181|end_char=393184
+15	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=393185|end_char=393187
+16	rapidità	_	NOUN	S	Gender=Fem	_	_	_	start_char=393188|end_char=393196
+17	delle	_	_	_	_	_	_	_	start_char=393197|end_char=393202
+18	effimere	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=393203|end_char=393211
+19	:	_	PUNCT	FC	_	_	_	_	start_char=393211|end_char=393212
+20	ma	_	CCONJ	CC	_	_	_	_	start_char=393213|end_char=393215
+21	a	_	ADP	E	_	_	_	_	start_char=393216|end_char=393217
+22	lui	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=393218|end_char=393221
+23	restava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=393222|end_char=393229
+24	confitta	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=393230|end_char=393238
+25	in	_	ADP	E	_	_	_	_	start_char=393239|end_char=393241
+26	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=393242|end_char=393247
+27	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=393248|end_char=393250
+28	spina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=393251|end_char=393256
+29	di	_	ADP	E	_	_	_	_	start_char=393257|end_char=393259
+30	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=393260|end_char=393266
+31	povera	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=393267|end_char=393273
+32	esistenza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=393274|end_char=393283
+33	,	_	PUNCT	FF	_	_	_	_	start_char=393283|end_char=393284
+34	traballante	_	ADJ	A	Number=Sing	_	_	_	start_char=393285|end_char=393296
+35	fra	_	ADP	E	_	_	_	_	start_char=393297|end_char=393300
+36	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=393301|end_char=393303
+37	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=393304|end_char=393308
+38	e	_	CCONJ	CC	_	_	_	_	start_char=393309|end_char=393310
+39	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=393311|end_char=393313
+40	morte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=393314|end_char=393319
+41	,	_	PUNCT	FF	_	_	_	_	start_char=393319|end_char=393320
+42	vinta	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=393321|end_char=393326
+43	da	_	ADP	E	_	_	_	_	start_char=393327|end_char=393329
+44	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=393330|end_char=393332
+45	morbo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=393333|end_char=393338
+46	di	_	ADP	E	_	_	_	_	start_char=393339|end_char=393341
+47	cui	_	PRON	PR	PronType=Rel	_	_	_	start_char=393342|end_char=393345
+48	egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=393346|end_char=393350
+49	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=393351|end_char=393354
+50	trovava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=393355|end_char=393362
+51	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=393363|end_char=393365
+52	cause	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=393366|end_char=393371
+53	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=393371|end_char=393372
+

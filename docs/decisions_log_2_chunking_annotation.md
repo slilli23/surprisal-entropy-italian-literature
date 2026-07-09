@@ -88,14 +88,27 @@ The central clarification of this session is *which construct the annotation mea
 
 ---
 
+### 6.1 — MWT collapse: surface-token view for INCEpTION import
+
+**Decision.** The `inception/{chunk_id}.conllu` files are post-processed to collapse Stanza multi-word tokens (MWT) to their surface orthographic form: each `N-M` range line is retained as a single token and its expanded syntactic words are dropped, with per-sentence renumbering. The annotation unit in INCEpTION is therefore the orthographic word, not the syntactic word.
+
+**Rationale.** The gold standard (Construct B) is a retrospective, reader-based judgment over the surface text; the annotation unit must match what the reader sees on the page. An expanded MWT (e.g. *del* → *di* + *il*) would split a single orthographic word into two annotable units, mismatched both with the surface reading and with GePpeTto, whose BPE operates on the orthographic form.
+Collapsing to surface tokens removes this mismatch at the annotation layer.
+
+**Source of truth unchanged.** The collapse is applied only to the INCEpTION-facing derivation. The `canonical/{text_id}.conllu` files remain intact and MWT-expanded: the syntactic-word representation is still required downstream for POS and for surprisal aggregation. 
+
+**Implementation.** Isolated as a separate stage, `scripts/collapse_mwt.py`, invoked after `chunk_sampling.py` in `notebooks/02_chunking.ipynb`, with its own unit tests on synthetic CoNLL-U (cases: consecutive MWTs; MWT at sentence start/end; `skip_until` reset across sentence boundaries). Character offsets (`start_char`/`end_char`) are verified to survive on collapsed tokens; where Stanza places them only on expanded words, they are recovered from the first child.
+
+---
+
 ## 7. Code architecture
 
-Two single-responsibility modules, orchestrated by a thin notebook:
+Three single-responsibility modules, orchestrated by a thin notebook:
 
 - **`scripts/build_canonical.py`** — runs Stanza once per text and writes the canonical CoNLL-U files. Kept separate so the chunking logic does not depend on Stanza (heavy: model download, slow).
 - **`scripts/chunk_sampling.py`** — consumes the canonical CoNLL-U files and produces the four output artefacts. Pure, fast, unit-testable (its sampling logic was tested on synthetic CoNLL-U: surface-word counting with MWT and punctuation handling, global offset propagation, one chunk per quintile, the boundary−500 anchor constraint, whole-sentence accumulation, and seed determinism).
-- **`notebooks/02_chunking.ipynb`** — narrative entry point: calls `build_canonical(...)` then `run(...)`, and inspects the returned flags. It contains no logic of its own.
-
+- **`scripts/collapse_mwt.py`** — post-processes the `inception/` documents, collapsing Stanza MWTs to their surface orthographic form (one token per `N-M` range line, expanded syntactic words dropped, per-sentence renumbering). Applied only to the INCEpTION-facing derivation; the canonical files are left MWT-expanded. Pure, unit-tested on synthetic CoNLL-U (consecutive MWTs; MWT at sentence start/end; `skip_until` reset across sentence boundaries; offset preservation on collapsed tokens).
+- **`notebooks/02_chunking.ipynb`** — narrative entry point: calls `build_canonical(...)`, then `run(...)`, then `collapse_mwt(...)`, and inspects the returned flags. It contains no logic of its own.
 
 ---
 

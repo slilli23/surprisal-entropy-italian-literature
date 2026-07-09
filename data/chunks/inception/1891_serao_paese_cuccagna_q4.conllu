@@ -1,0 +1,838 @@
+# sent_id = 1891_serao_paese_cuccagna_q4_1
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Mi servono quaranta lire, da scontare a tre lire la settimana.
+1	Mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=1184990|end_char=1184992
+2	servono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1184993|end_char=1185000
+3	quaranta	_	NUM	N	NumType=Card	_	_	_	start_char=1185001|end_char=1185009
+4	lire	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1185010|end_char=1185014
+5	,	_	PUNCT	FF	_	_	_	_	start_char=1185014|end_char=1185015
+6	da	_	ADP	E	_	_	_	_	start_char=1185016|end_char=1185018
+7	scontare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=1185019|end_char=1185027
+8	a	_	ADP	E	_	_	_	_	start_char=1185028|end_char=1185029
+9	tre	_	NUM	N	NumType=Card	_	_	_	start_char=1185030|end_char=1185033
+10	lire	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=1185034|end_char=1185038
+11	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1185039|end_char=1185041
+12	settimana	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1185042|end_char=1185051
+13	.	_	PUNCT	FS	_	_	_	_	start_char=1185051|end_char=1185052
+
+# sent_id = 1891_serao_paese_cuccagna_q4_2
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Questo, sino a quando non ho fatto la combinazione grossa, perché allora vi restituisco capitale, interesse e vi fo pure un bellissimo regalo.
+1	Questo	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=1185053|end_char=1185059
+2	,	_	PUNCT	FF	_	_	_	_	start_char=1185059|end_char=1185060
+3	sino	_	ADV	B	_	_	_	_	start_char=1185061|end_char=1185065
+4	a	_	ADP	E	_	_	_	_	start_char=1185066|end_char=1185067
+5	quando	_	SCONJ	CS	_	_	_	_	start_char=1185068|end_char=1185074
+6	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1185075|end_char=1185078
+7	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185079|end_char=1185081
+8	fatto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=1185082|end_char=1185087
+9	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1185088|end_char=1185090
+10	combinazione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1185091|end_char=1185103
+11	grossa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1185104|end_char=1185110
+12	,	_	PUNCT	FF	_	_	_	_	start_char=1185110|end_char=1185111
+13	perché	_	SCONJ	CS	_	_	_	_	start_char=1185112|end_char=1185118
+14	allora	_	ADV	B	_	_	_	_	start_char=1185119|end_char=1185125
+15	vi	_	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=1185126|end_char=1185128
+16	restituisco	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185129|end_char=1185140
+17	capitale	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1185141|end_char=1185149
+18	,	_	PUNCT	FF	_	_	_	_	start_char=1185149|end_char=1185150
+19	interesse	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1185151|end_char=1185160
+20	e	_	CCONJ	CC	_	_	_	_	start_char=1185161|end_char=1185162
+21	vi	_	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=1185163|end_char=1185165
+22	fo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185166|end_char=1185168
+23	pure	_	ADV	B	_	_	_	_	start_char=1185169|end_char=1185173
+24	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1185174|end_char=1185176
+25	bellissimo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=1185177|end_char=1185187
+26	regalo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1185188|end_char=1185194
+27	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=1185194|end_char=1185195
+
+# sent_id = 1891_serao_paese_cuccagna_q4_3
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - Non v'incomodate, - disse ironicamente donna Concetta.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1185202|end_char=1185203
+2	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1185204|end_char=1185207
+3	v'	_	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=1185208|end_char=1185210
+4	incomodate	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1185210|end_char=1185220
+5	,	_	PUNCT	FF	_	_	_	_	start_char=1185220|end_char=1185221
+6	-	_	PUNCT	FB	_	_	_	_	start_char=1185222|end_char=1185223
+7	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1185224|end_char=1185229
+8	ironicamente	_	ADV	B	_	_	_	_	start_char=1185230|end_char=1185242
+9	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1185243|end_char=1185248
+10	Concetta	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1185249|end_char=1185257
+11	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=1185257|end_char=1185258
+
+# sent_id = 1891_serao_paese_cuccagna_q4_4
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - Se non li prestate a me, questi soldi, a chi li volete prestare?
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1185265|end_char=1185266
+2	Se	_	SCONJ	CS	_	_	_	_	start_char=1185267|end_char=1185269
+3	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1185270|end_char=1185273
+4	li	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=1185274|end_char=1185276
+5	prestate	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185277|end_char=1185285
+6	a	_	ADP	E	_	_	_	_	start_char=1185286|end_char=1185287
+7	me	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=1185288|end_char=1185290
+8	,	_	PUNCT	FF	_	_	_	_	start_char=1185290|end_char=1185291
+9	questi	_	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	_	_	_	start_char=1185292|end_char=1185298
+10	soldi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=1185299|end_char=1185304
+11	,	_	PUNCT	FF	_	_	_	_	start_char=1185304|end_char=1185305
+12	a	_	ADP	E	_	_	_	_	start_char=1185306|end_char=1185307
+13	chi	_	PRON	PQ	PronType=Rel	_	_	_	start_char=1185308|end_char=1185311
+14	li	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=1185312|end_char=1185314
+15	volete	_	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185315|end_char=1185321
+16	prestare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=1185322|end_char=1185330
+17	?	_	PUNCT	FS	_	_	_	_	start_char=1185330|end_char=1185331
+
+# sent_id = 1891_serao_paese_cuccagna_q4_5
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - rispose audacemente lo sciancato.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1185332|end_char=1185333
+2	rispose	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1185334|end_char=1185341
+3	audacemente	_	ADV	B	_	_	_	_	start_char=1185342|end_char=1185353
+4	lo	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1185354|end_char=1185356
+5	sciancato	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1185357|end_char=1185366
+6	.	_	PUNCT	FS	_	_	_	_	start_char=1185366|end_char=1185367
+
+# sent_id = 1891_serao_paese_cuccagna_q4_6
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - Se sto una giornata innanzi al caffè, io mi guadagno due lire, lo sapete?
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1185368|end_char=1185369
+2	Se	_	SCONJ	CS	_	_	_	_	start_char=1185370|end_char=1185372
+3	sto	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185373|end_char=1185376
+4	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1185377|end_char=1185380
+5	giornata	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1185381|end_char=1185389
+6	innanzi	_	ADV	B	_	_	_	_	start_char=1185390|end_char=1185397
+7	al	_	_	_	_	_	_	_	start_char=1185398|end_char=1185400
+8	caffè	_	NOUN	S	Gender=Masc	_	_	_	SpaceAfter=No|start_char=1185401|end_char=1185406
+9	,	_	PUNCT	FF	_	_	_	_	start_char=1185406|end_char=1185407
+10	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=1185408|end_char=1185410
+11	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=1185411|end_char=1185413
+12	guadagno	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185414|end_char=1185422
+13	due	_	NUM	N	NumType=Card	_	_	_	start_char=1185423|end_char=1185426
+14	lire	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1185427|end_char=1185431
+15	,	_	PUNCT	FF	_	_	_	_	start_char=1185431|end_char=1185432
+16	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=1185433|end_char=1185435
+17	sapete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1185436|end_char=1185442
+18	?	_	PUNCT	FS	_	_	_	_	start_char=1185442|end_char=1185443
+
+# sent_id = 1891_serao_paese_cuccagna_q4_7
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Neanche un giovane di barbiere può dire questo!
+1	Neanche	_	ADV	B	PronType=Neg	_	_	_	start_char=1185444|end_char=1185451
+2	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1185452|end_char=1185454
+3	giovane	_	NOUN	S	Number=Sing	_	_	_	start_char=1185455|end_char=1185462
+4	di	_	ADP	E	_	_	_	_	start_char=1185463|end_char=1185465
+5	barbiere	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1185466|end_char=1185474
+6	può	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185475|end_char=1185478
+7	dire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=1185479|end_char=1185483
+8	questo	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=1185484|end_char=1185490
+9	!	_	PUNCT	FS	_	_	_	_	start_char=1185490|end_char=1185491
+
+# sent_id = 1891_serao_paese_cuccagna_q4_8
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = D'altronde quel posto è la mia fortuna, è la mia bottega: se me ne vado di là, non guadagno un soldo, non vi posso scappare, dunque!
+1	D'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=1185492|end_char=1185494
+2	altronde	_	ADV	B	_	_	_	_	start_char=1185494|end_char=1185502
+3	quel	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=1185503|end_char=1185507
+4	posto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1185508|end_char=1185513
+5	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185514|end_char=1185515
+6	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1185516|end_char=1185518
+7	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=1185519|end_char=1185522
+8	fortuna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1185523|end_char=1185530
+9	,	_	PUNCT	FF	_	_	_	_	start_char=1185530|end_char=1185531
+10	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185532|end_char=1185533
+11	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1185534|end_char=1185536
+12	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=1185537|end_char=1185540
+13	bottega	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1185541|end_char=1185548
+14	:	_	PUNCT	FC	_	_	_	_	start_char=1185548|end_char=1185549
+15	se	_	SCONJ	CS	_	_	_	_	start_char=1185550|end_char=1185552
+16	me	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=1185553|end_char=1185555
+17	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=1185556|end_char=1185558
+18	vado	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185559|end_char=1185563
+19	di	_	ADP	E	_	_	_	_	start_char=1185564|end_char=1185566
+20	là	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1185567|end_char=1185569
+21	,	_	PUNCT	FF	_	_	_	_	start_char=1185569|end_char=1185570
+22	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1185571|end_char=1185574
+23	guadagno	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185575|end_char=1185583
+24	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1185584|end_char=1185586
+25	soldo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1185587|end_char=1185592
+26	,	_	PUNCT	FF	_	_	_	_	start_char=1185592|end_char=1185593
+27	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1185594|end_char=1185597
+28	vi	_	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=1185598|end_char=1185600
+29	posso	_	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185601|end_char=1185606
+30	scappare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=1185607|end_char=1185615
+31	,	_	PUNCT	FF	_	_	_	_	start_char=1185615|end_char=1185616
+32	dunque	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1185617|end_char=1185623
+33	!	_	PUNCT	FS	_	_	_	_	start_char=1185623|end_char=1185624
+
+# sent_id = 1891_serao_paese_cuccagna_q4_9
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Domandate al caffettiere, chi è Michele.
+1	Domandate	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185625|end_char=1185634
+2	al	_	_	_	_	_	_	_	start_char=1185635|end_char=1185637
+3	caffettiere	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=1185638|end_char=1185649
+4	,	_	PUNCT	FF	_	_	_	_	start_char=1185649|end_char=1185650
+5	chi	_	PRON	PR	PronType=Rel	_	_	_	start_char=1185651|end_char=1185654
+6	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185655|end_char=1185656
+7	Michele	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1185657|end_char=1185664
+8	.	_	PUNCT	FS	_	_	_	_	start_char=1185664|end_char=1185665
+
+# sent_id = 1891_serao_paese_cuccagna_q4_10
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = I denari vostri nelle mie mani stanno sicuri.
+1	I	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=1185666|end_char=1185667
+2	denari	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1185668|end_char=1185674
+3	vostri	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=1185675|end_char=1185681
+4	nelle	_	_	_	_	_	_	_	start_char=1185682|end_char=1185687
+5	mie	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=1185688|end_char=1185691
+6	mani	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=1185692|end_char=1185696
+7	stanno	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185697|end_char=1185703
+8	sicuri	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=1185704|end_char=1185710
+9	.	_	PUNCT	FS	_	_	_	_	start_char=1185710|end_char=1185711
+
+# sent_id = 1891_serao_paese_cuccagna_q4_11
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Il caffettiere vi dirà tutto.
+1	Il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1185712|end_char=1185714
+2	caffettiere	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1185715|end_char=1185726
+3	vi	_	PRON	PC	Clitic=Yes|Number=Plur|PronType=Prs	_	_	_	start_char=1185727|end_char=1185729
+4	dirà	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	start_char=1185730|end_char=1185734
+5	tutto	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=1185735|end_char=1185740
+6	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=1185740|end_char=1185741
+
+# sent_id = 1891_serao_paese_cuccagna_q4_12
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - Se il caffettiere garantisce per voi, io vi do i denari, - disse subito donna Concetta.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1185748|end_char=1185749
+2	Se	_	SCONJ	CS	_	_	_	_	start_char=1185750|end_char=1185752
+3	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1185753|end_char=1185755
+4	caffettiere	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=1185756|end_char=1185767
+5	garantisce	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185768|end_char=1185778
+6	per	_	ADP	E	_	_	_	_	start_char=1185779|end_char=1185782
+7	voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=1185783|end_char=1185786
+8	,	_	PUNCT	FF	_	_	_	_	start_char=1185786|end_char=1185787
+9	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=1185788|end_char=1185790
+10	vi	_	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=1185791|end_char=1185793
+11	do	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185794|end_char=1185796
+12	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=1185797|end_char=1185798
+13	denari	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=1185799|end_char=1185805
+14	,	_	PUNCT	FF	_	_	_	_	start_char=1185805|end_char=1185806
+15	-	_	PUNCT	FB	_	_	_	_	start_char=1185807|end_char=1185808
+16	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1185809|end_char=1185814
+17	subito	_	ADV	B	_	_	_	_	start_char=1185815|end_char=1185821
+18	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1185822|end_char=1185827
+19	Concetta	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1185828|end_char=1185836
+20	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=1185836|end_char=1185837
+
+# sent_id = 1891_serao_paese_cuccagna_q4_13
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - E allora me li darebbe lui, - obbiettò lo sciancato.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1185844|end_char=1185845
+2	E	_	CCONJ	CC	_	_	_	_	start_char=1185846|end_char=1185847
+3	allora	_	ADV	B	_	_	_	_	start_char=1185848|end_char=1185854
+4	me	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=1185855|end_char=1185857
+5	li	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=1185858|end_char=1185860
+6	darebbe	_	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185861|end_char=1185868
+7	lui	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=1185869|end_char=1185872
+8	,	_	PUNCT	FF	_	_	_	_	start_char=1185872|end_char=1185873
+9	-	_	PUNCT	FB	_	_	_	_	start_char=1185874|end_char=1185875
+10	obbiettò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1185876|end_char=1185884
+11	lo	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1185885|end_char=1185887
+12	sciancato	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1185888|end_char=1185897
+13	.	_	PUNCT	FS	_	_	_	_	start_char=1185897|end_char=1185898
+
+# sent_id = 1891_serao_paese_cuccagna_q4_14
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - No, no, Michele non ha bisogno di garanzia.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1185899|end_char=1185900
+2	No	_	INTJ	I	Polarity=Neg	_	_	_	SpaceAfter=No|start_char=1185901|end_char=1185903
+3	,	_	PUNCT	FF	_	_	_	_	start_char=1185903|end_char=1185904
+4	no	_	INTJ	I	Polarity=Neg	_	_	_	SpaceAfter=No|start_char=1185905|end_char=1185907
+5	,	_	PUNCT	FF	_	_	_	_	start_char=1185907|end_char=1185908
+6	Michele	_	PROPN	SP	_	_	_	_	start_char=1185909|end_char=1185916
+7	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1185917|end_char=1185920
+8	ha	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185921|end_char=1185923
+9	bisogno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1185924|end_char=1185931
+10	di	_	ADP	E	_	_	_	_	start_char=1185932|end_char=1185934
+11	garanzia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1185935|end_char=1185943
+12	.	_	PUNCT	FS	_	_	_	_	start_char=1185943|end_char=1185944
+
+# sent_id = 1891_serao_paese_cuccagna_q4_15
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Venite domani che è sabato, alle nove, dal caffettiere: e sentirete il suo discorso: e vedrete che mi date non quaranta, ma sessanta lire.
+1	Venite	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185945|end_char=1185951
+2	domani	_	ADV	B	_	_	_	_	start_char=1185952|end_char=1185958
+3	che	_	SCONJ	CS	_	_	_	_	start_char=1185959|end_char=1185962
+4	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1185963|end_char=1185964
+5	sabato	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1185965|end_char=1185971
+6	,	_	PUNCT	FF	_	_	_	_	start_char=1185971|end_char=1185972
+7	alle	_	_	_	_	_	_	_	start_char=1185973|end_char=1185977
+8	nove	_	NUM	N	NumType=Card	_	_	_	SpaceAfter=No|start_char=1185978|end_char=1185982
+9	,	_	PUNCT	FF	_	_	_	_	start_char=1185982|end_char=1185983
+10	dal	_	_	_	_	_	_	_	start_char=1185984|end_char=1185987
+11	caffettiere	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1185988|end_char=1185999
+12	:	_	PUNCT	FC	_	_	_	_	start_char=1185999|end_char=1186000
+13	e	_	CCONJ	CC	_	_	_	_	start_char=1186001|end_char=1186002
+14	sentirete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186003|end_char=1186012
+15	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1186013|end_char=1186015
+16	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=1186016|end_char=1186019
+17	discorso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1186020|end_char=1186028
+18	:	_	PUNCT	FC	_	_	_	_	start_char=1186028|end_char=1186029
+19	e	_	CCONJ	CC	_	_	_	_	start_char=1186030|end_char=1186031
+20	vedrete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	_	_	_	start_char=1186032|end_char=1186039
+21	che	_	SCONJ	CS	_	_	_	_	start_char=1186040|end_char=1186043
+22	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=1186044|end_char=1186046
+23	date	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186047|end_char=1186051
+24	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1186052|end_char=1186055
+25	quaranta	_	NUM	N	NumType=Card	_	_	_	SpaceAfter=No|start_char=1186056|end_char=1186064
+26	,	_	PUNCT	FF	_	_	_	_	start_char=1186064|end_char=1186065
+27	ma	_	CCONJ	CC	_	_	_	_	start_char=1186066|end_char=1186068
+28	sessanta	_	NUM	N	NumType=Card	_	_	_	start_char=1186069|end_char=1186077
+29	lire	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1186078|end_char=1186082
+30	.	_	PUNCT	FS	_	_	_	_	start_char=1186082|end_char=1186083
+
+# sent_id = 1891_serao_paese_cuccagna_q4_16
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Sono galantuomo, sto in faccia a un pubblico, femmine mie.
+1	Sono	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186084|end_char=1186088
+2	galantuomo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1186089|end_char=1186099
+3	,	_	PUNCT	FF	_	_	_	_	start_char=1186099|end_char=1186100
+4	sto	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186101|end_char=1186104
+5	in	_	ADP	E	_	_	_	_	start_char=1186105|end_char=1186107
+6	faccia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1186108|end_char=1186114
+7	a	_	ADP	E	_	_	_	_	start_char=1186115|end_char=1186116
+8	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1186117|end_char=1186119
+9	pubblico	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1186120|end_char=1186128
+10	,	_	PUNCT	FF	_	_	_	_	start_char=1186128|end_char=1186129
+11	femmine	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=1186130|end_char=1186137
+12	mie	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=1186138|end_char=1186141
+13	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=1186141|end_char=1186142
+
+# sent_id = 1891_serao_paese_cuccagna_q4_17
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - Bè, ci vediamo domani.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1186149|end_char=1186150
+2	Bè	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=1186151|end_char=1186153
+3	,	_	PUNCT	FF	_	_	_	_	start_char=1186153|end_char=1186154
+4	ci	_	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	_	_	_	start_char=1186155|end_char=1186157
+5	vediamo	_	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186158|end_char=1186165
+6	domani	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1186166|end_char=1186172
+7	.	_	PUNCT	FS	_	_	_	_	start_char=1186172|end_char=1186173
+
+# sent_id = 1891_serao_paese_cuccagna_q4_18
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Sapete l'interesse?
+1	Sapete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186174|end_char=1186180
+2	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=1186181|end_char=1186183
+3	interesse	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1186183|end_char=1186192
+4	?	_	PUNCT	FS	_	_	_	_	start_char=1186192|end_char=1186193
+
+# sent_id = 1891_serao_paese_cuccagna_q4_19
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - disse donna Concetta.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1186194|end_char=1186195
+2	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1186196|end_char=1186201
+3	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1186202|end_char=1186207
+4	Concetta	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1186208|end_char=1186216
+5	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=1186216|end_char=1186217
+
+# sent_id = 1891_serao_paese_cuccagna_q4_20
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - Quello che voi volete, - replicò galantemente lo sciancato.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1186224|end_char=1186225
+2	Quello	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=1186226|end_char=1186232
+3	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=1186233|end_char=1186236
+4	voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=1186237|end_char=1186240
+5	volete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1186241|end_char=1186247
+6	,	_	PUNCT	FF	_	_	_	_	start_char=1186247|end_char=1186248
+7	-	_	PUNCT	FB	_	_	_	_	start_char=1186249|end_char=1186250
+8	replicò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1186251|end_char=1186258
+9	galantemente	_	ADV	B	_	_	_	_	start_char=1186259|end_char=1186271
+10	lo	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1186272|end_char=1186274
+11	sciancato	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1186275|end_char=1186284
+12	.	_	PUNCT	FS	_	_	_	_	start_char=1186284|end_char=1186285
+
+# sent_id = 1891_serao_paese_cuccagna_q4_21
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - Anche una tazza di caffè, con una pagnottina dentro: al caffè sono padrone io!
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1186286|end_char=1186287
+2	Anche	_	ADV	B	_	_	_	_	start_char=1186288|end_char=1186293
+3	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1186294|end_char=1186297
+4	tazza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1186298|end_char=1186303
+5	di	_	ADP	E	_	_	_	_	start_char=1186304|end_char=1186306
+6	caffè	_	NOUN	S	Gender=Masc	_	_	_	SpaceAfter=No|start_char=1186307|end_char=1186312
+7	,	_	PUNCT	FF	_	_	_	_	start_char=1186312|end_char=1186313
+8	con	_	ADP	E	_	_	_	_	start_char=1186314|end_char=1186317
+9	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1186318|end_char=1186321
+10	pagnottina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1186322|end_char=1186332
+11	dentro	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1186333|end_char=1186339
+12	:	_	PUNCT	FC	_	_	_	_	start_char=1186339|end_char=1186340
+13	al	_	_	_	_	_	_	_	start_char=1186341|end_char=1186343
+14	caffè	_	NOUN	S	Gender=Masc	_	_	_	start_char=1186344|end_char=1186349
+15	sono	_	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186350|end_char=1186354
+16	padrone	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1186355|end_char=1186362
+17	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=1186363|end_char=1186365
+18	!	_	PUNCT	FS	_	_	_	_	start_char=1186365|end_char=1186366
+
+# sent_id = 1891_serao_paese_cuccagna_q4_22
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Avete comandi?
+1	Avete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186367|end_char=1186372
+2	comandi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=1186373|end_char=1186380
+3	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=1186380|end_char=1186381
+
+# sent_id = 1891_serao_paese_cuccagna_q4_23
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - Preghiere sempre, - mormorarono le due donne, mentre egli se ne andava.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1186388|end_char=1186389
+2	Preghiere	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=1186390|end_char=1186399
+3	sempre	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1186400|end_char=1186406
+4	,	_	PUNCT	FF	_	_	_	_	start_char=1186406|end_char=1186407
+5	-	_	PUNCT	FB	_	_	_	_	start_char=1186408|end_char=1186409
+6	mormorarono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186410|end_char=1186421
+7	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=1186422|end_char=1186424
+8	due	_	NUM	N	NumType=Card	_	_	_	start_char=1186425|end_char=1186428
+9	donne	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1186429|end_char=1186434
+10	,	_	PUNCT	FF	_	_	_	_	start_char=1186434|end_char=1186435
+11	mentre	_	SCONJ	CS	_	_	_	_	start_char=1186436|end_char=1186442
+12	egli	_	_	_	_	_	_	_	start_char=1186443|end_char=1186447
+13	se	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=1186448|end_char=1186450
+14	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=1186451|end_char=1186453
+15	andava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1186454|end_char=1186460
+16	.	_	PUNCT	FS	_	_	_	_	start_char=1186460|end_char=1186461
+
+# sent_id = 1891_serao_paese_cuccagna_q4_24
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Dopo una pausa di lavoro, Caterina osservò: - Gli hai detto di sì troppo presto.
+1	Dopo	_	ADP	E	_	_	_	_	start_char=1186462|end_char=1186466
+2	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1186467|end_char=1186470
+3	pausa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1186471|end_char=1186476
+4	di	_	ADP	E	_	_	_	_	start_char=1186477|end_char=1186479
+5	lavoro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1186480|end_char=1186486
+6	,	_	PUNCT	FF	_	_	_	_	start_char=1186486|end_char=1186487
+7	Caterina	_	PROPN	SP	_	_	_	_	start_char=1186488|end_char=1186496
+8	osservò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1186497|end_char=1186504
+9	:	_	PUNCT	FC	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=1186504|end_char=1186505
+10	-	_	PUNCT	FB	_	_	_	_	start_char=1186512|end_char=1186513
+11	Gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=1186514|end_char=1186517
+12	hai	_	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186518|end_char=1186521
+13	detto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=1186522|end_char=1186527
+14	di	_	ADP	E	_	_	_	_	start_char=1186528|end_char=1186530
+15	sì	_	INTJ	I	Polarity=Pos	_	_	_	start_char=1186531|end_char=1186533
+16	troppo	_	ADV	B	_	_	_	_	start_char=1186534|end_char=1186540
+17	presto	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1186541|end_char=1186547
+18	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=1186547|end_char=1186548
+
+# sent_id = 1891_serao_paese_cuccagna_q4_25
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - Farò fare la garanzia al caffettiere.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1186555|end_char=1186556
+2	Farò	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	start_char=1186557|end_char=1186561
+3	fare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=1186562|end_char=1186566
+4	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1186567|end_char=1186569
+5	garanzia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1186570|end_char=1186578
+6	al	_	_	_	_	_	_	_	start_char=1186579|end_char=1186581
+7	caffettiere	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1186582|end_char=1186593
+8	.	_	PUNCT	FS	_	_	_	_	start_char=1186593|end_char=1186594
+
+# sent_id = 1891_serao_paese_cuccagna_q4_26
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Eppoi è gobbo: porta fortuna, - soggiunse donna Concetta.
+1	Eppoi	_	ADV	B	_	_	_	_	start_char=1186595|end_char=1186600
+2	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186601|end_char=1186602
+3	gobbo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1186603|end_char=1186608
+4	:	_	PUNCT	FC	_	_	_	_	start_char=1186608|end_char=1186609
+5	porta	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186610|end_char=1186615
+6	fortuna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1186616|end_char=1186623
+7	,	_	PUNCT	FF	_	_	_	_	start_char=1186623|end_char=1186624
+8	-	_	PUNCT	FB	_	_	_	_	start_char=1186625|end_char=1186626
+9	soggiunse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1186627|end_char=1186636
+10	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1186637|end_char=1186642
+11	Concetta	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1186643|end_char=1186651
+12	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=1186651|end_char=1186652
+
+# sent_id = 1891_serao_paese_cuccagna_q4_27
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - Se ci portasse fortuna, dovrebbe finire per noi questa vita così dura a scorticare, - riprese Caterina, che volentieri si lamentava della sua fortuna.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1186659|end_char=1186660
+2	Se	_	SCONJ	CS	_	_	_	_	start_char=1186661|end_char=1186663
+3	ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=1186664|end_char=1186666
+4	portasse	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1186667|end_char=1186675
+5	fortuna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1186676|end_char=1186683
+6	,	_	PUNCT	FF	_	_	_	_	start_char=1186683|end_char=1186684
+7	dovrebbe	_	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186685|end_char=1186693
+8	finire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=1186694|end_char=1186700
+9	per	_	ADP	E	_	_	_	_	start_char=1186701|end_char=1186704
+10	noi	_	PRON	PE	Number=Plur|Person=1|PronType=Prs	_	_	_	start_char=1186705|end_char=1186708
+11	questa	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=1186709|end_char=1186715
+12	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1186716|end_char=1186720
+13	così	_	ADV	B	_	_	_	_	start_char=1186721|end_char=1186725
+14	dura	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=1186726|end_char=1186730
+15	a	_	ADP	E	_	_	_	_	start_char=1186731|end_char=1186732
+16	scorticare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=1186733|end_char=1186743
+17	,	_	PUNCT	FF	_	_	_	_	start_char=1186743|end_char=1186744
+18	-	_	PUNCT	FB	_	_	_	_	start_char=1186745|end_char=1186746
+19	riprese	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1186747|end_char=1186754
+20	Caterina	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1186755|end_char=1186763
+21	,	_	PUNCT	FF	_	_	_	_	start_char=1186763|end_char=1186764
+22	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=1186765|end_char=1186768
+23	volentieri	_	ADV	B	_	_	_	_	start_char=1186769|end_char=1186779
+24	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=1186780|end_char=1186782
+25	lamentava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1186783|end_char=1186792
+26	della	_	_	_	_	_	_	_	start_char=1186793|end_char=1186798
+27	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=1186799|end_char=1186802
+28	fortuna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1186803|end_char=1186810
+29	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=1186810|end_char=1186811
+
+# sent_id = 1891_serao_paese_cuccagna_q4_28
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - Eh! - disse l'altra sospirando.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1186818|end_char=1186819
+2	Eh!	_	INTJ	I	_	_	_	_	start_char=1186820|end_char=1186823
+3	-	_	PUNCT	FB	_	_	_	_	start_char=1186824|end_char=1186825
+4	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1186826|end_char=1186831
+5	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=1186832|end_char=1186834
+6	altra	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=1186834|end_char=1186839
+7	sospirando	_	VERB	V	VerbForm=Ger	_	_	_	SpaceAfter=No|start_char=1186840|end_char=1186850
+8	.	_	PUNCT	FS	_	_	_	_	start_char=1186850|end_char=1186851
+
+# sent_id = 1891_serao_paese_cuccagna_q4_29
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - Non abbiamo un uomo che ci dia mano forte, mai; perciò la giustizia ce la dobbiamo fare da noi, sempre.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1186852|end_char=1186853
+2	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1186854|end_char=1186857
+3	abbiamo	_	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186858|end_char=1186865
+4	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1186866|end_char=1186868
+5	uomo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1186869|end_char=1186873
+6	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=1186874|end_char=1186877
+7	ci	_	PRON	PC	Clitic=Yes|Number=Plur|PronType=Prs	_	_	_	start_char=1186878|end_char=1186880
+8	dia	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186881|end_char=1186884
+9	mano	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1186885|end_char=1186889
+10	forte	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=1186890|end_char=1186895
+11	,	_	PUNCT	FF	_	_	_	_	start_char=1186895|end_char=1186896
+12	mai	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1186897|end_char=1186900
+13	;	_	PUNCT	FC	_	_	_	_	start_char=1186900|end_char=1186901
+14	perciò	_	SCONJ	CS	_	_	_	_	start_char=1186902|end_char=1186908
+15	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1186909|end_char=1186911
+16	giustizia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1186912|end_char=1186921
+17	ce	_	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	_	_	_	start_char=1186922|end_char=1186924
+18	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=1186925|end_char=1186927
+19	dobbiamo	_	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186928|end_char=1186936
+20	fare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=1186937|end_char=1186941
+21	da	_	ADP	E	_	_	_	_	start_char=1186942|end_char=1186944
+22	noi	_	PRON	PE	Number=Plur|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=1186945|end_char=1186948
+23	,	_	PUNCT	FF	_	_	_	_	start_char=1186948|end_char=1186949
+24	sempre	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1186950|end_char=1186956
+25	.	_	PUNCT	FS	_	_	_	_	start_char=1186956|end_char=1186957
+
+# sent_id = 1891_serao_paese_cuccagna_q4_30
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Ciccillo e Alfonso sono due scemi, è inutile...
+1	Ciccillo	_	PROPN	SP	_	_	_	_	start_char=1186958|end_char=1186966
+2	e	_	CCONJ	CC	_	_	_	_	start_char=1186967|end_char=1186968
+3	Alfonso	_	PROPN	SP	_	_	_	_	start_char=1186969|end_char=1186976
+4	sono	_	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186977|end_char=1186981
+5	due	_	NUM	N	NumType=Card	_	_	_	start_char=1186982|end_char=1186985
+6	scemi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=1186986|end_char=1186991
+7	,	_	PUNCT	FF	_	_	_	_	start_char=1186991|end_char=1186992
+8	è	_	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1186993|end_char=1186994
+9	inutile	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=1186995|end_char=1187002
+10	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=1187002|end_char=1187003
+11	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=1187003|end_char=1187004
+12	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=1187004|end_char=1187005
+
+# sent_id = 1891_serao_paese_cuccagna_q4_31
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = - Che ci vuoi fare! - sospirò l'altra.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=1187012|end_char=1187013
+2	Che	_	PRON	PR	PronType=Rel	_	_	_	start_char=1187014|end_char=1187017
+3	ci	_	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	_	_	_	start_char=1187018|end_char=1187020
+4	vuoi	_	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1187021|end_char=1187025
+5	fare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=1187026|end_char=1187030
+6	!	_	PUNCT	FS	_	_	_	_	start_char=1187030|end_char=1187031
+7	-	_	PUNCT	FB	_	_	_	_	start_char=1187032|end_char=1187033
+8	sospirò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1187034|end_char=1187041
+9	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=1187042|end_char=1187044
+10	altra	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=1187044|end_char=1187049
+11	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=1187049|end_char=1187050
+
+# sent_id = 1891_serao_paese_cuccagna_q4_32
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = E le due sorelle, lasciando di lavorare, con le mani abbandonate sulla coperta rossa, si misero al loro segreto cruccio, a quella pena tormentosa che non confessavano a nessuno, a quei due fidanzati loro, due buoni operai dell'arsenale, i due fratelli Jannaccone, che le amavano, ma che non volevano sposarle, nessuno dei due, per il mestiere che esse facevano.
+1	E	_	CCONJ	CC	_	_	_	_	start_char=1187057|end_char=1187058
+2	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=1187059|end_char=1187061
+3	due	_	NUM	N	NumType=Card	_	_	_	start_char=1187062|end_char=1187065
+4	sorelle	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1187066|end_char=1187073
+5	,	_	PUNCT	FF	_	_	_	_	start_char=1187073|end_char=1187074
+6	lasciando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=1187075|end_char=1187084
+7	di	_	ADP	E	_	_	_	_	start_char=1187085|end_char=1187087
+8	lavorare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=1187088|end_char=1187096
+9	,	_	PUNCT	FF	_	_	_	_	start_char=1187096|end_char=1187097
+10	con	_	ADP	E	_	_	_	_	start_char=1187098|end_char=1187101
+11	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=1187102|end_char=1187104
+12	mani	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=1187105|end_char=1187109
+13	abbandonate	_	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=1187110|end_char=1187121
+14	sulla	_	_	_	_	_	_	_	start_char=1187122|end_char=1187127
+15	coperta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1187128|end_char=1187135
+16	rossa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1187136|end_char=1187141
+17	,	_	PUNCT	FF	_	_	_	_	start_char=1187141|end_char=1187142
+18	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=1187143|end_char=1187145
+19	misero	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=1187146|end_char=1187152
+20	al	_	_	_	_	_	_	_	start_char=1187153|end_char=1187155
+21	loro	_	DET	AP	Poss=Yes|PronType=Prs	_	_	_	start_char=1187156|end_char=1187160
+22	segreto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1187161|end_char=1187168
+23	cruccio	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1187169|end_char=1187176
+24	,	_	PUNCT	FF	_	_	_	_	start_char=1187176|end_char=1187177
+25	a	_	ADP	E	_	_	_	_	start_char=1187178|end_char=1187179
+26	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=1187180|end_char=1187186
+27	pena	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1187187|end_char=1187191
+28	tormentosa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=1187192|end_char=1187202
+29	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=1187203|end_char=1187206
+30	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1187207|end_char=1187210
+31	confessavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1187211|end_char=1187223
+32	a	_	ADP	E	_	_	_	_	start_char=1187224|end_char=1187225
+33	nessuno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=1187226|end_char=1187233
+34	,	_	PUNCT	FF	_	_	_	_	start_char=1187233|end_char=1187234
+35	a	_	ADP	E	_	_	_	_	start_char=1187235|end_char=1187236
+36	quei	_	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	_	_	_	start_char=1187237|end_char=1187241
+37	due	_	NUM	N	NumType=Card	_	_	_	start_char=1187242|end_char=1187245
+38	fidanzati	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1187246|end_char=1187255
+39	loro	_	PRON	PE	Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=1187256|end_char=1187260
+40	,	_	PUNCT	FF	_	_	_	_	start_char=1187260|end_char=1187261
+41	due	_	NUM	N	NumType=Card	_	_	_	start_char=1187262|end_char=1187265
+42	buoni	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=1187266|end_char=1187271
+43	operai	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1187272|end_char=1187278
+44	dell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=1187279|end_char=1187284
+45	arsenale	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1187284|end_char=1187292
+46	,	_	PUNCT	FF	_	_	_	_	start_char=1187292|end_char=1187293
+47	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=1187294|end_char=1187295
+48	due	_	NUM	N	NumType=Card	_	_	_	start_char=1187296|end_char=1187299
+49	fratelli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1187300|end_char=1187308
+50	Jannaccone	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=1187309|end_char=1187319
+51	,	_	PUNCT	FF	_	_	_	_	start_char=1187319|end_char=1187320
+52	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=1187321|end_char=1187324
+53	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=1187325|end_char=1187327
+54	amavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1187328|end_char=1187335
+55	,	_	PUNCT	FF	_	_	_	_	start_char=1187335|end_char=1187336
+56	ma	_	CCONJ	CC	_	_	_	_	start_char=1187337|end_char=1187339
+57	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=1187340|end_char=1187343
+58	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1187344|end_char=1187347
+59	volevano	_	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1187348|end_char=1187356
+60	sposarle	_	_	_	_	_	_	_	SpaceAfter=No|start_char=1187357|end_char=1187365
+61	,	_	PUNCT	FF	_	_	_	_	start_char=1187365|end_char=1187366
+62	nessuno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=1187367|end_char=1187374
+63	dei	_	_	_	_	_	_	_	start_char=1187375|end_char=1187378
+64	due	_	NUM	N	NumType=Card	_	_	_	SpaceAfter=No|start_char=1187379|end_char=1187382
+65	,	_	PUNCT	FF	_	_	_	_	start_char=1187382|end_char=1187383
+66	per	_	ADP	E	_	_	_	_	start_char=1187384|end_char=1187387
+67	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1187388|end_char=1187390
+68	mestiere	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1187391|end_char=1187399
+69	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=1187400|end_char=1187403
+70	esse	_	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=1187404|end_char=1187408
+71	facevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=1187409|end_char=1187417
+72	.	_	PUNCT	FS	_	_	_	_	start_char=1187417|end_char=1187418
+
+# sent_id = 1891_serao_paese_cuccagna_q4_33
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Da tre anni esse combattevano quella lotta fra l'amore e il denaro, ma Ciccillo e Alfonso Jannaccone non volevano saperne: lo sposare una tenitrice di gioco piccolo e una imprestatrice di denaro a usura, li avrebbe fatti vergognare innanzi a tutto l'arsenale.
+1	Da	_	ADP	E	_	_	_	_	start_char=1187419|end_char=1187421
+2	tre	_	NUM	N	NumType=Card	_	_	_	start_char=1187422|end_char=1187425
+3	anni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1187426|end_char=1187430
+4	esse	_	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=1187431|end_char=1187435
+5	combattevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1187436|end_char=1187448
+6	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=1187449|end_char=1187455
+7	lotta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1187456|end_char=1187461
+8	fra	_	ADP	E	_	_	_	_	start_char=1187462|end_char=1187465
+9	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=1187466|end_char=1187468
+10	amore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1187468|end_char=1187473
+11	e	_	CCONJ	CC	_	_	_	_	start_char=1187474|end_char=1187475
+12	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=1187476|end_char=1187478
+13	denaro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1187479|end_char=1187485
+14	,	_	PUNCT	FF	_	_	_	_	start_char=1187485|end_char=1187486
+15	ma	_	CCONJ	CC	_	_	_	_	start_char=1187487|end_char=1187489
+16	Ciccillo	_	PROPN	SP	_	_	_	_	start_char=1187490|end_char=1187498
+17	e	_	CCONJ	CC	_	_	_	_	start_char=1187499|end_char=1187500
+18	Alfonso	_	PROPN	SP	_	_	_	_	start_char=1187501|end_char=1187508
+19	Jannaccone	_	PROPN	SP	_	_	_	_	start_char=1187509|end_char=1187519
+20	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1187520|end_char=1187523
+21	volevano	_	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1187524|end_char=1187532
+22	saperne	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=1187533|end_char=1187540
+23	:	_	PUNCT	FC	_	_	_	_	start_char=1187540|end_char=1187541
+24	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=1187542|end_char=1187544
+25	sposare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=1187545|end_char=1187552
+26	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1187553|end_char=1187556
+27	tenitrice	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1187557|end_char=1187566
+28	di	_	ADP	E	_	_	_	_	start_char=1187567|end_char=1187569
+29	gioco	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1187570|end_char=1187575
+30	piccolo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=1187576|end_char=1187583
+31	e	_	CCONJ	CC	_	_	_	_	start_char=1187584|end_char=1187585
+32	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1187586|end_char=1187589
+33	imprestatrice	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1187590|end_char=1187603
+34	di	_	ADP	E	_	_	_	_	start_char=1187604|end_char=1187606
+35	denaro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1187607|end_char=1187613
+36	a	_	ADP	E	_	_	_	_	start_char=1187614|end_char=1187615
+37	usura	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1187616|end_char=1187621
+38	,	_	PUNCT	FF	_	_	_	_	start_char=1187621|end_char=1187622
+39	li	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=1187623|end_char=1187625
+40	avrebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=1187626|end_char=1187633
+41	fatti	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=1187634|end_char=1187639
+42	vergognare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=1187640|end_char=1187650
+43	innanzi	_	ADV	B	_	_	_	_	start_char=1187651|end_char=1187658
+44	a	_	ADP	E	_	_	_	_	start_char=1187659|end_char=1187660
+45	tutto	_	DET	T	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=1187661|end_char=1187666
+46	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=1187667|end_char=1187669
+47	arsenale	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1187669|end_char=1187677
+48	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\s\s\s\s\s\s|start_char=1187677|end_char=1187678
+
+# sent_id = 1891_serao_paese_cuccagna_q4_34
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Erano due operai buoni, semplici, molto taciturni, che non spendevano la loro giornata, avevano qualche soldo da parte e venivano a passare la serata presso le due sorelle.
+1	Erano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1187685|end_char=1187690
+2	due	_	NUM	N	NumType=Card	_	_	_	start_char=1187691|end_char=1187694
+3	operai	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=1187695|end_char=1187701
+4	buoni	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=1187702|end_char=1187707
+5	,	_	PUNCT	FF	_	_	_	_	start_char=1187707|end_char=1187708
+6	semplici	_	ADJ	A	Number=Plur	_	_	_	SpaceAfter=No|start_char=1187709|end_char=1187717
+7	,	_	PUNCT	FF	_	_	_	_	start_char=1187717|end_char=1187718
+8	molto	_	ADV	B	_	_	_	_	start_char=1187719|end_char=1187724
+9	taciturni	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=1187725|end_char=1187734
+10	,	_	PUNCT	FF	_	_	_	_	start_char=1187734|end_char=1187735
+11	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=1187736|end_char=1187739
+12	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=1187740|end_char=1187743
+13	spendevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1187744|end_char=1187754
+14	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1187755|end_char=1187757
+15	loro	_	DET	AP	Poss=Yes|PronType=Prs	_	_	_	start_char=1187758|end_char=1187762
+16	giornata	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1187763|end_char=1187771
+17	,	_	PUNCT	FF	_	_	_	_	start_char=1187771|end_char=1187772
+18	avevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1187773|end_char=1187780
+19	qualche	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=1187781|end_char=1187788
+20	soldo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1187789|end_char=1187794
+21	da	_	ADP	E	_	_	_	_	start_char=1187795|end_char=1187797
+22	parte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1187798|end_char=1187803
+23	e	_	CCONJ	CC	_	_	_	_	start_char=1187804|end_char=1187805
+24	venivano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1187806|end_char=1187814
+25	a	_	ADP	E	_	_	_	_	start_char=1187815|end_char=1187816
+26	passare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=1187817|end_char=1187824
+27	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1187825|end_char=1187827
+28	serata	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1187828|end_char=1187834
+29	presso	_	ADP	E	_	_	_	_	start_char=1187835|end_char=1187841
+30	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=1187842|end_char=1187844
+31	due	_	NUM	N	NumType=Card	_	_	_	start_char=1187845|end_char=1187848
+32	sorelle	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1187849|end_char=1187856
+33	.	_	PUNCT	FS	_	_	_	_	start_char=1187856|end_char=1187857
+
+# sent_id = 1891_serao_paese_cuccagna_q4_35
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Ostinati in quell'idea, una delle poche che avevano nel loro ingenuo cervello, nessuno slancio di amore e nessuna cupidigia di denaro arrivava a vincerne la cocciutaggine.
+1	Ostinati	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=1187858|end_char=1187866
+2	in	_	ADP	E	_	_	_	_	start_char=1187867|end_char=1187869
+3	quell'	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=1187870|end_char=1187876
+4	idea	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1187876|end_char=1187880
+5	,	_	PUNCT	FF	_	_	_	_	start_char=1187880|end_char=1187881
+6	una	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=1187882|end_char=1187885
+7	delle	_	_	_	_	_	_	_	start_char=1187886|end_char=1187891
+8	poche	_	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	start_char=1187892|end_char=1187897
+9	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=1187898|end_char=1187901
+10	avevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1187902|end_char=1187909
+11	nel	_	_	_	_	_	_	_	start_char=1187910|end_char=1187913
+12	loro	_	DET	AP	Poss=Yes|PronType=Prs	_	_	_	start_char=1187914|end_char=1187918
+13	ingenuo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=1187919|end_char=1187926
+14	cervello	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1187927|end_char=1187935
+15	,	_	PUNCT	FF	_	_	_	_	start_char=1187935|end_char=1187936
+16	nessuno	_	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=1187937|end_char=1187944
+17	slancio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1187945|end_char=1187952
+18	di	_	ADP	E	_	_	_	_	start_char=1187953|end_char=1187955
+19	amore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1187956|end_char=1187961
+20	e	_	CCONJ	CC	_	_	_	_	start_char=1187962|end_char=1187963
+21	nessuna	_	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=1187964|end_char=1187971
+22	cupidigia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1187972|end_char=1187981
+23	di	_	ADP	E	_	_	_	_	start_char=1187982|end_char=1187984
+24	denaro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=1187985|end_char=1187991
+25	arrivava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1187992|end_char=1188000
+26	a	_	ADP	E	_	_	_	_	start_char=1188001|end_char=1188002
+27	vincerne	_	_	_	_	_	_	_	start_char=1188003|end_char=1188011
+28	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1188012|end_char=1188014
+29	cocciutaggine	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1188015|end_char=1188028
+30	.	_	PUNCT	FS	_	_	_	_	start_char=1188028|end_char=1188029
+
+# sent_id = 1891_serao_paese_cuccagna_q4_36
+# chunk_id = 1891_serao_paese_cuccagna_q4
+# quinto = 4
+# text = Varie volte, le due sorelle, accanite al guadagno, offese aspramente da quel rifiuto, avevano litigato coi due fidanzati, li avevano cacciati di casa, ma per breve intervallo: la pace veniva fatta così, naturalmente.
+1	Varie	_	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	start_char=1188030|end_char=1188035
+2	volte	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1188036|end_char=1188041
+3	,	_	PUNCT	FF	_	_	_	_	start_char=1188041|end_char=1188042
+4	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=1188043|end_char=1188045
+5	due	_	NUM	N	NumType=Card	_	_	_	start_char=1188046|end_char=1188049
+6	sorelle	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=1188050|end_char=1188057
+7	,	_	PUNCT	FF	_	_	_	_	start_char=1188057|end_char=1188058
+8	accanite	_	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=1188059|end_char=1188067
+9	al	_	_	_	_	_	_	_	start_char=1188068|end_char=1188070
+10	guadagno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1188071|end_char=1188079
+11	,	_	PUNCT	FF	_	_	_	_	start_char=1188079|end_char=1188080
+12	offese	_	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=1188081|end_char=1188087
+13	aspramente	_	ADV	B	_	_	_	_	start_char=1188088|end_char=1188098
+14	da	_	ADP	E	_	_	_	_	start_char=1188099|end_char=1188101
+15	quel	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=1188102|end_char=1188106
+16	rifiuto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1188107|end_char=1188114
+17	,	_	PUNCT	FF	_	_	_	_	start_char=1188114|end_char=1188115
+18	avevano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1188116|end_char=1188123
+19	litigato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=1188124|end_char=1188132
+20	coi	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=1188133|end_char=1188136
+21	due	_	NUM	N	NumType=Card	_	_	_	start_char=1188137|end_char=1188140
+22	fidanzati	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=1188141|end_char=1188150
+23	,	_	PUNCT	FF	_	_	_	_	start_char=1188150|end_char=1188151
+24	li	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=1188152|end_char=1188154
+25	avevano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1188155|end_char=1188162
+26	cacciati	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=1188163|end_char=1188171
+27	di	_	ADP	E	_	_	_	_	start_char=1188172|end_char=1188174
+28	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=1188175|end_char=1188179
+29	,	_	PUNCT	FF	_	_	_	_	start_char=1188179|end_char=1188180
+30	ma	_	CCONJ	CC	_	_	_	_	start_char=1188181|end_char=1188183
+31	per	_	ADP	E	_	_	_	_	start_char=1188184|end_char=1188187
+32	breve	_	ADJ	A	Number=Sing	_	_	_	start_char=1188188|end_char=1188193
+33	intervallo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=1188194|end_char=1188204
+34	:	_	PUNCT	FC	_	_	_	_	start_char=1188204|end_char=1188205
+35	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=1188206|end_char=1188208
+36	pace	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=1188209|end_char=1188213
+37	veniva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=1188214|end_char=1188220
+38	fatta	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=1188221|end_char=1188226
+39	così	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1188227|end_char=1188231
+40	,	_	PUNCT	FF	_	_	_	_	start_char=1188231|end_char=1188232
+41	naturalmente	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=1188233|end_char=1188245
+42	.	_	PUNCT	FS	_	_	_	_	start_char=1188245|end_char=1188246
+

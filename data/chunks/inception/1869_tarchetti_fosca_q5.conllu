@@ -1,0 +1,868 @@
+# sent_id = 1869_tarchetti_fosca_q5_1
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Ho veduto spesso sorgere il sole con gioia; ma talora mi sono sentito stringere il cuore, e ho stese le braccia verso di lui nell'ora melanconica del tramonto.
+1	Ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613204|end_char=613206
+2	veduto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=613207|end_char=613213
+3	spesso	_	ADV	B	_	_	_	_	start_char=613214|end_char=613220
+4	sorgere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=613221|end_char=613228
+5	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=613229|end_char=613231
+6	sole	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=613232|end_char=613236
+7	con	_	ADP	E	_	_	_	_	start_char=613237|end_char=613240
+8	gioia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=613241|end_char=613246
+9	;	_	PUNCT	FC	_	_	_	_	start_char=613246|end_char=613247
+10	ma	_	CCONJ	CC	_	_	_	_	start_char=613248|end_char=613250
+11	talora	_	ADV	B	_	_	_	_	start_char=613251|end_char=613257
+12	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=613258|end_char=613260
+13	sono	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613261|end_char=613265
+14	sentito	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=613266|end_char=613273
+15	stringere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=613274|end_char=613283
+16	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=613284|end_char=613286
+17	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=613287|end_char=613292
+18	,	_	PUNCT	FF	_	_	_	_	start_char=613292|end_char=613293
+19	e	_	CCONJ	CC	_	_	_	_	start_char=613294|end_char=613295
+20	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613296|end_char=613298
+21	stese	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=613299|end_char=613304
+22	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=613305|end_char=613307
+23	braccia	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=613308|end_char=613315
+24	verso	_	ADP	E	_	_	_	_	start_char=613316|end_char=613321
+25	di	_	ADP	E	_	_	_	_	start_char=613322|end_char=613324
+26	lui	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=613325|end_char=613328
+27	nell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=613329|end_char=613334
+28	ora	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=613334|end_char=613337
+29	melanconica	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=613338|end_char=613349
+30	del	_	_	_	_	_	_	_	start_char=613350|end_char=613353
+31	tramonto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=613354|end_char=613362
+32	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n\n\n\n\n|start_char=613362|end_char=613363
+
+# sent_id = 1869_tarchetti_fosca_q5_2
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = XLIII
+1	XLIII	_	ADJ	NO	Number=Sing|NumType=Ord	_	_	_	SpacesAfter=\n\n\n|start_char=613369|end_char=613374
+
+# sent_id = 1869_tarchetti_fosca_q5_3
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Ecco soltanto ciò che ne scrissi allora nel mio diario:
+1	Ecco	_	ADV	B	_	_	_	_	start_char=613377|end_char=613381
+2	soltanto	_	ADV	B	_	_	_	_	start_char=613382|end_char=613390
+3	ciò	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=613391|end_char=613394
+4	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=613395|end_char=613398
+5	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=613399|end_char=613401
+6	scrissi	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	start_char=613402|end_char=613409
+7	allora	_	ADV	B	_	_	_	_	start_char=613410|end_char=613416
+8	nel	_	_	_	_	_	_	_	start_char=613417|end_char=613420
+9	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=613421|end_char=613424
+10	diario	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=613425|end_char=613431
+11	:	_	PUNCT	FC	_	_	_	_	SpacesAfter=\n\n|start_char=613431|end_char=613432
+
+# sent_id = 1869_tarchetti_fosca_q5_4
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = “23 dicembre 1863.
+1	“23	_	NUM	N	NumType=Card	_	_	_	start_char=613434|end_char=613437
+2	dicembre	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=613438|end_char=613446
+3	1863	_	NUM	N	NumType=Card	_	_	_	SpaceAfter=No|start_char=613447|end_char=613451
+4	.	_	PUNCT	FS	_	_	_	_	start_char=613451|end_char=613452
+
+# sent_id = 1869_tarchetti_fosca_q5_5
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = – Registro questa data e queste memorie due ore prima di ripartire da Milano.
+1	–	_	PUNCT	FB	_	_	_	_	start_char=613453|end_char=613454
+2	Registro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=613455|end_char=613463
+3	questa	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=613464|end_char=613470
+4	data	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=613471|end_char=613475
+5	e	_	CCONJ	CC	_	_	_	_	start_char=613476|end_char=613477
+6	queste	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=613478|end_char=613484
+7	memorie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=613485|end_char=613492
+8	due	_	NUM	N	NumType=Card	_	_	_	start_char=613493|end_char=613496
+9	ore	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=613497|end_char=613500
+10	prima	_	ADV	B	_	_	_	_	start_char=613501|end_char=613506
+11	di	_	ADP	E	_	_	_	_	start_char=613507|end_char=613509
+12	ripartire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=613510|end_char=613519
+13	da	_	ADP	E	_	_	_	_	start_char=613520|end_char=613522
+14	Milano	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=613523|end_char=613529
+15	.	_	PUNCT	FS	_	_	_	_	start_char=613529|end_char=613530
+
+# sent_id = 1869_tarchetti_fosca_q5_6
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Clara mi ha lasciato in questo momento; ho il cuore gonfio di lacrime, e vorrei piangere come un fanciullo.
+1	Clara	_	PROPN	SP	_	_	_	_	start_char=613531|end_char=613536
+2	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=613537|end_char=613539
+3	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613540|end_char=613542
+4	lasciato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=613543|end_char=613551
+5	in	_	ADP	E	_	_	_	_	start_char=613552|end_char=613554
+6	questo	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=613555|end_char=613561
+7	momento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=613562|end_char=613569
+8	;	_	PUNCT	FC	_	_	_	_	start_char=613569|end_char=613570
+9	ho	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613571|end_char=613573
+10	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=613574|end_char=613576
+11	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=613577|end_char=613582
+12	gonfio	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=613583|end_char=613589
+13	di	_	ADP	E	_	_	_	_	start_char=613590|end_char=613592
+14	lacrime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=613593|end_char=613600
+15	,	_	PUNCT	FF	_	_	_	_	start_char=613600|end_char=613601
+16	e	_	CCONJ	CC	_	_	_	_	start_char=613602|end_char=613603
+17	vorrei	_	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613604|end_char=613610
+18	piangere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=613611|end_char=613619
+19	come	_	ADP	E	_	_	_	_	start_char=613620|end_char=613624
+20	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=613625|end_char=613627
+21	fanciullo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=613628|end_char=613637
+22	.	_	PUNCT	FS	_	_	_	_	start_char=613637|end_char=613638
+
+# sent_id = 1869_tarchetti_fosca_q5_7
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Perché?
+1	Perché	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=613639|end_char=613645
+2	?	_	PUNCT	FS	_	_	_	_	start_char=613645|end_char=613646
+
+# sent_id = 1869_tarchetti_fosca_q5_8
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Non lo so dire.
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=613647|end_char=613650
+2	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=613651|end_char=613653
+3	so	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613654|end_char=613656
+4	dire	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=613657|end_char=613661
+5	.	_	PUNCT	FS	_	_	_	_	start_char=613661|end_char=613662
+
+# sent_id = 1869_tarchetti_fosca_q5_9
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Forse è un bisogno puramente fisico.
+1	Forse	_	ADV	B	_	_	_	_	start_char=613663|end_char=613668
+2	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613669|end_char=613670
+3	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=613671|end_char=613673
+4	bisogno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=613674|end_char=613681
+5	puramente	_	ADV	B	_	_	_	_	start_char=613682|end_char=613691
+6	fisico	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=613692|end_char=613698
+7	.	_	PUNCT	FS	_	_	_	_	start_char=613698|end_char=613699
+
+# sent_id = 1869_tarchetti_fosca_q5_10
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Dopo i vent'anni le lacrime ricadono nel cuore e vi si accumulano.
+1	Dopo	_	ADP	E	_	_	_	_	start_char=613700|end_char=613704
+2	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=613705|end_char=613706
+3	vent'	_	NUM	N	NumType=Card	_	_	_	SpaceAfter=No|start_char=613707|end_char=613712
+4	anni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=613712|end_char=613716
+5	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=613717|end_char=613719
+6	lacrime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=613720|end_char=613727
+7	ricadono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613728|end_char=613736
+8	nel	_	_	_	_	_	_	_	start_char=613737|end_char=613740
+9	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=613741|end_char=613746
+10	e	_	CCONJ	CC	_	_	_	_	start_char=613747|end_char=613748
+11	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=613749|end_char=613751
+12	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=613752|end_char=613754
+13	accumulano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=613755|end_char=613765
+14	.	_	PUNCT	FS	_	_	_	_	start_char=613765|end_char=613766
+
+# sent_id = 1869_tarchetti_fosca_q5_11
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Credo che spesso si muoia di queste lacrime che non possono trovare una via.
+1	Credo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613767|end_char=613772
+2	che	_	SCONJ	CS	_	_	_	_	start_char=613773|end_char=613776
+3	spesso	_	ADV	B	_	_	_	_	start_char=613777|end_char=613783
+4	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=613784|end_char=613786
+5	muoia	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613787|end_char=613792
+6	di	_	ADP	E	_	_	_	_	start_char=613793|end_char=613795
+7	queste	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=613796|end_char=613802
+8	lacrime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=613803|end_char=613810
+9	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=613811|end_char=613814
+10	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=613815|end_char=613818
+11	possono	_	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613819|end_char=613826
+12	trovare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=613827|end_char=613834
+13	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=613835|end_char=613838
+14	via	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=613839|end_char=613842
+15	.	_	PUNCT	FS	_	_	_	_	start_char=613842|end_char=613843
+
+# sent_id = 1869_tarchetti_fosca_q5_12
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Perché non si piange più dopo i vent'anni?
+1	Perché	_	ADV	B	_	_	_	_	start_char=613844|end_char=613850
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=613851|end_char=613854
+3	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=613855|end_char=613857
+4	piange	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613858|end_char=613864
+5	più	_	ADV	B	_	_	_	_	start_char=613865|end_char=613868
+6	dopo	_	ADP	E	_	_	_	_	start_char=613869|end_char=613873
+7	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=613874|end_char=613875
+8	vent'	_	NUM	N	NumType=Card	_	_	_	SpaceAfter=No|start_char=613876|end_char=613881
+9	anni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=613881|end_char=613885
+10	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=613885|end_char=613886
+
+# sent_id = 1869_tarchetti_fosca_q5_13
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Sono giunto ieri, ho passato tutto il giorno con lei, qui, soli, contenti, ma non più contento come un tempo…
+1	Sono	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613888|end_char=613892
+2	giunto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=613893|end_char=613899
+3	ieri	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=613900|end_char=613904
+4	,	_	PUNCT	FF	_	_	_	_	start_char=613904|end_char=613905
+5	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=613906|end_char=613908
+6	passato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=613909|end_char=613916
+7	tutto	_	DET	T	Gender=Masc|Number=Sing|PronType=Tot	_	_	_	start_char=613917|end_char=613922
+8	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=613923|end_char=613925
+9	giorno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=613926|end_char=613932
+10	con	_	ADP	E	_	_	_	_	start_char=613933|end_char=613936
+11	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=613937|end_char=613940
+12	,	_	PUNCT	FF	_	_	_	_	start_char=613940|end_char=613941
+13	qui	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=613942|end_char=613945
+14	,	_	PUNCT	FF	_	_	_	_	start_char=613945|end_char=613946
+15	soli	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=613947|end_char=613951
+16	,	_	PUNCT	FF	_	_	_	_	start_char=613951|end_char=613952
+17	contenti	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=613953|end_char=613961
+18	,	_	PUNCT	FF	_	_	_	_	start_char=613961|end_char=613962
+19	ma	_	CCONJ	CC	_	_	_	_	start_char=613963|end_char=613965
+20	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=613966|end_char=613969
+21	più	_	ADV	B	_	_	_	_	start_char=613970|end_char=613973
+22	contento	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=613974|end_char=613982
+23	come	_	ADP	E	_	_	_	_	start_char=613983|end_char=613987
+24	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=613988|end_char=613990
+25	tempo…	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=613991|end_char=613997
+
+# sent_id = 1869_tarchetti_fosca_q5_14
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Mi amerebbe ella meno?
+1	Mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=613998|end_char=614000
+2	amerebbe	_	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614001|end_char=614009
+3	ella	_	_	_	_	_	_	_	start_char=614010|end_char=614014
+4	meno	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=614015|end_char=614019
+5	?	_	PUNCT	FS	_	_	_	_	start_char=614019|end_char=614020
+
+# sent_id = 1869_tarchetti_fosca_q5_15
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = No, ella sembra amarmi soltanto più seriamente.
+1	No	_	INTJ	I	Polarity=Neg	_	_	_	SpaceAfter=No|start_char=614021|end_char=614023
+2	,	_	PUNCT	FF	_	_	_	_	start_char=614023|end_char=614024
+3	ella	_	_	_	_	_	_	_	start_char=614025|end_char=614029
+4	sembra	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614030|end_char=614036
+5	amarmi	_	_	_	_	_	_	_	start_char=614037|end_char=614043
+6	soltanto	_	ADV	B	_	_	_	_	start_char=614044|end_char=614052
+7	più	_	ADV	B	_	_	_	_	start_char=614053|end_char=614056
+8	seriamente	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=614057|end_char=614067
+9	.	_	PUNCT	FS	_	_	_	_	start_char=614067|end_char=614068
+
+# sent_id = 1869_tarchetti_fosca_q5_16
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Temo d'aver indovinato il segreto terribile che ella si strugge di nascondermi.
+1	Temo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614069|end_char=614073
+2	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=614074|end_char=614076
+3	aver	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=614076|end_char=614080
+4	indovinato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=614081|end_char=614091
+5	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=614092|end_char=614094
+6	segreto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=614095|end_char=614102
+7	terribile	_	ADJ	A	Number=Sing	_	_	_	start_char=614103|end_char=614112
+8	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=614113|end_char=614116
+9	ella	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=614117|end_char=614121
+10	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=614122|end_char=614124
+11	strugge	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614125|end_char=614132
+12	di	_	ADP	E	_	_	_	_	start_char=614133|end_char=614135
+13	nascondermi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=614136|end_char=614147
+14	.	_	PUNCT	FS	_	_	_	_	start_char=614147|end_char=614148
+
+# sent_id = 1869_tarchetti_fosca_q5_17
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Clara non è felice.
+1	Clara	_	PROPN	SP	_	_	_	_	start_char=614149|end_char=614154
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=614155|end_char=614158
+3	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614159|end_char=614160
+4	felice	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=614161|end_char=614167
+5	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=614167|end_char=614168
+
+# sent_id = 1869_tarchetti_fosca_q5_18
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Perché ha pianto ieri sera nel lasciarmi?
+1	Perché	_	ADV	B	_	_	_	_	start_char=614170|end_char=614176
+2	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614177|end_char=614179
+3	pianto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=614180|end_char=614186
+4	ieri	_	ADV	B	_	_	_	_	start_char=614187|end_char=614191
+5	sera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=614192|end_char=614196
+6	nel	_	_	_	_	_	_	_	start_char=614197|end_char=614200
+7	lasciarmi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=614201|end_char=614210
+8	?	_	PUNCT	FS	_	_	_	_	start_char=614210|end_char=614211
+
+# sent_id = 1869_tarchetti_fosca_q5_19
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = ella che non ha pianto mai?
+1	ella	_	_	_	_	_	_	_	start_char=614212|end_char=614216
+2	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=614217|end_char=614220
+3	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=614221|end_char=614224
+4	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614225|end_char=614227
+5	pianto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=614228|end_char=614234
+6	mai	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=614235|end_char=614238
+7	?	_	PUNCT	FS	_	_	_	_	start_char=614238|end_char=614239
+
+# sent_id = 1869_tarchetti_fosca_q5_20
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Ella sapeva pure che mi avrebbe riabbracciato oggi.
+1	Ella	_	_	_	_	_	_	_	start_char=614240|end_char=614244
+2	sapeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=614245|end_char=614251
+3	pure	_	ADV	B	_	_	_	_	start_char=614252|end_char=614256
+4	che	_	SCONJ	CS	_	_	_	_	start_char=614257|end_char=614260
+5	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=614261|end_char=614263
+6	avrebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614264|end_char=614271
+7	riabbracciato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=614272|end_char=614285
+8	oggi	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=614286|end_char=614290
+9	.	_	PUNCT	FS	_	_	_	_	start_char=614290|end_char=614291
+
+# sent_id = 1869_tarchetti_fosca_q5_21
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Non aveva mai assaporato delle lacrime; ne ho bevuta una delle sue.
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=614292|end_char=614295
+2	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=614296|end_char=614301
+3	mai	_	ADV	B	_	_	_	_	start_char=614302|end_char=614305
+4	assaporato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=614306|end_char=614316
+5	delle	_	_	_	_	_	_	_	start_char=614317|end_char=614322
+6	lacrime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=614323|end_char=614330
+7	;	_	PUNCT	FC	_	_	_	_	start_char=614330|end_char=614331
+8	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=614332|end_char=614334
+9	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614335|end_char=614337
+10	bevuta	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=614338|end_char=614344
+11	una	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=614345|end_char=614348
+12	delle	_	_	_	_	_	_	_	start_char=614349|end_char=614354
+13	sue	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=614355|end_char=614358
+14	.	_	PUNCT	FS	_	_	_	_	start_char=614358|end_char=614359
+
+# sent_id = 1869_tarchetti_fosca_q5_22
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Come sono amare!
+1	Come	_	ADV	B	_	_	_	_	start_char=614360|end_char=614364
+2	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614365|end_char=614369
+3	amare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=614370|end_char=614375
+4	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=614375|end_char=614376
+
+# sent_id = 1869_tarchetti_fosca_q5_23
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Penso quasi con dispetto, quasi con ira alla strana conformità che la fortuna ha posto tra alcune scene di questi miei due amori così diversi.
+1	Penso	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614378|end_char=614383
+2	quasi	_	ADV	B	_	_	_	_	start_char=614384|end_char=614389
+3	con	_	ADP	E	_	_	_	_	start_char=614390|end_char=614393
+4	dispetto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=614394|end_char=614402
+5	,	_	PUNCT	FF	_	_	_	_	start_char=614402|end_char=614403
+6	quasi	_	ADV	B	_	_	_	_	start_char=614404|end_char=614409
+7	con	_	ADP	E	_	_	_	_	start_char=614410|end_char=614413
+8	ira	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=614414|end_char=614417
+9	alla	_	_	_	_	_	_	_	start_char=614418|end_char=614422
+10	strana	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=614423|end_char=614429
+11	conformità	_	NOUN	S	Gender=Fem	_	_	_	start_char=614430|end_char=614440
+12	che	_	SCONJ	CS	_	_	_	_	start_char=614441|end_char=614444
+13	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=614445|end_char=614447
+14	fortuna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=614448|end_char=614455
+15	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614456|end_char=614458
+16	posto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=614459|end_char=614464
+17	tra	_	ADP	E	_	_	_	_	start_char=614465|end_char=614468
+18	alcune	_	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	start_char=614469|end_char=614475
+19	scene	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=614476|end_char=614481
+20	di	_	ADP	E	_	_	_	_	start_char=614482|end_char=614484
+21	questi	_	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	_	_	_	start_char=614485|end_char=614491
+22	miei	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=614492|end_char=614496
+23	due	_	NUM	N	NumType=Card	_	_	_	start_char=614497|end_char=614500
+24	amori	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=614501|end_char=614506
+25	così	_	ADV	B	_	_	_	_	start_char=614507|end_char=614511
+26	diversi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=614512|end_char=614519
+27	.	_	PUNCT	FS	_	_	_	_	start_char=614519|end_char=614520
+
+# sent_id = 1869_tarchetti_fosca_q5_24
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Che raffronti! che analogia in queste antitesi!
+1	Che	_	DET	DE	PronType=Exc	_	_	_	start_char=614521|end_char=614524
+2	raffronti	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=614525|end_char=614534
+3	!	_	PUNCT	FS	_	_	_	_	start_char=614534|end_char=614535
+4	che	_	DET	DE	PronType=Exc	_	_	_	start_char=614536|end_char=614539
+5	analogia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=614540|end_char=614548
+6	in	_	ADP	E	_	_	_	_	start_char=614549|end_char=614551
+7	queste	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=614552|end_char=614558
+8	antitesi	_	NOUN	S	Gender=Fem	_	_	_	SpaceAfter=No|start_char=614559|end_char=614567
+9	!	_	PUNCT	FS	_	_	_	_	start_char=614567|end_char=614568
+
+# sent_id = 1869_tarchetti_fosca_q5_25
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Oggi abbiamo passato quattro ore in campagna, sulla neve, in mezzo al fango, come le passai ieri l'altro con Fosca.
+1	Oggi	_	ADV	B	_	_	_	_	start_char=614569|end_char=614573
+2	abbiamo	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614574|end_char=614581
+3	passato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=614582|end_char=614589
+4	quattro	_	NUM	N	NumType=Card	_	_	_	start_char=614590|end_char=614597
+5	ore	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=614598|end_char=614601
+6	in	_	ADP	E	_	_	_	_	start_char=614602|end_char=614604
+7	campagna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=614605|end_char=614613
+8	,	_	PUNCT	FF	_	_	_	_	start_char=614613|end_char=614614
+9	sulla	_	_	_	_	_	_	_	start_char=614615|end_char=614620
+10	neve	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=614621|end_char=614625
+11	,	_	PUNCT	FF	_	_	_	_	start_char=614625|end_char=614626
+12	in	_	ADP	E	_	_	_	_	start_char=614627|end_char=614629
+13	mezzo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=614630|end_char=614635
+14	al	_	_	_	_	_	_	_	start_char=614636|end_char=614638
+15	fango	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=614639|end_char=614644
+16	,	_	PUNCT	FF	_	_	_	_	start_char=614644|end_char=614645
+17	come	_	SCONJ	CS	_	_	_	_	start_char=614646|end_char=614650
+18	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=614651|end_char=614653
+19	passai	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	start_char=614654|end_char=614660
+20	ieri	_	ADV	B	_	_	_	_	start_char=614661|end_char=614665
+21	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=614666|end_char=614668
+22	altro	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=614668|end_char=614673
+23	con	_	ADP	E	_	_	_	_	start_char=614674|end_char=614677
+24	Fosca	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=614678|end_char=614683
+25	.	_	PUNCT	FS	_	_	_	_	start_char=614683|end_char=614684
+
+# sent_id = 1869_tarchetti_fosca_q5_26
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Clara ha voluto rivedere il nostro tabernacolo, i nostri prati, i nostri alberi, i nostri ruscelli.
+1	Clara	_	PROPN	SP	_	_	_	_	start_char=614685|end_char=614690
+2	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614691|end_char=614693
+3	voluto	_	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=614694|end_char=614700
+4	rivedere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=614701|end_char=614709
+5	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=614710|end_char=614712
+6	nostro	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=614713|end_char=614719
+7	tabernacolo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=614720|end_char=614731
+8	,	_	PUNCT	FF	_	_	_	_	start_char=614731|end_char=614732
+9	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=614733|end_char=614734
+10	nostri	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=614735|end_char=614741
+11	prati	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=614742|end_char=614747
+12	,	_	PUNCT	FF	_	_	_	_	start_char=614747|end_char=614748
+13	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=614749|end_char=614750
+14	nostri	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=614751|end_char=614757
+15	alberi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=614758|end_char=614764
+16	,	_	PUNCT	FF	_	_	_	_	start_char=614764|end_char=614765
+17	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=614766|end_char=614767
+18	nostri	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=614768|end_char=614774
+19	ruscelli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=614775|end_char=614783
+20	.	_	PUNCT	FS	_	_	_	_	start_char=614783|end_char=614784
+
+# sent_id = 1869_tarchetti_fosca_q5_27
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Ho tentato inutilmente di distorgliela da questo progetto, ho dovuto accompagnarvela.
+1	Ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614785|end_char=614787
+2	tentato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=614788|end_char=614795
+3	inutilmente	_	ADV	B	_	_	_	_	start_char=614796|end_char=614807
+4	di	_	ADP	E	_	_	_	_	start_char=614808|end_char=614810
+5	distorgliela	_	_	_	_	_	_	_	start_char=614811|end_char=614823
+6	da	_	ADP	E	_	_	_	_	start_char=614824|end_char=614826
+7	questo	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=614827|end_char=614833
+8	progetto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=614834|end_char=614842
+9	,	_	PUNCT	FF	_	_	_	_	start_char=614842|end_char=614843
+10	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614844|end_char=614846
+11	dovuto	_	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=614847|end_char=614853
+12	accompagnarvela	_	_	_	_	_	_	_	SpaceAfter=No|start_char=614854|end_char=614869
+13	.	_	PUNCT	FS	_	_	_	_	start_char=614869|end_char=614870
+
+# sent_id = 1869_tarchetti_fosca_q5_28
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = In questa stagione!
+1	In	_	ADP	E	_	_	_	_	start_char=614871|end_char=614873
+2	questa	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=614874|end_char=614880
+3	stagione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=614881|end_char=614889
+4	!	_	PUNCT	FS	_	_	_	_	start_char=614889|end_char=614890
+
+# sent_id = 1869_tarchetti_fosca_q5_29
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Non mi dimenticherò mai, mai, di questa passeggiata!
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=614891|end_char=614894
+2	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=614895|end_char=614897
+3	dimenticherò	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	start_char=614898|end_char=614910
+4	mai	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=614911|end_char=614914
+5	,	_	PUNCT	FF	_	_	_	_	start_char=614914|end_char=614915
+6	mai	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=614916|end_char=614919
+7	,	_	PUNCT	FF	_	_	_	_	start_char=614919|end_char=614920
+8	di	_	ADP	E	_	_	_	_	start_char=614921|end_char=614923
+9	questa	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=614924|end_char=614930
+10	passeggiata	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=614931|end_char=614942
+11	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=614942|end_char=614943
+
+# sent_id = 1869_tarchetti_fosca_q5_30
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Perché ella ha detto che voleva tentare di ritrovarvi se stessa?
+1	Perché	_	ADV	B	_	_	_	_	start_char=614945|end_char=614951
+2	ella	_	_	_	_	_	_	_	start_char=614952|end_char=614956
+3	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=614957|end_char=614959
+4	detto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=614960|end_char=614965
+5	che	_	SCONJ	CS	_	_	_	_	start_char=614966|end_char=614969
+6	voleva	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=614970|end_char=614976
+7	tentare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=614977|end_char=614984
+8	di	_	ADP	E	_	_	_	_	start_char=614985|end_char=614987
+9	ritrovarvi	_	_	_	_	_	_	_	start_char=614988|end_char=614998
+10	se	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=614999|end_char=615001
+11	stessa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=615002|end_char=615008
+12	?	_	PUNCT	FS	_	_	_	_	start_char=615008|end_char=615009
+
+# sent_id = 1869_tarchetti_fosca_q5_31
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Mi ritorna ora in mente questa frase oscura e angosciosa.
+1	Mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=615010|end_char=615012
+2	ritorna	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=615013|end_char=615020
+3	ora	_	ADV	B	_	_	_	_	start_char=615021|end_char=615024
+4	in	_	ADP	E	_	_	_	_	start_char=615025|end_char=615027
+5	mente	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=615028|end_char=615033
+6	questa	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=615034|end_char=615040
+7	frase	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=615041|end_char=615046
+8	oscura	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=615047|end_char=615053
+9	e	_	CCONJ	CC	_	_	_	_	start_char=615054|end_char=615055
+10	angosciosa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=615056|end_char=615066
+11	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=615066|end_char=615067
+
+# sent_id = 1869_tarchetti_fosca_q5_32
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Siamo saliti in una carrozza ove eravamo già stati assieme una volta nei primi tempi del nostro amore.
+1	Siamo	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=615069|end_char=615074
+2	saliti	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=615075|end_char=615081
+3	in	_	ADP	E	_	_	_	_	start_char=615082|end_char=615084
+4	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=615085|end_char=615088
+5	carrozza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=615089|end_char=615097
+6	ove	_	PRON	PR	PronType=Rel	_	_	_	start_char=615098|end_char=615101
+7	eravamo	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=615102|end_char=615109
+8	già	_	ADV	B	_	_	_	_	start_char=615110|end_char=615113
+9	stati	_	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=615114|end_char=615119
+10	assieme	_	ADV	B	_	_	_	_	start_char=615120|end_char=615127
+11	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=615128|end_char=615131
+12	volta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=615132|end_char=615137
+13	nei	_	_	_	_	_	_	_	start_char=615138|end_char=615141
+14	primi	_	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	_	_	_	start_char=615142|end_char=615147
+15	tempi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=615148|end_char=615153
+16	del	_	_	_	_	_	_	_	start_char=615154|end_char=615157
+17	nostro	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=615158|end_char=615164
+18	amore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=615165|end_char=615170
+19	.	_	PUNCT	FS	_	_	_	_	start_char=615170|end_char=615171
+
+# sent_id = 1869_tarchetti_fosca_q5_33
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Clara l'ha riconosciuta.
+1	Clara	_	PROPN	SP	_	_	_	_	start_char=615172|end_char=615177
+2	l'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=615178|end_char=615180
+3	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=615180|end_char=615182
+4	riconosciuta	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=615183|end_char=615195
+5	.	_	PUNCT	FS	_	_	_	_	start_char=615195|end_char=615196
+
+# sent_id = 1869_tarchetti_fosca_q5_34
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = V'era ancora nella tappezzeria della vettura un G che ella vi aveva inciso allora con tanti trafori di spillo.
+1	V'	_	PRON	PC	Clitic=Yes|Number=Sing|PronType=Prs	_	_	_	SpaceAfter=No|start_char=615197|end_char=615199
+2	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=615199|end_char=615202
+3	ancora	_	ADV	B	_	_	_	_	start_char=615203|end_char=615209
+4	nella	_	_	_	_	_	_	_	start_char=615210|end_char=615215
+5	tappezzeria	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=615216|end_char=615227
+6	della	_	_	_	_	_	_	_	start_char=615228|end_char=615233
+7	vettura	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=615234|end_char=615241
+8	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=615242|end_char=615244
+9	G	_	PROPN	SP	_	_	_	_	start_char=615245|end_char=615246
+10	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=615247|end_char=615250
+11	ella	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=615251|end_char=615255
+12	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=615256|end_char=615258
+13	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=615259|end_char=615264
+14	inciso	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=615265|end_char=615271
+15	allora	_	ADV	B	_	_	_	_	start_char=615272|end_char=615278
+16	con	_	ADP	E	_	_	_	_	start_char=615279|end_char=615282
+17	tanti	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=615283|end_char=615288
+18	trafori	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=615289|end_char=615296
+19	di	_	ADP	E	_	_	_	_	start_char=615297|end_char=615299
+20	spillo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=615300|end_char=615306
+21	.	_	PUNCT	FS	_	_	_	_	start_char=615306|end_char=615307
+
+# sent_id = 1869_tarchetti_fosca_q5_35
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Siamo discesi fuori della città dalla parte di Morivione.
+1	Siamo	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=615308|end_char=615313
+2	discesi	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=615314|end_char=615321
+3	fuori	_	ADV	B	_	_	_	_	start_char=615322|end_char=615327
+4	della	_	_	_	_	_	_	_	start_char=615328|end_char=615333
+5	città	_	NOUN	S	Gender=Fem	_	_	_	start_char=615334|end_char=615339
+6	dalla	_	_	_	_	_	_	_	start_char=615340|end_char=615345
+7	parte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=615346|end_char=615351
+8	di	_	ADP	E	_	_	_	_	start_char=615352|end_char=615354
+9	Morivione	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=615355|end_char=615364
+10	.	_	PUNCT	FS	_	_	_	_	start_char=615364|end_char=615365
+
+# sent_id = 1869_tarchetti_fosca_q5_36
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Siamo stati fino a Vaiano, abbiamo attraversato i prati correndo.
+1	Siamo	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=615366|end_char=615371
+2	stati	_	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=615372|end_char=615377
+3	fino	_	ADV	B	_	_	_	_	start_char=615378|end_char=615382
+4	a	_	ADP	E	_	_	_	_	start_char=615383|end_char=615384
+5	Vaiano	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=615385|end_char=615391
+6	,	_	PUNCT	FF	_	_	_	_	start_char=615391|end_char=615392
+7	abbiamo	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=615393|end_char=615400
+8	attraversato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=615401|end_char=615413
+9	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=615414|end_char=615415
+10	prati	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=615416|end_char=615421
+11	correndo	_	VERB	V	VerbForm=Ger	_	_	_	SpaceAfter=No|start_char=615422|end_char=615430
+12	.	_	PUNCT	FS	_	_	_	_	start_char=615430|end_char=615431
+
+# sent_id = 1869_tarchetti_fosca_q5_37
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Clara ha voluto entrare nella chiesa, e si è inginocchiata un momento per pregarvi.
+1	Clara	_	PROPN	SP	_	_	_	_	start_char=615432|end_char=615437
+2	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=615438|end_char=615440
+3	voluto	_	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=615441|end_char=615447
+4	entrare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=615448|end_char=615455
+5	nella	_	_	_	_	_	_	_	start_char=615456|end_char=615461
+6	chiesa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=615462|end_char=615468
+7	,	_	PUNCT	FF	_	_	_	_	start_char=615468|end_char=615469
+8	e	_	CCONJ	CC	_	_	_	_	start_char=615470|end_char=615471
+9	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=615472|end_char=615474
+10	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=615475|end_char=615476
+11	inginocchiata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=615477|end_char=615490
+12	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=615491|end_char=615493
+13	momento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=615494|end_char=615501
+14	per	_	ADP	E	_	_	_	_	start_char=615502|end_char=615505
+15	pregarvi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=615506|end_char=615514
+16	.	_	PUNCT	FS	_	_	_	_	start_char=615514|end_char=615515
+
+# sent_id = 1869_tarchetti_fosca_q5_38
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Non vi era dentro anima viva.
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=615516|end_char=615519
+2	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=615520|end_char=615522
+3	era	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=615523|end_char=615526
+4	dentro	_	ADP	E	_	_	_	_	start_char=615527|end_char=615533
+5	anima	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=615534|end_char=615539
+6	viva	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=615540|end_char=615544
+7	.	_	PUNCT	FS	_	_	_	_	start_char=615544|end_char=615545
+
+# sent_id = 1869_tarchetti_fosca_q5_39
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Che solennità nelle chiese deserte!
+1	Che	_	DET	DE	PronType=Exc	_	_	_	start_char=615546|end_char=615549
+2	solennità	_	NOUN	S	Gender=Fem	_	_	_	start_char=615550|end_char=615559
+3	nelle	_	_	_	_	_	_	_	start_char=615560|end_char=615565
+4	chiese	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=615566|end_char=615572
+5	deserte	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=615573|end_char=615580
+6	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=615580|end_char=615581
+
+# sent_id = 1869_tarchetti_fosca_q5_40
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Abbiamo bevuto latte in una di quelle catapecchie miserabili che si trovano allo svolto del canale.
+1	Abbiamo	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=615583|end_char=615590
+2	bevuto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=615591|end_char=615597
+3	latte	_	NOUN	S	Gender=Masc	_	_	_	start_char=615598|end_char=615603
+4	in	_	ADP	E	_	_	_	_	start_char=615604|end_char=615606
+5	una	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=615607|end_char=615610
+6	di	_	ADP	E	_	_	_	_	start_char=615611|end_char=615613
+7	quelle	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=615614|end_char=615620
+8	catapecchie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=615621|end_char=615632
+9	miserabili	_	ADJ	A	Number=Plur	_	_	_	start_char=615633|end_char=615643
+10	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=615644|end_char=615647
+11	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=615648|end_char=615650
+12	trovano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=615651|end_char=615658
+13	allo	_	_	_	_	_	_	_	start_char=615659|end_char=615663
+14	svolto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=615664|end_char=615670
+15	del	_	_	_	_	_	_	_	start_char=615671|end_char=615674
+16	canale	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=615675|end_char=615681
+17	.	_	PUNCT	FS	_	_	_	_	start_char=615681|end_char=615682
+
+# sent_id = 1869_tarchetti_fosca_q5_41
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Siamo entrati nella stalla; alcuni bambini giuocavano in un angolo della mangiatoia, e ci guardavano attoniti e quasi spaventati; non sapevano levarci gli occhi d'addosso.
+1	Siamo	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=615683|end_char=615688
+2	entrati	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=615689|end_char=615696
+3	nella	_	_	_	_	_	_	_	start_char=615697|end_char=615702
+4	stalla	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=615703|end_char=615709
+5	;	_	PUNCT	FC	_	_	_	_	start_char=615709|end_char=615710
+6	alcuni	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=615711|end_char=615717
+7	bambini	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=615718|end_char=615725
+8	giuocavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=615726|end_char=615736
+9	in	_	ADP	E	_	_	_	_	start_char=615737|end_char=615739
+10	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=615740|end_char=615742
+11	angolo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=615743|end_char=615749
+12	della	_	_	_	_	_	_	_	start_char=615750|end_char=615755
+13	mangiatoia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=615756|end_char=615766
+14	,	_	PUNCT	FF	_	_	_	_	start_char=615766|end_char=615767
+15	e	_	CCONJ	CC	_	_	_	_	start_char=615768|end_char=615769
+16	ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=615770|end_char=615772
+17	guardavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=615773|end_char=615783
+18	attoniti	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=615784|end_char=615792
+19	e	_	CCONJ	CC	_	_	_	_	start_char=615793|end_char=615794
+20	quasi	_	ADV	B	_	_	_	_	start_char=615795|end_char=615800
+21	spaventati	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=615801|end_char=615811
+22	;	_	PUNCT	FC	_	_	_	_	start_char=615811|end_char=615812
+23	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=615813|end_char=615816
+24	sapevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=615817|end_char=615825
+25	levarci	_	_	_	_	_	_	_	start_char=615826|end_char=615833
+26	gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=615834|end_char=615837
+27	occhi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=615838|end_char=615843
+28	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=615844|end_char=615846
+29	addosso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=615846|end_char=615853
+30	.	_	PUNCT	FS	_	_	_	_	start_char=615853|end_char=615854
+
+# sent_id = 1869_tarchetti_fosca_q5_42
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Che quiete là dentro! che caldo!
+1	Che	_	DET	DE	PronType=Exc	_	_	_	start_char=615855|end_char=615858
+2	quiete	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=615859|end_char=615865
+3	là	_	ADV	B	_	_	_	_	start_char=615866|end_char=615868
+4	dentro	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=615869|end_char=615875
+5	!	_	PUNCT	FS	_	_	_	_	start_char=615875|end_char=615876
+6	che	_	DET	DE	PronType=Exc	_	_	_	start_char=615877|end_char=615880
+7	caldo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=615881|end_char=615886
+8	!	_	PUNCT	FS	_	_	_	_	start_char=615886|end_char=615887
+
+# sent_id = 1869_tarchetti_fosca_q5_43
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Ho chiesto a Clara:
+1	Ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=615888|end_char=615890
+2	chiesto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=615891|end_char=615898
+3	a	_	ADP	E	_	_	_	_	start_char=615899|end_char=615900
+4	Clara	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=615901|end_char=615906
+5	:	_	PUNCT	FC	_	_	_	_	SpacesAfter=\n\n|start_char=615906|end_char=615907
+
+# sent_id = 1869_tarchetti_fosca_q5_44
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=615909|end_char=615910
+
+# sent_id = 1869_tarchetti_fosca_q5_45
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Vorresti vivere qui con me?
+1	Vorresti	_	AUX	VM	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=615911|end_char=615919
+2	vivere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=615920|end_char=615926
+3	qui	_	ADV	B	_	_	_	_	start_char=615927|end_char=615930
+4	con	_	ADP	E	_	_	_	_	start_char=615931|end_char=615934
+5	me	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=615935|end_char=615937
+6	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=615937|end_char=615938
+
+# sent_id = 1869_tarchetti_fosca_q5_46
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=615940|end_char=615941
+
+# sent_id = 1869_tarchetti_fosca_q5_47
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = No, — rispose ella tristamente — ho orrore della povertà.
+1	No	_	INTJ	I	Polarity=Neg	_	_	_	SpaceAfter=No|start_char=615942|end_char=615944
+2	,	_	PUNCT	FF	_	_	_	_	start_char=615944|end_char=615945
+3	—	_	PUNCT	FF	_	_	_	_	start_char=615946|end_char=615947
+4	rispose	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=615948|end_char=615955
+5	ella	_	_	_	_	_	_	_	start_char=615956|end_char=615960
+6	tristamente	_	ADV	B	_	_	_	_	start_char=615961|end_char=615972
+7	—	_	PUNCT	FF	_	_	_	_	start_char=615973|end_char=615974
+8	ho	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=615975|end_char=615977
+9	orrore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=615978|end_char=615984
+10	della	_	_	_	_	_	_	_	start_char=615985|end_char=615990
+11	povertà	_	NOUN	S	Gender=Fem	_	_	_	SpaceAfter=No|start_char=615991|end_char=615998
+12	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=615998|end_char=615999
+
+# sent_id = 1869_tarchetti_fosca_q5_48
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Quella contadina ci ha detto:
+1	Quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=616001|end_char=616007
+2	contadina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=616008|end_char=616017
+3	ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=616018|end_char=616020
+4	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=616021|end_char=616023
+5	detto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=616024|end_char=616029
+6	:	_	PUNCT	FC	_	_	_	_	SpacesAfter=\n\n|start_char=616029|end_char=616030
+
+# sent_id = 1869_tarchetti_fosca_q5_49
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=616032|end_char=616033
+
+# sent_id = 1869_tarchetti_fosca_q5_50
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Loro signori sono già stati qui a San Giorgio, me ne ricordo.
+1	Loro	_	DET	AP	Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=616034|end_char=616038
+2	signori	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=616039|end_char=616046
+3	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=616047|end_char=616051
+4	già	_	ADV	B	_	_	_	_	start_char=616052|end_char=616055
+5	stati	_	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=616056|end_char=616061
+6	qui	_	ADV	B	_	_	_	_	start_char=616062|end_char=616065
+7	a	_	ADP	E	_	_	_	_	start_char=616066|end_char=616067
+8	San	_	PROPN	SP	_	_	_	_	start_char=616068|end_char=616071
+9	Giorgio	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=616072|end_char=616079
+10	,	_	PUNCT	FF	_	_	_	_	start_char=616079|end_char=616080
+11	me	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=616081|end_char=616083
+12	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=616084|end_char=616086
+13	ricordo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=616087|end_char=616094
+14	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=616094|end_char=616095
+
+# sent_id = 1869_tarchetti_fosca_q5_51
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=616097|end_char=616098
+
+# sent_id = 1869_tarchetti_fosca_q5_52
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = Quando?
+1	Quando	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=616099|end_char=616105
+2	?	_	PUNCT	FS	_	_	_	_	start_char=616105|end_char=616106
+
+# sent_id = 1869_tarchetti_fosca_q5_53
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = — chiese Clara.
+1	—	_	PUNCT	FF	_	_	_	_	start_char=616107|end_char=616108
+2	chiese	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=616109|end_char=616115
+3	Clara	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=616116|end_char=616121
+4	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=616121|end_char=616122
+
+# sent_id = 1869_tarchetti_fosca_q5_54
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=616124|end_char=616125
+
+# sent_id = 1869_tarchetti_fosca_q5_55
+# chunk_id = 1869_tarchetti_fosca_q5
+# quinto = 5
+# text = A San Giorgio, nel giorno in cui si usa andare a bere il latte in campagna.
+1	A	_	ADP	E	_	_	_	_	start_char=616126|end_char=616127
+2	San	_	PROPN	SP	_	_	_	_	start_char=616128|end_char=616131
+3	Giorgio	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=616132|end_char=616139
+4	,	_	PUNCT	FF	_	_	_	_	start_char=616139|end_char=616140
+5	nel	_	_	_	_	_	_	_	start_char=616141|end_char=616144
+6	giorno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=616145|end_char=616151
+7	in	_	ADP	E	_	_	_	_	start_char=616152|end_char=616154
+8	cui	_	PRON	PR	PronType=Rel	_	_	_	start_char=616155|end_char=616158
+9	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=616159|end_char=616161
+10	usa	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=616162|end_char=616165
+11	andare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=616166|end_char=616172
+12	a	_	ADP	E	_	_	_	_	start_char=616173|end_char=616174
+13	bere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=616175|end_char=616179
+14	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=616180|end_char=616182
+15	latte	_	NOUN	S	Gender=Masc	_	_	_	start_char=616183|end_char=616188
+16	in	_	ADP	E	_	_	_	_	start_char=616189|end_char=616191
+17	campagna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=616192|end_char=616200
+18	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=616200|end_char=616201
+

@@ -1,0 +1,808 @@
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_1
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Rispose tosto Barucabà.
+1	Rispose	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=878688|end_char=878695
+2	tosto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=878696|end_char=878701
+3	Barucabà	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=878702|end_char=878710
+4	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n\n\n|start_char=878710|end_char=878711
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_2
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Chi era mai Barucabà?
+1	Chi	_	PRON	PQ	PronType=Int	_	_	_	start_char=878715|end_char=878718
+2	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=878719|end_char=878722
+3	mai	_	ADV	B	_	_	_	_	start_char=878723|end_char=878726
+4	Barucabà	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=878727|end_char=878735
+5	?	_	PUNCT	FS	_	_	_	_	start_char=878735|end_char=878736
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_3
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = E cosa gli avevano domandato?
+1	E	_	CCONJ	CC	_	_	_	_	start_char=878737|end_char=878738
+2	cosa	_	PRON	PQ	Number=Sing|PronType=Int	_	_	_	start_char=878739|end_char=878743
+3	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=878744|end_char=878747
+4	avevano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=878748|end_char=878755
+5	domandato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=878756|end_char=878765
+6	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=878765|end_char=878766
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_4
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = «Toa Bà, toa Bà!», diceva Maria; «ancora Barucabà, ancora Barucabà!»
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=878768|end_char=878769
+2	Toa	_	PROPN	SP	_	_	_	_	start_char=878769|end_char=878772
+3	Bà	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=878773|end_char=878775
+4	,	_	PUNCT	FF	_	_	_	_	start_char=878775|end_char=878776
+5	toa	_	PROPN	SP	_	_	_	_	start_char=878777|end_char=878780
+6	Bà	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=878781|end_char=878783
+7	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=878783|end_char=878784
+8	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=878784|end_char=878785
+9	,	_	PUNCT	FF	_	_	_	_	start_char=878785|end_char=878786
+10	diceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=878787|end_char=878793
+11	Maria	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=878794|end_char=878799
+12	;	_	PUNCT	FC	_	_	_	_	start_char=878799|end_char=878800
+13	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=878801|end_char=878802
+14	ancora	_	ADV	B	_	_	_	_	start_char=878802|end_char=878808
+15	Barucabà	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=878809|end_char=878817
+16	,	_	PUNCT	FF	_	_	_	_	start_char=878817|end_char=878818
+17	ancora	_	ADV	B	_	_	_	_	start_char=878819|end_char=878825
+18	Barucabà	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=878826|end_char=878834
+19	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=878834|end_char=878835
+20	»	_	PUNCT	FB	_	_	_	_	start_char=878835|end_char=878836
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_5
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Lo zio le ripeteva allora la poetica storia ma nessuno la sa più ripetere a me.
+1	Lo	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=878837|end_char=878839
+2	zio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=878840|end_char=878843
+3	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=878844|end_char=878846
+4	ripeteva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=878847|end_char=878855
+5	allora	_	ADV	B	_	_	_	_	start_char=878856|end_char=878862
+6	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=878863|end_char=878865
+7	poetica	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=878866|end_char=878873
+8	storia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=878874|end_char=878880
+9	ma	_	CCONJ	CC	_	_	_	_	start_char=878881|end_char=878883
+10	nessuno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=878884|end_char=878891
+11	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=878892|end_char=878894
+12	sa	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=878895|end_char=878897
+13	più	_	ADV	B	_	_	_	_	start_char=878898|end_char=878901
+14	ripetere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=878902|end_char=878910
+15	a	_	ADP	E	_	_	_	_	start_char=878911|end_char=878912
+16	me	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=878913|end_char=878915
+17	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=878915|end_char=878916
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_6
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Ecco di che parlava a Luisa, con la sua voce timida e gentile, il professore Gilardoni, diventato un tantin più vecchio, un tantin più calvo, un tantin più giallo.
+1	Ecco	_	ADV	B	_	_	_	_	start_char=878918|end_char=878922
+2	di	_	ADP	E	_	_	_	_	start_char=878923|end_char=878925
+3	che	_	SCONJ	CS	_	_	_	_	start_char=878926|end_char=878929
+4	parlava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=878930|end_char=878937
+5	a	_	ADP	E	_	_	_	_	start_char=878938|end_char=878939
+6	Luisa	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=878940|end_char=878945
+7	,	_	PUNCT	FF	_	_	_	_	start_char=878945|end_char=878946
+8	con	_	ADP	E	_	_	_	_	start_char=878947|end_char=878950
+9	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=878951|end_char=878953
+10	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=878954|end_char=878957
+11	voce	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=878958|end_char=878962
+12	timida	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=878963|end_char=878969
+13	e	_	CCONJ	CC	_	_	_	_	start_char=878970|end_char=878971
+14	gentile	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=878972|end_char=878979
+15	,	_	PUNCT	FF	_	_	_	_	start_char=878979|end_char=878980
+16	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=878981|end_char=878983
+17	professore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=878984|end_char=878994
+18	Gilardoni	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=878995|end_char=879004
+19	,	_	PUNCT	FF	_	_	_	_	start_char=879004|end_char=879005
+20	diventato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=879006|end_char=879015
+21	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=879016|end_char=879018
+22	tantin	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=879019|end_char=879025
+23	più	_	ADV	B	_	_	_	_	start_char=879026|end_char=879029
+24	vecchio	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=879030|end_char=879037
+25	,	_	PUNCT	FF	_	_	_	_	start_char=879037|end_char=879038
+26	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=879039|end_char=879041
+27	tantin	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=879042|end_char=879048
+28	più	_	ADV	B	_	_	_	_	start_char=879049|end_char=879052
+29	calvo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=879053|end_char=879058
+30	,	_	PUNCT	FF	_	_	_	_	start_char=879058|end_char=879059
+31	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=879060|end_char=879062
+32	tantin	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=879063|end_char=879069
+33	più	_	ADV	B	_	_	_	_	start_char=879070|end_char=879073
+34	giallo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=879074|end_char=879080
+35	.	_	PUNCT	FS	_	_	_	_	start_char=879080|end_char=879081
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_7
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = «Chi sa», aveva detto Luisa, «se Maria somiglierà alla nonna come nel viso anche nell'anima?
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=879082|end_char=879083
+2	Chi	_	PRON	PR	PronType=Rel	_	_	_	start_char=879083|end_char=879086
+3	sa	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=879087|end_char=879089
+4	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=879089|end_char=879090
+5	,	_	PUNCT	FF	_	_	_	_	start_char=879090|end_char=879091
+6	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=879092|end_char=879097
+7	detto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=879098|end_char=879103
+8	Luisa	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=879104|end_char=879109
+9	,	_	PUNCT	FF	_	_	_	_	start_char=879109|end_char=879110
+10	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=879111|end_char=879112
+11	se	_	SCONJ	CS	_	_	_	_	start_char=879112|end_char=879114
+12	Maria	_	PROPN	SP	_	_	_	_	start_char=879115|end_char=879120
+13	somiglierà	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	start_char=879121|end_char=879131
+14	alla	_	_	_	_	_	_	_	start_char=879132|end_char=879136
+15	nonna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=879137|end_char=879142
+16	come	_	ADV	B	_	_	_	_	start_char=879143|end_char=879147
+17	nel	_	_	_	_	_	_	_	start_char=879148|end_char=879151
+18	viso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=879152|end_char=879156
+19	anche	_	ADV	B	_	_	_	_	start_char=879157|end_char=879162
+20	nell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=879163|end_char=879168
+21	anima	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=879168|end_char=879173
+22	?	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=879173|end_char=879174
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_8
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = »
+1	»	_	PUNCT	FB	_	_	_	_	start_char=879174|end_char=879175
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_9
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Il professore rispose che sarebbe stato un miracolo avere in una famiglia, a così poca distanza, due anime simili.
+1	Il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=879176|end_char=879178
+2	professore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=879179|end_char=879189
+3	rispose	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=879190|end_char=879197
+4	che	_	SCONJ	CS	_	_	_	_	start_char=879198|end_char=879201
+5	sarebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879202|end_char=879209
+6	stato	_	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=879210|end_char=879215
+7	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=879216|end_char=879218
+8	miracolo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=879219|end_char=879227
+9	avere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=879228|end_char=879233
+10	in	_	ADP	E	_	_	_	_	start_char=879234|end_char=879236
+11	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=879237|end_char=879240
+12	famiglia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=879241|end_char=879249
+13	,	_	PUNCT	FF	_	_	_	_	start_char=879249|end_char=879250
+14	a	_	ADP	E	_	_	_	_	start_char=879251|end_char=879252
+15	così	_	ADV	B	_	_	_	_	start_char=879253|end_char=879257
+16	poca	_	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=879258|end_char=879262
+17	distanza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=879263|end_char=879271
+18	,	_	PUNCT	FF	_	_	_	_	start_char=879271|end_char=879272
+19	due	_	NUM	N	NumType=Card	_	_	_	start_char=879273|end_char=879276
+20	anime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=879277|end_char=879282
+21	simili	_	ADJ	A	Number=Plur	_	_	_	SpaceAfter=No|start_char=879283|end_char=879289
+22	.	_	PUNCT	FS	_	_	_	_	start_char=879289|end_char=879290
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_10
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = E volendo spiegare a quale rarissima specie fosse appartenuta, nel suo concetto, l'anima della nonna, mise fuori il seguente garbuglio.
+1	E	_	CCONJ	CC	_	_	_	_	start_char=879291|end_char=879292
+2	volendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=879293|end_char=879300
+3	spiegare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=879301|end_char=879309
+4	a	_	ADP	E	_	_	_	_	start_char=879310|end_char=879311
+5	quale	_	DET	DQ	Number=Sing|PronType=Int	_	_	_	start_char=879312|end_char=879317
+6	rarissima	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=879318|end_char=879327
+7	specie	_	NOUN	S	Gender=Fem	_	_	_	start_char=879328|end_char=879334
+8	fosse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=879335|end_char=879340
+9	appartenuta	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=879341|end_char=879352
+10	,	_	PUNCT	FF	_	_	_	_	start_char=879352|end_char=879353
+11	nel	_	_	_	_	_	_	_	start_char=879354|end_char=879357
+12	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=879358|end_char=879361
+13	concetto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=879362|end_char=879370
+14	,	_	PUNCT	FF	_	_	_	_	start_char=879370|end_char=879371
+15	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=879372|end_char=879374
+16	anima	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=879374|end_char=879379
+17	della	_	_	_	_	_	_	_	start_char=879380|end_char=879385
+18	nonna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=879386|end_char=879391
+19	,	_	PUNCT	FF	_	_	_	_	start_char=879391|end_char=879392
+20	mise	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=879393|end_char=879397
+21	fuori	_	ADV	B	_	_	_	_	start_char=879398|end_char=879403
+22	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=879404|end_char=879406
+23	seguente	_	ADJ	A	Number=Sing	_	_	_	start_char=879407|end_char=879415
+24	garbuglio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=879416|end_char=879425
+25	.	_	PUNCT	FS	_	_	_	_	start_char=879425|end_char=879426
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_11
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = «Vi sono», diss'egli, «anime che negano apertamente la vita futura e vivono proprio secondo la loro opinione, per la sola vita presente.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=879427|end_char=879428
+2	Vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=879428|end_char=879430
+3	sono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=879431|end_char=879435
+4	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=879435|end_char=879436
+5	,	_	PUNCT	FF	_	_	_	_	start_char=879436|end_char=879437
+6	diss'	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=879438|end_char=879443
+7	egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=879443|end_char=879447
+8	,	_	PUNCT	FF	_	_	_	_	start_char=879447|end_char=879448
+9	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=879449|end_char=879450
+10	anime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=879450|end_char=879455
+11	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=879456|end_char=879459
+12	negano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879460|end_char=879466
+13	apertamente	_	ADV	B	_	_	_	_	start_char=879467|end_char=879478
+14	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=879479|end_char=879481
+15	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=879482|end_char=879486
+16	futura	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=879487|end_char=879493
+17	e	_	CCONJ	CC	_	_	_	_	start_char=879494|end_char=879495
+18	vivono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879496|end_char=879502
+19	proprio	_	ADV	B	_	_	_	_	start_char=879503|end_char=879510
+20	secondo	_	ADP	E	_	_	_	_	start_char=879511|end_char=879518
+21	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=879519|end_char=879521
+22	loro	_	DET	AP	Poss=Yes|PronType=Prs	_	_	_	start_char=879522|end_char=879526
+23	opinione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=879527|end_char=879535
+24	,	_	PUNCT	FF	_	_	_	_	start_char=879535|end_char=879536
+25	per	_	ADP	E	_	_	_	_	start_char=879537|end_char=879540
+26	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=879541|end_char=879543
+27	sola	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=879544|end_char=879548
+28	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=879549|end_char=879553
+29	presente	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=879554|end_char=879562
+30	.	_	PUNCT	FS	_	_	_	_	start_char=879562|end_char=879563
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_12
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Queste non sono molte.
+1	Queste	_	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=879564|end_char=879570
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=879571|end_char=879574
+3	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879575|end_char=879579
+4	molte	_	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	SpaceAfter=No|start_char=879580|end_char=879585
+5	.	_	PUNCT	FS	_	_	_	_	start_char=879585|end_char=879586
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_13
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Poi vi sono anime che mostrano di credere nella vita futura e vivono del tutto per la presente.
+1	Poi	_	ADV	B	_	_	_	_	start_char=879587|end_char=879590
+2	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=879591|end_char=879593
+3	sono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879594|end_char=879598
+4	anime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=879599|end_char=879604
+5	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=879605|end_char=879608
+6	mostrano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879609|end_char=879617
+7	di	_	ADP	E	_	_	_	_	start_char=879618|end_char=879620
+8	credere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=879621|end_char=879628
+9	nella	_	_	_	_	_	_	_	start_char=879629|end_char=879634
+10	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=879635|end_char=879639
+11	futura	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=879640|end_char=879646
+12	e	_	CCONJ	CC	_	_	_	_	start_char=879647|end_char=879648
+13	vivono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879649|end_char=879655
+14	del	_	_	_	_	_	_	_	start_char=879656|end_char=879659
+15	tutto	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=879660|end_char=879665
+16	per	_	ADP	E	_	_	_	_	start_char=879666|end_char=879669
+17	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=879670|end_char=879672
+18	presente	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=879673|end_char=879681
+19	.	_	PUNCT	FS	_	_	_	_	start_char=879681|end_char=879682
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_14
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Queste sono alquante più.
+1	Queste	_	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=879683|end_char=879689
+2	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879690|end_char=879694
+3	alquante	_	ADV	B	_	_	_	_	start_char=879695|end_char=879703
+4	più	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=879704|end_char=879707
+5	.	_	PUNCT	FS	_	_	_	_	start_char=879707|end_char=879708
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_15
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Poi vi sono anime che alla vita futura non pensano e vivono però in modo da non mettersi troppo a repentaglio di perderla se c'è.
+1	Poi	_	ADV	B	_	_	_	_	start_char=879709|end_char=879712
+2	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=879713|end_char=879715
+3	sono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879716|end_char=879720
+4	anime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=879721|end_char=879726
+5	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=879727|end_char=879730
+6	alla	_	_	_	_	_	_	_	start_char=879731|end_char=879735
+7	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=879736|end_char=879740
+8	futura	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=879741|end_char=879747
+9	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=879748|end_char=879751
+10	pensano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879752|end_char=879759
+11	e	_	CCONJ	CC	_	_	_	_	start_char=879760|end_char=879761
+12	vivono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879762|end_char=879768
+13	però	_	ADV	B	_	_	_	_	start_char=879769|end_char=879773
+14	in	_	ADP	E	_	_	_	_	start_char=879774|end_char=879776
+15	modo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=879777|end_char=879781
+16	da	_	ADP	E	_	_	_	_	start_char=879782|end_char=879784
+17	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=879785|end_char=879788
+18	mettersi	_	_	_	_	_	_	_	start_char=879789|end_char=879797
+19	troppo	_	ADV	B	_	_	_	_	start_char=879798|end_char=879804
+20	a	_	ADP	E	_	_	_	_	start_char=879805|end_char=879806
+21	repentaglio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=879807|end_char=879818
+22	di	_	ADP	E	_	_	_	_	start_char=879819|end_char=879821
+23	perderla	_	_	_	_	_	_	_	start_char=879822|end_char=879830
+24	se	_	SCONJ	CS	_	_	_	_	start_char=879831|end_char=879833
+25	c'	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=879834|end_char=879836
+26	è	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=879836|end_char=879837
+27	.	_	PUNCT	FS	_	_	_	_	start_char=879837|end_char=879838
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_16
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Queste sono più ancora.
+1	Queste	_	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=879839|end_char=879845
+2	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879846|end_char=879850
+3	più	_	ADV	B	_	_	_	_	start_char=879851|end_char=879854
+4	ancora	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=879855|end_char=879861
+5	.	_	PUNCT	FS	_	_	_	_	start_char=879861|end_char=879862
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_17
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Poi vi sono anime che credono veramente nella vita futura e dividono pensieri e opere in due categorie che fanno quasi sempre ai pugni fra loro: una è per il cielo, l'altra è per la terra.
+1	Poi	_	ADV	B	_	_	_	_	start_char=879863|end_char=879866
+2	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=879867|end_char=879869
+3	sono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879870|end_char=879874
+4	anime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=879875|end_char=879880
+5	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=879881|end_char=879884
+6	credono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879885|end_char=879892
+7	veramente	_	ADV	B	_	_	_	_	start_char=879893|end_char=879902
+8	nella	_	_	_	_	_	_	_	start_char=879903|end_char=879908
+9	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=879909|end_char=879913
+10	futura	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=879914|end_char=879920
+11	e	_	CCONJ	CC	_	_	_	_	start_char=879921|end_char=879922
+12	dividono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879923|end_char=879931
+13	pensieri	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=879932|end_char=879940
+14	e	_	CCONJ	CC	_	_	_	_	start_char=879941|end_char=879942
+15	opere	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=879943|end_char=879948
+16	in	_	ADP	E	_	_	_	_	start_char=879949|end_char=879951
+17	due	_	NUM	N	NumType=Card	_	_	_	start_char=879952|end_char=879955
+18	categorie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=879956|end_char=879965
+19	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=879966|end_char=879969
+20	fanno	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=879970|end_char=879975
+21	quasi	_	ADV	B	_	_	_	_	start_char=879976|end_char=879981
+22	sempre	_	ADV	B	_	_	_	_	start_char=879982|end_char=879988
+23	ai	_	_	_	_	_	_	_	start_char=879989|end_char=879991
+24	pugni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=879992|end_char=879997
+25	fra	_	ADP	E	_	_	_	_	start_char=879998|end_char=880001
+26	loro	_	PRON	PE	Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=880002|end_char=880006
+27	:	_	PUNCT	FC	_	_	_	_	start_char=880006|end_char=880007
+28	una	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=880008|end_char=880011
+29	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=880012|end_char=880013
+30	per	_	ADP	E	_	_	_	_	start_char=880014|end_char=880017
+31	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=880018|end_char=880020
+32	cielo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=880021|end_char=880026
+33	,	_	PUNCT	FF	_	_	_	_	start_char=880026|end_char=880027
+34	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=880028|end_char=880030
+35	altra	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=880030|end_char=880035
+36	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=880036|end_char=880037
+37	per	_	ADP	E	_	_	_	_	start_char=880038|end_char=880041
+38	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=880042|end_char=880044
+39	terra	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=880045|end_char=880050
+40	.	_	PUNCT	FS	_	_	_	_	start_char=880050|end_char=880051
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_18
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Queste sono moltissime.
+1	Queste	_	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=880052|end_char=880058
+2	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=880059|end_char=880063
+3	moltissime	_	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	SpaceAfter=No|start_char=880064|end_char=880074
+4	.	_	PUNCT	FS	_	_	_	_	start_char=880074|end_char=880075
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_19
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Poi vi sono anime che vivono per la sola vita futura nella quale credono.
+1	Poi	_	ADV	B	_	_	_	_	start_char=880076|end_char=880079
+2	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=880080|end_char=880082
+3	sono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=880083|end_char=880087
+4	anime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=880088|end_char=880093
+5	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=880094|end_char=880097
+6	vivono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=880098|end_char=880104
+7	per	_	ADP	E	_	_	_	_	start_char=880105|end_char=880108
+8	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=880109|end_char=880111
+9	sola	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=880112|end_char=880116
+10	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=880117|end_char=880121
+11	futura	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=880122|end_char=880128
+12	nella	_	_	_	_	_	_	_	start_char=880129|end_char=880134
+13	quale	_	PRON	PR	Number=Sing|PronType=Rel	_	_	_	start_char=880135|end_char=880140
+14	credono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=880141|end_char=880148
+15	.	_	PUNCT	FS	_	_	_	_	start_char=880148|end_char=880149
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_20
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Queste sono pochissime e la signora Teresa era di queste.
+1	Queste	_	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=880150|end_char=880156
+2	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=880157|end_char=880161
+3	pochissime	_	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	start_char=880162|end_char=880172
+4	e	_	CCONJ	CC	_	_	_	_	start_char=880173|end_char=880174
+5	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=880175|end_char=880177
+6	signora	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=880178|end_char=880185
+7	Teresa	_	PROPN	SP	_	_	_	_	start_char=880186|end_char=880192
+8	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=880193|end_char=880196
+9	di	_	ADP	E	_	_	_	_	start_char=880197|end_char=880199
+10	queste	_	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	SpaceAfter=No|start_char=880200|end_char=880206
+11	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=880206|end_char=880207
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_21
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = »
+1	»	_	PUNCT	FB	_	_	_	_	SpacesAfter=\n\n|start_char=880207|end_char=880208
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_22
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Franco, che non poteva soffrire le disquisizioni psicologiche, passò accigliato col suo annaffiatoio vuoto per andare nel giardinetto e pensò:
+1	Franco	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=880210|end_char=880216
+2	,	_	PUNCT	FF	_	_	_	_	start_char=880216|end_char=880217
+3	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=880218|end_char=880221
+4	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=880222|end_char=880225
+5	poteva	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=880226|end_char=880232
+6	soffrire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=880233|end_char=880241
+7	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=880242|end_char=880244
+8	disquisizioni	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=880245|end_char=880258
+9	psicologiche	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=880259|end_char=880271
+10	,	_	PUNCT	FF	_	_	_	_	start_char=880271|end_char=880272
+11	passò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=880273|end_char=880278
+12	accigliato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=880279|end_char=880289
+13	col	_	_	_	_	_	_	_	start_char=880290|end_char=880293
+14	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=880294|end_char=880297
+15	annaffiatoio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=880298|end_char=880310
+16	vuoto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=880311|end_char=880316
+17	per	_	ADP	E	_	_	_	_	start_char=880317|end_char=880320
+18	andare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=880321|end_char=880327
+19	nel	_	_	_	_	_	_	_	start_char=880328|end_char=880331
+20	giardinetto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=880332|end_char=880343
+21	e	_	CCONJ	CC	_	_	_	_	start_char=880344|end_char=880345
+22	pensò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=880346|end_char=880351
+23	:	_	PUNCT	FC	_	_	_	_	start_char=880351|end_char=880352
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_23
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = «Poi vi sono anime che rompono l'anima».
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=880353|end_char=880354
+2	Poi	_	ADV	B	_	_	_	_	start_char=880354|end_char=880357
+3	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=880358|end_char=880360
+4	sono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=880361|end_char=880365
+5	anime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=880366|end_char=880371
+6	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=880372|end_char=880375
+7	rompono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=880376|end_char=880383
+8	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=880384|end_char=880386
+9	anima	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=880386|end_char=880391
+10	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=880391|end_char=880392
+11	.	_	PUNCT	FS	_	_	_	_	start_char=880392|end_char=880393
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_24
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Lo zio, del resto un po' sordo, rideva con la Maria.
+1	Lo	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=880394|end_char=880396
+2	zio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=880397|end_char=880400
+3	,	_	PUNCT	FF	_	_	_	_	start_char=880400|end_char=880401
+4	del	_	_	_	_	_	_	_	start_char=880402|end_char=880405
+5	resto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=880406|end_char=880411
+6	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=880412|end_char=880414
+7	po'	_	ADV	B	_	_	_	_	start_char=880415|end_char=880418
+8	sordo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=880419|end_char=880424
+9	,	_	PUNCT	FF	_	_	_	_	start_char=880424|end_char=880425
+10	rideva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=880426|end_char=880432
+11	con	_	ADP	E	_	_	_	_	start_char=880433|end_char=880436
+12	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=880437|end_char=880439
+13	Maria	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=880440|end_char=880445
+14	.	_	PUNCT	FS	_	_	_	_	start_char=880445|end_char=880446
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_25
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Luisa, passato che fu suo marito, disse piano:
+1	Luisa	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=880447|end_char=880452
+2	,	_	PUNCT	FF	_	_	_	_	start_char=880452|end_char=880453
+3	passato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=880454|end_char=880461
+4	che	_	SCONJ	CS	_	_	_	_	start_char=880462|end_char=880465
+5	fu	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=880466|end_char=880468
+6	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=880469|end_char=880472
+7	marito	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=880473|end_char=880479
+8	,	_	PUNCT	FF	_	_	_	_	start_char=880479|end_char=880480
+9	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=880481|end_char=880486
+10	piano	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=880487|end_char=880492
+11	:	_	PUNCT	FC	_	_	_	_	start_char=880492|end_char=880493
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_26
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = «Poi vi sono anime che vivono come se vi fosse la sola vita futura nella quale non credono: e di queste ve n'è una».
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=880494|end_char=880495
+2	Poi	_	ADV	B	_	_	_	_	start_char=880495|end_char=880498
+3	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=880499|end_char=880501
+4	sono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=880502|end_char=880506
+5	anime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=880507|end_char=880512
+6	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=880513|end_char=880516
+7	vivono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=880517|end_char=880523
+8	come	_	ADP	E	_	_	_	_	start_char=880524|end_char=880528
+9	se	_	SCONJ	CS	_	_	_	_	start_char=880529|end_char=880531
+10	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=880532|end_char=880534
+11	fosse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=880535|end_char=880540
+12	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=880541|end_char=880543
+13	sola	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=880544|end_char=880548
+14	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=880549|end_char=880553
+15	futura	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=880554|end_char=880560
+16	nella	_	_	_	_	_	_	_	start_char=880561|end_char=880566
+17	quale	_	PRON	PR	Number=Sing|PronType=Rel	_	_	_	start_char=880567|end_char=880572
+18	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=880573|end_char=880576
+19	credono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=880577|end_char=880584
+20	:	_	PUNCT	FC	_	_	_	_	start_char=880584|end_char=880585
+21	e	_	CCONJ	CC	_	_	_	_	start_char=880586|end_char=880587
+22	di	_	ADP	E	_	_	_	_	start_char=880588|end_char=880590
+23	queste	_	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=880591|end_char=880597
+24	ve	_	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=880598|end_char=880600
+25	n'	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=880601|end_char=880603
+26	è	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=880603|end_char=880604
+27	una	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=880605|end_char=880608
+28	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=880608|end_char=880609
+29	.	_	PUNCT	FS	_	_	_	_	start_char=880609|end_char=880610
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_27
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Il professore trasalì e la guardò senza dir nulla.
+1	Il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=880611|end_char=880613
+2	professore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=880614|end_char=880624
+3	trasalì	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=880625|end_char=880632
+4	e	_	CCONJ	CC	_	_	_	_	start_char=880633|end_char=880634
+5	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=880635|end_char=880637
+6	guardò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=880638|end_char=880644
+7	senza	_	ADP	E	_	_	_	_	start_char=880645|end_char=880650
+8	dir	_	VERB	V	VerbForm=Inf	_	_	_	start_char=880651|end_char=880654
+9	nulla	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=880655|end_char=880660
+10	.	_	PUNCT	FS	_	_	_	_	start_char=880660|end_char=880661
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_28
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Ella stava cercando nella matassa della pesca un filo doppio, a occhiello, per farlo passare.
+1	Ella	_	_	_	_	_	_	_	start_char=880662|end_char=880666
+2	stava	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=880667|end_char=880672
+3	cercando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=880673|end_char=880681
+4	nella	_	_	_	_	_	_	_	start_char=880682|end_char=880687
+5	matassa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=880688|end_char=880695
+6	della	_	_	_	_	_	_	_	start_char=880696|end_char=880701
+7	pesca	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=880702|end_char=880707
+8	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=880708|end_char=880710
+9	filo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=880711|end_char=880715
+10	doppio	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=880716|end_char=880722
+11	,	_	PUNCT	FF	_	_	_	_	start_char=880722|end_char=880723
+12	a	_	ADP	E	_	_	_	_	start_char=880724|end_char=880725
+13	occhiello	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=880726|end_char=880735
+14	,	_	PUNCT	FF	_	_	_	_	start_char=880735|end_char=880736
+15	per	_	ADP	E	_	_	_	_	start_char=880737|end_char=880740
+16	farlo	_	_	_	_	_	_	_	start_char=880741|end_char=880746
+17	passare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=880747|end_char=880754
+18	.	_	PUNCT	FS	_	_	_	_	start_char=880754|end_char=880755
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_29
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Non vide quello sguardo ma lo sentì e si affrettò a indicare col capo lo zio.
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=880756|end_char=880759
+2	vide	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=880760|end_char=880764
+3	quello	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=880765|end_char=880771
+4	sguardo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=880772|end_char=880779
+5	ma	_	CCONJ	CC	_	_	_	_	start_char=880780|end_char=880782
+6	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=880783|end_char=880785
+7	sentì	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=880786|end_char=880791
+8	e	_	CCONJ	CC	_	_	_	_	start_char=880792|end_char=880793
+9	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=880794|end_char=880796
+10	affrettò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=880797|end_char=880805
+11	a	_	ADP	E	_	_	_	_	start_char=880806|end_char=880807
+12	indicare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=880808|end_char=880816
+13	col	_	_	_	_	_	_	_	start_char=880817|end_char=880820
+14	capo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=880821|end_char=880825
+15	lo	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=880826|end_char=880828
+16	zio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=880829|end_char=880832
+17	.	_	PUNCT	FS	_	_	_	_	start_char=880832|end_char=880833
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_30
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Aveva ella pensato proprio a lui nel dir quello che aveva detto?
+1	Aveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=880834|end_char=880839
+2	ella	_	_	_	_	_	_	_	start_char=880840|end_char=880844
+3	pensato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=880845|end_char=880852
+4	proprio	_	ADV	B	_	_	_	_	start_char=880853|end_char=880860
+5	a	_	ADP	E	_	_	_	_	start_char=880861|end_char=880862
+6	lui	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=880863|end_char=880866
+7	nel	_	_	_	_	_	_	_	start_char=880867|end_char=880870
+8	dir	_	VERB	V	VerbForm=Inf	_	_	_	start_char=880871|end_char=880874
+9	quello	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=880875|end_char=880881
+10	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=880882|end_char=880885
+11	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=880886|end_char=880891
+12	detto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=880892|end_char=880897
+13	?	_	PUNCT	FS	_	_	_	_	start_char=880897|end_char=880898
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_31
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = O vi era stata nel suo pensiero una occulta complicazione?
+1	O	_	CCONJ	CC	_	_	_	_	start_char=880899|end_char=880900
+2	vi	_	PRON	PC	Clitic=Yes|Number=Plur|PronType=Prs	_	_	_	start_char=880901|end_char=880903
+3	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=880904|end_char=880907
+4	stata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=880908|end_char=880913
+5	nel	_	_	_	_	_	_	_	start_char=880914|end_char=880917
+6	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=880918|end_char=880921
+7	pensiero	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=880922|end_char=880930
+8	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=880931|end_char=880934
+9	occulta	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=880935|end_char=880942
+10	complicazione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=880943|end_char=880956
+11	?	_	PUNCT	FS	_	_	_	_	start_char=880956|end_char=880957
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_32
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Aveva pensato allo zio senza un vero convincimento, solo perché non osava nominare, neanche nel pensiero, un'altra persona cui le sue parole potevano riferirsi più giustamente?
+1	Aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=880958|end_char=880963
+2	pensato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=880964|end_char=880971
+3	allo	_	_	_	_	_	_	_	start_char=880972|end_char=880976
+4	zio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=880977|end_char=880980
+5	senza	_	ADP	E	_	_	_	_	start_char=880981|end_char=880986
+6	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=880987|end_char=880989
+7	vero	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=880990|end_char=880994
+8	convincimento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=880995|end_char=881008
+9	,	_	PUNCT	FF	_	_	_	_	start_char=881008|end_char=881009
+10	solo	_	ADV	B	_	_	_	_	start_char=881010|end_char=881014
+11	perché	_	SCONJ	CS	_	_	_	_	start_char=881015|end_char=881021
+12	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=881022|end_char=881025
+13	osava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=881026|end_char=881031
+14	nominare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=881032|end_char=881040
+15	,	_	PUNCT	FF	_	_	_	_	start_char=881040|end_char=881041
+16	neanche	_	ADV	BN	PronType=Neg	_	_	_	start_char=881042|end_char=881049
+17	nel	_	_	_	_	_	_	_	start_char=881050|end_char=881053
+18	pensiero	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=881054|end_char=881062
+19	,	_	PUNCT	FF	_	_	_	_	start_char=881062|end_char=881063
+20	un'	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=881064|end_char=881067
+21	altra	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=881067|end_char=881072
+22	persona	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=881073|end_char=881080
+23	cui	_	PRON	PR	PronType=Rel	_	_	_	start_char=881081|end_char=881084
+24	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=881085|end_char=881087
+25	sue	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=881088|end_char=881091
+26	parole	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=881092|end_char=881098
+27	potevano	_	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=881099|end_char=881107
+28	riferirsi	_	_	_	_	_	_	_	start_char=881108|end_char=881117
+29	più	_	ADV	B	_	_	_	_	start_char=881118|end_char=881121
+30	giustamente	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=881122|end_char=881133
+31	?	_	PUNCT	FS	_	_	_	_	start_char=881133|end_char=881134
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_33
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = Il silenzio del professore, lo sguardo scrutatore di lui, non incontrato ma sentito, le rivelarono ch'egli sospettava di lei stessa: per questo accennò frettolosamente allo zio.
+1	Il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=881135|end_char=881137
+2	silenzio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=881138|end_char=881146
+3	del	_	_	_	_	_	_	_	start_char=881147|end_char=881150
+4	professore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=881151|end_char=881161
+5	,	_	PUNCT	FF	_	_	_	_	start_char=881161|end_char=881162
+6	lo	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=881163|end_char=881165
+7	sguardo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=881166|end_char=881173
+8	scrutatore	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=881174|end_char=881184
+9	di	_	ADP	E	_	_	_	_	start_char=881185|end_char=881187
+10	lui	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=881188|end_char=881191
+11	,	_	PUNCT	FF	_	_	_	_	start_char=881191|end_char=881192
+12	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=881193|end_char=881196
+13	incontrato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=881197|end_char=881207
+14	ma	_	CCONJ	CC	_	_	_	_	start_char=881208|end_char=881210
+15	sentito	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=881211|end_char=881218
+16	,	_	PUNCT	FF	_	_	_	_	start_char=881218|end_char=881219
+17	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=881220|end_char=881222
+18	rivelarono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=881223|end_char=881233
+19	ch'	_	SCONJ	CS	_	_	_	_	SpaceAfter=No|start_char=881234|end_char=881237
+20	egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=881237|end_char=881241
+21	sospettava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=881242|end_char=881252
+22	di	_	ADP	E	_	_	_	_	start_char=881253|end_char=881255
+23	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=881256|end_char=881259
+24	stessa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=881260|end_char=881266
+25	:	_	PUNCT	FC	_	_	_	_	start_char=881266|end_char=881267
+26	per	_	ADP	E	_	_	_	_	start_char=881268|end_char=881271
+27	questo	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=881272|end_char=881278
+28	accennò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=881279|end_char=881286
+29	frettolosamente	_	ADV	B	_	_	_	_	start_char=881287|end_char=881302
+30	allo	_	_	_	_	_	_	_	start_char=881303|end_char=881307
+31	zio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=881308|end_char=881311
+32	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=881311|end_char=881312
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_34
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = «Non crede nella vita futura?», mormorò il professore.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=881314|end_char=881315
+2	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=881315|end_char=881318
+3	crede	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=881319|end_char=881324
+4	nella	_	_	_	_	_	_	_	start_char=881325|end_char=881330
+5	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=881331|end_char=881335
+6	futura	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=881336|end_char=881342
+7	?	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=881342|end_char=881343
+8	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=881343|end_char=881344
+9	,	_	PUNCT	FF	_	_	_	_	start_char=881344|end_char=881345
+10	mormorò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=881346|end_char=881353
+11	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=881354|end_char=881356
+12	professore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=881357|end_char=881367
+13	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=881367|end_char=881368
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_35
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = «Direi di no», rispose Luisa e subito si sentì nel cuore un rimorso, sentì che non aveva sufficienti ragioni, che non aveva il diritto di rispondere così.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=881370|end_char=881371
+2	Direi	_	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=881371|end_char=881376
+3	di	_	ADP	E	_	_	_	_	start_char=881377|end_char=881379
+4	no	_	INTJ	I	Polarity=Neg	_	_	_	SpaceAfter=No|start_char=881380|end_char=881382
+5	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=881382|end_char=881383
+6	,	_	PUNCT	FF	_	_	_	_	start_char=881383|end_char=881384
+7	rispose	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=881385|end_char=881392
+8	Luisa	_	PROPN	SP	_	_	_	_	start_char=881393|end_char=881398
+9	e	_	CCONJ	CC	_	_	_	_	start_char=881399|end_char=881400
+10	subito	_	ADV	B	_	_	_	_	start_char=881401|end_char=881407
+11	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=881408|end_char=881410
+12	sentì	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=881411|end_char=881416
+13	nel	_	_	_	_	_	_	_	start_char=881417|end_char=881420
+14	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=881421|end_char=881426
+15	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=881427|end_char=881429
+16	rimorso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=881430|end_char=881437
+17	,	_	PUNCT	FF	_	_	_	_	start_char=881437|end_char=881438
+18	sentì	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=881439|end_char=881444
+19	che	_	SCONJ	CS	_	_	_	_	start_char=881445|end_char=881448
+20	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=881449|end_char=881452
+21	aveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=881453|end_char=881458
+22	sufficienti	_	ADJ	A	Number=Plur	_	_	_	start_char=881459|end_char=881470
+23	ragioni	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=881471|end_char=881478
+24	,	_	PUNCT	FF	_	_	_	_	start_char=881478|end_char=881479
+25	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=881480|end_char=881483
+26	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=881484|end_char=881487
+27	aveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=881488|end_char=881493
+28	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=881494|end_char=881496
+29	diritto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=881497|end_char=881504
+30	di	_	ADP	E	_	_	_	_	start_char=881505|end_char=881507
+31	rispondere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=881508|end_char=881518
+32	così	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=881519|end_char=881523
+33	.	_	PUNCT	FS	_	_	_	_	start_char=881523|end_char=881524
+
+# sent_id = 1895_fogazzaro_piccolo_mondo_antico_q4_36
+# chunk_id = 1895_fogazzaro_piccolo_mondo_antico_q4
+# quinto = 4
+# text = In fatto lo zio Piero non s'era curato mai di meditare sulla religione: egli compenetrava nel suo concetto della onestà la continuazione delle vecchie pratiche di famiglia, la professione della fede avita, presa come stava, alla carlona.
+1	In	_	ADP	E	_	_	_	_	start_char=881525|end_char=881527
+2	fatto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=881528|end_char=881533
+3	lo	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=881534|end_char=881536
+4	zio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=881537|end_char=881540
+5	Piero	_	PROPN	SP	_	_	_	_	start_char=881541|end_char=881546
+6	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=881547|end_char=881550
+7	s'	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=881551|end_char=881553
+8	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=881553|end_char=881556
+9	curato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=881557|end_char=881563
+10	mai	_	ADV	B	_	_	_	_	start_char=881564|end_char=881567
+11	di	_	ADP	E	_	_	_	_	start_char=881568|end_char=881570
+12	meditare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=881571|end_char=881579
+13	sulla	_	_	_	_	_	_	_	start_char=881580|end_char=881585
+14	religione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=881586|end_char=881595
+15	:	_	PUNCT	FC	_	_	_	_	start_char=881595|end_char=881596
+16	egli	_	_	_	_	_	_	_	start_char=881597|end_char=881601
+17	compenetrava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=881602|end_char=881614
+18	nel	_	_	_	_	_	_	_	start_char=881615|end_char=881618
+19	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=881619|end_char=881622
+20	concetto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=881623|end_char=881631
+21	della	_	_	_	_	_	_	_	start_char=881632|end_char=881637
+22	onestà	_	NOUN	S	Gender=Fem	_	_	_	start_char=881638|end_char=881644
+23	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=881645|end_char=881647
+24	continuazione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=881648|end_char=881661
+25	delle	_	_	_	_	_	_	_	start_char=881662|end_char=881667
+26	vecchie	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	start_char=881668|end_char=881675
+27	pratiche	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=881676|end_char=881684
+28	di	_	ADP	E	_	_	_	_	start_char=881685|end_char=881687
+29	famiglia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=881688|end_char=881696
+30	,	_	PUNCT	FF	_	_	_	_	start_char=881696|end_char=881697
+31	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=881698|end_char=881700
+32	professione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=881701|end_char=881712
+33	della	_	_	_	_	_	_	_	start_char=881713|end_char=881718
+34	fede	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=881719|end_char=881723
+35	avita	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=881724|end_char=881729
+36	,	_	PUNCT	FF	_	_	_	_	start_char=881729|end_char=881730
+37	presa	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=881731|end_char=881736
+38	come	_	SCONJ	CS	_	_	_	_	start_char=881737|end_char=881741
+39	stava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=881742|end_char=881747
+40	,	_	PUNCT	FF	_	_	_	_	start_char=881747|end_char=881748
+41	alla	_	_	_	_	_	_	_	start_char=881749|end_char=881753
+42	carlona	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=881754|end_char=881761
+43	.	_	PUNCT	FS	_	_	_	_	start_char=881761|end_char=881762
+

@@ -1,0 +1,1268 @@
+# sent_id = 1889_d_annunzio_piacere_q3_1
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Quali cose?
+1	Quali	_	DET	DQ	Number=Plur|PronType=Int	_	_	_	start_char=594357|end_char=594362
+2	cose	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=594363|end_char=594367
+3	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=594367|end_char=594368
+
+# sent_id = 1889_d_annunzio_piacere_q3_2
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=594370|end_char=594371
+
+# sent_id = 1889_d_annunzio_piacere_q3_3
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Quelle che sai tu sola.
+1	Quelle	_	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=594372|end_char=594378
+2	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=594379|end_char=594382
+3	sai	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=594383|end_char=594386
+4	tu	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=594387|end_char=594389
+5	sola	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=594390|end_char=594394
+6	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=594394|end_char=594395
+
+# sent_id = 1889_d_annunzio_piacere_q3_4
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Egli faceva cullare dalla voce di lei l'angoscia che gli veniva dall'altra; faceva animare dalla voce di lei la figura dell'altra.
+1	Egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=594397|end_char=594401
+2	faceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=594402|end_char=594408
+3	cullare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=594409|end_char=594416
+4	dalla	_	_	_	_	_	_	_	start_char=594417|end_char=594422
+5	voce	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=594423|end_char=594427
+6	di	_	ADP	E	_	_	_	_	start_char=594428|end_char=594430
+7	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=594431|end_char=594434
+8	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=594435|end_char=594437
+9	angoscia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=594437|end_char=594445
+10	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=594446|end_char=594449
+11	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=594450|end_char=594453
+12	veniva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=594454|end_char=594460
+13	dall'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=594461|end_char=594466
+14	altra	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=594466|end_char=594471
+15	;	_	PUNCT	FC	_	_	_	_	start_char=594471|end_char=594472
+16	faceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=594473|end_char=594479
+17	animare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=594480|end_char=594487
+18	dalla	_	_	_	_	_	_	_	start_char=594488|end_char=594493
+19	voce	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=594494|end_char=594498
+20	di	_	ADP	E	_	_	_	_	start_char=594499|end_char=594501
+21	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=594502|end_char=594505
+22	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=594506|end_char=594508
+23	figura	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=594509|end_char=594515
+24	dell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=594516|end_char=594521
+25	altra	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=594521|end_char=594526
+26	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=594526|end_char=594527
+
+# sent_id = 1889_d_annunzio_piacere_q3_5
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=594529|end_char=594530
+
+# sent_id = 1889_d_annunzio_piacere_q3_6
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Senti?
+1	Senti	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=594531|end_char=594536
+2	?	_	PUNCT	FS	_	_	_	_	start_char=594536|end_char=594537
+
+# sent_id = 1889_d_annunzio_piacere_q3_7
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = – esclamò Maria, versando su le foglie aromatiche l'acqua bollente.
+1	–	_	PUNCT	FB	_	_	_	_	start_char=594538|end_char=594539
+2	esclamò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=594540|end_char=594547
+3	Maria	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=594548|end_char=594553
+4	,	_	PUNCT	FF	_	_	_	_	start_char=594553|end_char=594554
+5	versando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=594555|end_char=594563
+6	su	_	ADP	E	_	_	_	_	start_char=594564|end_char=594566
+7	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=594567|end_char=594569
+8	foglie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=594570|end_char=594576
+9	aromatiche	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	start_char=594577|end_char=594587
+10	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=594588|end_char=594590
+11	acqua	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=594590|end_char=594595
+12	bollente	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=594596|end_char=594604
+13	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=594604|end_char=594605
+
+# sent_id = 1889_d_annunzio_piacere_q3_8
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Un profumo acuto si spandeva nell'aria, col vapore.
+1	Un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=594607|end_char=594609
+2	profumo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=594610|end_char=594617
+3	acuto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=594618|end_char=594623
+4	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=594624|end_char=594626
+5	spandeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=594627|end_char=594635
+6	nell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=594636|end_char=594641
+7	aria	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=594641|end_char=594645
+8	,	_	PUNCT	FF	_	_	_	_	start_char=594645|end_char=594646
+9	col	_	ADJ	A	Number=Sing	_	_	_	start_char=594647|end_char=594650
+10	vapore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=594651|end_char=594657
+11	.	_	PUNCT	FS	_	_	_	_	start_char=594657|end_char=594658
+
+# sent_id = 1889_d_annunzio_piacere_q3_9
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Andrea l'aspirò.
+1	Andrea	_	PROPN	SP	_	_	_	_	start_char=594659|end_char=594665
+2	l'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=594666|end_char=594668
+3	aspirò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=594668|end_char=594674
+4	.	_	PUNCT	FS	_	_	_	_	start_char=594674|end_char=594675
+
+# sent_id = 1889_d_annunzio_piacere_q3_10
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Poi disse, chiudendo gli occhi, rovesciando indietro il capo:
+1	Poi	_	ADV	B	_	_	_	_	start_char=594676|end_char=594679
+2	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=594680|end_char=594685
+3	,	_	PUNCT	FF	_	_	_	_	start_char=594685|end_char=594686
+4	chiudendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=594687|end_char=594696
+5	gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=594697|end_char=594700
+6	occhi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=594701|end_char=594706
+7	,	_	PUNCT	FF	_	_	_	_	start_char=594706|end_char=594707
+8	rovesciando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=594708|end_char=594719
+9	indietro	_	ADV	B	_	_	_	_	start_char=594720|end_char=594728
+10	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=594729|end_char=594731
+11	capo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=594732|end_char=594736
+12	:	_	PUNCT	FC	_	_	_	_	SpacesAfter=\n\n|start_char=594736|end_char=594737
+
+# sent_id = 1889_d_annunzio_piacere_q3_11
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=594739|end_char=594740
+
+# sent_id = 1889_d_annunzio_piacere_q3_12
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Baciami.
+1	Baciami	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=594741|end_char=594748
+2	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=594748|end_char=594749
+
+# sent_id = 1889_d_annunzio_piacere_q3_13
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = E, appena ebbe il contatto delle labbra, trasalì tanto forte che Maria ne fu sorpresa.
+1	E	_	CCONJ	CC	_	_	_	_	SpaceAfter=No|start_char=594751|end_char=594752
+2	,	_	PUNCT	FF	_	_	_	_	start_char=594752|end_char=594753
+3	appena	_	SCONJ	CS	_	_	_	_	start_char=594754|end_char=594760
+4	ebbe	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=594761|end_char=594765
+5	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=594766|end_char=594768
+6	contatto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=594769|end_char=594777
+7	delle	_	_	_	_	_	_	_	start_char=594778|end_char=594783
+8	labbra	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=594784|end_char=594790
+9	,	_	PUNCT	FF	_	_	_	_	start_char=594790|end_char=594791
+10	trasalì	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=594792|end_char=594799
+11	tanto	_	ADV	B	_	_	_	_	start_char=594800|end_char=594805
+12	forte	_	ADJ	A	Number=Sing	_	_	_	start_char=594806|end_char=594811
+13	che	_	SCONJ	CS	_	_	_	_	start_char=594812|end_char=594815
+14	Maria	_	PROPN	SP	_	_	_	_	start_char=594816|end_char=594821
+15	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=594822|end_char=594824
+16	fu	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=594825|end_char=594827
+17	sorpresa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=594828|end_char=594836
+18	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=594836|end_char=594837
+
+# sent_id = 1889_d_annunzio_piacere_q3_14
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ella versò, in una tazza la bevanda e glie la offerse, con un sorriso misterioso.
+1	Ella	_	_	_	_	_	_	_	start_char=594839|end_char=594843
+2	versò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=594844|end_char=594849
+3	,	_	PUNCT	FF	_	_	_	_	start_char=594849|end_char=594850
+4	in	_	ADP	E	_	_	_	_	start_char=594851|end_char=594853
+5	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=594854|end_char=594857
+6	tazza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=594858|end_char=594863
+7	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=594864|end_char=594866
+8	bevanda	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=594867|end_char=594874
+9	e	_	CCONJ	CC	_	_	_	_	start_char=594875|end_char=594876
+10	glie	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=594877|end_char=594881
+11	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=594882|end_char=594884
+12	offerse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=594885|end_char=594892
+13	,	_	PUNCT	FF	_	_	_	_	start_char=594892|end_char=594893
+14	con	_	ADP	E	_	_	_	_	start_char=594894|end_char=594897
+15	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=594898|end_char=594900
+16	sorriso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=594901|end_char=594908
+17	misterioso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=594909|end_char=594919
+18	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=594919|end_char=594920
+
+# sent_id = 1889_d_annunzio_piacere_q3_15
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=594922|end_char=594923
+
+# sent_id = 1889_d_annunzio_piacere_q3_16
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Bada.
+1	Bada	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=594924|end_char=594928
+2	.	_	PUNCT	FS	_	_	_	_	start_char=594928|end_char=594929
+
+# sent_id = 1889_d_annunzio_piacere_q3_17
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = C'è un filtro.
+1	C'	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=594930|end_char=594932
+2	è	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=594932|end_char=594933
+3	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=594934|end_char=594936
+4	filtro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=594937|end_char=594943
+5	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=594943|end_char=594944
+
+# sent_id = 1889_d_annunzio_piacere_q3_18
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Egli rifiutò l'offerta.
+1	Egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=594946|end_char=594950
+2	rifiutò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=594951|end_char=594958
+3	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=594959|end_char=594961
+4	offerta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=594961|end_char=594968
+5	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=594968|end_char=594969
+
+# sent_id = 1889_d_annunzio_piacere_q3_19
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=594971|end_char=594972
+
+# sent_id = 1889_d_annunzio_piacere_q3_20
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Non voglio bere a quella tazza.
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=594973|end_char=594976
+2	voglio	_	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=594977|end_char=594983
+3	bere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=594984|end_char=594988
+4	a	_	ADP	E	_	_	_	_	start_char=594989|end_char=594990
+5	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=594991|end_char=594997
+6	tazza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=594998|end_char=595003
+7	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595003|end_char=595004
+
+# sent_id = 1889_d_annunzio_piacere_q3_21
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=595006|end_char=595007
+
+# sent_id = 1889_d_annunzio_piacere_q3_22
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Perché?
+1	Perché	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=595008|end_char=595014
+2	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595014|end_char=595015
+
+# sent_id = 1889_d_annunzio_piacere_q3_23
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=595017|end_char=595018
+
+# sent_id = 1889_d_annunzio_piacere_q3_24
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Dammi tu... da bere.
+1	Dammi	_	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=595019|end_char=595024
+2	tu...	_	INTJ	I	_	_	_	_	start_char=595025|end_char=595030
+3	da	_	ADP	E	_	_	_	_	start_char=595031|end_char=595033
+4	bere	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=595034|end_char=595038
+5	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595038|end_char=595039
+
+# sent_id = 1889_d_annunzio_piacere_q3_25
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=595041|end_char=595042
+
+# sent_id = 1889_d_annunzio_piacere_q3_26
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ma come?
+1	Ma	_	CCONJ	CC	_	_	_	_	start_char=595043|end_char=595045
+2	come	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=595046|end_char=595050
+3	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595050|end_char=595051
+
+# sent_id = 1889_d_annunzio_piacere_q3_27
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=595053|end_char=595054
+
+# sent_id = 1889_d_annunzio_piacere_q3_28
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Così.
+1	Così	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=595055|end_char=595059
+2	.	_	PUNCT	FS	_	_	_	_	start_char=595059|end_char=595060
+
+# sent_id = 1889_d_annunzio_piacere_q3_29
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Prendi un sorso e non inghiottire.
+1	Prendi	_	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=595061|end_char=595067
+2	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=595068|end_char=595070
+3	sorso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=595071|end_char=595076
+4	e	_	CCONJ	CC	_	_	_	_	start_char=595077|end_char=595078
+5	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=595079|end_char=595082
+6	inghiottire	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=595083|end_char=595094
+7	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595094|end_char=595095
+
+# sent_id = 1889_d_annunzio_piacere_q3_30
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=595097|end_char=595098
+
+# sent_id = 1889_d_annunzio_piacere_q3_31
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Scotta troppo ancóra.
+1	Scotta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=595099|end_char=595105
+2	troppo	_	ADV	B	_	_	_	_	start_char=595106|end_char=595112
+3	ancóra	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=595113|end_char=595119
+4	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595119|end_char=595120
+
+# sent_id = 1889_d_annunzio_piacere_q3_32
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ella rideva, a quel capriccio dell'amante.
+1	Ella	_	_	_	_	_	_	_	start_char=595122|end_char=595126
+2	rideva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=595127|end_char=595133
+3	,	_	PUNCT	FF	_	_	_	_	start_char=595133|end_char=595134
+4	a	_	ADP	E	_	_	_	_	start_char=595135|end_char=595136
+5	quel	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=595137|end_char=595141
+6	capriccio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=595142|end_char=595151
+7	dell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=595152|end_char=595157
+8	amante	_	NOUN	S	Number=Sing	_	_	_	SpaceAfter=No|start_char=595157|end_char=595163
+9	.	_	PUNCT	FS	_	_	_	_	start_char=595163|end_char=595164
+
+# sent_id = 1889_d_annunzio_piacere_q3_33
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Egli era un po' convulso, pallidissimo, con lo sguardo alterato.
+1	Egli	_	_	_	_	_	_	_	start_char=595165|end_char=595169
+2	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=595170|end_char=595173
+3	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=595174|end_char=595176
+4	po'	_	ADV	B	_	_	_	_	start_char=595177|end_char=595180
+5	convulso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=595181|end_char=595189
+6	,	_	PUNCT	FF	_	_	_	_	start_char=595189|end_char=595190
+7	pallidissimo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=595191|end_char=595203
+8	,	_	PUNCT	FF	_	_	_	_	start_char=595203|end_char=595204
+9	con	_	ADP	E	_	_	_	_	start_char=595205|end_char=595208
+10	lo	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=595209|end_char=595211
+11	sguardo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=595212|end_char=595219
+12	alterato	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=595220|end_char=595228
+13	.	_	PUNCT	FS	_	_	_	_	start_char=595228|end_char=595229
+
+# sent_id = 1889_d_annunzio_piacere_q3_34
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Aspettarono che il tè si freddasse.
+1	Aspettarono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=595230|end_char=595241
+2	che	_	SCONJ	CS	_	_	_	_	start_char=595242|end_char=595245
+3	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=595246|end_char=595248
+4	tè	_	NOUN	S	Gender=Masc	_	_	_	start_char=595249|end_char=595251
+5	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=595252|end_char=595254
+6	freddasse	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=595255|end_char=595264
+7	.	_	PUNCT	FS	_	_	_	_	start_char=595264|end_char=595265
+
+# sent_id = 1889_d_annunzio_piacere_q3_35
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ad ogni momento, Maria accostava le labbra all'orlo della tazza per provare; poi rideva, d'un piccolo riso fresco che non pareva suo.
+1	Ad	_	ADP	E	_	_	_	_	start_char=595266|end_char=595268
+2	ogni	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=595269|end_char=595273
+3	momento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=595274|end_char=595281
+4	,	_	PUNCT	FF	_	_	_	_	start_char=595281|end_char=595282
+5	Maria	_	PROPN	SP	_	_	_	_	start_char=595283|end_char=595288
+6	accostava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=595289|end_char=595298
+7	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=595299|end_char=595301
+8	labbra	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=595302|end_char=595308
+9	all'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=595309|end_char=595313
+10	orlo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=595313|end_char=595317
+11	della	_	_	_	_	_	_	_	start_char=595318|end_char=595323
+12	tazza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=595324|end_char=595329
+13	per	_	ADP	E	_	_	_	_	start_char=595330|end_char=595333
+14	provare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=595334|end_char=595341
+15	;	_	PUNCT	FC	_	_	_	_	start_char=595341|end_char=595342
+16	poi	_	ADV	B	_	_	_	_	start_char=595343|end_char=595346
+17	rideva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=595347|end_char=595353
+18	,	_	PUNCT	FF	_	_	_	_	start_char=595353|end_char=595354
+19	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=595355|end_char=595357
+20	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=595357|end_char=595359
+21	piccolo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=595360|end_char=595367
+22	riso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=595368|end_char=595372
+23	fresco	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=595373|end_char=595379
+24	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=595380|end_char=595383
+25	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=595384|end_char=595387
+26	pareva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=595388|end_char=595394
+27	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=595395|end_char=595398
+28	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595398|end_char=595399
+
+# sent_id = 1889_d_annunzio_piacere_q3_36
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=595401|end_char=595402
+
+# sent_id = 1889_d_annunzio_piacere_q3_37
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ora, si può bere – annunziò.
+1	Ora	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=595403|end_char=595406
+2	,	_	PUNCT	FF	_	_	_	_	start_char=595406|end_char=595407
+3	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=595408|end_char=595410
+4	può	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=595411|end_char=595414
+5	bere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=595415|end_char=595419
+6	–	_	PUNCT	FB	_	_	_	_	start_char=595420|end_char=595421
+7	annunziò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=595422|end_char=595430
+8	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595430|end_char=595431
+
+# sent_id = 1889_d_annunzio_piacere_q3_38
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=595433|end_char=595434
+
+# sent_id = 1889_d_annunzio_piacere_q3_39
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ora, prendi un bel sorso.
+1	Ora	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=595435|end_char=595438
+2	,	_	PUNCT	FF	_	_	_	_	start_char=595438|end_char=595439
+3	prendi	_	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=595440|end_char=595446
+4	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=595447|end_char=595449
+5	bel	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=595450|end_char=595453
+6	sorso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=595454|end_char=595459
+7	.	_	PUNCT	FS	_	_	_	_	start_char=595459|end_char=595460
+
+# sent_id = 1889_d_annunzio_piacere_q3_40
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Così.
+1	Così	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=595461|end_char=595465
+2	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595465|end_char=595466
+
+# sent_id = 1889_d_annunzio_piacere_q3_41
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ella teneva le labbra serrate, per contenere il sorso; ma le ridevano i grandi occhi a cui le lacrime recenti avevan dato maggior fulgore.
+1	Ella	_	_	_	_	_	_	_	start_char=595468|end_char=595472
+2	teneva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=595473|end_char=595479
+3	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=595480|end_char=595482
+4	labbra	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=595483|end_char=595489
+5	serrate	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=595490|end_char=595497
+6	,	_	PUNCT	FF	_	_	_	_	start_char=595497|end_char=595498
+7	per	_	ADP	E	_	_	_	_	start_char=595499|end_char=595502
+8	contenere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=595503|end_char=595512
+9	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=595513|end_char=595515
+10	sorso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=595516|end_char=595521
+11	;	_	PUNCT	FC	_	_	_	_	start_char=595521|end_char=595522
+12	ma	_	CCONJ	CC	_	_	_	_	start_char=595523|end_char=595525
+13	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=595526|end_char=595528
+14	ridevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=595529|end_char=595537
+15	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=595538|end_char=595539
+16	grandi	_	ADJ	A	Number=Plur	_	_	_	start_char=595540|end_char=595546
+17	occhi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=595547|end_char=595552
+18	a	_	ADP	E	_	_	_	_	start_char=595553|end_char=595554
+19	cui	_	PRON	PR	PronType=Rel	_	_	_	start_char=595555|end_char=595558
+20	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=595559|end_char=595561
+21	lacrime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=595562|end_char=595569
+22	recenti	_	ADJ	A	Number=Plur	_	_	_	start_char=595570|end_char=595577
+23	avevan	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=595578|end_char=595584
+24	dato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=595585|end_char=595589
+25	maggior	_	ADJ	A	Degree=Cmp|Number=Sing	_	_	_	start_char=595590|end_char=595597
+26	fulgore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=595598|end_char=595605
+27	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595605|end_char=595606
+
+# sent_id = 1889_d_annunzio_piacere_q3_42
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=595608|end_char=595609
+
+# sent_id = 1889_d_annunzio_piacere_q3_43
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ora, versa, a poco a poco.
+1	Ora	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=595610|end_char=595613
+2	,	_	PUNCT	FF	_	_	_	_	start_char=595613|end_char=595614
+3	versa	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=595615|end_char=595620
+4	,	_	PUNCT	FF	_	_	_	_	start_char=595620|end_char=595621
+5	a	_	ADP	E	_	_	_	_	start_char=595622|end_char=595623
+6	poco	_	ADV	B	_	_	_	_	start_char=595624|end_char=595628
+7	a	_	ADP	E	_	_	_	_	start_char=595629|end_char=595630
+8	poco	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=595631|end_char=595635
+9	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595635|end_char=595636
+
+# sent_id = 1889_d_annunzio_piacere_q3_44
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Egli trasse nel bacio, suggendo, tutto il sorso.
+1	Egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=595638|end_char=595642
+2	trasse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=595643|end_char=595649
+3	nel	_	_	_	_	_	_	_	start_char=595650|end_char=595653
+4	bacio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=595654|end_char=595659
+5	,	_	PUNCT	FF	_	_	_	_	start_char=595659|end_char=595660
+6	suggendo	_	VERB	V	VerbForm=Ger	_	_	_	SpaceAfter=No|start_char=595661|end_char=595669
+7	,	_	PUNCT	FF	_	_	_	_	start_char=595669|end_char=595670
+8	tutto	_	DET	T	Gender=Masc|Number=Sing|PronType=Tot	_	_	_	start_char=595671|end_char=595676
+9	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=595677|end_char=595679
+10	sorso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=595680|end_char=595685
+11	.	_	PUNCT	FS	_	_	_	_	start_char=595685|end_char=595686
+
+# sent_id = 1889_d_annunzio_piacere_q3_45
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Come sentiva mancarsi il respiro, ella sollecitava il lento bevitore stringendogli le tempie.
+1	Come	_	SCONJ	CS	_	_	_	_	start_char=595687|end_char=595691
+2	sentiva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=595692|end_char=595699
+3	mancarsi	_	_	_	_	_	_	_	start_char=595700|end_char=595708
+4	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=595709|end_char=595711
+5	respiro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=595712|end_char=595719
+6	,	_	PUNCT	FF	_	_	_	_	start_char=595719|end_char=595720
+7	ella	_	_	_	_	_	_	_	start_char=595721|end_char=595725
+8	sollecitava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=595726|end_char=595737
+9	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=595738|end_char=595740
+10	lento	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=595741|end_char=595746
+11	bevitore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=595747|end_char=595755
+12	stringendogli	_	_	_	_	_	_	_	start_char=595756|end_char=595769
+13	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=595770|end_char=595772
+14	tempie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=595773|end_char=595779
+15	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595779|end_char=595780
+
+# sent_id = 1889_d_annunzio_piacere_q3_46
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=595782|end_char=595783
+
+# sent_id = 1889_d_annunzio_piacere_q3_47
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Dio mio!
+1	Dio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=595784|end_char=595787
+2	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=595788|end_char=595791
+3	!	_	PUNCT	FS	_	_	_	_	start_char=595791|end_char=595792
+
+# sent_id = 1889_d_annunzio_piacere_q3_48
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Tu mi volevi soffocare.
+1	Tu	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=595793|end_char=595795
+2	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=595796|end_char=595798
+3	volevi	_	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=595799|end_char=595805
+4	soffocare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=595806|end_char=595815
+5	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595815|end_char=595816
+
+# sent_id = 1889_d_annunzio_piacere_q3_49
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = S'abbandonò sul cuscino, quasi per riposarsi, languida, felice.
+1	S'	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=595818|end_char=595820
+2	abbandonò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=595820|end_char=595829
+3	sul	_	_	_	_	_	_	_	start_char=595830|end_char=595833
+4	cuscino	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=595834|end_char=595841
+5	,	_	PUNCT	FF	_	_	_	_	start_char=595841|end_char=595842
+6	quasi	_	ADV	B	_	_	_	_	start_char=595843|end_char=595848
+7	per	_	ADP	E	_	_	_	_	start_char=595849|end_char=595852
+8	riposarsi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=595853|end_char=595862
+9	,	_	PUNCT	FF	_	_	_	_	start_char=595862|end_char=595863
+10	languida	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=595864|end_char=595872
+11	,	_	PUNCT	FF	_	_	_	_	start_char=595872|end_char=595873
+12	felice	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=595874|end_char=595880
+13	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595880|end_char=595881
+
+# sent_id = 1889_d_annunzio_piacere_q3_50
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=595883|end_char=595884
+
+# sent_id = 1889_d_annunzio_piacere_q3_51
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Che sapore aveva?
+1	Che	_	DET	DQ	PronType=Int	_	_	_	start_char=595885|end_char=595888
+2	sapore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=595889|end_char=595895
+3	aveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=595896|end_char=595901
+4	?	_	PUNCT	FS	_	_	_	_	start_char=595901|end_char=595902
+
+# sent_id = 1889_d_annunzio_piacere_q3_52
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Tu m'hai bevuta anche l'anima.
+1	Tu	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=595903|end_char=595905
+2	m'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=595906|end_char=595908
+3	hai	_	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=595908|end_char=595911
+4	bevuta	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=595912|end_char=595918
+5	anche	_	ADV	B	_	_	_	_	start_char=595919|end_char=595924
+6	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=595925|end_char=595927
+7	anima	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=595927|end_char=595932
+8	.	_	PUNCT	FS	_	_	_	_	start_char=595932|end_char=595933
+
+# sent_id = 1889_d_annunzio_piacere_q3_53
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Sono tutta vuota.
+1	Sono	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=595934|end_char=595938
+2	tutta	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=595939|end_char=595944
+3	vuota	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=595945|end_char=595950
+4	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595950|end_char=595951
+
+# sent_id = 1889_d_annunzio_piacere_q3_54
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Egli era rimasto pensoso, con lo sguardo fisso.
+1	Egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=595953|end_char=595957
+2	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=595958|end_char=595961
+3	rimasto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=595962|end_char=595969
+4	pensoso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=595970|end_char=595977
+5	,	_	PUNCT	FF	_	_	_	_	start_char=595977|end_char=595978
+6	con	_	ADP	E	_	_	_	_	start_char=595979|end_char=595982
+7	lo	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=595983|end_char=595985
+8	sguardo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=595986|end_char=595993
+9	fisso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=595994|end_char=595999
+10	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=595999|end_char=596000
+
+# sent_id = 1889_d_annunzio_piacere_q3_55
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=596002|end_char=596003
+
+# sent_id = 1889_d_annunzio_piacere_q3_56
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = A che pensi?
+1	A	_	ADP	E	_	_	_	_	start_char=596004|end_char=596005
+2	che	_	PRON	PQ	PronType=Int	_	_	_	start_char=596006|end_char=596009
+3	pensi	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=596010|end_char=596015
+4	?	_	PUNCT	FS	_	_	_	_	start_char=596015|end_char=596016
+
+# sent_id = 1889_d_annunzio_piacere_q3_57
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = – gli chiese Maria, di nuovo, sollevandosi a un tratto, posandogli un dito nel mezzo della fronte, quasi per fermare il pensiero invisibile.
+1	–	_	PUNCT	FB	_	_	_	_	start_char=596017|end_char=596018
+2	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=596019|end_char=596022
+3	chiese	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=596023|end_char=596029
+4	Maria	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=596030|end_char=596035
+5	,	_	PUNCT	FF	_	_	_	_	start_char=596035|end_char=596036
+6	di	_	ADP	E	_	_	_	_	start_char=596037|end_char=596039
+7	nuovo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=596040|end_char=596045
+8	,	_	PUNCT	FF	_	_	_	_	start_char=596045|end_char=596046
+9	sollevandosi	_	_	_	_	_	_	_	start_char=596047|end_char=596059
+10	a	_	ADP	E	_	_	_	_	start_char=596060|end_char=596061
+11	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=596062|end_char=596064
+12	tratto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=596065|end_char=596071
+13	,	_	PUNCT	FF	_	_	_	_	start_char=596071|end_char=596072
+14	posandogli	_	_	_	_	_	_	_	start_char=596073|end_char=596083
+15	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=596084|end_char=596086
+16	dito	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=596087|end_char=596091
+17	nel	_	_	_	_	_	_	_	start_char=596092|end_char=596095
+18	mezzo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=596096|end_char=596101
+19	della	_	_	_	_	_	_	_	start_char=596102|end_char=596107
+20	fronte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=596108|end_char=596114
+21	,	_	PUNCT	FF	_	_	_	_	start_char=596114|end_char=596115
+22	quasi	_	ADV	B	_	_	_	_	start_char=596116|end_char=596121
+23	per	_	ADP	E	_	_	_	_	start_char=596122|end_char=596125
+24	fermare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=596126|end_char=596133
+25	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=596134|end_char=596136
+26	pensiero	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=596137|end_char=596145
+27	invisibile	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=596146|end_char=596156
+28	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596156|end_char=596157
+
+# sent_id = 1889_d_annunzio_piacere_q3_58
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=596159|end_char=596160
+
+# sent_id = 1889_d_annunzio_piacere_q3_59
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = A nulla – rispose.
+1	A	_	ADP	E	_	_	_	_	start_char=596161|end_char=596162
+2	nulla	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=596163|end_char=596168
+3	–	_	PUNCT	FB	_	_	_	_	start_char=596169|end_char=596170
+4	rispose	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=596171|end_char=596178
+5	.	_	PUNCT	FS	_	_	_	_	start_char=596178|end_char=596179
+
+# sent_id = 1889_d_annunzio_piacere_q3_60
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = – Non pensavo.
+1	–	_	PUNCT	FB	_	_	_	_	start_char=596180|end_char=596181
+2	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=596182|end_char=596185
+3	pensavo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=596186|end_char=596193
+4	.	_	PUNCT	FS	_	_	_	_	start_char=596193|end_char=596194
+
+# sent_id = 1889_d_annunzio_piacere_q3_61
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Seguivo dentro di me gli effetti del filtro.
+1	Seguivo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=596195|end_char=596202
+2	dentro	_	ADV	B	_	_	_	_	start_char=596203|end_char=596209
+3	di	_	ADP	E	_	_	_	_	start_char=596210|end_char=596212
+4	me	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=596213|end_char=596215
+5	gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=596216|end_char=596219
+6	effetti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=596220|end_char=596227
+7	del	_	_	_	_	_	_	_	start_char=596228|end_char=596231
+8	filtro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=596232|end_char=596238
+9	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=596238|end_char=596239
+
+# sent_id = 1889_d_annunzio_piacere_q3_62
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = ..
+1	..	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596239|end_char=596241
+
+# sent_id = 1889_d_annunzio_piacere_q3_63
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Allora ella anche volle provare.
+1	Allora	_	ADV	B	_	_	_	_	start_char=596243|end_char=596249
+2	ella	_	_	_	_	_	_	_	start_char=596250|end_char=596254
+3	anche	_	ADV	B	_	_	_	_	start_char=596255|end_char=596260
+4	volle	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=596261|end_char=596266
+5	provare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=596267|end_char=596274
+6	.	_	PUNCT	FS	_	_	_	_	start_char=596274|end_char=596275
+
+# sent_id = 1889_d_annunzio_piacere_q3_64
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Bevve da lui con delizia.
+1	Bevve	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=596276|end_char=596281
+2	da	_	ADP	E	_	_	_	_	start_char=596282|end_char=596284
+3	lui	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=596285|end_char=596288
+4	con	_	ADP	E	_	_	_	_	start_char=596289|end_char=596292
+5	delizia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=596293|end_char=596300
+6	.	_	PUNCT	FS	_	_	_	_	start_char=596300|end_char=596301
+
+# sent_id = 1889_d_annunzio_piacere_q3_65
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Poi esclamò, premendosi una mano sul cuore e mettendo un lungo respiro:
+1	Poi	_	ADV	B	_	_	_	_	start_char=596302|end_char=596305
+2	esclamò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=596306|end_char=596313
+3	,	_	PUNCT	FF	_	_	_	_	start_char=596313|end_char=596314
+4	premendosi	_	_	_	_	_	_	_	start_char=596315|end_char=596325
+5	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=596326|end_char=596329
+6	mano	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=596330|end_char=596334
+7	sul	_	_	_	_	_	_	_	start_char=596335|end_char=596338
+8	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=596339|end_char=596344
+9	e	_	CCONJ	CC	_	_	_	_	start_char=596345|end_char=596346
+10	mettendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=596347|end_char=596355
+11	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=596356|end_char=596358
+12	lungo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=596359|end_char=596364
+13	respiro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=596365|end_char=596372
+14	:	_	PUNCT	FC	_	_	_	_	SpacesAfter=\n\n|start_char=596372|end_char=596373
+
+# sent_id = 1889_d_annunzio_piacere_q3_66
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=596375|end_char=596376
+
+# sent_id = 1889_d_annunzio_piacere_q3_67
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Quanto mi piace!
+1	Quanto	_	PRON	PQ	Number=Sing|PronType=Int	_	_	_	start_char=596377|end_char=596383
+2	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=596384|end_char=596386
+3	piace	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=596387|end_char=596392
+4	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596392|end_char=596393
+
+# sent_id = 1889_d_annunzio_piacere_q3_68
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Andrea tremò.
+1	Andrea	_	PROPN	SP	_	_	_	_	start_char=596395|end_char=596401
+2	tremò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=596402|end_char=596407
+3	.	_	PUNCT	FS	_	_	_	_	start_char=596407|end_char=596408
+
+# sent_id = 1889_d_annunzio_piacere_q3_69
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Non era quello lo stesso accento di Elena nella sera della dedizione?
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=596409|end_char=596412
+2	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=596413|end_char=596416
+3	quello	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=596417|end_char=596423
+4	lo	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=596424|end_char=596426
+5	stesso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=596427|end_char=596433
+6	accento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=596434|end_char=596441
+7	di	_	ADP	E	_	_	_	_	start_char=596442|end_char=596444
+8	Elena	_	PROPN	SP	_	_	_	_	start_char=596445|end_char=596450
+9	nella	_	_	_	_	_	_	_	start_char=596451|end_char=596456
+10	sera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=596457|end_char=596461
+11	della	_	_	_	_	_	_	_	start_char=596462|end_char=596467
+12	dedizione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=596468|end_char=596477
+13	?	_	PUNCT	FS	_	_	_	_	start_char=596477|end_char=596478
+
+# sent_id = 1889_d_annunzio_piacere_q3_70
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Non erano le stesse parole?
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=596479|end_char=596482
+2	erano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=596483|end_char=596488
+3	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=596489|end_char=596491
+4	stesse	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	start_char=596492|end_char=596498
+5	parole	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=596499|end_char=596505
+6	?	_	PUNCT	FS	_	_	_	_	start_char=596505|end_char=596506
+
+# sent_id = 1889_d_annunzio_piacere_q3_71
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Egli le guardava la bocca.
+1	Egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=596507|end_char=596511
+2	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=596512|end_char=596514
+3	guardava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=596515|end_char=596523
+4	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=596524|end_char=596526
+5	bocca	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=596527|end_char=596532
+6	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596532|end_char=596533
+
+# sent_id = 1889_d_annunzio_piacere_q3_72
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=596535|end_char=596536
+
+# sent_id = 1889_d_annunzio_piacere_q3_73
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ripeti.
+1	Ripeti	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=596537|end_char=596543
+2	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596543|end_char=596544
+
+# sent_id = 1889_d_annunzio_piacere_q3_74
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=596546|end_char=596547
+
+# sent_id = 1889_d_annunzio_piacere_q3_75
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Che cosa?
+1	Che	_	DET	DQ	PronType=Int	_	_	_	start_char=596548|end_char=596551
+2	cosa	_	PRON	PQ	Number=Sing|PronType=Int	_	_	_	SpaceAfter=No|start_char=596552|end_char=596556
+3	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596556|end_char=596557
+
+# sent_id = 1889_d_annunzio_piacere_q3_76
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=596559|end_char=596560
+
+# sent_id = 1889_d_annunzio_piacere_q3_77
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Quello che hai detto.
+1	Quello	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=596561|end_char=596567
+2	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=596568|end_char=596571
+3	hai	_	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=596572|end_char=596575
+4	detto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=596576|end_char=596581
+5	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596581|end_char=596582
+
+# sent_id = 1889_d_annunzio_piacere_q3_78
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=596584|end_char=596585
+
+# sent_id = 1889_d_annunzio_piacere_q3_79
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Perché?
+1	Perché	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=596586|end_char=596592
+2	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596592|end_char=596593
+
+# sent_id = 1889_d_annunzio_piacere_q3_80
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=596595|end_char=596596
+
+# sent_id = 1889_d_annunzio_piacere_q3_81
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = È una parola tanto dolce, quando tu la pronunzii...
+1	È	_	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=596597|end_char=596598
+2	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=596599|end_char=596602
+3	parola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=596603|end_char=596609
+4	tanto	_	ADV	B	_	_	_	_	start_char=596610|end_char=596615
+5	dolce	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=596616|end_char=596621
+6	,	_	PUNCT	FF	_	_	_	_	start_char=596621|end_char=596622
+7	quando	_	SCONJ	CS	_	_	_	_	start_char=596623|end_char=596629
+8	tu	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=596630|end_char=596632
+9	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=596633|end_char=596635
+10	pronunzii	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=596636|end_char=596645
+11	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=596645|end_char=596646
+12	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=596646|end_char=596647
+13	.	_	PUNCT	FS	_	_	_	_	start_char=596647|end_char=596648
+
+# sent_id = 1889_d_annunzio_piacere_q3_82
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Tu non puoi intendere...
+1	Tu	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=596649|end_char=596651
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=596652|end_char=596655
+3	puoi	_	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=596656|end_char=596660
+4	intendere	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=596661|end_char=596670
+5	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=596670|end_char=596671
+6	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=596671|end_char=596672
+7	.	_	PUNCT	FS	_	_	_	_	start_char=596672|end_char=596673
+
+# sent_id = 1889_d_annunzio_piacere_q3_83
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ripeti.
+1	Ripeti	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=596674|end_char=596680
+2	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596680|end_char=596681
+
+# sent_id = 1889_d_annunzio_piacere_q3_84
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ella sorrideva, inconsapevole, un po' turbata dallo sguardo singolare dell'amante, quasi timida.
+1	Ella	_	_	_	_	_	_	_	start_char=596683|end_char=596687
+2	sorrideva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=596688|end_char=596697
+3	,	_	PUNCT	FF	_	_	_	_	start_char=596697|end_char=596698
+4	inconsapevole	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=596699|end_char=596712
+5	,	_	PUNCT	FF	_	_	_	_	start_char=596712|end_char=596713
+6	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=596714|end_char=596716
+7	po'	_	ADV	B	_	_	_	_	start_char=596717|end_char=596720
+8	turbata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=596721|end_char=596728
+9	dallo	_	_	_	_	_	_	_	start_char=596729|end_char=596734
+10	sguardo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=596735|end_char=596742
+11	singolare	_	ADJ	A	Number=Sing	_	_	_	start_char=596743|end_char=596752
+12	dell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=596753|end_char=596758
+13	amante	_	NOUN	S	Number=Sing	_	_	_	SpaceAfter=No|start_char=596758|end_char=596764
+14	,	_	PUNCT	FF	_	_	_	_	start_char=596764|end_char=596765
+15	quasi	_	ADV	B	_	_	_	_	start_char=596766|end_char=596771
+16	timida	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=596772|end_char=596778
+17	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596778|end_char=596779
+
+# sent_id = 1889_d_annunzio_piacere_q3_85
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = — Ebbene...
+1	—	_	PUNCT	FF	_	_	_	_	start_char=596781|end_char=596782
+2	Ebbene..	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=596783|end_char=596791
+3	.	_	PUNCT	FS	_	_	_	_	start_char=596791|end_char=596792
+
+# sent_id = 1889_d_annunzio_piacere_q3_86
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = mi piace!
+1	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=596793|end_char=596795
+2	piace	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=596796|end_char=596801
+3	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596801|end_char=596802
+
+# sent_id = 1889_d_annunzio_piacere_q3_87
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=596804|end_char=596805
+
+# sent_id = 1889_d_annunzio_piacere_q3_88
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ed io?
+1	Ed	_	CCONJ	CC	_	_	_	_	start_char=596806|end_char=596808
+2	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=596809|end_char=596811
+3	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596811|end_char=596812
+
+# sent_id = 1889_d_annunzio_piacere_q3_89
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=596814|end_char=596815
+
+# sent_id = 1889_d_annunzio_piacere_q3_90
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Come?
+1	Come	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=596816|end_char=596820
+2	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596820|end_char=596821
+
+# sent_id = 1889_d_annunzio_piacere_q3_91
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=596823|end_char=596824
+
+# sent_id = 1889_d_annunzio_piacere_q3_92
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ed io... a te...?
+1	Ed	_	CCONJ	CC	_	_	_	_	start_char=596825|end_char=596827
+2	io...	_	INTJ	I	_	_	_	_	start_char=596828|end_char=596833
+3	a	_	ADP	E	_	_	_	_	start_char=596834|end_char=596835
+4	te...	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=596836|end_char=596841
+5	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596841|end_char=596842
+
+# sent_id = 1889_d_annunzio_piacere_q3_93
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ella, perplessa, guardava l'amante che le si torceva ai piedi, convulso, nell'aspettazione della parola ch'egli voleva strapparle.
+1	Ella	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=596844|end_char=596848
+2	,	_	PUNCT	FF	_	_	_	_	start_char=596848|end_char=596849
+3	perplessa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=596850|end_char=596859
+4	,	_	PUNCT	FF	_	_	_	_	start_char=596859|end_char=596860
+5	guardava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=596861|end_char=596869
+6	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=596870|end_char=596872
+7	amante	_	NOUN	S	Number=Sing	_	_	_	start_char=596872|end_char=596878
+8	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=596879|end_char=596882
+9	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=596883|end_char=596885
+10	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=596886|end_char=596888
+11	torceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=596889|end_char=596896
+12	ai	_	_	_	_	_	_	_	start_char=596897|end_char=596899
+13	piedi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=596900|end_char=596905
+14	,	_	PUNCT	FF	_	_	_	_	start_char=596905|end_char=596906
+15	convulso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=596907|end_char=596915
+16	,	_	PUNCT	FF	_	_	_	_	start_char=596915|end_char=596916
+17	nell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=596917|end_char=596922
+18	aspettazione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=596922|end_char=596934
+19	della	_	_	_	_	_	_	_	start_char=596935|end_char=596940
+20	parola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=596941|end_char=596947
+21	ch'	_	SCONJ	CS	_	_	_	_	SpaceAfter=No|start_char=596948|end_char=596951
+22	egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=596951|end_char=596955
+23	voleva	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=596956|end_char=596962
+24	strapparle	_	_	_	_	_	_	_	SpaceAfter=No|start_char=596963|end_char=596973
+25	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596973|end_char=596974
+
+# sent_id = 1889_d_annunzio_piacere_q3_94
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=596976|end_char=596977
+
+# sent_id = 1889_d_annunzio_piacere_q3_95
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ed io?
+1	Ed	_	CCONJ	CC	_	_	_	_	start_char=596978|end_char=596980
+2	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=596981|end_char=596983
+3	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=596983|end_char=596984
+
+# sent_id = 1889_d_annunzio_piacere_q3_96
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=596986|end_char=596987
+
+# sent_id = 1889_d_annunzio_piacere_q3_97
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ah! Tu... mi piaci.
+1	Ah!	_	INTJ	I	_	_	_	_	start_char=596988|end_char=596991
+2	Tu...	_	INTJ	I	_	_	_	_	start_char=596992|end_char=596997
+3	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=596998|end_char=597000
+4	piaci	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=597001|end_char=597006
+5	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=597006|end_char=597007
+
+# sent_id = 1889_d_annunzio_piacere_q3_98
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=597009|end_char=597010
+
+# sent_id = 1889_d_annunzio_piacere_q3_99
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Così, così...
+1	Così	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=597011|end_char=597015
+2	,	_	PUNCT	FF	_	_	_	_	start_char=597015|end_char=597016
+3	così	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=597017|end_char=597021
+4	...	_	PUNCT	FS	_	_	_	_	start_char=597021|end_char=597024
+
+# sent_id = 1889_d_annunzio_piacere_q3_100
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ripeti.
+1	Ripeti	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=597025|end_char=597031
+2	.	_	PUNCT	FS	_	_	_	_	start_char=597031|end_char=597032
+
+# sent_id = 1889_d_annunzio_piacere_q3_101
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ancóra!
+1	Ancóra	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=597033|end_char=597039
+2	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=597039|end_char=597040
+
+# sent_id = 1889_d_annunzio_piacere_q3_102
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ella consentiva, inconsapevole.
+1	Ella	_	_	_	_	_	_	_	start_char=597042|end_char=597046
+2	consentiva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=597047|end_char=597057
+3	,	_	PUNCT	FF	_	_	_	_	start_char=597057|end_char=597058
+4	inconsapevole	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=597059|end_char=597072
+5	.	_	PUNCT	FS	_	_	_	_	start_char=597072|end_char=597073
+
+# sent_id = 1889_d_annunzio_piacere_q3_103
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Egli provava uno spasimo ed una voluttà indefinibili.
+1	Egli	_	_	_	_	_	_	_	start_char=597074|end_char=597078
+2	provava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=597079|end_char=597086
+3	uno	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=597087|end_char=597090
+4	spasimo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=597091|end_char=597098
+5	ed	_	CCONJ	CC	_	_	_	_	start_char=597099|end_char=597101
+6	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=597102|end_char=597105
+7	voluttà	_	NOUN	S	Gender=Fem	_	_	_	start_char=597106|end_char=597113
+8	indefinibili	_	ADJ	A	Number=Plur	_	_	_	SpaceAfter=No|start_char=597114|end_char=597126
+9	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=597126|end_char=597127
+
+# sent_id = 1889_d_annunzio_piacere_q3_104
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=597129|end_char=597130
+
+# sent_id = 1889_d_annunzio_piacere_q3_105
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Perché chiudi gli occhi?
+1	Perché	_	PRON	PQ	PronType=Int	_	_	_	start_char=597131|end_char=597137
+2	chiudi	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=597138|end_char=597144
+3	gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=597145|end_char=597148
+4	occhi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=597149|end_char=597154
+5	?	_	PUNCT	FS	_	_	_	_	start_char=597154|end_char=597155
+
+# sent_id = 1889_d_annunzio_piacere_q3_106
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = – chiese ella, non in sospetto, ma affinché egli le esprimesse la sua sensazione.
+1	–	_	PUNCT	FB	_	_	_	_	start_char=597156|end_char=597157
+2	chiese	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=597158|end_char=597164
+3	ella	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=597165|end_char=597169
+4	,	_	PUNCT	FF	_	_	_	_	start_char=597169|end_char=597170
+5	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=597171|end_char=597174
+6	in	_	ADP	E	_	_	_	_	start_char=597175|end_char=597177
+7	sospetto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=597178|end_char=597186
+8	,	_	PUNCT	FF	_	_	_	_	start_char=597186|end_char=597187
+9	ma	_	CCONJ	CC	_	_	_	_	start_char=597188|end_char=597190
+10	affinché	_	SCONJ	CS	_	_	_	_	start_char=597191|end_char=597199
+11	egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=597200|end_char=597204
+12	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=597205|end_char=597207
+13	esprimesse	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=597208|end_char=597218
+14	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=597219|end_char=597221
+15	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=597222|end_char=597225
+16	sensazione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=597226|end_char=597236
+17	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=597236|end_char=597237
+
+# sent_id = 1889_d_annunzio_piacere_q3_107
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=597239|end_char=597240
+
+# sent_id = 1889_d_annunzio_piacere_q3_108
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Per morire.
+1	Per	_	ADP	E	_	_	_	_	start_char=597241|end_char=597244
+2	morire	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=597245|end_char=597251
+3	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=597251|end_char=597252
+
+# sent_id = 1889_d_annunzio_piacere_q3_109
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Egli posò la testa su le ginocchia di lei, rimanendo qualche minuto in quell'attitudine, silenzioso, oscuro.
+1	Egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=597254|end_char=597258
+2	posò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=597259|end_char=597263
+3	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=597264|end_char=597266
+4	testa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=597267|end_char=597272
+5	su	_	ADP	E	_	_	_	_	start_char=597273|end_char=597275
+6	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=597276|end_char=597278
+7	ginocchia	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=597279|end_char=597288
+8	di	_	ADP	E	_	_	_	_	start_char=597289|end_char=597291
+9	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=597292|end_char=597295
+10	,	_	PUNCT	FF	_	_	_	_	start_char=597295|end_char=597296
+11	rimanendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=597297|end_char=597306
+12	qualche	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=597307|end_char=597314
+13	minuto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=597315|end_char=597321
+14	in	_	ADP	E	_	_	_	_	start_char=597322|end_char=597324
+15	quell'	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=597325|end_char=597331
+16	attitudine	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=597331|end_char=597341
+17	,	_	PUNCT	FF	_	_	_	_	start_char=597341|end_char=597342
+18	silenzioso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=597343|end_char=597353
+19	,	_	PUNCT	FF	_	_	_	_	start_char=597353|end_char=597354
+20	oscuro	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=597355|end_char=597361
+21	.	_	PUNCT	FS	_	_	_	_	start_char=597361|end_char=597362
+
+# sent_id = 1889_d_annunzio_piacere_q3_110
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = Ella gli accarezzava piano i capelli, le tempie, la fronte ove, sotto la carezza, si moveva un pensiero infame.
+1	Ella	_	_	_	_	_	_	_	start_char=597363|end_char=597367
+2	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=597368|end_char=597371
+3	accarezzava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=597372|end_char=597383
+4	piano	_	ADV	B	_	_	_	_	start_char=597384|end_char=597389
+5	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=597390|end_char=597391
+6	capelli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=597392|end_char=597399
+7	,	_	PUNCT	FF	_	_	_	_	start_char=597399|end_char=597400
+8	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=597401|end_char=597403
+9	tempie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=597404|end_char=597410
+10	,	_	PUNCT	FF	_	_	_	_	start_char=597410|end_char=597411
+11	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=597412|end_char=597414
+12	fronte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=597415|end_char=597421
+13	ove	_	SCONJ	CS	_	_	_	_	SpaceAfter=No|start_char=597422|end_char=597425
+14	,	_	PUNCT	FF	_	_	_	_	start_char=597425|end_char=597426
+15	sotto	_	ADP	E	_	_	_	_	start_char=597427|end_char=597432
+16	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=597433|end_char=597435
+17	carezza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=597436|end_char=597443
+18	,	_	PUNCT	FF	_	_	_	_	start_char=597443|end_char=597444
+19	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=597445|end_char=597447
+20	moveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=597448|end_char=597454
+21	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=597455|end_char=597457
+22	pensiero	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=597458|end_char=597466
+23	infame	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=597467|end_char=597473
+24	.	_	PUNCT	FS	_	_	_	_	start_char=597473|end_char=597474
+
+# sent_id = 1889_d_annunzio_piacere_q3_111
+# chunk_id = 1889_d_annunzio_piacere_q3
+# quinto = 3
+# text = D'intorno a loro, la stanza immergevasi nell'ombra, a poco a poco; fluttuava il profumo commisto dei fiori e della bevanda; le forme si confondevano in una sola apparenza armonica e ricca, senza realità.
+1	D'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=597475|end_char=597477
+2	intorno	_	ADV	B	_	_	_	_	start_char=597477|end_char=597484
+3	a	_	ADP	E	_	_	_	_	start_char=597485|end_char=597486
+4	loro	_	PRON	PE	Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=597487|end_char=597491
+5	,	_	PUNCT	FF	_	_	_	_	start_char=597491|end_char=597492
+6	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=597493|end_char=597495
+7	stanza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=597496|end_char=597502
+8	immergevasi	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=597503|end_char=597514
+9	nell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=597515|end_char=597520
+10	ombra	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=597520|end_char=597525
+11	,	_	PUNCT	FF	_	_	_	_	start_char=597525|end_char=597526
+12	a	_	ADP	E	_	_	_	_	start_char=597527|end_char=597528
+13	poco	_	ADV	B	_	_	_	_	start_char=597529|end_char=597533
+14	a	_	ADP	E	_	_	_	_	start_char=597534|end_char=597535
+15	poco	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=597536|end_char=597540
+16	;	_	PUNCT	FC	_	_	_	_	start_char=597540|end_char=597541
+17	fluttuava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=597542|end_char=597551
+18	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=597552|end_char=597554
+19	profumo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=597555|end_char=597562
+20	commisto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=597563|end_char=597571
+21	dei	_	_	_	_	_	_	_	start_char=597572|end_char=597575
+22	fiori	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=597576|end_char=597581
+23	e	_	CCONJ	CC	_	_	_	_	start_char=597582|end_char=597583
+24	della	_	_	_	_	_	_	_	start_char=597584|end_char=597589
+25	bevanda	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=597590|end_char=597597
+26	;	_	PUNCT	FC	_	_	_	_	start_char=597597|end_char=597598
+27	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=597599|end_char=597601
+28	forme	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=597602|end_char=597607
+29	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=597608|end_char=597610
+30	confondevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=597611|end_char=597623
+31	in	_	ADP	E	_	_	_	_	start_char=597624|end_char=597626
+32	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=597627|end_char=597630
+33	sola	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=597631|end_char=597635
+34	apparenza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=597636|end_char=597645
+35	armonica	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=597646|end_char=597654
+36	e	_	CCONJ	CC	_	_	_	_	start_char=597655|end_char=597656
+37	ricca	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=597657|end_char=597662
+38	,	_	PUNCT	FF	_	_	_	_	start_char=597662|end_char=597663
+39	senza	_	ADP	E	_	_	_	_	start_char=597664|end_char=597669
+40	realità	_	NOUN	S	Gender=Fem	_	_	_	SpaceAfter=No|start_char=597670|end_char=597677
+41	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=597677|end_char=597678
+

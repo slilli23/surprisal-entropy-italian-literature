@@ -1,0 +1,1010 @@
+# sent_id = 1904_deledda_cenere_q2_1
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=323256|end_char=323257
+
+# sent_id = 1904_deledda_cenere_q2_2
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Ah, Santissimo Signore, — si lamentò zia Grathia, sospirando e schioccando le labbra, — che cosa vuoi ch'io ti dica?
+1	Ah	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=323258|end_char=323260
+2	,	_	PUNCT	FF	_	_	_	_	start_char=323260|end_char=323261
+3	Santissimo	_	PROPN	SP	_	_	_	_	start_char=323262|end_char=323272
+4	Signore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=323273|end_char=323280
+5	,	_	PUNCT	FF	_	_	_	_	start_char=323280|end_char=323281
+6	—	_	PUNCT	FF	_	_	_	_	start_char=323282|end_char=323283
+7	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=323284|end_char=323286
+8	lamentò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=323287|end_char=323294
+9	zia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=323295|end_char=323298
+10	Grathia	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=323299|end_char=323306
+11	,	_	PUNCT	FF	_	_	_	_	start_char=323306|end_char=323307
+12	sospirando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=323308|end_char=323318
+13	e	_	CCONJ	CC	_	_	_	_	start_char=323319|end_char=323320
+14	schioccando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=323321|end_char=323332
+15	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=323333|end_char=323335
+16	labbra	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=323336|end_char=323342
+17	,	_	PUNCT	FF	_	_	_	_	start_char=323342|end_char=323343
+18	—	_	PUNCT	FF	_	_	_	_	start_char=323344|end_char=323345
+19	che	_	DET	DQ	PronType=Int	_	_	_	start_char=323346|end_char=323349
+20	cosa	_	PRON	PQ	Number=Sing|PronType=Int	_	_	_	start_char=323350|end_char=323354
+21	vuoi	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=323355|end_char=323359
+22	ch'	_	SCONJ	CS	_	_	_	_	SpaceAfter=No|start_char=323360|end_char=323363
+23	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=323363|end_char=323365
+24	ti	_	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=323366|end_char=323368
+25	dica	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=323369|end_char=323373
+26	?	_	PUNCT	FS	_	_	_	_	start_char=323373|end_char=323374
+
+# sent_id = 1904_deledda_cenere_q2_3
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Perché non finisci di cenare, Anania, figlio caro?...
+1	Perché	_	ADV	B	_	_	_	_	start_char=323375|end_char=323381
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=323382|end_char=323385
+3	finisci	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=323386|end_char=323393
+4	di	_	ADP	E	_	_	_	_	start_char=323394|end_char=323396
+5	cenare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=323397|end_char=323403
+6	,	_	PUNCT	FF	_	_	_	_	start_char=323403|end_char=323404
+7	Anania	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=323405|end_char=323411
+8	,	_	PUNCT	FF	_	_	_	_	start_char=323411|end_char=323412
+9	figlio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=323413|end_char=323419
+10	caro	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=323420|end_char=323424
+11	?...	_	PUNCT	FS	_	_	_	_	start_char=323424|end_char=323428
+
+# sent_id = 1904_deledda_cenere_q2_4
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Parleremo poi...
+1	Parleremo	_	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	start_char=323429|end_char=323438
+2	poi	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=323439|end_char=323442
+3	...	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=323442|end_char=323445
+
+# sent_id = 1904_deledda_cenere_q2_5
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Egli non sentiva e non vedeva più nulla.
+1	Egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=323447|end_char=323451
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=323452|end_char=323455
+3	sentiva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=323456|end_char=323463
+4	e	_	CCONJ	CC	_	_	_	_	start_char=323464|end_char=323465
+5	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=323466|end_char=323469
+6	vedeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=323470|end_char=323476
+7	più	_	ADV	B	_	_	_	_	start_char=323477|end_char=323480
+8	nulla	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=323481|end_char=323486
+9	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=323486|end_char=323487
+
+# sent_id = 1904_deledda_cenere_q2_6
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=323489|end_char=323490
+
+# sent_id = 1904_deledda_cenere_q2_7
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Parlate!
+1	Parlate	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=323491|end_char=323498
+2	!	_	PUNCT	FS	_	_	_	_	start_char=323498|end_char=323499
+
+# sent_id = 1904_deledda_cenere_q2_8
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Parlate!
+1	Parlate	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=323500|end_char=323507
+2	!	_	PUNCT	FS	_	_	_	_	start_char=323507|end_char=323508
+
+# sent_id = 1904_deledda_cenere_q2_9
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Voi sapete tutto, dunque?
+1	Voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=323509|end_char=323512
+2	sapete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=323513|end_char=323519
+3	tutto	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=323520|end_char=323525
+4	,	_	PUNCT	FF	_	_	_	_	start_char=323525|end_char=323526
+5	dunque	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=323527|end_char=323533
+6	?	_	PUNCT	FS	_	_	_	_	start_char=323533|end_char=323534
+
+# sent_id = 1904_deledda_cenere_q2_10
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Dov'è?
+1	Dov'	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=323535|end_char=323539
+2	è	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=323539|end_char=323540
+3	?	_	PUNCT	FS	_	_	_	_	start_char=323540|end_char=323541
+
+# sent_id = 1904_deledda_cenere_q2_11
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = È viva, è morta, dov'è?
+1	È	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=323542|end_char=323543
+2	viva	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=323544|end_char=323548
+3	,	_	PUNCT	FF	_	_	_	_	start_char=323548|end_char=323549
+4	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=323550|end_char=323551
+5	morta	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=323552|end_char=323557
+6	,	_	PUNCT	FF	_	_	_	_	start_char=323557|end_char=323558
+7	dov'	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=323559|end_char=323563
+8	è	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=323563|end_char=323564
+9	?	_	PUNCT	FS	_	_	_	_	start_char=323564|end_char=323565
+
+# sent_id = 1904_deledda_cenere_q2_12
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Dov'è?
+1	Dov'	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=323566|end_char=323570
+2	è	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=323570|end_char=323571
+3	?	_	PUNCT	FS	_	_	_	_	start_char=323571|end_char=323572
+
+# sent_id = 1904_deledda_cenere_q2_13
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Dov'è?
+1	Dov'	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=323573|end_char=323577
+2	è	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=323577|end_char=323578
+3	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=323578|end_char=323579
+
+# sent_id = 1904_deledda_cenere_q2_14
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Quel «dov'è?» lo ripeté almeno venti volte, mentre s'aggirava automaticamente intorno alla cucina, piegando, spiegando, stirando il tovagliuolo, mettendolo sul viso, guardando attraverso il buco: pareva un po' impazzito, ma più irritato che commosso.
+1	Quel	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=323581|end_char=323585
+2	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=323586|end_char=323587
+3	dov'	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=323587|end_char=323591
+4	è	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=323591|end_char=323592
+5	?	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=323592|end_char=323593
+6	»	_	PUNCT	FB	_	_	_	_	start_char=323593|end_char=323594
+7	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=323595|end_char=323597
+8	ripeté	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=323598|end_char=323604
+9	almeno	_	ADV	B	_	_	_	_	start_char=323605|end_char=323611
+10	venti	_	NUM	N	NumType=Card	_	_	_	start_char=323612|end_char=323617
+11	volte	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=323618|end_char=323623
+12	,	_	PUNCT	FF	_	_	_	_	start_char=323623|end_char=323624
+13	mentre	_	SCONJ	CS	_	_	_	_	start_char=323625|end_char=323631
+14	s'	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=323632|end_char=323634
+15	aggirava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=323634|end_char=323642
+16	automaticamente	_	ADV	B	_	_	_	_	start_char=323643|end_char=323658
+17	intorno	_	ADV	B	_	_	_	_	start_char=323659|end_char=323666
+18	alla	_	_	_	_	_	_	_	start_char=323667|end_char=323671
+19	cucina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=323672|end_char=323678
+20	,	_	PUNCT	FF	_	_	_	_	start_char=323678|end_char=323679
+21	piegando	_	VERB	V	VerbForm=Ger	_	_	_	SpaceAfter=No|start_char=323680|end_char=323688
+22	,	_	PUNCT	FF	_	_	_	_	start_char=323688|end_char=323689
+23	spiegando	_	VERB	V	VerbForm=Ger	_	_	_	SpaceAfter=No|start_char=323690|end_char=323699
+24	,	_	PUNCT	FF	_	_	_	_	start_char=323699|end_char=323700
+25	stirando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=323701|end_char=323709
+26	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=323710|end_char=323712
+27	tovagliuolo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=323713|end_char=323724
+28	,	_	PUNCT	FF	_	_	_	_	start_char=323724|end_char=323725
+29	mettendolo	_	_	_	_	_	_	_	start_char=323726|end_char=323736
+30	sul	_	_	_	_	_	_	_	start_char=323737|end_char=323740
+31	viso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=323741|end_char=323745
+32	,	_	PUNCT	FF	_	_	_	_	start_char=323745|end_char=323746
+33	guardando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=323747|end_char=323756
+34	attraverso	_	ADP	E	_	_	_	_	start_char=323757|end_char=323767
+35	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=323768|end_char=323770
+36	buco	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=323771|end_char=323775
+37	:	_	PUNCT	FC	_	_	_	_	start_char=323775|end_char=323776
+38	pareva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=323777|end_char=323783
+39	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=323784|end_char=323786
+40	po'	_	ADV	B	_	_	_	_	start_char=323787|end_char=323790
+41	impazzito	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=323791|end_char=323800
+42	,	_	PUNCT	FF	_	_	_	_	start_char=323800|end_char=323801
+43	ma	_	CCONJ	CC	_	_	_	_	start_char=323802|end_char=323804
+44	più	_	ADV	B	_	_	_	_	start_char=323805|end_char=323808
+45	irritato	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=323809|end_char=323817
+46	che	_	SCONJ	CS	_	_	_	_	start_char=323818|end_char=323821
+47	commosso	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=323822|end_char=323830
+48	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=323830|end_char=323831
+
+# sent_id = 1904_deledda_cenere_q2_15
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=323833|end_char=323834
+
+# sent_id = 1904_deledda_cenere_q2_16
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Calmati, — cominciò a dirgli la vecchia, andandogli appresso, — io credevo che tu sapessi...
+1	Calmati	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=323835|end_char=323842
+2	,	_	PUNCT	FF	_	_	_	_	start_char=323842|end_char=323843
+3	—	_	PUNCT	FF	_	_	_	_	start_char=323844|end_char=323845
+4	cominciò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=323846|end_char=323854
+5	a	_	ADP	E	_	_	_	_	start_char=323855|end_char=323856
+6	dirgli	_	VERB	V	VerbForm=Inf	_	_	_	start_char=323857|end_char=323863
+7	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=323864|end_char=323866
+8	vecchia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=323867|end_char=323874
+9	,	_	PUNCT	FF	_	_	_	_	start_char=323874|end_char=323875
+10	andandogli	_	_	_	_	_	_	_	start_char=323876|end_char=323886
+11	appresso	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=323887|end_char=323895
+12	,	_	PUNCT	FF	_	_	_	_	start_char=323895|end_char=323896
+13	—	_	PUNCT	FF	_	_	_	_	start_char=323897|end_char=323898
+14	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=323899|end_char=323901
+15	credevo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=323902|end_char=323909
+16	che	_	SCONJ	CS	_	_	_	_	start_char=323910|end_char=323913
+17	tu	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=323914|end_char=323916
+18	sapessi	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=323917|end_char=323924
+19	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=323924|end_char=323925
+20	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=323925|end_char=323926
+21	.	_	PUNCT	FS	_	_	_	_	start_char=323926|end_char=323927
+
+# sent_id = 1904_deledda_cenere_q2_17
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Sì, ella è viva, ma non è la donna che ti ha ingannato fingendosi tua madre.
+1	Sì	_	INTJ	I	Polarity=Pos	_	_	_	SpaceAfter=No|start_char=323928|end_char=323930
+2	,	_	PUNCT	FF	_	_	_	_	start_char=323930|end_char=323931
+3	ella	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=323932|end_char=323936
+4	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=323937|end_char=323938
+5	viva	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=323939|end_char=323943
+6	,	_	PUNCT	FF	_	_	_	_	start_char=323943|end_char=323944
+7	ma	_	CCONJ	CC	_	_	_	_	start_char=323945|end_char=323947
+8	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=323948|end_char=323951
+9	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=323952|end_char=323953
+10	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=323954|end_char=323956
+11	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=323957|end_char=323962
+12	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=323963|end_char=323966
+13	ti	_	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=323967|end_char=323969
+14	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=323970|end_char=323972
+15	ingannato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=323973|end_char=323982
+16	fingendosi	_	_	_	_	_	_	_	start_char=323983|end_char=323993
+17	tua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=323994|end_char=323997
+18	madre	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=323998|end_char=324003
+19	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=324003|end_char=324004
+
+# sent_id = 1904_deledda_cenere_q2_18
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=324006|end_char=324007
+
+# sent_id = 1904_deledda_cenere_q2_19
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Non è stata lei a ingannarmi, nonna!
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=324008|end_char=324011
+2	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=324012|end_char=324013
+3	stata	_	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=324014|end_char=324019
+4	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=324020|end_char=324023
+5	a	_	ADP	E	_	_	_	_	start_char=324024|end_char=324025
+6	ingannarmi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=324026|end_char=324036
+7	,	_	PUNCT	FF	_	_	_	_	start_char=324036|end_char=324037
+8	nonna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=324038|end_char=324043
+9	!	_	PUNCT	FS	_	_	_	_	start_char=324043|end_char=324044
+
+# sent_id = 1904_deledda_cenere_q2_20
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = L'ho creduto io...
+1	L'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=324045|end_char=324047
+2	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=324047|end_char=324049
+3	creduto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=324050|end_char=324057
+4	io..	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=324058|end_char=324062
+5	.	_	PUNCT	FS	_	_	_	_	start_char=324062|end_char=324063
+
+# sent_id = 1904_deledda_cenere_q2_21
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Ella non sa neppure che io abbia supposto...
+1	Ella	_	_	_	_	_	_	_	start_char=324064|end_char=324068
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=324069|end_char=324072
+3	sa	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=324073|end_char=324075
+4	neppure	_	ADV	BN	PronType=Neg	_	_	_	start_char=324076|end_char=324083
+5	che	_	SCONJ	CS	_	_	_	_	start_char=324084|end_char=324087
+6	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=324088|end_char=324090
+7	abbia	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=324091|end_char=324096
+8	supposto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=324097|end_char=324105
+9	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=324105|end_char=324106
+10	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=324106|end_char=324107
+11	.	_	PUNCT	FS	_	_	_	_	start_char=324107|end_char=324108
+
+# sent_id = 1904_deledda_cenere_q2_22
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Ah, dunque non è lei?
+1	Ah	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=324109|end_char=324111
+2	,	_	PUNCT	FF	_	_	_	_	start_char=324111|end_char=324112
+3	dunque	_	ADV	B	_	_	_	_	start_char=324113|end_char=324119
+4	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=324120|end_char=324123
+5	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=324124|end_char=324125
+6	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=324126|end_char=324129
+7	?	_	PUNCT	FS	_	_	_	_	start_char=324129|end_char=324130
+
+# sent_id = 1904_deledda_cenere_q2_23
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = — aggiunse a bassa voce, con meraviglia, come se fino a quel momento fosse stato certo che Maria Obinu era sua madre.
+1	—	_	PUNCT	FF	_	_	_	_	start_char=324131|end_char=324132
+2	aggiunse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=324133|end_char=324141
+3	a	_	ADP	E	_	_	_	_	start_char=324142|end_char=324143
+4	bassa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=324144|end_char=324149
+5	voce	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=324150|end_char=324154
+6	,	_	PUNCT	FF	_	_	_	_	start_char=324154|end_char=324155
+7	con	_	ADP	E	_	_	_	_	start_char=324156|end_char=324159
+8	meraviglia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=324160|end_char=324170
+9	,	_	PUNCT	FF	_	_	_	_	start_char=324170|end_char=324171
+10	come	_	ADV	B	_	_	_	_	start_char=324172|end_char=324176
+11	se	_	SCONJ	CS	_	_	_	_	start_char=324177|end_char=324179
+12	fino	_	ADV	B	_	_	_	_	start_char=324180|end_char=324184
+13	a	_	ADP	E	_	_	_	_	start_char=324185|end_char=324186
+14	quel	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=324187|end_char=324191
+15	momento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=324192|end_char=324199
+16	fosse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=324200|end_char=324205
+17	stato	_	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=324206|end_char=324211
+18	certo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=324212|end_char=324217
+19	che	_	SCONJ	CS	_	_	_	_	start_char=324218|end_char=324221
+20	Maria	_	PROPN	SP	_	_	_	_	start_char=324222|end_char=324227
+21	Obinu	_	PROPN	SP	_	_	_	_	start_char=324228|end_char=324233
+22	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=324234|end_char=324237
+23	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=324238|end_char=324241
+24	madre	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=324242|end_char=324247
+25	.	_	PUNCT	FS	_	_	_	_	start_char=324247|end_char=324248
+
+# sent_id = 1904_deledda_cenere_q2_24
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = — Ma parlate dunque! — esclamò poi.
+1	—	_	PUNCT	FF	_	_	_	_	start_char=324249|end_char=324250
+2	Ma	_	CCONJ	CC	_	_	_	_	start_char=324251|end_char=324253
+3	parlate	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=324254|end_char=324261
+4	dunque	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=324262|end_char=324268
+5	!	_	PUNCT	FS	_	_	_	_	start_char=324268|end_char=324269
+6	—	_	PUNCT	FF	_	_	_	_	start_char=324270|end_char=324271
+7	esclamò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=324272|end_char=324279
+8	poi	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=324280|end_char=324283
+9	.	_	PUNCT	FS	_	_	_	_	start_char=324283|end_char=324284
+
+# sent_id = 1904_deledda_cenere_q2_25
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = — Perché mi tenete così sulla corda?
+1	—	_	PUNCT	FF	_	_	_	_	start_char=324285|end_char=324286
+2	Perché	_	ADV	B	_	_	_	_	start_char=324287|end_char=324293
+3	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=324294|end_char=324296
+4	tenete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=324297|end_char=324303
+5	così	_	ADV	B	_	_	_	_	start_char=324304|end_char=324308
+6	sulla	_	_	_	_	_	_	_	start_char=324309|end_char=324314
+7	corda	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=324315|end_char=324320
+8	?	_	PUNCT	FS	_	_	_	_	start_char=324320|end_char=324321
+
+# sent_id = 1904_deledda_cenere_q2_26
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Perché non mi avete parlato ancora di lei?
+1	Perché	_	ADV	B	_	_	_	_	start_char=324322|end_char=324328
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=324329|end_char=324332
+3	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=324333|end_char=324335
+4	avete	_	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=324336|end_char=324341
+5	parlato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=324342|end_char=324349
+6	ancora	_	ADV	B	_	_	_	_	start_char=324350|end_char=324356
+7	di	_	ADP	E	_	_	_	_	start_char=324357|end_char=324359
+8	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=324360|end_char=324363
+9	?	_	PUNCT	FS	_	_	_	_	start_char=324363|end_char=324364
+
+# sent_id = 1904_deledda_cenere_q2_27
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Dov'è?
+1	Dov'	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=324365|end_char=324369
+2	è	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=324369|end_char=324370
+3	?	_	PUNCT	FS	_	_	_	_	start_char=324370|end_char=324371
+
+# sent_id = 1904_deledda_cenere_q2_28
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = dov'è?
+1	dov'	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=324372|end_char=324376
+2	è	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=324376|end_char=324377
+3	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=324377|end_char=324378
+
+# sent_id = 1904_deledda_cenere_q2_29
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=324380|end_char=324381
+
+# sent_id = 1904_deledda_cenere_q2_30
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Ma se non ha mai lasciato la Sardegna! — disse la vedova, camminandogli sempre a fianco.
+1	Ma	_	CCONJ	CC	_	_	_	_	start_char=324382|end_char=324384
+2	se	_	SCONJ	CS	_	_	_	_	start_char=324385|end_char=324387
+3	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=324388|end_char=324391
+4	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=324392|end_char=324394
+5	mai	_	ADV	B	_	_	_	_	start_char=324395|end_char=324398
+6	lasciato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=324399|end_char=324407
+7	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=324408|end_char=324410
+8	Sardegna	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=324411|end_char=324419
+9	!	_	PUNCT	FS	_	_	_	_	start_char=324419|end_char=324420
+10	—	_	PUNCT	FF	_	_	_	_	start_char=324421|end_char=324422
+11	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=324423|end_char=324428
+12	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=324429|end_char=324431
+13	vedova	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=324432|end_char=324438
+14	,	_	PUNCT	FF	_	_	_	_	start_char=324438|end_char=324439
+15	camminandogli	_	_	_	_	_	_	_	start_char=324440|end_char=324453
+16	sempre	_	ADV	B	_	_	_	_	start_char=324454|end_char=324460
+17	a	_	ADP	E	_	_	_	_	start_char=324461|end_char=324462
+18	fianco	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=324463|end_char=324469
+19	.	_	PUNCT	FS	_	_	_	_	start_char=324469|end_char=324470
+
+# sent_id = 1904_deledda_cenere_q2_31
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = — In verità, io credevo che tu lo sapessi.
+1	—	_	PUNCT	FF	_	_	_	_	start_char=324471|end_char=324472
+2	In	_	ADP	E	_	_	_	_	start_char=324473|end_char=324475
+3	verità	_	NOUN	S	Gender=Fem	_	_	_	SpaceAfter=No|start_char=324476|end_char=324482
+4	,	_	PUNCT	FF	_	_	_	_	start_char=324482|end_char=324483
+5	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=324484|end_char=324486
+6	credevo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=324487|end_char=324494
+7	che	_	SCONJ	CS	_	_	_	_	start_char=324495|end_char=324498
+8	tu	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=324499|end_char=324501
+9	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=324502|end_char=324504
+10	sapessi	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=324505|end_char=324512
+11	.	_	PUNCT	FS	_	_	_	_	start_char=324512|end_char=324513
+
+# sent_id = 1904_deledda_cenere_q2_32
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Io l'ho riveduta quest'anno, ai primi di maggio; ella venne a Fonni per la festa dei Santi Martiri, e conduceva un cantastorie, un giovine cieco suo amante.
+1	Io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=324514|end_char=324516
+2	l'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=324517|end_char=324519
+3	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=324519|end_char=324521
+4	riveduta	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=324522|end_char=324530
+5	quest'	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=324531|end_char=324537
+6	anno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=324537|end_char=324541
+7	,	_	PUNCT	FF	_	_	_	_	start_char=324541|end_char=324542
+8	ai	_	_	_	_	_	_	_	start_char=324543|end_char=324545
+9	primi	_	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	_	_	_	start_char=324546|end_char=324551
+10	di	_	ADP	E	_	_	_	_	start_char=324552|end_char=324554
+11	maggio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=324555|end_char=324561
+12	;	_	PUNCT	FC	_	_	_	_	start_char=324561|end_char=324562
+13	ella	_	_	_	_	_	_	_	start_char=324563|end_char=324567
+14	venne	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=324568|end_char=324573
+15	a	_	ADP	E	_	_	_	_	start_char=324574|end_char=324575
+16	Fonni	_	PROPN	SP	_	_	_	_	start_char=324576|end_char=324581
+17	per	_	ADP	E	_	_	_	_	start_char=324582|end_char=324585
+18	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=324586|end_char=324588
+19	festa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=324589|end_char=324594
+20	dei	_	_	_	_	_	_	_	start_char=324595|end_char=324598
+21	Santi	_	PROPN	SP	_	_	_	_	start_char=324599|end_char=324604
+22	Martiri	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=324605|end_char=324612
+23	,	_	PUNCT	FF	_	_	_	_	start_char=324612|end_char=324613
+24	e	_	CCONJ	CC	_	_	_	_	start_char=324614|end_char=324615
+25	conduceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=324616|end_char=324625
+26	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=324626|end_char=324628
+27	cantastorie	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=324629|end_char=324640
+28	,	_	PUNCT	FF	_	_	_	_	start_char=324640|end_char=324641
+29	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=324642|end_char=324644
+30	giovine	_	ADJ	A	Number=Sing	_	_	_	start_char=324645|end_char=324652
+31	cieco	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=324653|end_char=324658
+32	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=324659|end_char=324662
+33	amante	_	NOUN	S	Number=Sing	_	_	_	SpaceAfter=No|start_char=324663|end_char=324669
+34	.	_	PUNCT	FS	_	_	_	_	start_char=324669|end_char=324670
+
+# sent_id = 1904_deledda_cenere_q2_33
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Essi erano venuti a piedi da un villaggio lontano, da Neoneli; ella soffriva le febbri di malaria, e sembrava una vecchia di sessanta anni.
+1	Essi	_	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=324671|end_char=324675
+2	erano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=324676|end_char=324681
+3	venuti	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=324682|end_char=324688
+4	a	_	ADP	E	_	_	_	_	start_char=324689|end_char=324690
+5	piedi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=324691|end_char=324696
+6	da	_	ADP	E	_	_	_	_	start_char=324697|end_char=324699
+7	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=324700|end_char=324702
+8	villaggio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=324703|end_char=324712
+9	lontano	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=324713|end_char=324720
+10	,	_	PUNCT	FF	_	_	_	_	start_char=324720|end_char=324721
+11	da	_	ADP	E	_	_	_	_	start_char=324722|end_char=324724
+12	Neoneli	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=324725|end_char=324732
+13	;	_	PUNCT	FC	_	_	_	_	start_char=324732|end_char=324733
+14	ella	_	_	_	_	_	_	_	start_char=324734|end_char=324738
+15	soffriva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=324739|end_char=324747
+16	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=324748|end_char=324750
+17	febbri	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=324751|end_char=324757
+18	di	_	ADP	E	_	_	_	_	start_char=324758|end_char=324760
+19	malaria	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=324761|end_char=324768
+20	,	_	PUNCT	FF	_	_	_	_	start_char=324768|end_char=324769
+21	e	_	CCONJ	CC	_	_	_	_	start_char=324770|end_char=324771
+22	sembrava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=324772|end_char=324780
+23	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=324781|end_char=324784
+24	vecchia	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=324785|end_char=324792
+25	di	_	ADP	E	_	_	_	_	start_char=324793|end_char=324795
+26	sessanta	_	NUM	N	NumType=Card	_	_	_	start_char=324796|end_char=324804
+27	anni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=324805|end_char=324809
+28	.	_	PUNCT	FS	_	_	_	_	start_char=324809|end_char=324810
+
+# sent_id = 1904_deledda_cenere_q2_34
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Terminate le feste, il cieco, che aveva guadagnato assai, abbandonò Olì per seguire una comitiva di mendicanti diretti ad un'altra festa campestre.
+1	Terminate	_	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=324811|end_char=324820
+2	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=324821|end_char=324823
+3	feste	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=324824|end_char=324829
+4	,	_	PUNCT	FF	_	_	_	_	start_char=324829|end_char=324830
+5	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=324831|end_char=324833
+6	cieco	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=324834|end_char=324839
+7	,	_	PUNCT	FF	_	_	_	_	start_char=324839|end_char=324840
+8	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=324841|end_char=324844
+9	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=324845|end_char=324850
+10	guadagnato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=324851|end_char=324861
+11	assai	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=324862|end_char=324867
+12	,	_	PUNCT	FF	_	_	_	_	start_char=324867|end_char=324868
+13	abbandonò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=324869|end_char=324878
+14	Olì	_	PROPN	SP	_	_	_	_	start_char=324879|end_char=324882
+15	per	_	ADP	E	_	_	_	_	start_char=324883|end_char=324886
+16	seguire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=324887|end_char=324894
+17	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=324895|end_char=324898
+18	comitiva	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=324899|end_char=324907
+19	di	_	ADP	E	_	_	_	_	start_char=324908|end_char=324910
+20	mendicanti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=324911|end_char=324921
+21	diretti	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=324922|end_char=324929
+22	ad	_	ADP	E	_	_	_	_	start_char=324930|end_char=324932
+23	un'	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=324933|end_char=324936
+24	altra	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=324936|end_char=324941
+25	festa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=324942|end_char=324947
+26	campestre	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=324948|end_char=324957
+27	.	_	PUNCT	FS	_	_	_	_	start_char=324957|end_char=324958
+
+# sent_id = 1904_deledda_cenere_q2_35
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = So che ella, in giugno e luglio, fece la mietitrice nelle tancas di Mamojada.
+1	So	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=324959|end_char=324961
+2	che	_	SCONJ	CS	_	_	_	_	start_char=324962|end_char=324965
+3	ella	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=324966|end_char=324970
+4	,	_	PUNCT	FF	_	_	_	_	start_char=324970|end_char=324971
+5	in	_	ADP	E	_	_	_	_	start_char=324972|end_char=324974
+6	giugno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=324975|end_char=324981
+7	e	_	CCONJ	CC	_	_	_	_	start_char=324982|end_char=324983
+8	luglio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=324984|end_char=324990
+9	,	_	PUNCT	FF	_	_	_	_	start_char=324990|end_char=324991
+10	fece	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=324992|end_char=324996
+11	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=324997|end_char=324999
+12	mietitrice	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=325000|end_char=325010
+13	nelle	_	_	_	_	_	_	_	start_char=325011|end_char=325016
+14	tancas	_	NOUN	S	Gender=Fem	_	_	_	start_char=325017|end_char=325023
+15	di	_	ADP	E	_	_	_	_	start_char=325024|end_char=325026
+16	Mamojada	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=325027|end_char=325035
+17	.	_	PUNCT	FS	_	_	_	_	start_char=325035|end_char=325036
+
+# sent_id = 1904_deledda_cenere_q2_36
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = La febbre la distruggeva: stette lungamente malata nella cantoniera e ci sta ancora...
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=325037|end_char=325039
+2	febbre	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=325040|end_char=325046
+3	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=325047|end_char=325049
+4	distruggeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=325050|end_char=325061
+5	:	_	PUNCT	FC	_	_	_	_	start_char=325061|end_char=325062
+6	stette	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=325063|end_char=325069
+7	lungamente	_	ADV	B	_	_	_	_	start_char=325070|end_char=325080
+8	malata	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=325081|end_char=325087
+9	nella	_	_	_	_	_	_	_	start_char=325088|end_char=325093
+10	cantoniera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=325094|end_char=325104
+11	e	_	CCONJ	CC	_	_	_	_	start_char=325105|end_char=325106
+12	ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=325107|end_char=325109
+13	sta	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=325110|end_char=325113
+14	ancora	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=325114|end_char=325120
+15	...	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=325120|end_char=325123
+
+# sent_id = 1904_deledda_cenere_q2_37
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Anania si fermò, sollevò il viso e aprì le braccia con atto disperato.
+1	Anania	_	PROPN	SP	_	_	_	_	start_char=325125|end_char=325131
+2	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=325132|end_char=325134
+3	fermò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=325135|end_char=325140
+4	,	_	PUNCT	FF	_	_	_	_	start_char=325140|end_char=325141
+5	sollevò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=325142|end_char=325149
+6	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=325150|end_char=325152
+7	viso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=325153|end_char=325157
+8	e	_	CCONJ	CC	_	_	_	_	start_char=325158|end_char=325159
+9	aprì	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=325160|end_char=325164
+10	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=325165|end_char=325167
+11	braccia	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=325168|end_char=325175
+12	con	_	ADP	E	_	_	_	_	start_char=325176|end_char=325179
+13	atto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=325180|end_char=325184
+14	disperato	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=325185|end_char=325194
+15	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=325194|end_char=325195
+
+# sent_id = 1904_deledda_cenere_q2_38
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=325197|end_char=325198
+
+# sent_id = 1904_deledda_cenere_q2_39
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Ed io... io... l'ho... vista!
+1	Ed	_	CCONJ	CC	_	_	_	_	start_char=325199|end_char=325201
+2	io...	_	INTJ	I	_	_	_	_	start_char=325202|end_char=325207
+3	io...	_	INTJ	I	_	_	_	_	start_char=325208|end_char=325213
+4	l'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=325214|end_char=325216
+5	ho...	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=325216|end_char=325221
+6	vista	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=325222|end_char=325227
+7	!	_	PUNCT	FS	_	_	_	_	start_char=325227|end_char=325228
+
+# sent_id = 1904_deledda_cenere_q2_40
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = — gridò.
+1	—	_	PUNCT	FF	_	_	_	_	start_char=325229|end_char=325230
+2	gridò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=325231|end_char=325236
+3	.	_	PUNCT	FS	_	_	_	_	start_char=325236|end_char=325237
+
+# sent_id = 1904_deledda_cenere_q2_41
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = — Io l'ho vista!
+1	—	_	PUNCT	FF	_	_	_	_	start_char=325238|end_char=325239
+2	Io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=325240|end_char=325242
+3	l'	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=325243|end_char=325245
+4	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=325245|end_char=325247
+5	vista	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=325248|end_char=325253
+6	!	_	PUNCT	FS	_	_	_	_	start_char=325253|end_char=325254
+
+# sent_id = 1904_deledda_cenere_q2_42
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = L'ho vista!...
+1	L'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=325255|end_char=325257
+2	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=325257|end_char=325259
+3	vista	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=325260|end_char=325265
+4	!..	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=325265|end_char=325268
+5	.	_	PUNCT	FS	_	_	_	_	start_char=325268|end_char=325269
+
+# sent_id = 1904_deledda_cenere_q2_43
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Siete certa di quanto mi dite?
+1	Siete	_	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=325270|end_char=325275
+2	certa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=325276|end_char=325281
+3	di	_	ADP	E	_	_	_	_	start_char=325282|end_char=325284
+4	quanto	_	PRON	PQ	Gender=Masc|Number=Sing|PronType=Int	_	_	_	start_char=325285|end_char=325291
+5	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=325292|end_char=325294
+6	dite	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=325295|end_char=325299
+7	?	_	PUNCT	FS	_	_	_	_	start_char=325299|end_char=325300
+
+# sent_id = 1904_deledda_cenere_q2_44
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = — chiese poi fissando la vedova.
+1	—	_	PUNCT	FF	_	_	_	_	start_char=325301|end_char=325302
+2	chiese	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=325303|end_char=325309
+3	poi	_	ADV	B	_	_	_	_	start_char=325310|end_char=325313
+4	fissando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=325314|end_char=325322
+5	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=325323|end_char=325325
+6	vedova	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=325326|end_char=325332
+7	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=325332|end_char=325333
+
+# sent_id = 1904_deledda_cenere_q2_45
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=325335|end_char=325336
+
+# sent_id = 1904_deledda_cenere_q2_46
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Certissima: perché dovrei ingannarti?
+1	Certissima	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=325337|end_char=325347
+2	:	_	PUNCT	FC	_	_	_	_	start_char=325347|end_char=325348
+3	perché	_	ADV	B	_	_	_	_	start_char=325349|end_char=325355
+4	dovrei	_	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=325356|end_char=325362
+5	ingannarti	_	_	_	_	_	_	_	SpaceAfter=No|start_char=325363|end_char=325373
+6	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=325373|end_char=325374
+
+# sent_id = 1904_deledda_cenere_q2_47
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=325376|end_char=325377
+
+# sent_id = 1904_deledda_cenere_q2_48
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Ditemi, — egli insisté, — ma c'è davvero?
+1	Ditemi	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=325378|end_char=325384
+2	,	_	PUNCT	FF	_	_	_	_	start_char=325384|end_char=325385
+3	—	_	PUNCT	FF	_	_	_	_	start_char=325386|end_char=325387
+4	egli	_	_	_	_	_	_	_	start_char=325388|end_char=325392
+5	insisté	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=325393|end_char=325400
+6	,	_	PUNCT	FF	_	_	_	_	start_char=325400|end_char=325401
+7	—	_	PUNCT	FF	_	_	_	_	start_char=325402|end_char=325403
+8	ma	_	CCONJ	CC	_	_	_	_	start_char=325404|end_char=325406
+9	c'	_	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=325407|end_char=325409
+10	è	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=325409|end_char=325410
+11	davvero	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=325411|end_char=325418
+12	?	_	PUNCT	FS	_	_	_	_	start_char=325418|end_char=325419
+
+# sent_id = 1904_deledda_cenere_q2_49
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Io vidi alla finestra una donna febbricitante, gialla, terrea, con due occhi da gatto...
+1	Io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=325420|end_char=325422
+2	vidi	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	start_char=325423|end_char=325427
+3	alla	_	_	_	_	_	_	_	start_char=325428|end_char=325432
+4	finestra	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=325433|end_char=325441
+5	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=325442|end_char=325445
+6	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=325446|end_char=325451
+7	febbricitante	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=325452|end_char=325465
+8	,	_	PUNCT	FF	_	_	_	_	start_char=325465|end_char=325466
+9	gialla	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=325467|end_char=325473
+10	,	_	PUNCT	FF	_	_	_	_	start_char=325473|end_char=325474
+11	terrea	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=325475|end_char=325481
+12	,	_	PUNCT	FF	_	_	_	_	start_char=325481|end_char=325482
+13	con	_	ADP	E	_	_	_	_	start_char=325483|end_char=325486
+14	due	_	NUM	N	NumType=Card	_	_	_	start_char=325487|end_char=325490
+15	occhi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=325491|end_char=325496
+16	da	_	ADP	E	_	_	_	_	start_char=325497|end_char=325499
+17	gatto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=325500|end_char=325505
+18	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=325505|end_char=325506
+19	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=325506|end_char=325507
+20	.	_	PUNCT	FS	_	_	_	_	start_char=325507|end_char=325508
+
+# sent_id = 1904_deledda_cenere_q2_50
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Era lei?
+1	Era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=325509|end_char=325512
+2	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=325513|end_char=325516
+3	?	_	PUNCT	FS	_	_	_	_	start_char=325516|end_char=325517
+
+# sent_id = 1904_deledda_cenere_q2_51
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Ne siete certa?
+1	Ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=325518|end_char=325520
+2	siete	_	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=325521|end_char=325526
+3	certa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=325527|end_char=325532
+4	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=325532|end_char=325533
+
+# sent_id = 1904_deledda_cenere_q2_52
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=325535|end_char=325536
+
+# sent_id = 1904_deledda_cenere_q2_53
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Certissima, ti dico.
+1	Certissima	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=325537|end_char=325547
+2	,	_	PUNCT	FF	_	_	_	_	start_char=325547|end_char=325548
+3	ti	_	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=325549|end_char=325551
+4	dico	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=325552|end_char=325556
+5	.	_	PUNCT	FS	_	_	_	_	start_char=325556|end_char=325557
+
+# sent_id = 1904_deledda_cenere_q2_54
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Era lei certamente.
+1	Era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=325558|end_char=325561
+2	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=325562|end_char=325565
+3	certamente	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=325566|end_char=325576
+4	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=325576|end_char=325577
+
+# sent_id = 1904_deledda_cenere_q2_55
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=325579|end_char=325580
+
+# sent_id = 1904_deledda_cenere_q2_56
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Ed io... io l'ho vista! — egli ripeté, e si strinse il capo fra le mani, torcendoselo, preso da una collera violenta contro se stesso che si era così lungamente, così stupidamente ingannato; che aveva cercato sua madre al di là dei monti e dei mari, mentre ella trascinava la sua miseria e il suo disonore attraverso l'isola natìa; che si era commosso davanti a tanti volti stranieri e non aveva sentito un palpito nello scorgere il volto della mendicante, della miseria viva, di sua madre, incorniciato dalla finestruola tetra della cantoniera.
+1	Ed	_	CCONJ	CC	_	_	_	_	start_char=325581|end_char=325583
+2	io...	_	INTJ	I	_	_	_	_	start_char=325584|end_char=325589
+3	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=325590|end_char=325592
+4	l'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=325593|end_char=325595
+5	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=325595|end_char=325597
+6	vista	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=325598|end_char=325603
+7	!	_	PUNCT	FS	_	_	_	_	start_char=325603|end_char=325604
+8	—	_	PUNCT	FF	_	_	_	_	start_char=325605|end_char=325606
+9	egli	_	_	_	_	_	_	_	start_char=325607|end_char=325611
+10	ripeté	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=325612|end_char=325618
+11	,	_	PUNCT	FF	_	_	_	_	start_char=325618|end_char=325619
+12	e	_	CCONJ	CC	_	_	_	_	start_char=325620|end_char=325621
+13	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=325622|end_char=325624
+14	strinse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=325625|end_char=325632
+15	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=325633|end_char=325635
+16	capo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=325636|end_char=325640
+17	fra	_	ADP	E	_	_	_	_	start_char=325641|end_char=325644
+18	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=325645|end_char=325647
+19	mani	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=325648|end_char=325652
+20	,	_	PUNCT	FF	_	_	_	_	start_char=325652|end_char=325653
+21	torcendoselo	_	_	_	_	_	_	_	SpaceAfter=No|start_char=325654|end_char=325666
+22	,	_	PUNCT	FF	_	_	_	_	start_char=325666|end_char=325667
+23	preso	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=325668|end_char=325673
+24	da	_	ADP	E	_	_	_	_	start_char=325674|end_char=325676
+25	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=325677|end_char=325680
+26	collera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=325681|end_char=325688
+27	violenta	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=325689|end_char=325697
+28	contro	_	ADP	E	_	_	_	_	start_char=325698|end_char=325704
+29	se	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=325705|end_char=325707
+30	stesso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=325708|end_char=325714
+31	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=325715|end_char=325718
+32	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=325719|end_char=325721
+33	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=325722|end_char=325725
+34	così	_	ADV	B	_	_	_	_	start_char=325726|end_char=325730
+35	lungamente	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=325731|end_char=325741
+36	,	_	PUNCT	FF	_	_	_	_	start_char=325741|end_char=325742
+37	così	_	ADV	B	_	_	_	_	start_char=325743|end_char=325747
+38	stupidamente	_	ADV	B	_	_	_	_	start_char=325748|end_char=325760
+39	ingannato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=325761|end_char=325770
+40	;	_	PUNCT	FC	_	_	_	_	start_char=325770|end_char=325771
+41	che	_	SCONJ	CS	_	_	_	_	start_char=325772|end_char=325775
+42	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=325776|end_char=325781
+43	cercato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=325782|end_char=325789
+44	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=325790|end_char=325793
+45	madre	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=325794|end_char=325799
+46	al	_	_	_	_	_	_	_	start_char=325800|end_char=325802
+47	di	_	ADP	E	_	_	_	_	start_char=325803|end_char=325805
+48	là	_	ADV	B	_	_	_	_	start_char=325806|end_char=325808
+49	dei	_	_	_	_	_	_	_	start_char=325809|end_char=325812
+50	monti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=325813|end_char=325818
+51	e	_	CCONJ	CC	_	_	_	_	start_char=325819|end_char=325820
+52	dei	_	_	_	_	_	_	_	start_char=325821|end_char=325824
+53	mari	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=325825|end_char=325829
+54	,	_	PUNCT	FF	_	_	_	_	start_char=325829|end_char=325830
+55	mentre	_	SCONJ	CS	_	_	_	_	start_char=325831|end_char=325837
+56	ella	_	_	_	_	_	_	_	start_char=325838|end_char=325842
+57	trascinava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=325843|end_char=325853
+58	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=325854|end_char=325856
+59	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=325857|end_char=325860
+60	miseria	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=325861|end_char=325868
+61	e	_	CCONJ	CC	_	_	_	_	start_char=325869|end_char=325870
+62	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=325871|end_char=325873
+63	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=325874|end_char=325877
+64	disonore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=325878|end_char=325886
+65	attraverso	_	ADP	E	_	_	_	_	start_char=325887|end_char=325897
+66	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=325898|end_char=325900
+67	isola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=325900|end_char=325905
+68	natìa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=325906|end_char=325911
+69	;	_	PUNCT	FC	_	_	_	_	start_char=325911|end_char=325912
+70	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=325913|end_char=325916
+71	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=325917|end_char=325919
+72	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=325920|end_char=325923
+73	commosso	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=325924|end_char=325932
+74	davanti	_	ADV	B	_	_	_	_	start_char=325933|end_char=325940
+75	a	_	ADP	E	_	_	_	_	start_char=325941|end_char=325942
+76	tanti	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=325943|end_char=325948
+77	volti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=325949|end_char=325954
+78	stranieri	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=325955|end_char=325964
+79	e	_	CCONJ	CC	_	_	_	_	start_char=325965|end_char=325966
+80	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=325967|end_char=325970
+81	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=325971|end_char=325976
+82	sentito	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=325977|end_char=325984
+83	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=325985|end_char=325987
+84	palpito	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=325988|end_char=325995
+85	nello	_	_	_	_	_	_	_	start_char=325996|end_char=326001
+86	scorgere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=326002|end_char=326010
+87	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=326011|end_char=326013
+88	volto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=326014|end_char=326019
+89	della	_	_	_	_	_	_	_	start_char=326020|end_char=326025
+90	mendicante	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=326026|end_char=326036
+91	,	_	PUNCT	FF	_	_	_	_	start_char=326036|end_char=326037
+92	della	_	_	_	_	_	_	_	start_char=326038|end_char=326043
+93	miseria	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=326044|end_char=326051
+94	viva	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=326052|end_char=326056
+95	,	_	PUNCT	FF	_	_	_	_	start_char=326056|end_char=326057
+96	di	_	ADP	E	_	_	_	_	start_char=326058|end_char=326060
+97	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=326061|end_char=326064
+98	madre	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=326065|end_char=326070
+99	,	_	PUNCT	FF	_	_	_	_	start_char=326070|end_char=326071
+100	incorniciato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=326072|end_char=326084
+101	dalla	_	_	_	_	_	_	_	start_char=326085|end_char=326090
+102	finestruola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=326091|end_char=326102
+103	tetra	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=326103|end_char=326108
+104	della	_	_	_	_	_	_	_	start_char=326109|end_char=326114
+105	cantoniera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=326115|end_char=326125
+106	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=326125|end_char=326126
+
+# sent_id = 1904_deledda_cenere_q2_57
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Che cosa dunque era l'uomo?
+1	Che	_	DET	DQ	PronType=Int	_	_	_	start_char=326128|end_char=326131
+2	cosa	_	PRON	PQ	Number=Sing|PronType=Int	_	_	_	start_char=326132|end_char=326136
+3	dunque	_	ADV	B	_	_	_	_	start_char=326137|end_char=326143
+4	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=326144|end_char=326147
+5	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=326148|end_char=326150
+6	uomo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=326150|end_char=326154
+7	?	_	PUNCT	FS	_	_	_	_	start_char=326154|end_char=326155
+
+# sent_id = 1904_deledda_cenere_q2_58
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = E il cuore umano?
+1	E	_	CCONJ	CC	_	_	_	_	start_char=326156|end_char=326157
+2	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=326158|end_char=326160
+3	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=326161|end_char=326166
+4	umano	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=326167|end_char=326172
+5	?	_	PUNCT	FS	_	_	_	_	start_char=326172|end_char=326173
+
+# sent_id = 1904_deledda_cenere_q2_59
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = E la vita, l'intelligenza, il pensiero?
+1	E	_	CCONJ	CC	_	_	_	_	start_char=326174|end_char=326175
+2	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=326176|end_char=326178
+3	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=326179|end_char=326183
+4	,	_	PUNCT	FF	_	_	_	_	start_char=326183|end_char=326184
+5	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=326185|end_char=326187
+6	intelligenza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=326187|end_char=326199
+7	,	_	PUNCT	FF	_	_	_	_	start_char=326199|end_char=326200
+8	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=326201|end_char=326203
+9	pensiero	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=326204|end_char=326212
+10	?	_	PUNCT	FS	_	_	_	_	start_char=326212|end_char=326213
+
+# sent_id = 1904_deledda_cenere_q2_60
+# chunk_id = 1904_deledda_cenere_q2
+# quinto = 2
+# text = Ah, sì, ora che queste domande gli salivano non più oziosamente alle labbra, ora che la realtà batteva intorno a lui le sue ali funebri e squarciava i vapori dell'illusione, ora egli rispondeva alle sue domande e sapeva che cosa era l'uomo, il suo cuore, la sua vita: inganno, inganno, inganno.
+1	Ah	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=326214|end_char=326216
+2	,	_	PUNCT	FF	_	_	_	_	start_char=326216|end_char=326217
+3	sì	_	INTJ	I	Polarity=Pos	_	_	_	SpaceAfter=No|start_char=326218|end_char=326220
+4	,	_	PUNCT	FF	_	_	_	_	start_char=326220|end_char=326221
+5	ora	_	ADV	B	_	_	_	_	start_char=326222|end_char=326225
+6	che	_	SCONJ	CS	_	_	_	_	start_char=326226|end_char=326229
+7	queste	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=326230|end_char=326236
+8	domande	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=326237|end_char=326244
+9	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=326245|end_char=326248
+10	salivano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=326249|end_char=326257
+11	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=326258|end_char=326261
+12	più	_	ADV	B	_	_	_	_	start_char=326262|end_char=326265
+13	oziosamente	_	ADV	B	_	_	_	_	start_char=326266|end_char=326277
+14	alle	_	_	_	_	_	_	_	start_char=326278|end_char=326282
+15	labbra	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=326283|end_char=326289
+16	,	_	PUNCT	FF	_	_	_	_	start_char=326289|end_char=326290
+17	ora	_	ADV	B	_	_	_	_	start_char=326291|end_char=326294
+18	che	_	SCONJ	CS	_	_	_	_	start_char=326295|end_char=326298
+19	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=326299|end_char=326301
+20	realtà	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=326302|end_char=326308
+21	batteva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=326309|end_char=326316
+22	intorno	_	ADV	B	_	_	_	_	start_char=326317|end_char=326324
+23	a	_	ADP	E	_	_	_	_	start_char=326325|end_char=326326
+24	lui	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=326327|end_char=326330
+25	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=326331|end_char=326333
+26	sue	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=326334|end_char=326337
+27	ali	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=326338|end_char=326341
+28	funebri	_	ADJ	A	Number=Plur	_	_	_	start_char=326342|end_char=326349
+29	e	_	CCONJ	CC	_	_	_	_	start_char=326350|end_char=326351
+30	squarciava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=326352|end_char=326362
+31	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=326363|end_char=326364
+32	vapori	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=326365|end_char=326371
+33	dell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=326372|end_char=326377
+34	illusione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=326377|end_char=326386
+35	,	_	PUNCT	FF	_	_	_	_	start_char=326386|end_char=326387
+36	ora	_	ADV	B	_	_	_	_	start_char=326388|end_char=326391
+37	egli	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=326392|end_char=326396
+38	rispondeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=326397|end_char=326407
+39	alle	_	_	_	_	_	_	_	start_char=326408|end_char=326412
+40	sue	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=326413|end_char=326416
+41	domande	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=326417|end_char=326424
+42	e	_	CCONJ	CC	_	_	_	_	start_char=326425|end_char=326426
+43	sapeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=326427|end_char=326433
+44	che	_	DET	DQ	PronType=Int	_	_	_	start_char=326434|end_char=326437
+45	cosa	_	PRON	PQ	Number=Sing|PronType=Int	_	_	_	start_char=326438|end_char=326442
+46	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=326443|end_char=326446
+47	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=326447|end_char=326449
+48	uomo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=326449|end_char=326453
+49	,	_	PUNCT	FF	_	_	_	_	start_char=326453|end_char=326454
+50	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=326455|end_char=326457
+51	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=326458|end_char=326461
+52	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=326462|end_char=326467
+53	,	_	PUNCT	FF	_	_	_	_	start_char=326467|end_char=326468
+54	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=326469|end_char=326471
+55	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=326472|end_char=326475
+56	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=326476|end_char=326480
+57	:	_	PUNCT	FC	_	_	_	_	start_char=326480|end_char=326481
+58	inganno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=326482|end_char=326489
+59	,	_	PUNCT	FF	_	_	_	_	start_char=326489|end_char=326490
+60	inganno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=326491|end_char=326498
+61	,	_	PUNCT	FF	_	_	_	_	start_char=326498|end_char=326499
+62	inganno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=326500|end_char=326507
+63	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=326507|end_char=326508
+

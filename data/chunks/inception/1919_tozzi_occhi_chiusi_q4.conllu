@@ -1,0 +1,824 @@
+# sent_id = 1919_tozzi_occhi_chiusi_q4_1
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Prima di nascosto, e poi vantandosene con tutti quelli che capitavano nella trattoria.
+1	Prima	_	ADV	B	_	_	_	_	start_char=420273|end_char=420278
+2	di	_	ADP	E	_	_	_	_	start_char=420279|end_char=420281
+3	nascosto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=420282|end_char=420290
+4	,	_	PUNCT	FF	_	_	_	_	start_char=420290|end_char=420291
+5	e	_	CCONJ	CC	_	_	_	_	start_char=420292|end_char=420293
+6	poi	_	ADV	B	_	_	_	_	start_char=420294|end_char=420297
+7	vantandosene	_	_	_	_	_	_	_	start_char=420298|end_char=420310
+8	con	_	ADP	E	_	_	_	_	start_char=420311|end_char=420314
+9	tutti	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=420315|end_char=420320
+10	quelli	_	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	_	_	_	start_char=420321|end_char=420327
+11	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=420328|end_char=420331
+12	capitavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=420332|end_char=420342
+13	nella	_	_	_	_	_	_	_	start_char=420343|end_char=420348
+14	trattoria	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=420349|end_char=420358
+15	.	_	PUNCT	FS	_	_	_	_	start_char=420358|end_char=420359
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_2
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = La sua ambizione doventò, allora, quella di scrivere articoli in una <I>Lotta di classe<
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=420360|end_char=420362
+2	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=420363|end_char=420366
+3	ambizione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=420367|end_char=420376
+4	doventò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=420377|end_char=420384
+5	,	_	PUNCT	FF	_	_	_	_	start_char=420384|end_char=420385
+6	allora	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=420386|end_char=420392
+7	,	_	PUNCT	FF	_	_	_	_	start_char=420392|end_char=420393
+8	quella	_	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=420394|end_char=420400
+9	di	_	ADP	E	_	_	_	_	start_char=420401|end_char=420403
+10	scrivere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=420404|end_char=420412
+11	articoli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=420413|end_char=420421
+12	in	_	ADP	E	_	_	_	_	start_char=420422|end_char=420424
+13	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=420425|end_char=420428
+14	<	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=420429|end_char=420430
+15	I>	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=420430|end_char=420432
+16	Lotta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=420432|end_char=420437
+17	di	_	ADP	E	_	_	_	_	start_char=420438|end_char=420440
+18	classe	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=420441|end_char=420447
+19	<	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=420447|end_char=420448
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_3
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = /I>, che usciva tutte le settimane.
+1	/I	_	NOUN	S	_	_	_	_	SpaceAfter=No|start_char=420448|end_char=420450
+2	>	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=420450|end_char=420451
+3	,	_	PUNCT	FF	_	_	_	_	start_char=420451|end_char=420452
+4	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=420453|end_char=420456
+5	usciva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=420457|end_char=420463
+6	tutte	_	DET	T	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	start_char=420464|end_char=420469
+7	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=420470|end_char=420472
+8	settimane	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=420473|end_char=420482
+9	.	_	PUNCT	FS	_	_	_	_	start_char=420482|end_char=420483
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_4
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = E se la polizia lo avesse fatto arrestare, sarebbe stato contento.
+1	E	_	CCONJ	CC	_	_	_	_	start_char=420484|end_char=420485
+2	se	_	SCONJ	CS	_	_	_	_	start_char=420486|end_char=420488
+3	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=420489|end_char=420491
+4	polizia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=420492|end_char=420499
+5	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=420500|end_char=420502
+6	avesse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=420503|end_char=420509
+7	fatto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=420510|end_char=420515
+8	arrestare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=420516|end_char=420525
+9	,	_	PUNCT	FF	_	_	_	_	start_char=420525|end_char=420526
+10	sarebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=420527|end_char=420534
+11	stato	_	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=420535|end_char=420540
+12	contento	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=420541|end_char=420549
+13	.	_	PUNCT	FS	_	_	_	_	start_char=420549|end_char=420550
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_5
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Sognava processi, martirii, conferenze ed anche la rivoluzione.
+1	Sognava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=420551|end_char=420558
+2	processi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=420559|end_char=420567
+3	,	_	PUNCT	FF	_	_	_	_	start_char=420567|end_char=420568
+4	martirii	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=420569|end_char=420577
+5	,	_	PUNCT	FF	_	_	_	_	start_char=420577|end_char=420578
+6	conferenze	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=420579|end_char=420589
+7	ed	_	CCONJ	CC	_	_	_	_	start_char=420590|end_char=420592
+8	anche	_	ADV	B	_	_	_	_	start_char=420593|end_char=420598
+9	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=420599|end_char=420601
+10	rivoluzione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=420602|end_char=420613
+11	.	_	PUNCT	FS	_	_	_	_	start_char=420613|end_char=420614
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_6
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Quando un altro lo chiamava «compagno», si sarebbe fatto a pezzi per lui; senza né meno pensarci.
+1	Quando	_	SCONJ	CS	_	_	_	_	start_char=420615|end_char=420621
+2	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=420622|end_char=420624
+3	altro	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=420625|end_char=420630
+4	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=420631|end_char=420633
+5	chiamava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=420634|end_char=420642
+6	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=420643|end_char=420644
+7	compagno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=420644|end_char=420652
+8	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=420652|end_char=420653
+9	,	_	PUNCT	FF	_	_	_	_	start_char=420653|end_char=420654
+10	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=420655|end_char=420657
+11	sarebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=420658|end_char=420665
+12	fatto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=420666|end_char=420671
+13	a	_	ADP	E	_	_	_	_	start_char=420672|end_char=420673
+14	pezzi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=420674|end_char=420679
+15	per	_	ADP	E	_	_	_	_	start_char=420680|end_char=420683
+16	lui	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=420684|end_char=420687
+17	;	_	PUNCT	FC	_	_	_	_	start_char=420687|end_char=420688
+18	senza	_	ADP	E	_	_	_	_	start_char=420689|end_char=420694
+19	né	_	ADV	BN	PronType=Neg	_	_	_	start_char=420695|end_char=420697
+20	meno	_	ADV	B	_	_	_	_	start_char=420698|end_char=420702
+21	pensarci	_	_	_	_	_	_	_	SpaceAfter=No|start_char=420703|end_char=420711
+22	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=420711|end_char=420712
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_7
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Domenico, invece, era preso sempre di più dal lavoro e dal podere; e non c'era nessuno che l'aiutasse!
+1	Domenico	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=420713|end_char=420721
+2	,	_	PUNCT	FF	_	_	_	_	start_char=420721|end_char=420722
+3	invece	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=420723|end_char=420729
+4	,	_	PUNCT	FF	_	_	_	_	start_char=420729|end_char=420730
+5	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=420731|end_char=420734
+6	preso	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=420735|end_char=420740
+7	sempre	_	ADV	B	_	_	_	_	start_char=420741|end_char=420747
+8	di	_	ADP	E	_	_	_	_	start_char=420748|end_char=420750
+9	più	_	ADV	B	_	_	_	_	start_char=420751|end_char=420754
+10	dal	_	_	_	_	_	_	_	start_char=420755|end_char=420758
+11	lavoro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=420759|end_char=420765
+12	e	_	CCONJ	CC	_	_	_	_	start_char=420766|end_char=420767
+13	dal	_	_	_	_	_	_	_	start_char=420768|end_char=420771
+14	podere	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=420772|end_char=420778
+15	;	_	PUNCT	FC	_	_	_	_	start_char=420778|end_char=420779
+16	e	_	CCONJ	CC	_	_	_	_	start_char=420780|end_char=420781
+17	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=420782|end_char=420785
+18	c'	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=420786|end_char=420788
+19	era	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=420788|end_char=420791
+20	nessuno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=420792|end_char=420799
+21	che	_	SCONJ	CS	_	_	_	_	start_char=420800|end_char=420803
+22	l'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=420804|end_char=420806
+23	aiutasse	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=420806|end_char=420814
+24	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=420814|end_char=420815
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_8
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Nelle ore di caldo asfissiante, quando la trattoria restava vuota, lo sguattero e il cuoco dormivano con il capo appoggiato sopra il ceppo, coprendosi con i loro grembiuli per via delle mosche che volavano su gli strofinacci untuosi; si fermavano, tutte accosto, intorno ad una goccia di brodo rimasta sopra la tavola; camminavano in su e in giù sopra i pezzi della carne, striscindovisi sopra.
+1	Nelle	_	_	_	_	_	_	_	start_char=420816|end_char=420821
+2	ore	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=420822|end_char=420825
+3	di	_	ADP	E	_	_	_	_	start_char=420826|end_char=420828
+4	caldo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=420829|end_char=420834
+5	asfissiante	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=420835|end_char=420846
+6	,	_	PUNCT	FF	_	_	_	_	start_char=420846|end_char=420847
+7	quando	_	SCONJ	CS	_	_	_	_	start_char=420848|end_char=420854
+8	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=420855|end_char=420857
+9	trattoria	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=420858|end_char=420867
+10	restava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=420868|end_char=420875
+11	vuota	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=420876|end_char=420881
+12	,	_	PUNCT	FF	_	_	_	_	start_char=420881|end_char=420882
+13	lo	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=420883|end_char=420885
+14	sguattero	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=420886|end_char=420895
+15	e	_	CCONJ	CC	_	_	_	_	start_char=420896|end_char=420897
+16	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=420898|end_char=420900
+17	cuoco	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=420901|end_char=420906
+18	dormivano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=420907|end_char=420916
+19	con	_	ADP	E	_	_	_	_	start_char=420917|end_char=420920
+20	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=420921|end_char=420923
+21	capo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=420924|end_char=420928
+22	appoggiato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=420929|end_char=420939
+23	sopra	_	ADP	E	_	_	_	_	start_char=420940|end_char=420945
+24	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=420946|end_char=420948
+25	ceppo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=420949|end_char=420954
+26	,	_	PUNCT	FF	_	_	_	_	start_char=420954|end_char=420955
+27	coprendosi	_	_	_	_	_	_	_	start_char=420956|end_char=420966
+28	con	_	ADP	E	_	_	_	_	start_char=420967|end_char=420970
+29	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=420971|end_char=420972
+30	loro	_	DET	AP	Poss=Yes|PronType=Prs	_	_	_	start_char=420973|end_char=420977
+31	grembiuli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=420978|end_char=420987
+32	per	_	ADP	E	_	_	_	_	start_char=420988|end_char=420991
+33	via	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=420992|end_char=420995
+34	delle	_	_	_	_	_	_	_	start_char=420996|end_char=421001
+35	mosche	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=421002|end_char=421008
+36	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=421009|end_char=421012
+37	volavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=421013|end_char=421021
+38	su	_	ADP	E	_	_	_	_	start_char=421022|end_char=421024
+39	gli	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=421025|end_char=421028
+40	strofinacci	_	_	_	_	_	_	_	start_char=421029|end_char=421040
+41	untuosi	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=421041|end_char=421048
+42	;	_	PUNCT	FC	_	_	_	_	start_char=421048|end_char=421049
+43	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=421050|end_char=421052
+44	fermavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=421053|end_char=421062
+45	,	_	PUNCT	FF	_	_	_	_	start_char=421062|end_char=421063
+46	tutte	_	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	start_char=421064|end_char=421069
+47	accosto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=421070|end_char=421077
+48	,	_	PUNCT	FF	_	_	_	_	start_char=421077|end_char=421078
+49	intorno	_	ADV	B	_	_	_	_	start_char=421079|end_char=421086
+50	ad	_	ADP	E	_	_	_	_	start_char=421087|end_char=421089
+51	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=421090|end_char=421093
+52	goccia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=421094|end_char=421100
+53	di	_	ADP	E	_	_	_	_	start_char=421101|end_char=421103
+54	brodo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=421104|end_char=421109
+55	rimasta	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=421110|end_char=421117
+56	sopra	_	ADP	E	_	_	_	_	start_char=421118|end_char=421123
+57	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=421124|end_char=421126
+58	tavola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=421127|end_char=421133
+59	;	_	PUNCT	FC	_	_	_	_	start_char=421133|end_char=421134
+60	camminavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=421135|end_char=421146
+61	in	_	ADP	E	_	_	_	_	start_char=421147|end_char=421149
+62	su	_	ADV	B	_	_	_	_	start_char=421150|end_char=421152
+63	e	_	CCONJ	CC	_	_	_	_	start_char=421153|end_char=421154
+64	in	_	ADP	E	_	_	_	_	start_char=421155|end_char=421157
+65	giù	_	ADV	B	_	_	_	_	start_char=421158|end_char=421161
+66	sopra	_	ADP	E	_	_	_	_	start_char=421162|end_char=421167
+67	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=421168|end_char=421169
+68	pezzi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=421170|end_char=421175
+69	della	_	_	_	_	_	_	_	start_char=421176|end_char=421181
+70	carne	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=421182|end_char=421187
+71	,	_	PUNCT	FF	_	_	_	_	start_char=421187|end_char=421188
+72	striscindovisi	_	_	_	_	_	_	_	start_char=421189|end_char=421203
+73	sopra	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=421204|end_char=421209
+74	.	_	PUNCT	FS	_	_	_	_	start_char=421209|end_char=421210
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_9
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = La marmittona di rame seguitava a bollire; un gatto, sotto la tavola, rosicchiava.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=421211|end_char=421213
+2	marmittona	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=421214|end_char=421224
+3	di	_	ADP	E	_	_	_	_	start_char=421225|end_char=421227
+4	rame	_	NOUN	S	Gender=Masc	_	_	_	start_char=421228|end_char=421232
+5	seguitava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=421233|end_char=421242
+6	a	_	ADP	E	_	_	_	_	start_char=421243|end_char=421244
+7	bollire	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=421245|end_char=421252
+8	;	_	PUNCT	FC	_	_	_	_	start_char=421252|end_char=421253
+9	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=421254|end_char=421256
+10	gatto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=421257|end_char=421262
+11	,	_	PUNCT	FF	_	_	_	_	start_char=421262|end_char=421263
+12	sotto	_	ADP	E	_	_	_	_	start_char=421264|end_char=421269
+13	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=421270|end_char=421272
+14	tavola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=421273|end_char=421279
+15	,	_	PUNCT	FF	_	_	_	_	start_char=421279|end_char=421280
+16	rosicchiava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=421281|end_char=421292
+17	.	_	PUNCT	FS	_	_	_	_	start_char=421292|end_char=421293
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_10
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Una cannella d'ottone, mal chiusa, sgocciolava con un sibilo incessante.
+1	Una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=421294|end_char=421297
+2	cannella	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=421298|end_char=421306
+3	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=421307|end_char=421309
+4	ottone	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=421309|end_char=421315
+5	,	_	PUNCT	FF	_	_	_	_	start_char=421315|end_char=421316
+6	mal	_	ADV	B	_	_	_	_	start_char=421317|end_char=421320
+7	chiusa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=421321|end_char=421327
+8	,	_	PUNCT	FF	_	_	_	_	start_char=421327|end_char=421328
+9	sgocciolava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=421329|end_char=421340
+10	con	_	ADP	E	_	_	_	_	start_char=421341|end_char=421344
+11	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=421345|end_char=421347
+12	sibilo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=421348|end_char=421354
+13	incessante	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=421355|end_char=421365
+14	.	_	PUNCT	FS	_	_	_	_	start_char=421365|end_char=421366
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_11
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Le due zangole battevano, sopra una parete, i riflessi trasparenti della loro acqua; che, di quando in quando, erano attraversati dall'ombra di una mosca.
+1	Le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=421367|end_char=421369
+2	due	_	NUM	N	NumType=Card	_	_	_	start_char=421370|end_char=421373
+3	zangole	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=421374|end_char=421381
+4	battevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=421382|end_char=421391
+5	,	_	PUNCT	FF	_	_	_	_	start_char=421391|end_char=421392
+6	sopra	_	ADP	E	_	_	_	_	start_char=421393|end_char=421398
+7	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=421399|end_char=421402
+8	parete	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=421403|end_char=421409
+9	,	_	PUNCT	FF	_	_	_	_	start_char=421409|end_char=421410
+10	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=421411|end_char=421412
+11	riflessi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=421413|end_char=421421
+12	trasparenti	_	ADJ	A	Number=Plur	_	_	_	start_char=421422|end_char=421433
+13	della	_	_	_	_	_	_	_	start_char=421434|end_char=421439
+14	loro	_	DET	AP	Poss=Yes|PronType=Prs	_	_	_	start_char=421440|end_char=421444
+15	acqua	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=421445|end_char=421450
+16	;	_	PUNCT	FC	_	_	_	_	start_char=421450|end_char=421451
+17	che	_	PRON	PR	PronType=Rel	_	_	_	SpaceAfter=No|start_char=421452|end_char=421455
+18	,	_	PUNCT	FF	_	_	_	_	start_char=421455|end_char=421456
+19	di	_	ADP	E	_	_	_	_	start_char=421457|end_char=421459
+20	quando	_	SCONJ	CS	_	_	_	_	start_char=421460|end_char=421466
+21	in	_	ADP	E	_	_	_	_	start_char=421467|end_char=421469
+22	quando	_	SCONJ	CS	_	_	_	_	SpaceAfter=No|start_char=421470|end_char=421476
+23	,	_	PUNCT	FF	_	_	_	_	start_char=421476|end_char=421477
+24	erano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=421478|end_char=421483
+25	attraversati	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=421484|end_char=421496
+26	dall'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=421497|end_char=421502
+27	ombra	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=421502|end_char=421507
+28	di	_	ADP	E	_	_	_	_	start_char=421508|end_char=421510
+29	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=421511|end_char=421514
+30	mosca	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=421515|end_char=421520
+31	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=421520|end_char=421521
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_12
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Se giungeva un cliente, il cameriere pigliava il primo piatto della pila, poi chiamava il cuoco.
+1	Se	_	SCONJ	CS	_	_	_	_	start_char=421522|end_char=421524
+2	giungeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=421525|end_char=421533
+3	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=421534|end_char=421536
+4	cliente	_	NOUN	S	Number=Sing	_	_	_	SpaceAfter=No|start_char=421537|end_char=421544
+5	,	_	PUNCT	FF	_	_	_	_	start_char=421544|end_char=421545
+6	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=421546|end_char=421548
+7	cameriere	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=421549|end_char=421558
+8	pigliava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=421559|end_char=421567
+9	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=421568|end_char=421570
+10	primo	_	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	_	_	_	start_char=421571|end_char=421576
+11	piatto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=421577|end_char=421583
+12	della	_	_	_	_	_	_	_	start_char=421584|end_char=421589
+13	pila	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=421590|end_char=421594
+14	,	_	PUNCT	FF	_	_	_	_	start_char=421594|end_char=421595
+15	poi	_	ADV	B	_	_	_	_	start_char=421596|end_char=421599
+16	chiamava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=421600|end_char=421608
+17	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=421609|end_char=421611
+18	cuoco	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=421612|end_char=421617
+19	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=421617|end_char=421618
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_13
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = - Non dormire più.
+1	-	_	PUNCT	FF	_	_	_	_	start_char=421619|end_char=421620
+2	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=421621|end_char=421624
+3	dormire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=421625|end_char=421632
+4	più	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=421633|end_char=421636
+5	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=421636|end_char=421637
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_14
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Allora il sudore adunato sotto la camicia si raffreddava ad un tratto; e il cuoco si sdrusciava un orecchio indolenzito, perché gli era rimasto ripiegato tra il braccio e la testa.
+1	Allora	_	ADV	B	_	_	_	_	start_char=421638|end_char=421644
+2	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=421645|end_char=421647
+3	sudore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=421648|end_char=421654
+4	adunato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=421655|end_char=421662
+5	sotto	_	ADP	E	_	_	_	_	start_char=421663|end_char=421668
+6	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=421669|end_char=421671
+7	camicia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=421672|end_char=421679
+8	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=421680|end_char=421682
+9	raffreddava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=421683|end_char=421694
+10	ad	_	ADP	E	_	_	_	_	start_char=421695|end_char=421697
+11	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=421698|end_char=421700
+12	tratto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=421701|end_char=421707
+13	;	_	PUNCT	FC	_	_	_	_	start_char=421707|end_char=421708
+14	e	_	CCONJ	CC	_	_	_	_	start_char=421709|end_char=421710
+15	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=421711|end_char=421713
+16	cuoco	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=421714|end_char=421719
+17	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=421720|end_char=421722
+18	sdrusciava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=421723|end_char=421733
+19	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=421734|end_char=421736
+20	orecchio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=421737|end_char=421745
+21	indolenzito	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=421746|end_char=421757
+22	,	_	PUNCT	FF	_	_	_	_	start_char=421757|end_char=421758
+23	perché	_	SCONJ	CS	_	_	_	_	start_char=421759|end_char=421765
+24	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=421766|end_char=421769
+25	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=421770|end_char=421773
+26	rimasto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=421774|end_char=421781
+27	ripiegato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=421782|end_char=421791
+28	tra	_	ADP	E	_	_	_	_	start_char=421792|end_char=421795
+29	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=421796|end_char=421798
+30	braccio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=421799|end_char=421806
+31	e	_	CCONJ	CC	_	_	_	_	start_char=421807|end_char=421808
+32	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=421809|end_char=421811
+33	testa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=421812|end_char=421817
+34	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=421817|end_char=421818
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_15
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = La trattoria riprendeva il suo movimento.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=421819|end_char=421821
+2	trattoria	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=421822|end_char=421831
+3	riprendeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=421832|end_char=421842
+4	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=421843|end_char=421845
+5	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=421846|end_char=421849
+6	movimento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=421850|end_char=421859
+7	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=421859|end_char=421860
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_16
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Pietro passava quest'ore di vacanza, leggendo quasi senza avvedersi del tempo.
+1	Pietro	_	PROPN	SP	_	_	_	_	start_char=421861|end_char=421867
+2	passava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=421868|end_char=421875
+3	quest'	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=421876|end_char=421882
+4	ore	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=421882|end_char=421885
+5	di	_	ADP	E	_	_	_	_	start_char=421886|end_char=421888
+6	vacanza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=421889|end_char=421896
+7	,	_	PUNCT	FF	_	_	_	_	start_char=421896|end_char=421897
+8	leggendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=421898|end_char=421906
+9	quasi	_	ADV	B	_	_	_	_	start_char=421907|end_char=421912
+10	senza	_	ADP	E	_	_	_	_	start_char=421913|end_char=421918
+11	avvedersi	_	_	_	_	_	_	_	start_char=421919|end_char=421928
+12	del	_	_	_	_	_	_	_	start_char=421929|end_char=421932
+13	tempo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=421933|end_char=421938
+14	.	_	PUNCT	FS	_	_	_	_	start_char=421938|end_char=421939
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_17
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Domenico, rientrando in punta di piedi, riesciva a sorprenderlo.
+1	Domenico	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=421940|end_char=421948
+2	,	_	PUNCT	FF	_	_	_	_	start_char=421948|end_char=421949
+3	rientrando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=421950|end_char=421960
+4	in	_	ADP	E	_	_	_	_	start_char=421961|end_char=421963
+5	punta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=421964|end_char=421969
+6	di	_	ADP	E	_	_	_	_	start_char=421970|end_char=421972
+7	piedi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=421973|end_char=421978
+8	,	_	PUNCT	FF	_	_	_	_	start_char=421978|end_char=421979
+9	riesciva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=421980|end_char=421988
+10	a	_	ADP	E	_	_	_	_	start_char=421989|end_char=421990
+11	sorprenderlo	_	_	_	_	_	_	_	SpaceAfter=No|start_char=421991|end_char=422003
+12	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=422003|end_char=422004
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_18
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = - Perché non sei attento a quello che fanno le persone di servizio?
+1	-	_	PUNCT	FF	_	_	_	_	start_char=422005|end_char=422006
+2	Perché	_	PRON	PQ	PronType=Int	_	_	_	start_char=422007|end_char=422013
+3	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=422014|end_char=422017
+4	sei	_	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=422018|end_char=422021
+5	attento	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=422022|end_char=422029
+6	a	_	ADP	E	_	_	_	_	start_char=422030|end_char=422031
+7	quello	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=422032|end_char=422038
+8	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=422039|end_char=422042
+9	fanno	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=422043|end_char=422048
+10	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=422049|end_char=422051
+11	persone	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=422052|end_char=422059
+12	di	_	ADP	E	_	_	_	_	start_char=422060|end_char=422062
+13	servizio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=422063|end_char=422071
+14	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=422071|end_char=422072
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_19
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = E il rimprovero ricominciava.
+1	E	_	CCONJ	CC	_	_	_	_	start_char=422073|end_char=422074
+2	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=422075|end_char=422077
+3	rimprovero	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=422078|end_char=422088
+4	ricominciava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=422089|end_char=422101
+5	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=422101|end_char=422102
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_20
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Una volta gli gridò, proprio dentro a un orecchio: - Vieni a pesare la paglia.
+1	Una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=422103|end_char=422106
+2	volta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=422107|end_char=422112
+3	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=422113|end_char=422116
+4	gridò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=422117|end_char=422122
+5	,	_	PUNCT	FF	_	_	_	_	start_char=422122|end_char=422123
+6	proprio	_	ADV	B	_	_	_	_	start_char=422124|end_char=422131
+7	dentro	_	ADV	B	_	_	_	_	start_char=422132|end_char=422138
+8	a	_	ADP	E	_	_	_	_	start_char=422139|end_char=422140
+9	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=422141|end_char=422143
+10	orecchio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=422144|end_char=422152
+11	:	_	PUNCT	FC	_	_	_	_	start_char=422152|end_char=422153
+12	-	_	PUNCT	FB	_	_	_	_	start_char=422154|end_char=422155
+13	Vieni	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=422156|end_char=422161
+14	a	_	ADP	E	_	_	_	_	start_char=422162|end_char=422163
+15	pesare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=422164|end_char=422170
+16	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=422171|end_char=422173
+17	paglia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=422174|end_char=422180
+18	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=422180|end_char=422181
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_21
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = - Io?
+1	-	_	PUNCT	FF	_	_	_	_	start_char=422182|end_char=422183
+2	Io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=422184|end_char=422186
+3	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=422186|end_char=422187
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_22
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = - Tu.
+1	-	_	PUNCT	FB	_	_	_	_	start_char=422188|end_char=422189
+2	Tu	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=422190|end_char=422192
+3	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=422192|end_char=422193
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_23
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = E lo alzò da sedere, prendendolo per il colletto.
+1	E	_	CCONJ	CC	_	_	_	_	start_char=422194|end_char=422195
+2	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=422196|end_char=422198
+3	alzò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=422199|end_char=422203
+4	da	_	ADP	E	_	_	_	_	start_char=422204|end_char=422206
+5	sedere	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=422207|end_char=422213
+6	,	_	PUNCT	FF	_	_	_	_	start_char=422213|end_char=422214
+7	prendendolo	_	_	_	_	_	_	_	start_char=422215|end_char=422226
+8	per	_	ADP	E	_	_	_	_	start_char=422227|end_char=422230
+9	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=422231|end_char=422233
+10	colletto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=422234|end_char=422242
+11	.	_	PUNCT	FS	_	_	_	_	start_char=422242|end_char=422243
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_24
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Ma poi, avendo fretta, si avviò dove erano i pagliaioli.
+1	Ma	_	CCONJ	CC	_	_	_	_	start_char=422244|end_char=422246
+2	poi	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=422247|end_char=422250
+3	,	_	PUNCT	FF	_	_	_	_	start_char=422250|end_char=422251
+4	avendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=422252|end_char=422258
+5	fretta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=422259|end_char=422265
+6	,	_	PUNCT	FF	_	_	_	_	start_char=422265|end_char=422266
+7	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=422267|end_char=422269
+8	avviò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=422270|end_char=422275
+9	dove	_	ADV	B	_	_	_	_	start_char=422276|end_char=422280
+10	erano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=422281|end_char=422286
+11	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=422287|end_char=422288
+12	pagliaioli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=422289|end_char=422299
+13	.	_	PUNCT	FS	_	_	_	_	start_char=422299|end_char=422300
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_25
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Pietro non si mosse, restando con la testa contro uno spigolo del muro; e provando una grande repugnanza del pianto che lo invadeva.
+1	Pietro	_	PROPN	SP	_	_	_	_	start_char=422301|end_char=422307
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=422308|end_char=422311
+3	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=422312|end_char=422314
+4	mosse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=422315|end_char=422320
+5	,	_	PUNCT	FF	_	_	_	_	start_char=422320|end_char=422321
+6	restando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=422322|end_char=422330
+7	con	_	ADP	E	_	_	_	_	start_char=422331|end_char=422334
+8	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=422335|end_char=422337
+9	testa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=422338|end_char=422343
+10	contro	_	ADP	E	_	_	_	_	start_char=422344|end_char=422350
+11	uno	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=422351|end_char=422354
+12	spigolo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=422355|end_char=422362
+13	del	_	_	_	_	_	_	_	start_char=422363|end_char=422366
+14	muro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=422367|end_char=422371
+15	;	_	PUNCT	FC	_	_	_	_	start_char=422371|end_char=422372
+16	e	_	CCONJ	CC	_	_	_	_	start_char=422373|end_char=422374
+17	provando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=422375|end_char=422383
+18	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=422384|end_char=422387
+19	grande	_	ADJ	A	Number=Sing	_	_	_	start_char=422388|end_char=422394
+20	repugnanza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=422395|end_char=422405
+21	del	_	_	_	_	_	_	_	start_char=422406|end_char=422409
+22	pianto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=422410|end_char=422416
+23	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=422417|end_char=422420
+24	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=422421|end_char=422423
+25	invadeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=422424|end_char=422432
+26	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=422432|end_char=422433
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_26
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = - Ecco un altro barroccio di paglia, padrone!
+1	-	_	PUNCT	FF	_	_	_	_	start_char=422434|end_char=422435
+2	Ecco	_	ADV	B	_	_	_	_	start_char=422436|end_char=422440
+3	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=422441|end_char=422443
+4	altro	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=422444|end_char=422449
+5	barroccio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=422450|end_char=422459
+6	di	_	ADP	E	_	_	_	_	start_char=422460|end_char=422462
+7	paglia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=422463|end_char=422469
+8	,	_	PUNCT	FF	_	_	_	_	start_char=422469|end_char=422470
+9	padrone	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=422471|end_char=422478
+10	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=422478|end_char=422479
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_27
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Disse l'uno dei due uomini che avevano scaricato quella portata prima.
+1	Disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=422480|end_char=422485
+2	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=422486|end_char=422488
+3	uno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=422488|end_char=422491
+4	dei	_	_	_	_	_	_	_	start_char=422492|end_char=422495
+5	due	_	NUM	N	NumType=Card	_	_	_	start_char=422496|end_char=422499
+6	uomini	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=422500|end_char=422506
+7	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=422507|end_char=422510
+8	avevano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=422511|end_char=422518
+9	scaricato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=422519|end_char=422528
+10	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=422529|end_char=422535
+11	portata	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=422536|end_char=422543
+12	prima	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=422544|end_char=422549
+13	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=422549|end_char=422550
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_28
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = - È un pagliaio!
+1	-	_	PUNCT	FF	_	_	_	_	start_char=422551|end_char=422552
+2	È	_	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=422553|end_char=422554
+3	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=422555|end_char=422557
+4	pagliaio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=422558|end_char=422566
+5	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=422566|end_char=422567
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_29
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Urlò quegli che con la fune aiutava a trarre innanzi il barroccio.
+1	Urlò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=422568|end_char=422572
+2	quegli	_	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	_	_	_	start_char=422573|end_char=422579
+3	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=422580|end_char=422583
+4	con	_	ADP	E	_	_	_	_	start_char=422584|end_char=422587
+5	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=422588|end_char=422590
+6	fune	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=422591|end_char=422595
+7	aiutava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=422596|end_char=422603
+8	a	_	ADP	E	_	_	_	_	start_char=422604|end_char=422605
+9	trarre	_	VERB	V	VerbForm=Inf	_	_	_	start_char=422606|end_char=422612
+10	innanzi	_	ADV	B	_	_	_	_	start_char=422613|end_char=422620
+11	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=422621|end_char=422623
+12	barroccio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=422624|end_char=422633
+13	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=422633|end_char=422634
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_30
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = - Dieci quintali!
+1	-	_	PUNCT	FF	_	_	_	_	start_char=422635|end_char=422636
+2	Dieci	_	NUM	N	NumType=Card	_	_	_	start_char=422637|end_char=422642
+3	quintali	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=422643|end_char=422651
+4	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=422651|end_char=422652
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_31
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Aggiunse Palloccola che reggeva le stanghe.
+1	Aggiunse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=422653|end_char=422661
+2	Palloccola	_	PROPN	SP	_	_	_	_	start_char=422662|end_char=422672
+3	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=422673|end_char=422676
+4	reggeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=422677|end_char=422684
+5	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=422685|end_char=422687
+6	stanghe	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=422688|end_char=422695
+7	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=422695|end_char=422696
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_32
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Il trattore sorrise delle loro esagerazioni.
+1	Il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=422697|end_char=422699
+2	trattore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=422700|end_char=422708
+3	sorrise	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=422709|end_char=422716
+4	delle	_	_	_	_	_	_	_	start_char=422717|end_char=422722
+5	loro	_	DET	AP	Poss=Yes|PronType=Prs	_	_	_	start_char=422723|end_char=422727
+6	esagerazioni	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=422728|end_char=422740
+7	.	_	PUNCT	FS	_	_	_	_	start_char=422740|end_char=422741
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_33
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Andò al nuovo fastello di paglia, lo toccò e lo annusò.
+1	Andò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=422742|end_char=422746
+2	al	_	_	_	_	_	_	_	start_char=422747|end_char=422749
+3	nuovo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=422750|end_char=422755
+4	fastello	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=422756|end_char=422764
+5	di	_	ADP	E	_	_	_	_	start_char=422765|end_char=422767
+6	paglia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=422768|end_char=422774
+7	,	_	PUNCT	FF	_	_	_	_	start_char=422774|end_char=422775
+8	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=422776|end_char=422778
+9	toccò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=422779|end_char=422784
+10	e	_	CCONJ	CC	_	_	_	_	start_char=422785|end_char=422786
+11	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=422787|end_char=422789
+12	annusò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=422790|end_char=422796
+13	.	_	PUNCT	FS	_	_	_	_	start_char=422796|end_char=422797
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_34
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Poi, senza rispondere, guardò in faccia i due uomini.
+1	Poi	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=422798|end_char=422801
+2	,	_	PUNCT	FF	_	_	_	_	start_char=422801|end_char=422802
+3	senza	_	ADP	E	_	_	_	_	start_char=422803|end_char=422808
+4	rispondere	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=422809|end_char=422819
+5	,	_	PUNCT	FF	_	_	_	_	start_char=422819|end_char=422820
+6	guardò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=422821|end_char=422827
+7	in	_	ADP	E	_	_	_	_	start_char=422828|end_char=422830
+8	faccia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=422831|end_char=422837
+9	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=422838|end_char=422839
+10	due	_	NUM	N	NumType=Card	_	_	_	start_char=422840|end_char=422843
+11	uomini	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=422844|end_char=422850
+12	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=422850|end_char=422851
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_35
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Nella piccola piazzola, dove rispondeva la porta della cucina, erano altri due uomini sudati per la fatica; perché avevano scaricato i loro fastelli di paglia, alzandoli fino all'imboccatura della capanna.
+1	Nella	_	_	_	_	_	_	_	start_char=422852|end_char=422857
+2	piccola	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=422858|end_char=422865
+3	piazzola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=422866|end_char=422874
+4	,	_	PUNCT	FF	_	_	_	_	start_char=422874|end_char=422875
+5	dove	_	ADV	B	_	_	_	_	start_char=422876|end_char=422880
+6	rispondeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=422881|end_char=422891
+7	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=422892|end_char=422894
+8	porta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=422895|end_char=422900
+9	della	_	_	_	_	_	_	_	start_char=422901|end_char=422906
+10	cucina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=422907|end_char=422913
+11	,	_	PUNCT	FF	_	_	_	_	start_char=422913|end_char=422914
+12	erano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=422915|end_char=422920
+13	altri	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=422921|end_char=422926
+14	due	_	NUM	N	NumType=Card	_	_	_	start_char=422927|end_char=422930
+15	uomini	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=422931|end_char=422937
+16	sudati	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=422938|end_char=422944
+17	per	_	ADP	E	_	_	_	_	start_char=422945|end_char=422948
+18	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=422949|end_char=422951
+19	fatica	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=422952|end_char=422958
+20	;	_	PUNCT	FC	_	_	_	_	start_char=422958|end_char=422959
+21	perché	_	SCONJ	CS	_	_	_	_	start_char=422960|end_char=422966
+22	avevano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=422967|end_char=422974
+23	scaricato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=422975|end_char=422984
+24	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=422985|end_char=422986
+25	loro	_	DET	AP	Poss=Yes|PronType=Prs	_	_	_	start_char=422987|end_char=422991
+26	fastelli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=422992|end_char=423000
+27	di	_	ADP	E	_	_	_	_	start_char=423001|end_char=423003
+28	paglia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=423004|end_char=423010
+29	,	_	PUNCT	FF	_	_	_	_	start_char=423010|end_char=423011
+30	alzandoli	_	_	_	_	_	_	_	start_char=423012|end_char=423021
+31	fino	_	ADV	B	_	_	_	_	start_char=423022|end_char=423026
+32	all'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=423027|end_char=423031
+33	imboccatura	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=423031|end_char=423042
+34	della	_	_	_	_	_	_	_	start_char=423043|end_char=423048
+35	capanna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=423049|end_char=423056
+36	.	_	PUNCT	FS	_	_	_	_	start_char=423056|end_char=423057
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_36
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Ora, essi si riposavano; stando a coccoloni con le spalle appoggiate al muro.
+1	Ora	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=423058|end_char=423061
+2	,	_	PUNCT	FF	_	_	_	_	start_char=423061|end_char=423062
+3	essi	_	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=423063|end_char=423067
+4	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=423068|end_char=423070
+5	riposavano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=423071|end_char=423081
+6	;	_	PUNCT	FC	_	_	_	_	start_char=423081|end_char=423082
+7	stando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=423083|end_char=423089
+8	a	_	ADP	E	_	_	_	_	start_char=423090|end_char=423091
+9	coccoloni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=423092|end_char=423101
+10	con	_	ADP	E	_	_	_	_	start_char=423102|end_char=423105
+11	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=423106|end_char=423108
+12	spalle	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=423109|end_char=423115
+13	appoggiate	_	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=423116|end_char=423126
+14	al	_	_	_	_	_	_	_	start_char=423127|end_char=423129
+15	muro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=423130|end_char=423134
+16	.	_	PUNCT	FS	_	_	_	_	start_char=423134|end_char=423135
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_37
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Il sudore della fronte sgocciolava su la punta delle scarpe polverose; il cui cuoio era gonfio di piegature.
+1	Il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=423136|end_char=423138
+2	sudore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=423139|end_char=423145
+3	della	_	_	_	_	_	_	_	start_char=423146|end_char=423151
+4	fronte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=423152|end_char=423158
+5	sgocciolava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=423159|end_char=423170
+6	su	_	ADP	E	_	_	_	_	start_char=423171|end_char=423173
+7	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=423174|end_char=423176
+8	punta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=423177|end_char=423182
+9	delle	_	_	_	_	_	_	_	start_char=423183|end_char=423188
+10	scarpe	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=423189|end_char=423195
+11	polverose	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=423196|end_char=423205
+12	;	_	PUNCT	FC	_	_	_	_	start_char=423205|end_char=423206
+13	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=423207|end_char=423209
+14	cui	_	DET	DR	PronType=Rel	_	_	_	start_char=423210|end_char=423213
+15	cuoio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=423214|end_char=423219
+16	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=423220|end_char=423223
+17	gonfio	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=423224|end_char=423230
+18	di	_	ADP	E	_	_	_	_	start_char=423231|end_char=423233
+19	piegature	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=423234|end_char=423243
+20	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=423243|end_char=423244
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_38
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = - Quanto volete?
+1	-	_	PUNCT	FF	_	_	_	_	start_char=423245|end_char=423246
+2	Quanto	_	PRON	PQ	Number=Sing|PronType=Int	_	_	_	start_char=423247|end_char=423253
+3	volete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=423254|end_char=423260
+4	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=423260|end_char=423261
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_39
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Disse il trattore, mettendosi i pollici nelle tasche del panciotto.
+1	Disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=423262|end_char=423267
+2	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=423268|end_char=423270
+3	trattore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=423271|end_char=423279
+4	,	_	PUNCT	FF	_	_	_	_	start_char=423279|end_char=423280
+5	mettendosi	_	_	_	_	_	_	_	start_char=423281|end_char=423291
+6	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=423292|end_char=423293
+7	pollici	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=423294|end_char=423301
+8	nelle	_	_	_	_	_	_	_	start_char=423302|end_char=423307
+9	tasche	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=423308|end_char=423314
+10	del	_	_	_	_	_	_	_	start_char=423315|end_char=423318
+11	panciotto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=423319|end_char=423328
+12	.	_	PUNCT	FS	_	_	_	_	start_char=423328|end_char=423329
+
+# sent_id = 1919_tozzi_occhi_chiusi_q4_40
+# chunk_id = 1919_tozzi_occhi_chiusi_q4
+# quinto = 4
+# text = Aveva il dorso d'una mano sgraffiato; e perciò, spesso, vi si succhiava il sangue.
+1	Aveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=423330|end_char=423335
+2	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=423336|end_char=423338
+3	dorso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=423339|end_char=423344
+4	d'	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=423345|end_char=423347
+5	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=423347|end_char=423350
+6	mano	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=423351|end_char=423355
+7	sgraffiato	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=423356|end_char=423366
+8	;	_	PUNCT	FC	_	_	_	_	start_char=423366|end_char=423367
+9	e	_	CCONJ	CC	_	_	_	_	start_char=423368|end_char=423369
+10	perciò	_	SCONJ	CS	_	_	_	_	SpaceAfter=No|start_char=423370|end_char=423376
+11	,	_	PUNCT	FF	_	_	_	_	start_char=423376|end_char=423377
+12	spesso	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=423378|end_char=423384
+13	,	_	PUNCT	FF	_	_	_	_	start_char=423384|end_char=423385
+14	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=423386|end_char=423388
+15	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=423389|end_char=423391
+16	succhiava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=423392|end_char=423401
+17	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=423402|end_char=423404
+18	sangue	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=423405|end_char=423411
+19	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n|start_char=423411|end_char=423412
+

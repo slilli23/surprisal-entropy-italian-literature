@@ -1,0 +1,783 @@
+# sent_id = 1881_verga_malavoglia_q3_1
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=522260|end_char=522261
+
+# sent_id = 1881_verga_malavoglia_q3_2
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = Uhm! — sputò fuori padron Fortunato — pezzenterie!
+1	Uhm	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=522262|end_char=522265
+2	!	_	PUNCT	FS	_	_	_	_	start_char=522265|end_char=522266
+3	—	_	PUNCT	FF	_	_	_	_	start_char=522267|end_char=522268
+4	sputò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=522269|end_char=522274
+5	fuori	_	ADV	B	_	_	_	_	start_char=522275|end_char=522280
+6	padron	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=522281|end_char=522287
+7	Fortunato	_	PROPN	SP	_	_	_	_	start_char=522288|end_char=522297
+8	—	_	PUNCT	FF	_	_	_	_	start_char=522298|end_char=522299
+9	pezzenterie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=522300|end_char=522311
+10	!	_	PUNCT	FS	_	_	_	_	start_char=522311|end_char=522312
+
+# sent_id = 1881_verga_malavoglia_q3_3
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = comare Zuppidda non gli ha voluto dare la figliuola.
+1	comare	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=522313|end_char=522319
+2	Zuppidda	_	PROPN	SP	_	_	_	_	start_char=522320|end_char=522328
+3	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=522329|end_char=522332
+4	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=522333|end_char=522336
+5	ha	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=522337|end_char=522339
+6	voluto	_	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=522340|end_char=522346
+7	dare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=522347|end_char=522351
+8	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=522352|end_char=522354
+9	figliuola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=522355|end_char=522364
+10	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=522364|end_char=522365
+
+# sent_id = 1881_verga_malavoglia_q3_4
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=522367|end_char=522368
+
+# sent_id = 1881_verga_malavoglia_q3_5
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = Vuol dire che mastro Turi Zuppiddu preferisce le uova delle sue galline; rispose padron 'Ntoni.
+1	Vuol	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=522369|end_char=522373
+2	dire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=522374|end_char=522378
+3	che	_	SCONJ	CS	_	_	_	_	start_char=522379|end_char=522382
+4	mastro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=522383|end_char=522389
+5	Turi	_	PROPN	SP	_	_	_	_	start_char=522390|end_char=522394
+6	Zuppiddu	_	PROPN	SP	_	_	_	_	start_char=522395|end_char=522403
+7	preferisce	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=522404|end_char=522414
+8	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=522415|end_char=522417
+9	uova	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=522418|end_char=522422
+10	delle	_	_	_	_	_	_	_	start_char=522423|end_char=522428
+11	sue	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=522429|end_char=522432
+12	galline	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=522433|end_char=522440
+13	;	_	PUNCT	FC	_	_	_	_	start_char=522440|end_char=522441
+14	rispose	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=522442|end_char=522449
+15	padron	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=522450|end_char=522456
+16	'	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=522457|end_char=522458
+17	Ntoni	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=522458|end_char=522463
+18	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=522463|end_char=522464
+
+# sent_id = 1881_verga_malavoglia_q3_6
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = E padron Cipolla disse di sì col capo.
+1	E	_	CCONJ	CC	_	_	_	_	start_char=522466|end_char=522467
+2	padron	_	PROPN	SP	_	_	_	_	start_char=522468|end_char=522474
+3	Cipolla	_	PROPN	SP	_	_	_	_	start_char=522475|end_char=522482
+4	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=522483|end_char=522488
+5	di	_	ADP	E	_	_	_	_	start_char=522489|end_char=522491
+6	sì	_	INTJ	I	Polarity=Pos	_	_	_	start_char=522492|end_char=522494
+7	col	_	ADJ	A	Number=Sing	_	_	_	start_char=522495|end_char=522498
+8	capo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=522499|end_char=522503
+9	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=522503|end_char=522504
+
+# sent_id = 1881_verga_malavoglia_q3_7
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=522506|end_char=522507
+
+# sent_id = 1881_verga_malavoglia_q3_8
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = «'Ntroi 'ntroi, ciascuno coi pari suoi», aggiunse padron Malavoglia.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=522508|end_char=522509
+2	'	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=522509|end_char=522510
+3	Ntroi	_	PROPN	SP	_	_	_	_	start_char=522510|end_char=522515
+4	'	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=522516|end_char=522517
+5	ntroi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=522517|end_char=522522
+6	,	_	PUNCT	FF	_	_	_	_	start_char=522522|end_char=522523
+7	ciascuno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=522524|end_char=522532
+8	coi	_	DET	DD	Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=522533|end_char=522536
+9	pari	_	ADJ	A	Number=Sing	_	_	_	start_char=522537|end_char=522541
+10	suoi	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=522542|end_char=522546
+11	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=522546|end_char=522547
+12	,	_	PUNCT	FF	_	_	_	_	start_char=522547|end_char=522548
+13	aggiunse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=522549|end_char=522557
+14	padron	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=522558|end_char=522564
+15	Malavoglia	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=522565|end_char=522575
+16	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=522575|end_char=522576
+
+# sent_id = 1881_verga_malavoglia_q3_9
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = Piedipapera allora ribatté che se don Silvestro si fosse contentato di stare coi suoi pari a quest'ora ci avrebbe la zappa in mano invece della penna.
+1	Piedipapera	_	PROPN	SP	_	_	_	_	start_char=522578|end_char=522589
+2	allora	_	ADV	B	_	_	_	_	start_char=522590|end_char=522596
+3	ribatté	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=522597|end_char=522604
+4	che	_	SCONJ	CS	_	_	_	_	start_char=522605|end_char=522608
+5	se	_	SCONJ	CS	_	_	_	_	start_char=522609|end_char=522611
+6	don	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=522612|end_char=522615
+7	Silvestro	_	PROPN	SP	_	_	_	_	start_char=522616|end_char=522625
+8	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=522626|end_char=522628
+9	fosse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=522629|end_char=522634
+10	contentato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=522635|end_char=522645
+11	di	_	ADP	E	_	_	_	_	start_char=522646|end_char=522648
+12	stare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=522649|end_char=522654
+13	coi	_	DET	DD	Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=522655|end_char=522658
+14	suoi	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=522659|end_char=522663
+15	pari	_	NOUN	S	Gender=Masc	_	_	_	start_char=522664|end_char=522668
+16	a	_	ADP	E	_	_	_	_	start_char=522669|end_char=522670
+17	quest'	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=522671|end_char=522677
+18	ora	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=522677|end_char=522680
+19	ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=522681|end_char=522683
+20	avrebbe	_	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=522684|end_char=522691
+21	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=522692|end_char=522694
+22	zappa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=522695|end_char=522700
+23	in	_	ADP	E	_	_	_	_	start_char=522701|end_char=522703
+24	mano	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=522704|end_char=522708
+25	invece	_	ADV	B	_	_	_	_	start_char=522709|end_char=522715
+26	della	_	_	_	_	_	_	_	start_char=522716|end_char=522721
+27	penna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=522722|end_char=522727
+28	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=522727|end_char=522728
+
+# sent_id = 1881_verga_malavoglia_q3_10
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=522730|end_char=522731
+
+# sent_id = 1881_verga_malavoglia_q3_11
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = Che ce la dareste voi vostra nipote Mena?
+1	Che	_	PRON	PQ	PronType=Int	_	_	_	start_char=522732|end_char=522735
+2	ce	_	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	_	_	_	start_char=522736|end_char=522738
+3	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=522739|end_char=522741
+4	dareste	_	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=522742|end_char=522749
+5	voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=522750|end_char=522753
+6	vostra	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=522754|end_char=522760
+7	nipote	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=522761|end_char=522767
+8	Mena	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=522768|end_char=522772
+9	?	_	PUNCT	FS	_	_	_	_	start_char=522772|end_char=522773
+
+# sent_id = 1881_verga_malavoglia_q3_12
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = disse alfin padron Cipolla volgendosi a padron 'Ntoni.
+1	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=522774|end_char=522779
+2	alfin	_	X	SW	Foreign=Yes	_	_	_	start_char=522780|end_char=522785
+3	padron	_	PROPN	SP	_	_	_	_	start_char=522786|end_char=522792
+4	Cipolla	_	PROPN	SP	_	_	_	_	start_char=522793|end_char=522800
+5	volgendosi	_	_	_	_	_	_	_	start_char=522801|end_char=522811
+6	a	_	ADP	E	_	_	_	_	start_char=522812|end_char=522813
+7	padron	_	PROPN	SP	_	_	_	_	start_char=522814|end_char=522820
+8	'	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=522821|end_char=522822
+9	Ntoni	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=522822|end_char=522827
+10	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=522827|end_char=522828
+
+# sent_id = 1881_verga_malavoglia_q3_13
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=522830|end_char=522831
+
+# sent_id = 1881_verga_malavoglia_q3_14
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = «Ognuno all'arte sua, e il lupo alle pecore».
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=522832|end_char=522833
+2	Ognuno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=522833|end_char=522839
+3	all'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=522840|end_char=522844
+4	arte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=522844|end_char=522848
+5	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=522849|end_char=522852
+6	,	_	PUNCT	FF	_	_	_	_	start_char=522852|end_char=522853
+7	e	_	CCONJ	CC	_	_	_	_	start_char=522854|end_char=522855
+8	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=522856|end_char=522858
+9	lupo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=522859|end_char=522863
+10	alle	_	_	_	_	_	_	_	start_char=522864|end_char=522868
+11	pecore	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=522869|end_char=522875
+12	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=522875|end_char=522876
+13	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=522876|end_char=522877
+
+# sent_id = 1881_verga_malavoglia_q3_15
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = Padron Cipolla continuava a dir di sì col capo, tanto più che fra lui e padron 'Ntoni c'era stata qualche parola di maritar la Mena con suo figlio Brasi, e se il negozio dei lupini andava bene, la Mena avrebbe avuto la sua dote in contante, e l'affare si sarebbe conchiuso presto.
+1	Padron	_	PROPN	SP	_	_	_	_	start_char=522879|end_char=522885
+2	Cipolla	_	PROPN	SP	_	_	_	_	start_char=522886|end_char=522893
+3	continuava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=522894|end_char=522904
+4	a	_	ADP	E	_	_	_	_	start_char=522905|end_char=522906
+5	dir	_	VERB	V	VerbForm=Inf	_	_	_	start_char=522907|end_char=522910
+6	di	_	ADP	E	_	_	_	_	start_char=522911|end_char=522913
+7	sì	_	INTJ	I	Polarity=Pos	_	_	_	start_char=522914|end_char=522916
+8	col	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=522917|end_char=522920
+9	capo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=522921|end_char=522925
+10	,	_	PUNCT	FF	_	_	_	_	start_char=522925|end_char=522926
+11	tanto	_	ADV	B	_	_	_	_	start_char=522927|end_char=522932
+12	più	_	ADV	B	_	_	_	_	start_char=522933|end_char=522936
+13	che	_	SCONJ	CS	_	_	_	_	start_char=522937|end_char=522940
+14	fra	_	ADP	E	_	_	_	_	start_char=522941|end_char=522944
+15	lui	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=522945|end_char=522948
+16	e	_	CCONJ	CC	_	_	_	_	start_char=522949|end_char=522950
+17	padron	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=522951|end_char=522957
+18	'	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=522958|end_char=522959
+19	Ntoni	_	PROPN	SP	_	_	_	_	start_char=522959|end_char=522964
+20	c'	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=522965|end_char=522967
+21	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=522967|end_char=522970
+22	stata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=522971|end_char=522976
+23	qualche	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=522977|end_char=522984
+24	parola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=522985|end_char=522991
+25	di	_	ADP	E	_	_	_	_	start_char=522992|end_char=522994
+26	maritar	_	VERB	V	VerbForm=Inf	_	_	_	start_char=522995|end_char=523002
+27	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=523003|end_char=523005
+28	Mena	_	PROPN	SP	_	_	_	_	start_char=523006|end_char=523010
+29	con	_	ADP	E	_	_	_	_	start_char=523011|end_char=523014
+30	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=523015|end_char=523018
+31	figlio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=523019|end_char=523025
+32	Brasi	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=523026|end_char=523031
+33	,	_	PUNCT	FF	_	_	_	_	start_char=523031|end_char=523032
+34	e	_	CCONJ	CC	_	_	_	_	start_char=523033|end_char=523034
+35	se	_	SCONJ	CS	_	_	_	_	start_char=523035|end_char=523037
+36	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=523038|end_char=523040
+37	negozio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=523041|end_char=523048
+38	dei	_	_	_	_	_	_	_	start_char=523049|end_char=523052
+39	lupini	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=523053|end_char=523059
+40	andava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=523060|end_char=523066
+41	bene	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=523067|end_char=523071
+42	,	_	PUNCT	FF	_	_	_	_	start_char=523071|end_char=523072
+43	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=523073|end_char=523075
+44	Mena	_	PROPN	SP	_	_	_	_	start_char=523076|end_char=523080
+45	avrebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=523081|end_char=523088
+46	avuto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=523089|end_char=523094
+47	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=523095|end_char=523097
+48	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=523098|end_char=523101
+49	dote	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=523102|end_char=523106
+50	in	_	ADP	E	_	_	_	_	start_char=523107|end_char=523109
+51	contante	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=523110|end_char=523118
+52	,	_	PUNCT	FF	_	_	_	_	start_char=523118|end_char=523119
+53	e	_	CCONJ	CC	_	_	_	_	start_char=523120|end_char=523121
+54	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=523122|end_char=523124
+55	affare	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=523124|end_char=523130
+56	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=523131|end_char=523133
+57	sarebbe	_	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=523134|end_char=523141
+58	conchiuso	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=523142|end_char=523151
+59	presto	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=523152|end_char=523158
+60	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=523158|end_char=523159
+
+# sent_id = 1881_verga_malavoglia_q3_16
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=523161|end_char=523162
+
+# sent_id = 1881_verga_malavoglia_q3_17
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = «La ragazza com'è educata, e la stoppa com'è filata», disse infin padron Malavoglia, e padron Cipolla confermò che tutti lo sapevano in paese che la Longa aveva saputo educarla la figliuola, e ognuno che passava per la stradicciuola a quell'ora udendo il colpettare del telaio di Sant'Agata diceva che l'olio della candela non lo perdeva, comare Maruzza.
+1	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=523163|end_char=523164
+2	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=523164|end_char=523166
+3	ragazza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=523167|end_char=523174
+4	com'	_	SCONJ	CS	_	_	_	_	SpaceAfter=No|start_char=523175|end_char=523179
+5	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=523179|end_char=523180
+6	educata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=523181|end_char=523188
+7	,	_	PUNCT	FF	_	_	_	_	start_char=523188|end_char=523189
+8	e	_	CCONJ	CC	_	_	_	_	start_char=523190|end_char=523191
+9	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=523192|end_char=523194
+10	stoppa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=523195|end_char=523201
+11	com'	_	SCONJ	CS	_	_	_	_	SpaceAfter=No|start_char=523202|end_char=523206
+12	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=523206|end_char=523207
+13	filata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=523208|end_char=523214
+14	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=523214|end_char=523215
+15	,	_	PUNCT	FF	_	_	_	_	start_char=523215|end_char=523216
+16	disse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=523217|end_char=523222
+17	infin	_	ADV	B	_	_	_	_	start_char=523223|end_char=523228
+18	padron	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=523229|end_char=523235
+19	Malavoglia	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=523236|end_char=523246
+20	,	_	PUNCT	FF	_	_	_	_	start_char=523246|end_char=523247
+21	e	_	CCONJ	CC	_	_	_	_	start_char=523248|end_char=523249
+22	padron	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=523250|end_char=523256
+23	Cipolla	_	PROPN	SP	_	_	_	_	start_char=523257|end_char=523264
+24	confermò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=523265|end_char=523273
+25	che	_	SCONJ	CS	_	_	_	_	start_char=523274|end_char=523277
+26	tutti	_	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=523278|end_char=523283
+27	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=523284|end_char=523286
+28	sapevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=523287|end_char=523295
+29	in	_	ADP	E	_	_	_	_	start_char=523296|end_char=523298
+30	paese	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=523299|end_char=523304
+31	che	_	SCONJ	CS	_	_	_	_	start_char=523305|end_char=523308
+32	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=523309|end_char=523311
+33	Longa	_	PROPN	SP	_	_	_	_	start_char=523312|end_char=523317
+34	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=523318|end_char=523323
+35	saputo	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=523324|end_char=523330
+36	educarla	_	_	_	_	_	_	_	start_char=523331|end_char=523339
+37	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=523340|end_char=523342
+38	figliuola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=523343|end_char=523352
+39	,	_	PUNCT	FF	_	_	_	_	start_char=523352|end_char=523353
+40	e	_	CCONJ	CC	_	_	_	_	start_char=523354|end_char=523355
+41	ognuno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=523356|end_char=523362
+42	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=523363|end_char=523366
+43	passava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=523367|end_char=523374
+44	per	_	ADP	E	_	_	_	_	start_char=523375|end_char=523378
+45	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=523379|end_char=523381
+46	stradicciuola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=523382|end_char=523395
+47	a	_	ADP	E	_	_	_	_	start_char=523396|end_char=523397
+48	quell'	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=523398|end_char=523404
+49	ora	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=523404|end_char=523407
+50	udendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=523408|end_char=523414
+51	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=523415|end_char=523417
+52	colpettare	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=523418|end_char=523428
+53	del	_	_	_	_	_	_	_	start_char=523429|end_char=523432
+54	telaio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=523433|end_char=523439
+55	di	_	ADP	E	_	_	_	_	start_char=523440|end_char=523442
+56	Sant'	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=523443|end_char=523448
+57	Agata	_	PROPN	SP	_	_	_	_	start_char=523448|end_char=523453
+58	diceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=523454|end_char=523460
+59	che	_	SCONJ	CS	_	_	_	_	start_char=523461|end_char=523464
+60	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=523465|end_char=523467
+61	olio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=523467|end_char=523471
+62	della	_	_	_	_	_	_	_	start_char=523472|end_char=523477
+63	candela	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=523478|end_char=523485
+64	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=523486|end_char=523489
+65	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=523490|end_char=523492
+66	perdeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=523493|end_char=523500
+67	,	_	PUNCT	FF	_	_	_	_	start_char=523500|end_char=523501
+68	comare	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=523502|end_char=523508
+69	Maruzza	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=523509|end_char=523516
+70	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=523516|end_char=523517
+
+# sent_id = 1881_verga_malavoglia_q3_18
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = La Longa, com'era tornata a casa, aveva acceso il lume, e s'era messa coll'arcolaio sul ballatoio, a riempire certi cannelli che le servivano per l'ordito della settimana.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=523519|end_char=523521
+2	Longa	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=523522|end_char=523527
+3	,	_	PUNCT	FF	_	_	_	_	start_char=523527|end_char=523528
+4	com'	_	SCONJ	CS	_	_	_	_	SpaceAfter=No|start_char=523529|end_char=523533
+5	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=523533|end_char=523536
+6	tornata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=523537|end_char=523544
+7	a	_	ADP	E	_	_	_	_	start_char=523545|end_char=523546
+8	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=523547|end_char=523551
+9	,	_	PUNCT	FF	_	_	_	_	start_char=523551|end_char=523552
+10	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=523553|end_char=523558
+11	acceso	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=523559|end_char=523565
+12	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=523566|end_char=523568
+13	lume	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=523569|end_char=523573
+14	,	_	PUNCT	FF	_	_	_	_	start_char=523573|end_char=523574
+15	e	_	CCONJ	CC	_	_	_	_	start_char=523575|end_char=523576
+16	s'	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=523577|end_char=523579
+17	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=523579|end_char=523582
+18	messa	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=523583|end_char=523588
+19	coll'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=523589|end_char=523594
+20	arcolaio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=523594|end_char=523602
+21	sul	_	_	_	_	_	_	_	start_char=523603|end_char=523606
+22	ballatoio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=523607|end_char=523616
+23	,	_	PUNCT	FF	_	_	_	_	start_char=523616|end_char=523617
+24	a	_	ADP	E	_	_	_	_	start_char=523618|end_char=523619
+25	riempire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=523620|end_char=523628
+26	certi	_	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=523629|end_char=523634
+27	cannelli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=523635|end_char=523643
+28	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=523644|end_char=523647
+29	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=523648|end_char=523650
+30	servivano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=523651|end_char=523660
+31	per	_	ADP	E	_	_	_	_	start_char=523661|end_char=523664
+32	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=523665|end_char=523667
+33	ordito	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=523667|end_char=523673
+34	della	_	_	_	_	_	_	_	start_char=523674|end_char=523679
+35	settimana	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=523680|end_char=523689
+36	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=523689|end_char=523690
+
+# sent_id = 1881_verga_malavoglia_q3_19
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=523692|end_char=523693
+
+# sent_id = 1881_verga_malavoglia_q3_20
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = Comare Mena non si vede, ma si sente, e sta al telaio notte e giorno, come Sant'Agata, dicevano le vicine.
+1	Comare	_	PROPN	SP	_	_	_	_	start_char=523694|end_char=523700
+2	Mena	_	PROPN	SP	_	_	_	_	start_char=523701|end_char=523705
+3	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=523706|end_char=523709
+4	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=523710|end_char=523712
+5	vede	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=523713|end_char=523717
+6	,	_	PUNCT	FF	_	_	_	_	start_char=523717|end_char=523718
+7	ma	_	CCONJ	CC	_	_	_	_	start_char=523719|end_char=523721
+8	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=523722|end_char=523724
+9	sente	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=523725|end_char=523730
+10	,	_	PUNCT	FF	_	_	_	_	start_char=523730|end_char=523731
+11	e	_	CCONJ	CC	_	_	_	_	start_char=523732|end_char=523733
+12	sta	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=523734|end_char=523737
+13	al	_	_	_	_	_	_	_	start_char=523738|end_char=523740
+14	telaio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=523741|end_char=523747
+15	notte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=523748|end_char=523753
+16	e	_	CCONJ	CC	_	_	_	_	start_char=523754|end_char=523755
+17	giorno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=523756|end_char=523762
+18	,	_	PUNCT	FF	_	_	_	_	start_char=523762|end_char=523763
+19	come	_	ADP	E	_	_	_	_	start_char=523764|end_char=523768
+20	Sant'	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=523769|end_char=523774
+21	Agata	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=523774|end_char=523779
+22	,	_	PUNCT	FF	_	_	_	_	start_char=523779|end_char=523780
+23	dicevano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=523781|end_char=523789
+24	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=523790|end_char=523792
+25	vicine	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=523793|end_char=523799
+26	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=523799|end_char=523800
+
+# sent_id = 1881_verga_malavoglia_q3_21
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=523802|end_char=523803
+
+# sent_id = 1881_verga_malavoglia_q3_22
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = Le ragazze devono avvezzarsi a quel modo, rispondeva Maruzza, invece di stare alla finestra.
+1	Le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=523804|end_char=523806
+2	ragazze	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=523807|end_char=523814
+3	devono	_	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=523815|end_char=523821
+4	avvezzarsi	_	_	_	_	_	_	_	start_char=523822|end_char=523832
+5	a	_	ADP	E	_	_	_	_	start_char=523833|end_char=523834
+6	quel	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=523835|end_char=523839
+7	modo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=523840|end_char=523844
+8	,	_	PUNCT	FF	_	_	_	_	start_char=523844|end_char=523845
+9	rispondeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=523846|end_char=523856
+10	Maruzza	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=523857|end_char=523864
+11	,	_	PUNCT	FF	_	_	_	_	start_char=523864|end_char=523865
+12	invece	_	ADV	B	_	_	_	_	start_char=523866|end_char=523872
+13	di	_	ADP	E	_	_	_	_	start_char=523873|end_char=523875
+14	stare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=523876|end_char=523881
+15	alla	_	_	_	_	_	_	_	start_char=523882|end_char=523886
+16	finestra	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=523887|end_char=523895
+17	.	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=523895|end_char=523896
+
+# sent_id = 1881_verga_malavoglia_q3_23
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = «A donna alla finestra non far festa».
+1	«A	_	ADP	E	_	_	_	_	start_char=523896|end_char=523898
+2	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=523899|end_char=523904
+3	alla	_	_	_	_	_	_	_	start_char=523905|end_char=523909
+4	finestra	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=523910|end_char=523918
+5	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=523919|end_char=523922
+6	far	_	VERB	V	VerbForm=Inf	_	_	_	start_char=523923|end_char=523926
+7	festa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=523927|end_char=523932
+8	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=523932|end_char=523933
+9	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=523933|end_char=523934
+
+# sent_id = 1881_verga_malavoglia_q3_24
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=523936|end_char=523937
+
+# sent_id = 1881_verga_malavoglia_q3_25
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = Certune però collo stare alla finestra un marito se lo pescano, fra tanti che passano; osservò la cugina Anna dall'uscio dirimpetto.
+1	Certune	_	PROPN	SP	_	_	_	_	start_char=523938|end_char=523945
+2	però	_	ADV	B	_	_	_	_	start_char=523946|end_char=523950
+3	collo	_	ADV	B	_	_	_	_	start_char=523951|end_char=523956
+4	stare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=523957|end_char=523962
+5	alla	_	_	_	_	_	_	_	start_char=523963|end_char=523967
+6	finestra	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=523968|end_char=523976
+7	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=523977|end_char=523979
+8	marito	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=523980|end_char=523986
+9	se	_	SCONJ	CS	_	_	_	_	start_char=523987|end_char=523989
+10	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=523990|end_char=523992
+11	pescano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=523993|end_char=524000
+12	,	_	PUNCT	FF	_	_	_	_	start_char=524000|end_char=524001
+13	fra	_	ADP	E	_	_	_	_	start_char=524002|end_char=524005
+14	tanti	_	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=524006|end_char=524011
+15	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=524012|end_char=524015
+16	passano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=524016|end_char=524023
+17	;	_	PUNCT	FC	_	_	_	_	start_char=524023|end_char=524024
+18	osservò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=524025|end_char=524032
+19	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=524033|end_char=524035
+20	cugina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=524036|end_char=524042
+21	Anna	_	PROPN	SP	_	_	_	_	start_char=524043|end_char=524047
+22	dall'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=524048|end_char=524053
+23	uscio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=524053|end_char=524058
+24	dirimpetto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=524059|end_char=524069
+25	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=524069|end_char=524070
+
+# sent_id = 1881_verga_malavoglia_q3_26
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = La cugina Anna aveva ragione da vendere; perché quel bietolone di suo figlio Rocco si era lasciato irretire dentro le gonnelle della Mangiacarrubbe, una di quelle che stanno alla finestra colla faccia tosta.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=524072|end_char=524074
+2	cugina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=524075|end_char=524081
+3	Anna	_	PROPN	SP	_	_	_	_	start_char=524082|end_char=524086
+4	aveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524087|end_char=524092
+5	ragione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=524093|end_char=524100
+6	da	_	ADP	E	_	_	_	_	start_char=524101|end_char=524103
+7	vendere	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=524104|end_char=524111
+8	;	_	PUNCT	FC	_	_	_	_	start_char=524111|end_char=524112
+9	perché	_	SCONJ	CS	_	_	_	_	start_char=524113|end_char=524119
+10	quel	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=524120|end_char=524124
+11	bietolone	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=524125|end_char=524134
+12	di	_	ADP	E	_	_	_	_	start_char=524135|end_char=524137
+13	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=524138|end_char=524141
+14	figlio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=524142|end_char=524148
+15	Rocco	_	PROPN	SP	_	_	_	_	start_char=524149|end_char=524154
+16	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=524155|end_char=524157
+17	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524158|end_char=524161
+18	lasciato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=524162|end_char=524170
+19	irretire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=524171|end_char=524179
+20	dentro	_	ADP	E	_	_	_	_	start_char=524180|end_char=524186
+21	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=524187|end_char=524189
+22	gonnelle	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=524190|end_char=524198
+23	della	_	_	_	_	_	_	_	start_char=524199|end_char=524204
+24	Mangiacarrubbe	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=524205|end_char=524219
+25	,	_	PUNCT	FF	_	_	_	_	start_char=524219|end_char=524220
+26	una	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=524221|end_char=524224
+27	di	_	ADP	E	_	_	_	_	start_char=524225|end_char=524227
+28	quelle	_	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=524228|end_char=524234
+29	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=524235|end_char=524238
+30	stanno	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=524239|end_char=524245
+31	alla	_	_	_	_	_	_	_	start_char=524246|end_char=524250
+32	finestra	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=524251|end_char=524259
+33	colla	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=524260|end_char=524265
+34	faccia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=524266|end_char=524272
+35	tosta	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=524273|end_char=524278
+36	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=524278|end_char=524279
+
+# sent_id = 1881_verga_malavoglia_q3_27
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = Comare Grazia Piedipapera, sentendo che nella strada c'era conversazione, si affacciò anch'essa sull'uscio, col grembiule gonfio delle fave che stava sgusciando, e se la pigliava coi topi che le avevano bucherellato il sacco come un colabrodo, e pareva che l'avessero fatto apposta, come se ci avessero il giudizio dei cristiani; così il discorso si fece generale, perché alla Maruzza gliene avevano fatto tanto del danno, quelle bestie scomunicate!
+1	Comare	_	PROPN	SP	_	_	_	_	start_char=524281|end_char=524287
+2	Grazia	_	PROPN	SP	_	_	_	_	start_char=524288|end_char=524294
+3	Piedipapera	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=524295|end_char=524306
+4	,	_	PUNCT	FF	_	_	_	_	start_char=524306|end_char=524307
+5	sentendo	_	VERB	V	VerbForm=Ger	_	_	_	start_char=524308|end_char=524316
+6	che	_	SCONJ	CS	_	_	_	_	start_char=524317|end_char=524320
+7	nella	_	_	_	_	_	_	_	start_char=524321|end_char=524326
+8	strada	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=524327|end_char=524333
+9	c'	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=524334|end_char=524336
+10	era	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524336|end_char=524339
+11	conversazione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=524340|end_char=524353
+12	,	_	PUNCT	FF	_	_	_	_	start_char=524353|end_char=524354
+13	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=524355|end_char=524357
+14	affacciò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=524358|end_char=524366
+15	anch'	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=524367|end_char=524372
+16	essa	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=524372|end_char=524376
+17	sull'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=524377|end_char=524382
+18	uscio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=524382|end_char=524387
+19	,	_	PUNCT	FF	_	_	_	_	start_char=524387|end_char=524388
+20	col	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=524389|end_char=524392
+21	grembiule	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=524393|end_char=524402
+22	gonfio	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=524403|end_char=524409
+23	delle	_	_	_	_	_	_	_	start_char=524410|end_char=524415
+24	fave	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=524416|end_char=524420
+25	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=524421|end_char=524424
+26	stava	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524425|end_char=524430
+27	sgusciando	_	VERB	V	VerbForm=Ger	_	_	_	SpaceAfter=No|start_char=524431|end_char=524441
+28	,	_	PUNCT	FF	_	_	_	_	start_char=524441|end_char=524442
+29	e	_	CCONJ	CC	_	_	_	_	start_char=524443|end_char=524444
+30	se	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=524445|end_char=524447
+31	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=524448|end_char=524450
+32	pigliava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524451|end_char=524459
+33	coi	_	DET	DD	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	start_char=524460|end_char=524463
+34	topi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=524464|end_char=524468
+35	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=524469|end_char=524472
+36	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=524473|end_char=524475
+37	avevano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524476|end_char=524483
+38	bucherellato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=524484|end_char=524496
+39	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=524497|end_char=524499
+40	sacco	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=524500|end_char=524505
+41	come	_	ADP	E	_	_	_	_	start_char=524506|end_char=524510
+42	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=524511|end_char=524513
+43	colabrodo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=524514|end_char=524523
+44	,	_	PUNCT	FF	_	_	_	_	start_char=524523|end_char=524524
+45	e	_	CCONJ	CC	_	_	_	_	start_char=524525|end_char=524526
+46	pareva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524527|end_char=524533
+47	che	_	SCONJ	CS	_	_	_	_	start_char=524534|end_char=524537
+48	l'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=524538|end_char=524540
+49	avessero	_	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524540|end_char=524548
+50	fatto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=524549|end_char=524554
+51	apposta	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=524555|end_char=524562
+52	,	_	PUNCT	FF	_	_	_	_	start_char=524562|end_char=524563
+53	come	_	ADV	B	_	_	_	_	start_char=524564|end_char=524568
+54	se	_	SCONJ	CS	_	_	_	_	start_char=524569|end_char=524571
+55	ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=524572|end_char=524574
+56	avessero	_	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524575|end_char=524583
+57	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=524584|end_char=524586
+58	giudizio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=524587|end_char=524595
+59	dei	_	_	_	_	_	_	_	start_char=524596|end_char=524599
+60	cristiani	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=524600|end_char=524609
+61	;	_	PUNCT	FC	_	_	_	_	start_char=524609|end_char=524610
+62	così	_	ADV	B	_	_	_	_	start_char=524611|end_char=524615
+63	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=524616|end_char=524618
+64	discorso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=524619|end_char=524627
+65	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=524628|end_char=524630
+66	fece	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=524631|end_char=524635
+67	generale	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=524636|end_char=524644
+68	,	_	PUNCT	FF	_	_	_	_	start_char=524644|end_char=524645
+69	perché	_	SCONJ	CS	_	_	_	_	start_char=524646|end_char=524652
+70	alla	_	_	_	_	_	_	_	start_char=524653|end_char=524657
+71	Maruzza	_	PROPN	SP	_	_	_	_	start_char=524658|end_char=524665
+72	gliene	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=524666|end_char=524672
+73	avevano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524673|end_char=524680
+74	fatto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=524681|end_char=524686
+75	tanto	_	ADV	B	_	_	_	_	start_char=524687|end_char=524692
+76	del	_	_	_	_	_	_	_	start_char=524693|end_char=524696
+77	danno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=524697|end_char=524702
+78	,	_	PUNCT	FF	_	_	_	_	start_char=524702|end_char=524703
+79	quelle	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=524704|end_char=524710
+80	bestie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=524711|end_char=524717
+81	scomunicate	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=524718|end_char=524729
+82	!	_	PUNCT	FS	_	_	_	_	start_char=524729|end_char=524730
+
+# sent_id = 1881_verga_malavoglia_q3_28
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = La cugina Anna ne aveva la casa piena, da che gli era morto il gatto, una bestia che valeva tant'oro, ed era morto di una pedata di compare Tino.
+1	La	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=524731|end_char=524733
+2	cugina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=524734|end_char=524740
+3	Anna	_	PROPN	SP	_	_	_	_	start_char=524741|end_char=524745
+4	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=524746|end_char=524748
+5	aveva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524749|end_char=524754
+6	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=524755|end_char=524757
+7	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=524758|end_char=524762
+8	piena	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=524763|end_char=524768
+9	,	_	PUNCT	FF	_	_	_	_	start_char=524768|end_char=524769
+10	da	_	ADP	E	_	_	_	_	start_char=524770|end_char=524772
+11	che	_	SCONJ	CS	_	_	_	_	start_char=524773|end_char=524776
+12	gli	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=524777|end_char=524780
+13	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524781|end_char=524784
+14	morto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=524785|end_char=524790
+15	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=524791|end_char=524793
+16	gatto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=524794|end_char=524799
+17	,	_	PUNCT	FF	_	_	_	_	start_char=524799|end_char=524800
+18	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=524801|end_char=524804
+19	bestia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=524805|end_char=524811
+20	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=524812|end_char=524815
+21	valeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524816|end_char=524822
+22	tant'	_	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=524823|end_char=524828
+23	oro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=524828|end_char=524831
+24	,	_	PUNCT	FF	_	_	_	_	start_char=524831|end_char=524832
+25	ed	_	CCONJ	CC	_	_	_	_	start_char=524833|end_char=524835
+26	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524836|end_char=524839
+27	morto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=524840|end_char=524845
+28	di	_	ADP	E	_	_	_	_	start_char=524846|end_char=524848
+29	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=524849|end_char=524852
+30	pedata	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=524853|end_char=524859
+31	di	_	ADP	E	_	_	_	_	start_char=524860|end_char=524862
+32	compare	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=524863|end_char=524870
+33	Tino	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=524871|end_char=524875
+34	.	_	PUNCT	FS	_	_	_	_	start_char=524875|end_char=524876
+
+# sent_id = 1881_verga_malavoglia_q3_29
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = — I gatti grigi sono i migliori, per acchiappare i topi, e andrebbero a scovarli in una cruna di ago.
+1	—	_	PUNCT	FF	_	_	_	_	start_char=524877|end_char=524878
+2	I	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=524879|end_char=524880
+3	gatti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=524881|end_char=524886
+4	grigi	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=524887|end_char=524892
+5	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=524893|end_char=524897
+6	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=524898|end_char=524899
+7	migliori	_	ADJ	A	Degree=Cmp|Number=Plur	_	_	_	SpaceAfter=No|start_char=524900|end_char=524908
+8	,	_	PUNCT	FF	_	_	_	_	start_char=524908|end_char=524909
+9	per	_	ADP	E	_	_	_	_	start_char=524910|end_char=524913
+10	acchiappare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=524914|end_char=524925
+11	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=524926|end_char=524927
+12	topi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=524928|end_char=524932
+13	,	_	PUNCT	FF	_	_	_	_	start_char=524932|end_char=524933
+14	e	_	CCONJ	CC	_	_	_	_	start_char=524934|end_char=524935
+15	andrebbero	_	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=524936|end_char=524946
+16	a	_	ADP	E	_	_	_	_	start_char=524947|end_char=524948
+17	scovarli	_	_	_	_	_	_	_	start_char=524949|end_char=524957
+18	in	_	ADP	E	_	_	_	_	start_char=524958|end_char=524960
+19	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=524961|end_char=524964
+20	cruna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=524965|end_char=524970
+21	di	_	ADP	E	_	_	_	_	start_char=524971|end_char=524973
+22	ago	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=524974|end_char=524977
+23	.	_	PUNCT	FS	_	_	_	_	start_char=524977|end_char=524978
+
+# sent_id = 1881_verga_malavoglia_q3_30
+# chunk_id = 1881_verga_malavoglia_q3
+# quinto = 3
+# text = — Ai gatti non conveniva aprire l'uscio di notte, perché una vecchia di Aci Sant'Antonio l'avevano ammazzata così, che i ladri le avevano rubato il gatto tre giorni avanti, e poi glielo avevano riportato mezzo morto di fame a miagolare dietro l'uscio; e la povera donna non sentendosi il cuore di lasciar la bestiola sulla strada a quell'ora, aveva aperto l'uscio, e così s'era ficcati i ladri in casa.
+1	—	_	PUNCT	FF	_	_	_	_	start_char=524979|end_char=524980
+2	Ai	_	_	_	_	_	_	_	start_char=524981|end_char=524983
+3	gatti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=524984|end_char=524989
+4	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=524990|end_char=524993
+5	conveniva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=524994|end_char=525003
+6	aprire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=525004|end_char=525010
+7	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=525011|end_char=525013
+8	uscio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=525013|end_char=525018
+9	di	_	ADP	E	_	_	_	_	start_char=525019|end_char=525021
+10	notte	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=525022|end_char=525027
+11	,	_	PUNCT	FF	_	_	_	_	start_char=525027|end_char=525028
+12	perché	_	SCONJ	CS	_	_	_	_	start_char=525029|end_char=525035
+13	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=525036|end_char=525039
+14	vecchia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=525040|end_char=525047
+15	di	_	ADP	E	_	_	_	_	start_char=525048|end_char=525050
+16	Aci	_	PROPN	SP	_	_	_	_	start_char=525051|end_char=525054
+17	Sant'	_	PROPN	SP	_	_	_	_	SpaceAfter=No|start_char=525055|end_char=525060
+18	Antonio	_	PROPN	SP	_	_	_	_	start_char=525060|end_char=525067
+19	l'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=525068|end_char=525070
+20	avevano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=525070|end_char=525077
+21	ammazzata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=525078|end_char=525087
+22	così	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=525088|end_char=525092
+23	,	_	PUNCT	FF	_	_	_	_	start_char=525092|end_char=525093
+24	che	_	SCONJ	CS	_	_	_	_	start_char=525094|end_char=525097
+25	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=525098|end_char=525099
+26	ladri	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=525100|end_char=525105
+27	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=525106|end_char=525108
+28	avevano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=525109|end_char=525116
+29	rubato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=525117|end_char=525123
+30	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=525124|end_char=525126
+31	gatto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=525127|end_char=525132
+32	tre	_	NUM	N	NumType=Card	_	_	_	start_char=525133|end_char=525136
+33	giorni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=525137|end_char=525143
+34	avanti	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=525144|end_char=525150
+35	,	_	PUNCT	FF	_	_	_	_	start_char=525150|end_char=525151
+36	e	_	CCONJ	CC	_	_	_	_	start_char=525152|end_char=525153
+37	poi	_	ADV	B	_	_	_	_	start_char=525154|end_char=525157
+38	glielo	_	PRON	PE	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=525158|end_char=525164
+39	avevano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=525165|end_char=525172
+40	riportato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=525173|end_char=525182
+41	mezzo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=525183|end_char=525188
+42	morto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=525189|end_char=525194
+43	di	_	ADP	E	_	_	_	_	start_char=525195|end_char=525197
+44	fame	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=525198|end_char=525202
+45	a	_	ADP	E	_	_	_	_	start_char=525203|end_char=525204
+46	miagolare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=525205|end_char=525214
+47	dietro	_	ADP	E	_	_	_	_	start_char=525215|end_char=525221
+48	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=525222|end_char=525224
+49	uscio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=525224|end_char=525229
+50	;	_	PUNCT	FC	_	_	_	_	start_char=525229|end_char=525230
+51	e	_	CCONJ	CC	_	_	_	_	start_char=525231|end_char=525232
+52	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=525233|end_char=525235
+53	povera	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=525236|end_char=525242
+54	donna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=525243|end_char=525248
+55	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=525249|end_char=525252
+56	sentendosi	_	_	_	_	_	_	_	start_char=525253|end_char=525263
+57	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=525264|end_char=525266
+58	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=525267|end_char=525272
+59	di	_	ADP	E	_	_	_	_	start_char=525273|end_char=525275
+60	lasciar	_	VERB	V	VerbForm=Inf	_	_	_	start_char=525276|end_char=525283
+61	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=525284|end_char=525286
+62	bestiola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=525287|end_char=525295
+63	sulla	_	_	_	_	_	_	_	start_char=525296|end_char=525301
+64	strada	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=525302|end_char=525308
+65	a	_	ADP	E	_	_	_	_	start_char=525309|end_char=525310
+66	quell'	_	DET	DD	Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=525311|end_char=525317
+67	ora	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=525317|end_char=525320
+68	,	_	PUNCT	FF	_	_	_	_	start_char=525320|end_char=525321
+69	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=525322|end_char=525327
+70	aperto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=525328|end_char=525334
+71	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=525335|end_char=525337
+72	uscio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=525337|end_char=525342
+73	,	_	PUNCT	FF	_	_	_	_	start_char=525342|end_char=525343
+74	e	_	CCONJ	CC	_	_	_	_	start_char=525344|end_char=525345
+75	così	_	ADV	B	_	_	_	_	start_char=525346|end_char=525350
+76	s'	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=525351|end_char=525353
+77	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=525353|end_char=525356
+78	ficcati	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=525357|end_char=525364
+79	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=525365|end_char=525366
+80	ladri	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=525367|end_char=525372
+81	in	_	ADP	E	_	_	_	_	start_char=525373|end_char=525375
+82	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=525376|end_char=525380
+83	.	_	PUNCT	FS	_	_	_	_	start_char=525380|end_char=525381
+

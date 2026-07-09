@@ -1,0 +1,791 @@
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_1
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = sei tanto piú grande dell’uomo; anche tu faggio, e tu noce e tu abete; ma l’uomo è una bestiolina piccola, sí, che ha però in sé qualche cosa che voi non avete.
+1	sei	_	_	_	_	_	_	_	start_char=51970|end_char=51973
+2	tanto	_	ADV	B	_	_	_	_	start_char=51974|end_char=51979
+3	piú	_	ADV	B	_	_	_	_	start_char=51980|end_char=51983
+4	grande	_	ADJ	A	Number=Sing	_	_	_	start_char=51984|end_char=51990
+5	dell’	_	_	_	_	_	_	_	SpaceAfter=No|start_char=51991|end_char=51996
+6	uomo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=51996|end_char=52000
+7	;	_	PUNCT	FC	_	_	_	_	start_char=52000|end_char=52001
+8	anche	_	ADV	B	_	_	_	_	start_char=52002|end_char=52007
+9	tu	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=52008|end_char=52010
+10	faggio	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=52011|end_char=52017
+11	,	_	PUNCT	FF	_	_	_	_	start_char=52017|end_char=52018
+12	e	_	CCONJ	CC	_	_	_	_	start_char=52019|end_char=52020
+13	tu	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=52021|end_char=52023
+14	noce	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=52024|end_char=52028
+15	e	_	CCONJ	CC	_	_	_	_	start_char=52029|end_char=52030
+16	tu	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=52031|end_char=52033
+17	abete	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=52034|end_char=52039
+18	;	_	PUNCT	FC	_	_	_	_	start_char=52039|end_char=52040
+19	ma	_	CCONJ	CC	_	_	_	_	start_char=52041|end_char=52043
+20	l’	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=52044|end_char=52046
+21	uomo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=52046|end_char=52050
+22	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=52051|end_char=52052
+23	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=52053|end_char=52056
+24	bestiolina	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=52057|end_char=52067
+25	piccola	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=52068|end_char=52075
+26	,	_	PUNCT	FF	_	_	_	_	start_char=52075|end_char=52076
+27	sí	_	INTJ	I	Polarity=Pos	_	_	_	SpaceAfter=No|start_char=52077|end_char=52079
+28	,	_	PUNCT	FF	_	_	_	_	start_char=52079|end_char=52080
+29	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=52081|end_char=52084
+30	ha	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=52085|end_char=52087
+31	però	_	ADV	B	_	_	_	_	start_char=52088|end_char=52092
+32	in	_	ADP	E	_	_	_	_	start_char=52093|end_char=52095
+33	sé	_	PRON	PE	Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=52096|end_char=52098
+34	qualche	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=52099|end_char=52106
+35	cosa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=52107|end_char=52111
+36	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=52112|end_char=52115
+37	voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=52116|end_char=52119
+38	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=52120|end_char=52123
+39	avete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=52124|end_char=52129
+40	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=52129|end_char=52130
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_2
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = A star sempre in piedi, vale a dire ritta su due zampe soltanto, si stancava; a sdraiarsi per terra come le altre bestie non stava comoda e si faceva male, anche perché, perduto il pelo, la pelle eh! la pelle le è diventata piú fina.
+1	A	_	ADP	E	_	_	_	_	start_char=52132|end_char=52133
+2	star	_	VERB	V	VerbForm=Inf	_	_	_	start_char=52134|end_char=52138
+3	sempre	_	ADV	B	_	_	_	_	start_char=52139|end_char=52145
+4	in	_	ADP	E	_	_	_	_	start_char=52146|end_char=52148
+5	piedi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=52149|end_char=52154
+6	,	_	PUNCT	FF	_	_	_	_	start_char=52154|end_char=52155
+7	vale	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=52156|end_char=52160
+8	a	_	ADP	E	_	_	_	_	start_char=52161|end_char=52162
+9	dire	_	VERB	V	VerbForm=Inf	_	_	_	start_char=52163|end_char=52167
+10	ritta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=52168|end_char=52173
+11	su	_	ADP	E	_	_	_	_	start_char=52174|end_char=52176
+12	due	_	NUM	N	NumType=Card	_	_	_	start_char=52177|end_char=52180
+13	zampe	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=52181|end_char=52186
+14	soltanto	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=52187|end_char=52195
+15	,	_	PUNCT	FF	_	_	_	_	start_char=52195|end_char=52196
+16	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=52197|end_char=52199
+17	stancava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=52200|end_char=52208
+18	;	_	PUNCT	FC	_	_	_	_	start_char=52208|end_char=52209
+19	a	_	ADP	E	_	_	_	_	start_char=52210|end_char=52211
+20	sdraiarsi	_	_	_	_	_	_	_	start_char=52212|end_char=52221
+21	per	_	ADP	E	_	_	_	_	start_char=52222|end_char=52225
+22	terra	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=52226|end_char=52231
+23	come	_	ADP	E	_	_	_	_	start_char=52232|end_char=52236
+24	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=52237|end_char=52239
+25	altre	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	start_char=52240|end_char=52245
+26	bestie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=52246|end_char=52252
+27	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=52253|end_char=52256
+28	stava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=52257|end_char=52262
+29	comoda	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=52263|end_char=52269
+30	e	_	CCONJ	CC	_	_	_	_	start_char=52270|end_char=52271
+31	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=52272|end_char=52274
+32	faceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=52275|end_char=52281
+33	male	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=52282|end_char=52286
+34	,	_	PUNCT	FF	_	_	_	_	start_char=52286|end_char=52287
+35	anche	_	ADV	B	_	_	_	_	start_char=52288|end_char=52293
+36	perché	_	SCONJ	CS	_	_	_	_	SpaceAfter=No|start_char=52294|end_char=52300
+37	,	_	PUNCT	FF	_	_	_	_	start_char=52300|end_char=52301
+38	perduto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=52302|end_char=52309
+39	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=52310|end_char=52312
+40	pelo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=52313|end_char=52317
+41	,	_	PUNCT	FF	_	_	_	_	start_char=52317|end_char=52318
+42	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=52319|end_char=52321
+43	pelle	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=52322|end_char=52327
+44	eh	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=52328|end_char=52330
+45	!	_	PUNCT	FS	_	_	_	_	start_char=52330|end_char=52331
+46	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=52332|end_char=52334
+47	pelle	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=52335|end_char=52340
+48	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=52341|end_char=52343
+49	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=52344|end_char=52345
+50	diventata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=52346|end_char=52355
+51	piú	_	ADV	B	_	_	_	_	start_char=52356|end_char=52359
+52	fina	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=52360|end_char=52364
+53	.	_	PUNCT	FS	_	_	_	_	start_char=52364|end_char=52365
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_3
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Vide allora l’albero e pensò che se ne poteva trar fuori qualche cosa per sedere piú comodamente.
+1	Vide	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=52366|end_char=52370
+2	allora	_	ADV	B	_	_	_	_	start_char=52371|end_char=52377
+3	l’	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=52378|end_char=52380
+4	albero	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=52380|end_char=52386
+5	e	_	CCONJ	CC	_	_	_	_	start_char=52387|end_char=52388
+6	pensò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=52389|end_char=52394
+7	che	_	SCONJ	CS	_	_	_	_	start_char=52395|end_char=52398
+8	se	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=52399|end_char=52401
+9	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=52402|end_char=52404
+10	poteva	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=52405|end_char=52411
+11	trar	_	VERB	V	VerbForm=Inf	_	_	_	start_char=52412|end_char=52416
+12	fuori	_	ADV	B	_	_	_	_	start_char=52417|end_char=52422
+13	qualche	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=52423|end_char=52430
+14	cosa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=52431|end_char=52435
+15	per	_	ADP	E	_	_	_	_	start_char=52436|end_char=52439
+16	sedere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=52440|end_char=52446
+17	piú	_	ADV	B	_	_	_	_	start_char=52447|end_char=52450
+18	comodamente	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=52451|end_char=52462
+19	.	_	PUNCT	FS	_	_	_	_	start_char=52462|end_char=52463
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_4
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = E poi sentí che non era comodo neppure il legno nudo e lo imbottí; scorticò le bestie soggette, altre ne tosò e vestí il legno di cuoio e tra il cuoio e il legno mise la lana; ci si sdraiò sopra, beato:
+1	E	_	CCONJ	CC	_	_	_	_	start_char=52464|end_char=52465
+2	poi	_	ADV	B	_	_	_	_	start_char=52466|end_char=52469
+3	sentí	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=52470|end_char=52475
+4	che	_	SCONJ	CS	_	_	_	_	start_char=52476|end_char=52479
+5	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=52480|end_char=52483
+6	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=52484|end_char=52487
+7	comodo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=52488|end_char=52494
+8	neppure	_	ADV	BN	PronType=Neg	_	_	_	start_char=52495|end_char=52502
+9	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=52503|end_char=52505
+10	legno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=52506|end_char=52511
+11	nudo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=52512|end_char=52516
+12	e	_	CCONJ	CC	_	_	_	_	start_char=52517|end_char=52518
+13	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=52519|end_char=52521
+14	imbottí	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=52522|end_char=52529
+15	;	_	PUNCT	FC	_	_	_	_	start_char=52529|end_char=52530
+16	scorticò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=52531|end_char=52539
+17	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=52540|end_char=52542
+18	bestie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=52543|end_char=52549
+19	soggette	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=52550|end_char=52558
+20	,	_	PUNCT	FF	_	_	_	_	start_char=52558|end_char=52559
+21	altre	_	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	start_char=52560|end_char=52565
+22	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=52566|end_char=52568
+23	tosò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=52569|end_char=52573
+24	e	_	CCONJ	CC	_	_	_	_	start_char=52574|end_char=52575
+25	vestí	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=52576|end_char=52581
+26	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=52582|end_char=52584
+27	legno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=52585|end_char=52590
+28	di	_	ADP	E	_	_	_	_	start_char=52591|end_char=52593
+29	cuoio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=52594|end_char=52599
+30	e	_	CCONJ	CC	_	_	_	_	start_char=52600|end_char=52601
+31	tra	_	ADP	E	_	_	_	_	start_char=52602|end_char=52605
+32	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=52606|end_char=52608
+33	cuoio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=52609|end_char=52614
+34	e	_	CCONJ	CC	_	_	_	_	start_char=52615|end_char=52616
+35	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=52617|end_char=52619
+36	legno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=52620|end_char=52625
+37	mise	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=52626|end_char=52630
+38	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=52631|end_char=52633
+39	lana	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=52634|end_char=52638
+40	;	_	PUNCT	FC	_	_	_	_	start_char=52638|end_char=52639
+41	ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=52640|end_char=52642
+42	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=52643|end_char=52645
+43	sdraiò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=52646|end_char=52652
+44	sopra	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=52653|end_char=52658
+45	,	_	PUNCT	FF	_	_	_	_	start_char=52658|end_char=52659
+46	beato	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=52660|end_char=52665
+47	:	_	PUNCT	FC	_	_	_	_	SpacesAfter=\n\n|start_char=52665|end_char=52666
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_5
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = –
+1	–	_	PUNCT	FB	_	_	_	_	start_char=52668|end_char=52669
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_6
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Ah, come si sta bene cosí!
+1	Ah	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=52670|end_char=52672
+2	,	_	PUNCT	FF	_	_	_	_	start_char=52672|end_char=52673
+3	come	_	ADV	B	_	_	_	_	start_char=52674|end_char=52678
+4	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=52679|end_char=52681
+5	sta	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=52682|end_char=52685
+6	bene	_	ADV	B	_	_	_	_	start_char=52686|end_char=52690
+7	cosí	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=52691|end_char=52695
+8	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=52695|end_char=52696
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_7
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Il cardellino canta nella gabbietta sospesa tra le tende al palchetto della finestra.
+1	Il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=52698|end_char=52700
+2	cardellino	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=52701|end_char=52711
+3	canta	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=52712|end_char=52717
+4	nella	_	_	_	_	_	_	_	start_char=52718|end_char=52723
+5	gabbietta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=52724|end_char=52733
+6	sospesa	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=52734|end_char=52741
+7	tra	_	ADP	E	_	_	_	_	start_char=52742|end_char=52745
+8	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=52746|end_char=52748
+9	tende	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=52749|end_char=52754
+10	al	_	_	_	_	_	_	_	start_char=52755|end_char=52757
+11	palchetto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=52758|end_char=52767
+12	della	_	_	_	_	_	_	_	start_char=52768|end_char=52773
+13	finestra	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=52774|end_char=52782
+14	.	_	PUNCT	FS	_	_	_	_	start_char=52782|end_char=52783
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_8
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Sente forse la primavera che s’approssima?
+1	Sente	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=52784|end_char=52789
+2	forse	_	ADV	B	_	_	_	_	start_char=52790|end_char=52795
+3	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=52796|end_char=52798
+4	primavera	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=52799|end_char=52808
+5	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=52809|end_char=52812
+6	s’	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=52813|end_char=52815
+7	approssima	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=52815|end_char=52825
+8	?	_	PUNCT	FS	_	_	_	_	start_char=52825|end_char=52826
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_9
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Ahimè, forse la sente anch’esso l’antico ramo del noce da cui fu tratta la mia seggiola, che al canto del cardellino ora scrícchiola.
+1	Ahimè	_	INTJ	I	Polarity=Pos	_	_	_	SpaceAfter=No|start_char=52827|end_char=52832
+2	,	_	PUNCT	FF	_	_	_	_	start_char=52832|end_char=52833
+3	forse	_	ADV	B	_	_	_	_	start_char=52834|end_char=52839
+4	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=52840|end_char=52842
+5	sente	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=52843|end_char=52848
+6	anch’	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=52849|end_char=52854
+7	esso	_	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=52854|end_char=52858
+8	l’	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=52859|end_char=52861
+9	antico	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=52861|end_char=52867
+10	ramo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=52868|end_char=52872
+11	del	_	_	_	_	_	_	_	start_char=52873|end_char=52876
+12	noce	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=52877|end_char=52881
+13	da	_	ADP	E	_	_	_	_	start_char=52882|end_char=52884
+14	cui	_	PRON	PR	PronType=Rel	_	_	_	start_char=52885|end_char=52888
+15	fu	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=52889|end_char=52891
+16	tratta	_	VERB	V	Gender=Fem|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	_	_	_	start_char=52892|end_char=52898
+17	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=52899|end_char=52901
+18	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=52902|end_char=52905
+19	seggiola	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=52906|end_char=52914
+20	,	_	PUNCT	FF	_	_	_	_	start_char=52914|end_char=52915
+21	che	_	CCONJ	CC	_	_	_	_	start_char=52916|end_char=52919
+22	al	_	_	_	_	_	_	_	start_char=52920|end_char=52922
+23	canto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=52923|end_char=52928
+24	del	_	_	_	_	_	_	_	start_char=52929|end_char=52932
+25	cardellino	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=52933|end_char=52943
+26	ora	_	ADV	B	_	_	_	_	start_char=52944|end_char=52947
+27	scrícchiola	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=52948|end_char=52959
+28	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=52959|end_char=52960
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_10
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Forse s’intendono, con quel canto e con questo scricchiolío, l’uccello imprigionato e il noce ridotto seggiola.
+1	Forse	_	ADV	B	_	_	_	_	start_char=52962|end_char=52967
+2	s’	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=52968|end_char=52970
+3	intendono	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=52970|end_char=52979
+4	,	_	PUNCT	FF	_	_	_	_	start_char=52979|end_char=52980
+5	con	_	ADP	E	_	_	_	_	start_char=52981|end_char=52984
+6	quel	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=52985|end_char=52989
+7	canto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=52990|end_char=52995
+8	e	_	CCONJ	CC	_	_	_	_	start_char=52996|end_char=52997
+9	con	_	ADP	E	_	_	_	_	start_char=52998|end_char=53001
+10	questo	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=53002|end_char=53008
+11	scricchiolío	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=53009|end_char=53021
+12	,	_	PUNCT	FF	_	_	_	_	start_char=53021|end_char=53022
+13	l’	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=53023|end_char=53025
+14	uccello	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=53025|end_char=53032
+15	imprigionato	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=53033|end_char=53045
+16	e	_	CCONJ	CC	_	_	_	_	start_char=53046|end_char=53047
+17	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=53048|end_char=53050
+18	noce	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=53051|end_char=53055
+19	ridotto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=53056|end_char=53063
+20	seggiola	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=53064|end_char=53072
+21	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n\n\n\n\n|start_char=53072|end_char=53073
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_11
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = VII.
+1	VII	_	ADJ	NO	Number=Sing|NumType=Ord	_	_	_	SpaceAfter=No|start_char=53079|end_char=53082
+2	.	_	PUNCT	FS	_	_	_	_	start_char=53082|end_char=53083
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_12
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Che c’entra la casa?
+1	Che	_	PRON	PQ	PronType=Int	_	_	_	start_char=53084|end_char=53087
+2	c’	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=53088|end_char=53090
+3	entra	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53090|end_char=53095
+4	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=53096|end_char=53098
+5	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=53099|end_char=53103
+6	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n\n|start_char=53103|end_char=53104
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_13
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Pare a voi che non c’entri questo discorso della casa, perché adesso la vedete come è, la vostra casa, tra le altre che formano la città.
+1	Pare	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53107|end_char=53111
+2	a	_	ADP	E	_	_	_	_	start_char=53112|end_char=53113
+3	voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=53114|end_char=53117
+4	che	_	SCONJ	CS	_	_	_	_	start_char=53118|end_char=53121
+5	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=53122|end_char=53125
+6	c’	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=53126|end_char=53128
+7	entri	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53128|end_char=53133
+8	questo	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=53134|end_char=53140
+9	discorso	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=53141|end_char=53149
+10	della	_	_	_	_	_	_	_	start_char=53150|end_char=53155
+11	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=53156|end_char=53160
+12	,	_	PUNCT	FF	_	_	_	_	start_char=53160|end_char=53161
+13	perché	_	SCONJ	CS	_	_	_	_	start_char=53162|end_char=53168
+14	adesso	_	ADV	B	_	_	_	_	start_char=53169|end_char=53175
+15	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=53176|end_char=53178
+16	vedete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53179|end_char=53185
+17	come	_	SCONJ	CS	_	_	_	_	start_char=53186|end_char=53190
+18	è	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=53191|end_char=53192
+19	,	_	PUNCT	FF	_	_	_	_	start_char=53192|end_char=53193
+20	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=53194|end_char=53196
+21	vostra	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=53197|end_char=53203
+22	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=53204|end_char=53208
+23	,	_	PUNCT	FF	_	_	_	_	start_char=53208|end_char=53209
+24	tra	_	ADP	E	_	_	_	_	start_char=53210|end_char=53213
+25	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=53214|end_char=53216
+26	altre	_	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	start_char=53217|end_char=53222
+27	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=53223|end_char=53226
+28	formano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53227|end_char=53234
+29	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=53235|end_char=53237
+30	città	_	NOUN	S	Gender=Fem	_	_	_	SpaceAfter=No|start_char=53238|end_char=53243
+31	.	_	PUNCT	FS	_	_	_	_	start_char=53243|end_char=53244
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_14
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Vi vedete attorno i vostri mobili che sono quali voi secondo il vostro gusto e i vostri mezzi li avete voluti per i comodi vostri.
+1	Vi	_	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=53245|end_char=53247
+2	vedete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53248|end_char=53254
+3	attorno	_	ADV	B	_	_	_	_	start_char=53255|end_char=53262
+4	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=53263|end_char=53264
+5	vostri	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=53265|end_char=53271
+6	mobili	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=53272|end_char=53278
+7	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=53279|end_char=53282
+8	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53283|end_char=53287
+9	quali	_	PRON	PR	Number=Plur|PronType=Rel	_	_	_	start_char=53288|end_char=53293
+10	voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=53294|end_char=53297
+11	secondo	_	ADP	E	_	_	_	_	start_char=53298|end_char=53305
+12	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=53306|end_char=53308
+13	vostro	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=53309|end_char=53315
+14	gusto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=53316|end_char=53321
+15	e	_	CCONJ	CC	_	_	_	_	start_char=53322|end_char=53323
+16	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=53324|end_char=53325
+17	vostri	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=53326|end_char=53332
+18	mezzi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=53333|end_char=53338
+19	li	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=53339|end_char=53341
+20	avete	_	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53342|end_char=53347
+21	voluti	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=53348|end_char=53354
+22	per	_	ADP	E	_	_	_	_	start_char=53355|end_char=53358
+23	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=53359|end_char=53360
+24	comodi	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=53361|end_char=53367
+25	vostri	_	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=53368|end_char=53374
+26	.	_	PUNCT	FS	_	_	_	_	start_char=53374|end_char=53375
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_15
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Ed essi vi spirano attorno il dolce conforto familiare, animati come sono da tutti i vostri ricordi;
+1	Ed	_	CCONJ	CC	_	_	_	_	start_char=53376|end_char=53378
+2	essi	_	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=53379|end_char=53383
+3	vi	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=53384|end_char=53386
+4	spirano	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53387|end_char=53394
+5	attorno	_	ADV	B	_	_	_	_	start_char=53395|end_char=53402
+6	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=53403|end_char=53405
+7	dolce	_	ADJ	A	Number=Sing	_	_	_	start_char=53406|end_char=53411
+8	conforto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=53412|end_char=53420
+9	familiare	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=53421|end_char=53430
+10	,	_	PUNCT	FF	_	_	_	_	start_char=53430|end_char=53431
+11	animati	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=53432|end_char=53439
+12	come	_	SCONJ	CS	_	_	_	_	start_char=53440|end_char=53444
+13	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53445|end_char=53449
+14	da	_	ADP	E	_	_	_	_	start_char=53450|end_char=53452
+15	tutti	_	DET	T	Gender=Masc|Number=Plur|PronType=Tot	_	_	_	start_char=53453|end_char=53458
+16	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=53459|end_char=53460
+17	vostri	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=53461|end_char=53467
+18	ricordi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=53468|end_char=53475
+19	;	_	PUNCT	FC	_	_	_	_	start_char=53475|end_char=53476
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_16
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = non piú cose, ma quasi intime parti di voi stessi, nelle quali potete toccarla e sentirla quella che vi sembra la realtà sicura della vostra esistenza.
+1	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=53477|end_char=53480
+2	piú	_	ADV	B	_	_	_	_	start_char=53481|end_char=53484
+3	cose	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=53485|end_char=53489
+4	,	_	PUNCT	FF	_	_	_	_	start_char=53489|end_char=53490
+5	ma	_	CCONJ	CC	_	_	_	_	start_char=53491|end_char=53493
+6	quasi	_	ADV	B	_	_	_	_	start_char=53494|end_char=53499
+7	intime	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	start_char=53500|end_char=53506
+8	parti	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=53507|end_char=53512
+9	di	_	ADP	E	_	_	_	_	start_char=53513|end_char=53515
+10	voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=53516|end_char=53519
+11	stessi	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=53520|end_char=53526
+12	,	_	PUNCT	FF	_	_	_	_	start_char=53526|end_char=53527
+13	nelle	_	_	_	_	_	_	_	start_char=53528|end_char=53533
+14	quali	_	PRON	PR	Number=Plur|PronType=Rel	_	_	_	start_char=53534|end_char=53539
+15	potete	_	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53540|end_char=53546
+16	toccarla	_	_	_	_	_	_	_	start_char=53547|end_char=53555
+17	e	_	CCONJ	CC	_	_	_	_	start_char=53556|end_char=53557
+18	sentirla	_	_	_	_	_	_	_	start_char=53558|end_char=53566
+19	quella	_	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=53567|end_char=53573
+20	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=53574|end_char=53577
+21	vi	_	PRON	PC	Clitic=Yes|Number=Plur|PronType=Prs	_	_	_	start_char=53578|end_char=53580
+22	sembra	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53581|end_char=53587
+23	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=53588|end_char=53590
+24	realtà	_	NOUN	S	Gender=Fem	_	_	_	start_char=53591|end_char=53597
+25	sicura	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=53598|end_char=53604
+26	della	_	_	_	_	_	_	_	start_char=53605|end_char=53610
+27	vostra	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=53611|end_char=53617
+28	esistenza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=53618|end_char=53627
+29	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=53627|end_char=53628
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_17
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Siano di faggio o di noce o d’abete, i vostri mobili sono, come i ricordi della vostra intimità domestica, insaporati di quel particolare alito che cova in ogni casa e che dà alla nostra vita quasi un odore che piú s’avverte quando ci vien meno, appena cioè, entrando in un’altra casa, vi avvertiamo un alito diverso.
+1	Siano	_	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53630|end_char=53635
+2	di	_	ADP	E	_	_	_	_	start_char=53636|end_char=53638
+3	faggio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=53639|end_char=53645
+4	o	_	CCONJ	CC	_	_	_	_	start_char=53646|end_char=53647
+5	di	_	ADP	E	_	_	_	_	start_char=53648|end_char=53650
+6	noce	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=53651|end_char=53655
+7	o	_	CCONJ	CC	_	_	_	_	start_char=53656|end_char=53657
+8	d’	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=53658|end_char=53660
+9	abete	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=53660|end_char=53665
+10	,	_	PUNCT	FF	_	_	_	_	start_char=53665|end_char=53666
+11	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=53667|end_char=53668
+12	vostri	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=53669|end_char=53675
+13	mobili	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=53676|end_char=53682
+14	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=53683|end_char=53687
+15	,	_	PUNCT	FF	_	_	_	_	start_char=53687|end_char=53688
+16	come	_	ADP	E	_	_	_	_	start_char=53689|end_char=53693
+17	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=53694|end_char=53695
+18	ricordi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=53696|end_char=53703
+19	della	_	_	_	_	_	_	_	start_char=53704|end_char=53709
+20	vostra	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=53710|end_char=53716
+21	intimità	_	NOUN	S	Gender=Fem	_	_	_	start_char=53717|end_char=53725
+22	domestica	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=53726|end_char=53735
+23	,	_	PUNCT	FF	_	_	_	_	start_char=53735|end_char=53736
+24	insaporati	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=53737|end_char=53747
+25	di	_	ADP	E	_	_	_	_	start_char=53748|end_char=53750
+26	quel	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=53751|end_char=53755
+27	particolare	_	ADJ	A	Number=Sing	_	_	_	start_char=53756|end_char=53767
+28	alito	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=53768|end_char=53773
+29	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=53774|end_char=53777
+30	cova	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53778|end_char=53782
+31	in	_	ADP	E	_	_	_	_	start_char=53783|end_char=53785
+32	ogni	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=53786|end_char=53790
+33	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=53791|end_char=53795
+34	e	_	CCONJ	CC	_	_	_	_	start_char=53796|end_char=53797
+35	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=53798|end_char=53801
+36	dà	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53802|end_char=53804
+37	alla	_	_	_	_	_	_	_	start_char=53805|end_char=53809
+38	nostra	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=53810|end_char=53816
+39	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=53817|end_char=53821
+40	quasi	_	ADV	B	_	_	_	_	start_char=53822|end_char=53827
+41	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=53828|end_char=53830
+42	odore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=53831|end_char=53836
+43	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=53837|end_char=53840
+44	piú	_	ADV	B	_	_	_	_	start_char=53841|end_char=53844
+45	s’	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=53845|end_char=53847
+46	avverte	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53847|end_char=53854
+47	quando	_	SCONJ	CS	_	_	_	_	start_char=53855|end_char=53861
+48	ci	_	PRON	PC	Clitic=Yes|Number=Plur|PronType=Prs	_	_	_	start_char=53862|end_char=53864
+49	vien	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53865|end_char=53869
+50	meno	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=53870|end_char=53874
+51	,	_	PUNCT	FF	_	_	_	_	start_char=53874|end_char=53875
+52	appena	_	ADV	B	_	_	_	_	start_char=53876|end_char=53882
+53	cioè	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=53883|end_char=53887
+54	,	_	PUNCT	FF	_	_	_	_	start_char=53887|end_char=53888
+55	entrando	_	VERB	V	VerbForm=Ger	_	_	_	start_char=53889|end_char=53897
+56	in	_	ADP	E	_	_	_	_	start_char=53898|end_char=53900
+57	un’	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=53901|end_char=53904
+58	altra	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=53904|end_char=53909
+59	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=53910|end_char=53914
+60	,	_	PUNCT	FF	_	_	_	_	start_char=53914|end_char=53915
+61	vi	_	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=53916|end_char=53918
+62	avvertiamo	_	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53919|end_char=53929
+63	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=53930|end_char=53932
+64	alito	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=53933|end_char=53938
+65	diverso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=53939|end_char=53946
+66	.	_	PUNCT	FS	_	_	_	_	start_char=53946|end_char=53947
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_18
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = E vi secca, lo vedo, ch’io v’abbia richiamato ai faggi, ai noci, agli abeti della montagna.
+1	E	_	CCONJ	CC	_	_	_	_	start_char=53948|end_char=53949
+2	vi	_	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=53950|end_char=53952
+3	secca	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=53953|end_char=53958
+4	,	_	PUNCT	FF	_	_	_	_	start_char=53958|end_char=53959
+5	lo	_	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=53960|end_char=53962
+6	vedo	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=53963|end_char=53967
+7	,	_	PUNCT	FF	_	_	_	_	start_char=53967|end_char=53968
+8	ch’	_	SCONJ	CS	_	_	_	_	SpaceAfter=No|start_char=53969|end_char=53972
+9	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=53972|end_char=53974
+10	v’	_	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=53975|end_char=53977
+11	abbia	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=53977|end_char=53982
+12	richiamato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=53983|end_char=53993
+13	ai	_	_	_	_	_	_	_	start_char=53994|end_char=53996
+14	faggi	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=53997|end_char=54002
+15	,	_	PUNCT	FF	_	_	_	_	start_char=54002|end_char=54003
+16	ai	_	_	_	_	_	_	_	start_char=54004|end_char=54006
+17	noci	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=54007|end_char=54011
+18	,	_	PUNCT	FF	_	_	_	_	start_char=54011|end_char=54012
+19	agli	_	_	_	_	_	_	_	start_char=54013|end_char=54017
+20	abeti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=54018|end_char=54023
+21	della	_	_	_	_	_	_	_	start_char=54024|end_char=54029
+22	montagna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=54030|end_char=54038
+23	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=54038|end_char=54039
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_19
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Come se già cominciaste a compenetrarvi un poco della mia pazzia, subito, d’ogni cosa che vi dico, vi adombrate;
+1	Come	_	ADV	B	_	_	_	_	start_char=54041|end_char=54045
+2	se	_	SCONJ	CS	_	_	_	_	start_char=54046|end_char=54048
+3	già	_	ADV	B	_	_	_	_	start_char=54049|end_char=54052
+4	cominciaste	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=54053|end_char=54064
+5	a	_	ADP	E	_	_	_	_	start_char=54065|end_char=54066
+6	compenetrarvi	_	_	_	_	_	_	_	start_char=54067|end_char=54080
+7	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=54081|end_char=54083
+8	poco	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=54084|end_char=54088
+9	della	_	_	_	_	_	_	_	start_char=54089|end_char=54094
+10	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=54095|end_char=54098
+11	pazzia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=54099|end_char=54105
+12	,	_	PUNCT	FF	_	_	_	_	start_char=54105|end_char=54106
+13	subito	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=54107|end_char=54113
+14	,	_	PUNCT	FF	_	_	_	_	start_char=54113|end_char=54114
+15	d’	_	ADP	E	_	_	_	_	SpaceAfter=No|start_char=54115|end_char=54117
+16	ogni	_	DET	DI	Number=Sing|PronType=Ind	_	_	_	start_char=54117|end_char=54121
+17	cosa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=54122|end_char=54126
+18	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=54127|end_char=54130
+19	vi	_	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=54131|end_char=54133
+20	dico	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=54134|end_char=54138
+21	,	_	PUNCT	FF	_	_	_	_	start_char=54138|end_char=54139
+22	vi	_	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=54140|end_char=54142
+23	adombrate	_	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=54143|end_char=54152
+24	;	_	PUNCT	FC	_	_	_	_	start_char=54152|end_char=54153
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_20
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = domandate:
+1	domandate	_	_	_	_	_	_	_	SpaceAfter=No|start_char=54154|end_char=54163
+2	:	_	PUNCT	FC	_	_	_	_	SpacesAfter=\n\n|start_char=54163|end_char=54164
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_21
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = – Perché?
+1	–	_	PUNCT	FB	_	_	_	_	start_char=54166|end_char=54167
+2	Perché	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=54168|end_char=54174
+3	?	_	PUNCT	FS	_	_	_	_	start_char=54174|end_char=54175
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_22
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Che c’entra questo?
+1	Che	_	PRON	PQ	PronType=Int	_	_	_	start_char=54176|end_char=54179
+2	c’	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	SpaceAfter=No|start_char=54180|end_char=54182
+3	entra	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54182|end_char=54187
+4	questo	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=54188|end_char=54194
+5	?	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n\n\n\n\n|start_char=54194|end_char=54195
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_23
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = VIII.
+1	VIII	_	ADJ	NO	Number=Sing|NumType=Ord	_	_	_	SpaceAfter=No|start_char=54201|end_char=54205
+2	.	_	PUNCT	FS	_	_	_	_	start_char=54205|end_char=54206
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_24
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Fuori all’aperto.
+1	Fuori	_	ADV	B	_	_	_	_	start_char=54207|end_char=54212
+2	all’	_	_	_	_	_	_	_	SpaceAfter=No|start_char=54213|end_char=54217
+3	aperto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=54217|end_char=54223
+4	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n\n|start_char=54223|end_char=54224
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_25
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = No, via, non abbiate paura che vi guasti i mobili, la pace, l’amore della casa.
+1	No	_	INTJ	I	Polarity=Neg	_	_	_	SpaceAfter=No|start_char=54227|end_char=54229
+2	,	_	PUNCT	FF	_	_	_	_	start_char=54229|end_char=54230
+3	via	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=54231|end_char=54234
+4	,	_	PUNCT	FF	_	_	_	_	start_char=54234|end_char=54235
+5	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=54236|end_char=54239
+6	abbiate	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54240|end_char=54247
+7	paura	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=54248|end_char=54253
+8	che	_	SCONJ	CS	_	_	_	_	start_char=54254|end_char=54257
+9	vi	_	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=54258|end_char=54260
+10	guasti	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54261|end_char=54267
+11	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=54268|end_char=54269
+12	mobili	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=54270|end_char=54276
+13	,	_	PUNCT	FF	_	_	_	_	start_char=54276|end_char=54277
+14	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=54278|end_char=54280
+15	pace	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=54281|end_char=54285
+16	,	_	PUNCT	FF	_	_	_	_	start_char=54285|end_char=54286
+17	l’	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=54287|end_char=54289
+18	amore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=54289|end_char=54294
+19	della	_	_	_	_	_	_	_	start_char=54295|end_char=54300
+20	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=54301|end_char=54305
+21	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=54305|end_char=54306
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_26
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Aria!
+1	Aria	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=54308|end_char=54312
+2	!	_	PUNCT	FS	_	_	_	_	start_char=54312|end_char=54313
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_27
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = aria!
+1	aria	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=54314|end_char=54318
+2	!	_	PUNCT	FS	_	_	_	_	start_char=54318|end_char=54319
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_28
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Lasciamo la casa, lasciamo la città.
+1	Lasciamo	_	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54320|end_char=54328
+2	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=54329|end_char=54331
+3	casa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=54332|end_char=54336
+4	,	_	PUNCT	FF	_	_	_	_	start_char=54336|end_char=54337
+5	lasciamo	_	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54338|end_char=54346
+6	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=54347|end_char=54349
+7	città	_	NOUN	S	Gender=Fem	_	_	_	SpaceAfter=No|start_char=54350|end_char=54355
+8	.	_	PUNCT	FS	_	_	_	_	start_char=54355|end_char=54356
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_29
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Non dico che possiate fidarvi molto di me; ma, via, non temete.
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=54357|end_char=54360
+2	dico	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54361|end_char=54365
+3	che	_	SCONJ	CS	_	_	_	_	start_char=54366|end_char=54369
+4	possiate	_	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54370|end_char=54378
+5	fidarvi	_	_	_	_	_	_	_	start_char=54379|end_char=54386
+6	molto	_	ADV	B	_	_	_	_	start_char=54387|end_char=54392
+7	di	_	ADP	E	_	_	_	_	start_char=54393|end_char=54395
+8	me	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No|start_char=54396|end_char=54398
+9	;	_	PUNCT	FC	_	_	_	_	start_char=54398|end_char=54399
+10	ma	_	CCONJ	CC	_	_	_	_	SpaceAfter=No|start_char=54400|end_char=54402
+11	,	_	PUNCT	FF	_	_	_	_	start_char=54402|end_char=54403
+12	via	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=54404|end_char=54407
+13	,	_	PUNCT	FF	_	_	_	_	start_char=54407|end_char=54408
+14	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=54409|end_char=54412
+15	temete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=54413|end_char=54419
+16	.	_	PUNCT	FS	_	_	_	_	start_char=54419|end_char=54420
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_30
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Fin dove la strada con quelle case sbocca nella campagna potete seguirmi.
+1	Fin	_	ADV	B	_	_	_	_	start_char=54421|end_char=54424
+2	dove	_	ADV	B	_	_	_	_	start_char=54425|end_char=54429
+3	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=54430|end_char=54432
+4	strada	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=54433|end_char=54439
+5	con	_	ADP	E	_	_	_	_	start_char=54440|end_char=54443
+6	quelle	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=54444|end_char=54450
+7	case	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=54451|end_char=54455
+8	sbocca	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54456|end_char=54462
+9	nella	_	_	_	_	_	_	_	start_char=54463|end_char=54468
+10	campagna	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=54469|end_char=54477
+11	potete	_	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54478|end_char=54484
+12	seguirmi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=54485|end_char=54493
+13	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=54493|end_char=54494
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_31
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Sí, strada, questa.
+1	Sí	_	INTJ	I	Polarity=Pos	_	_	_	SpaceAfter=No|start_char=54496|end_char=54498
+2	,	_	PUNCT	FF	_	_	_	_	start_char=54498|end_char=54499
+3	strada	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=54500|end_char=54506
+4	,	_	PUNCT	FF	_	_	_	_	start_char=54506|end_char=54507
+5	questa	_	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	SpaceAfter=No|start_char=54508|end_char=54514
+6	.	_	PUNCT	FS	_	_	_	_	start_char=54514|end_char=54515
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_32
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Temete sul serio che possa dirvi di no?
+1	Temete	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54516|end_char=54522
+2	sul	_	_	_	_	_	_	_	start_char=54523|end_char=54526
+3	serio	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=54527|end_char=54532
+4	che	_	SCONJ	CS	_	_	_	_	start_char=54533|end_char=54536
+5	possa	_	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54537|end_char=54542
+6	dirvi	_	_	_	_	_	_	_	start_char=54543|end_char=54548
+7	di	_	ADP	E	_	_	_	_	start_char=54549|end_char=54551
+8	no	_	INTJ	I	Polarity=Neg	_	_	_	SpaceAfter=No|start_char=54552|end_char=54554
+9	?	_	PUNCT	FS	_	_	_	_	start_char=54554|end_char=54555
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_33
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Strada strada.
+1	Strada	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=54556|end_char=54562
+2	strada	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=54563|end_char=54569
+3	.	_	PUNCT	FS	_	_	_	_	start_char=54569|end_char=54570
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_34
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Strada brecciata; e attenti alle scaglie.
+1	Strada	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=54571|end_char=54577
+2	brecciata	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=54578|end_char=54587
+3	;	_	PUNCT	FC	_	_	_	_	start_char=54587|end_char=54588
+4	e	_	CCONJ	CC	_	_	_	_	start_char=54589|end_char=54590
+5	attenti	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=54591|end_char=54598
+6	alle	_	_	_	_	_	_	_	start_char=54599|end_char=54603
+7	scaglie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=54604|end_char=54611
+8	.	_	PUNCT	FS	_	_	_	_	start_char=54611|end_char=54612
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_35
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = E quelli sono fanali.
+1	E	_	CCONJ	CC	_	_	_	_	start_char=54613|end_char=54614
+2	quelli	_	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	_	_	_	start_char=54615|end_char=54621
+3	sono	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54622|end_char=54626
+4	fanali	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=54627|end_char=54633
+5	.	_	PUNCT	FS	_	_	_	_	start_char=54633|end_char=54634
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_36
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Venite avanti sicuri.
+1	Venite	_	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54635|end_char=54641
+2	avanti	_	ADV	B	_	_	_	_	start_char=54642|end_char=54648
+3	sicuri	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=54649|end_char=54655
+4	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=54655|end_char=54656
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_37
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Ah, quei monti azzurri lontani!
+1	Ah	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=54658|end_char=54660
+2	,	_	PUNCT	FF	_	_	_	_	start_char=54660|end_char=54661
+3	quei	_	DET	DD	PronType=Dem	_	_	_	start_char=54662|end_char=54666
+4	monti	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=54667|end_char=54672
+5	azzurri	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=54673|end_char=54680
+6	lontani	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=54681|end_char=54688
+7	!	_	PUNCT	FS	_	_	_	_	start_char=54688|end_char=54689
+
+# sent_id = 1925_pirandello_uno_nessuno_centomila_q1_38
+# chunk_id = 1925_pirandello_uno_nessuno_centomila_q1
+# quinto = 1
+# text = Dico «azzurri»; anche voi dite «azzurri», non è vero?
+1	Dico	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54690|end_char=54694
+2	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=54695|end_char=54696
+3	azzurri	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=54696|end_char=54703
+4	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=54703|end_char=54704
+5	;	_	PUNCT	FC	_	_	_	_	start_char=54704|end_char=54705
+6	anche	_	ADV	B	_	_	_	_	start_char=54706|end_char=54711
+7	voi	_	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	start_char=54712|end_char=54715
+8	dite	_	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54716|end_char=54720
+9	«	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=54721|end_char=54722
+10	azzurri	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=54722|end_char=54729
+11	»	_	PUNCT	FB	_	_	_	_	SpaceAfter=No|start_char=54729|end_char=54730
+12	,	_	PUNCT	FF	_	_	_	_	start_char=54730|end_char=54731
+13	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=54732|end_char=54735
+14	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=54736|end_char=54737
+15	vero	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=54738|end_char=54742
+16	?	_	PUNCT	FS	_	_	_	_	start_char=54742|end_char=54743
+

@@ -1,0 +1,755 @@
+# sent_id = 1869_tarchetti_fosca_q3_1
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Non potevamo dare un prezzo a quelle gioie; le sentivamo troppo intense, troppo profonde!
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=368069|end_char=368072
+2	potevamo	_	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368073|end_char=368081
+3	dare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=368082|end_char=368086
+4	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=368087|end_char=368089
+5	prezzo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=368090|end_char=368096
+6	a	_	ADP	E	_	_	_	_	start_char=368097|end_char=368098
+7	quelle	_	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	start_char=368099|end_char=368105
+8	gioie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=368106|end_char=368111
+9	;	_	PUNCT	FC	_	_	_	_	start_char=368111|end_char=368112
+10	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	start_char=368113|end_char=368115
+11	sentivamo	_	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368116|end_char=368125
+12	troppo	_	ADV	B	_	_	_	_	start_char=368126|end_char=368132
+13	intense	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=368133|end_char=368140
+14	,	_	PUNCT	FF	_	_	_	_	start_char=368140|end_char=368141
+15	troppo	_	ADV	B	_	_	_	_	start_char=368142|end_char=368148
+16	profonde	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=368149|end_char=368157
+17	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=368157|end_char=368158
+
+# sent_id = 1869_tarchetti_fosca_q3_2
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = …
+1	…	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=368158|end_char=368159
+
+# sent_id = 1869_tarchetti_fosca_q3_3
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Ci raccontammo tutta la nostra vita.
+1	Ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=368161|end_char=368163
+2	raccontammo	_	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=368164|end_char=368175
+3	tutta	_	DET	T	Gender=Fem|Number=Sing|PronType=Tot	_	_	_	start_char=368176|end_char=368181
+4	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=368182|end_char=368184
+5	nostra	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=368185|end_char=368191
+6	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=368192|end_char=368196
+7	.	_	PUNCT	FS	_	_	_	_	start_char=368196|end_char=368197
+
+# sent_id = 1869_tarchetti_fosca_q3_4
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Ci trasfondemmo l'uno nell'altra senza rossore, senza dissimulazioni, senza esitanze.
+1	Ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=368198|end_char=368200
+2	trasfondemmo	_	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=368201|end_char=368213
+3	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=368214|end_char=368216
+4	uno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=368216|end_char=368219
+5	nell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=368220|end_char=368225
+6	altra	_	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	_	_	_	start_char=368225|end_char=368230
+7	senza	_	ADP	E	_	_	_	_	start_char=368231|end_char=368236
+8	rossore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=368237|end_char=368244
+9	,	_	PUNCT	FF	_	_	_	_	start_char=368244|end_char=368245
+10	senza	_	ADP	E	_	_	_	_	start_char=368246|end_char=368251
+11	dissimulazioni	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=368252|end_char=368266
+12	,	_	PUNCT	FF	_	_	_	_	start_char=368266|end_char=368267
+13	senza	_	ADP	E	_	_	_	_	start_char=368268|end_char=368273
+14	esitanze	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=368274|end_char=368282
+15	.	_	PUNCT	FS	_	_	_	_	start_char=368282|end_char=368283
+
+# sent_id = 1869_tarchetti_fosca_q3_5
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Essa aveva vissuto poco nel mondo, aveva sposato a sedici anni un uomo che le era indifferente, non aveva mai amato, nessuno le aveva mai chiesto dell'affetto, adorava suo figlio.
+1	Essa	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=368284|end_char=368288
+2	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368289|end_char=368294
+3	vissuto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=368295|end_char=368302
+4	poco	_	ADV	B	_	_	_	_	start_char=368303|end_char=368307
+5	nel	_	_	_	_	_	_	_	start_char=368308|end_char=368311
+6	mondo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=368312|end_char=368317
+7	,	_	PUNCT	FF	_	_	_	_	start_char=368317|end_char=368318
+8	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368319|end_char=368324
+9	sposato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=368325|end_char=368332
+10	a	_	ADP	E	_	_	_	_	start_char=368333|end_char=368334
+11	sedici	_	NUM	N	NumType=Card	_	_	_	start_char=368335|end_char=368341
+12	anni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=368342|end_char=368346
+13	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=368347|end_char=368349
+14	uomo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=368350|end_char=368354
+15	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=368355|end_char=368358
+16	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=368359|end_char=368361
+17	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368362|end_char=368365
+18	indifferente	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=368366|end_char=368378
+19	,	_	PUNCT	FF	_	_	_	_	start_char=368378|end_char=368379
+20	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=368380|end_char=368383
+21	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368384|end_char=368389
+22	mai	_	ADV	B	_	_	_	_	start_char=368390|end_char=368393
+23	amato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=368394|end_char=368399
+24	,	_	PUNCT	FF	_	_	_	_	start_char=368399|end_char=368400
+25	nessuno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=368401|end_char=368408
+26	le	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=368409|end_char=368411
+27	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368412|end_char=368417
+28	mai	_	ADV	B	_	_	_	_	start_char=368418|end_char=368421
+29	chiesto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=368422|end_char=368429
+30	dell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=368430|end_char=368435
+31	affetto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=368435|end_char=368442
+32	,	_	PUNCT	FF	_	_	_	_	start_char=368442|end_char=368443
+33	adorava	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368444|end_char=368451
+34	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=368452|end_char=368455
+35	figlio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=368456|end_char=368462
+36	.	_	PUNCT	FS	_	_	_	_	start_char=368462|end_char=368463
+
+# sent_id = 1869_tarchetti_fosca_q3_6
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = In quella vita di isolamento e di disamore era nondimeno felice.
+1	In	_	ADP	E	_	_	_	_	start_char=368464|end_char=368466
+2	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=368467|end_char=368473
+3	vita	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=368474|end_char=368478
+4	di	_	ADP	E	_	_	_	_	start_char=368479|end_char=368481
+5	isolamento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=368482|end_char=368492
+6	e	_	CCONJ	CC	_	_	_	_	start_char=368493|end_char=368494
+7	di	_	ADP	E	_	_	_	_	start_char=368495|end_char=368497
+8	disamore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=368498|end_char=368506
+9	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368507|end_char=368510
+10	nondimeno	_	ADV	B	_	_	_	_	start_char=368511|end_char=368520
+11	felice	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=368521|end_char=368527
+12	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=368527|end_char=368528
+
+# sent_id = 1869_tarchetti_fosca_q3_7
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Come tutte le donne veramente ingenue s'era data a me senza fingere, senza esitare; essa aveva pensato a lungo alle conseguenze della sua colpa; aveva lottato a lungo; ma una volta decisa, si era abbandonata senza ritegno.
+1	Come	_	ADP	E	_	_	_	_	start_char=368530|end_char=368534
+2	tutte	_	DET	T	Gender=Fem|Number=Plur|PronType=Tot	_	_	_	start_char=368535|end_char=368540
+3	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=368541|end_char=368543
+4	donne	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=368544|end_char=368549
+5	veramente	_	ADV	B	_	_	_	_	start_char=368550|end_char=368559
+6	ingenue	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	start_char=368560|end_char=368567
+7	s'	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	SpaceAfter=No|start_char=368568|end_char=368570
+8	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368570|end_char=368573
+9	data	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=368574|end_char=368578
+10	a	_	ADP	E	_	_	_	_	start_char=368579|end_char=368580
+11	me	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=368581|end_char=368583
+12	senza	_	ADP	E	_	_	_	_	start_char=368584|end_char=368589
+13	fingere	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=368590|end_char=368597
+14	,	_	PUNCT	FF	_	_	_	_	start_char=368597|end_char=368598
+15	senza	_	ADP	E	_	_	_	_	start_char=368599|end_char=368604
+16	esitare	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=368605|end_char=368612
+17	;	_	PUNCT	FC	_	_	_	_	start_char=368612|end_char=368613
+18	essa	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=368614|end_char=368618
+19	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368619|end_char=368624
+20	pensato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=368625|end_char=368632
+21	a	_	ADP	E	_	_	_	_	start_char=368633|end_char=368634
+22	lungo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=368635|end_char=368640
+23	alle	_	_	_	_	_	_	_	start_char=368641|end_char=368645
+24	conseguenze	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=368646|end_char=368657
+25	della	_	_	_	_	_	_	_	start_char=368658|end_char=368663
+26	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=368664|end_char=368667
+27	colpa	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=368668|end_char=368673
+28	;	_	PUNCT	FC	_	_	_	_	start_char=368673|end_char=368674
+29	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368675|end_char=368680
+30	lottato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=368681|end_char=368688
+31	a	_	ADP	E	_	_	_	_	start_char=368689|end_char=368690
+32	lungo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=368691|end_char=368696
+33	;	_	PUNCT	FC	_	_	_	_	start_char=368696|end_char=368697
+34	ma	_	CCONJ	CC	_	_	_	_	start_char=368698|end_char=368700
+35	una	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=368701|end_char=368704
+36	volta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=368705|end_char=368710
+37	decisa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=368711|end_char=368717
+38	,	_	PUNCT	FF	_	_	_	_	start_char=368717|end_char=368718
+39	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=368719|end_char=368721
+40	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368722|end_char=368725
+41	abbandonata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=368726|end_char=368737
+42	senza	_	ADP	E	_	_	_	_	start_char=368738|end_char=368743
+43	ritegno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=368744|end_char=368751
+44	.	_	PUNCT	FS	_	_	_	_	start_char=368751|end_char=368752
+
+# sent_id = 1869_tarchetti_fosca_q3_8
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Non so se ella ne arrossisse e ne gemesse in segreto; il suo contegno non lasciò mai penetrare in me questo dubbio, essa non mi parve mai che felice.
+1	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=368753|end_char=368756
+2	so	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=368757|end_char=368759
+3	se	_	SCONJ	CS	_	_	_	_	start_char=368760|end_char=368762
+4	ella	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=368763|end_char=368767
+5	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=368768|end_char=368770
+6	arrossisse	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368771|end_char=368781
+7	e	_	CCONJ	CC	_	_	_	_	start_char=368782|end_char=368783
+8	ne	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=368784|end_char=368786
+9	gemesse	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=368787|end_char=368794
+10	in	_	ADP	E	_	_	_	_	start_char=368795|end_char=368797
+11	segreto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=368798|end_char=368805
+12	;	_	PUNCT	FC	_	_	_	_	start_char=368805|end_char=368806
+13	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=368807|end_char=368809
+14	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=368810|end_char=368813
+15	contegno	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=368814|end_char=368822
+16	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=368823|end_char=368826
+17	lasciò	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=368827|end_char=368833
+18	mai	_	ADV	B	_	_	_	_	start_char=368834|end_char=368837
+19	penetrare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=368838|end_char=368847
+20	in	_	ADP	E	_	_	_	_	start_char=368848|end_char=368850
+21	me	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=368851|end_char=368853
+22	questo	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=368854|end_char=368860
+23	dubbio	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=368861|end_char=368867
+24	,	_	PUNCT	FF	_	_	_	_	start_char=368867|end_char=368868
+25	essa	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=368869|end_char=368873
+26	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=368874|end_char=368877
+27	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=368878|end_char=368880
+28	parve	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	start_char=368881|end_char=368886
+29	mai	_	ADV	B	_	_	_	_	start_char=368887|end_char=368890
+30	che	_	ADP	E	_	_	_	_	start_char=368891|end_char=368894
+31	felice	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=368895|end_char=368901
+32	.	_	PUNCT	FS	_	_	_	_	start_char=368901|end_char=368902
+
+# sent_id = 1869_tarchetti_fosca_q3_9
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Mi diceva spesso con aria di credulità e di spavento, affatto puerile: — Sono così felice che ho paura di morire.
+1	Mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=368903|end_char=368905
+2	diceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=368906|end_char=368912
+3	spesso	_	ADV	B	_	_	_	_	start_char=368913|end_char=368919
+4	con	_	ADP	E	_	_	_	_	start_char=368920|end_char=368923
+5	aria	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=368924|end_char=368928
+6	di	_	ADP	E	_	_	_	_	start_char=368929|end_char=368931
+7	credulità	_	NOUN	S	Gender=Fem	_	_	_	start_char=368932|end_char=368941
+8	e	_	CCONJ	CC	_	_	_	_	start_char=368942|end_char=368943
+9	di	_	ADP	E	_	_	_	_	start_char=368944|end_char=368946
+10	spavento	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=368947|end_char=368955
+11	,	_	PUNCT	FF	_	_	_	_	start_char=368955|end_char=368956
+12	affatto	_	ADV	B	_	_	_	_	start_char=368957|end_char=368964
+13	puerile	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=368965|end_char=368972
+14	:	_	PUNCT	FC	_	_	_	_	start_char=368972|end_char=368973
+15	—	_	PUNCT	FF	_	_	_	_	start_char=368974|end_char=368975
+16	Sono	_	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=368976|end_char=368980
+17	così	_	ADV	B	_	_	_	_	start_char=368981|end_char=368985
+18	felice	_	ADJ	A	Number=Sing	_	_	_	start_char=368986|end_char=368992
+19	che	_	SCONJ	CS	_	_	_	_	start_char=368993|end_char=368996
+20	ho	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=368997|end_char=368999
+21	paura	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=369000|end_char=369005
+22	di	_	ADP	E	_	_	_	_	start_char=369006|end_char=369008
+23	morire	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=369009|end_char=369015
+24	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=369015|end_char=369016
+
+# sent_id = 1869_tarchetti_fosca_q3_10
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Il suo rimpianto più acerbo era di non avermi conosciuto prima; non si doleva dell'avvenire che il tempo ed i suoi legami ci avrebbero, o tardi o tosto, attraversato, ma del passato che avevamo vissuto lungi l'uno dall'altro, senza conoscersi, senza sapere che esistevamo, di quei bei giorni della prima gioventù che non avevamo potuto trascorrere assieme.
+1	Il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=369018|end_char=369020
+2	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=369021|end_char=369024
+3	rimpianto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=369025|end_char=369034
+4	più	_	ADV	B	_	_	_	_	start_char=369035|end_char=369038
+5	acerbo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=369039|end_char=369045
+6	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=369046|end_char=369049
+7	di	_	ADP	E	_	_	_	_	start_char=369050|end_char=369052
+8	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=369053|end_char=369056
+9	avermi	_	_	_	_	_	_	_	start_char=369057|end_char=369063
+10	conosciuto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=369064|end_char=369074
+11	prima	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=369075|end_char=369080
+12	;	_	PUNCT	FC	_	_	_	_	start_char=369080|end_char=369081
+13	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=369082|end_char=369085
+14	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=369086|end_char=369088
+15	doleva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=369089|end_char=369095
+16	dell'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=369096|end_char=369101
+17	avvenire	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=369101|end_char=369109
+18	che	_	SCONJ	CS	_	_	_	_	start_char=369110|end_char=369113
+19	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=369114|end_char=369116
+20	tempo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=369117|end_char=369122
+21	ed	_	CCONJ	CC	_	_	_	_	start_char=369123|end_char=369125
+22	i	_	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	start_char=369126|end_char=369127
+23	suoi	_	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=369128|end_char=369132
+24	legami	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=369133|end_char=369139
+25	ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=369140|end_char=369142
+26	avrebbero	_	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=369143|end_char=369152
+27	,	_	PUNCT	FF	_	_	_	_	start_char=369152|end_char=369153
+28	o	_	CCONJ	CC	_	_	_	_	start_char=369154|end_char=369155
+29	tardi	_	ADV	B	_	_	_	_	start_char=369156|end_char=369161
+30	o	_	CCONJ	CC	_	_	_	_	start_char=369162|end_char=369163
+31	tosto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=369164|end_char=369169
+32	,	_	PUNCT	FF	_	_	_	_	start_char=369169|end_char=369170
+33	attraversato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=369171|end_char=369183
+34	,	_	PUNCT	FF	_	_	_	_	start_char=369183|end_char=369184
+35	ma	_	CCONJ	CC	_	_	_	_	start_char=369185|end_char=369187
+36	del	_	_	_	_	_	_	_	start_char=369188|end_char=369191
+37	passato	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=369192|end_char=369199
+38	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=369200|end_char=369203
+39	avevamo	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=369204|end_char=369211
+40	vissuto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=369212|end_char=369219
+41	lungi	_	ADV	B	_	_	_	_	start_char=369220|end_char=369225
+42	l'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=369226|end_char=369228
+43	uno	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=369228|end_char=369231
+44	dall'	_	_	_	_	_	_	_	SpaceAfter=No|start_char=369232|end_char=369237
+45	altro	_	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No|start_char=369237|end_char=369242
+46	,	_	PUNCT	FF	_	_	_	_	start_char=369242|end_char=369243
+47	senza	_	ADP	E	_	_	_	_	start_char=369244|end_char=369249
+48	conoscersi	_	_	_	_	_	_	_	SpaceAfter=No|start_char=369250|end_char=369260
+49	,	_	PUNCT	FF	_	_	_	_	start_char=369260|end_char=369261
+50	senza	_	ADP	E	_	_	_	_	start_char=369262|end_char=369267
+51	sapere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=369268|end_char=369274
+52	che	_	SCONJ	CS	_	_	_	_	start_char=369275|end_char=369278
+53	esistevamo	_	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=369279|end_char=369289
+54	,	_	PUNCT	FF	_	_	_	_	start_char=369289|end_char=369290
+55	di	_	ADP	E	_	_	_	_	start_char=369291|end_char=369293
+56	quei	_	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	_	_	_	start_char=369294|end_char=369298
+57	bei	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=369299|end_char=369302
+58	giorni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	start_char=369303|end_char=369309
+59	della	_	_	_	_	_	_	_	start_char=369310|end_char=369315
+60	prima	_	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	_	_	_	start_char=369316|end_char=369321
+61	gioventù	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=369322|end_char=369330
+62	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=369331|end_char=369334
+63	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=369335|end_char=369338
+64	avevamo	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=369339|end_char=369346
+65	potuto	_	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=369347|end_char=369353
+66	trascorrere	_	VERB	V	VerbForm=Inf	_	_	_	start_char=369354|end_char=369365
+67	assieme	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=369366|end_char=369373
+68	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=369373|end_char=369374
+
+# sent_id = 1869_tarchetti_fosca_q3_11
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = —
+1	—	_	PUNCT	FF	_	_	_	_	start_char=369376|end_char=369377
+
+# sent_id = 1869_tarchetti_fosca_q3_12
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Oh, s'io t'avessi conosciuto allora!
+1	Oh	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=369378|end_char=369380
+2	,	_	PUNCT	FF	_	_	_	_	start_char=369380|end_char=369381
+3	s'	_	INTJ	I	_	_	_	_	SpaceAfter=No|start_char=369382|end_char=369384
+4	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=369384|end_char=369386
+5	t'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=369387|end_char=369389
+6	avessi	_	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=369389|end_char=369395
+7	conosciuto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=369396|end_char=369406
+8	allora	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=369407|end_char=369413
+9	!	_	PUNCT	FS	_	_	_	_	start_char=369413|end_char=369414
+
+# sent_id = 1869_tarchetti_fosca_q3_13
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = quanto sarei stata felice di darti questo mio cuore puro ed intatto, di offrirti tutta la mia gioventù, tutta la mia freschezza – giovinetta, anch'io era bella!…
+1	quanto	_	ADV	B	_	_	_	_	start_char=369415|end_char=369421
+2	sarei	_	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=369422|end_char=369427
+3	stata	_	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=369428|end_char=369433
+4	felice	_	ADJ	A	Number=Sing	_	_	_	start_char=369434|end_char=369440
+5	di	_	ADP	E	_	_	_	_	start_char=369441|end_char=369443
+6	darti	_	VERB	V	VerbForm=Inf	_	_	_	start_char=369444|end_char=369449
+7	questo	_	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=369450|end_char=369456
+8	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=369457|end_char=369460
+9	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=369461|end_char=369466
+10	puro	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=369467|end_char=369471
+11	ed	_	CCONJ	CC	_	_	_	_	start_char=369472|end_char=369474
+12	intatto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=369475|end_char=369482
+13	,	_	PUNCT	FF	_	_	_	_	start_char=369482|end_char=369483
+14	di	_	ADP	E	_	_	_	_	start_char=369484|end_char=369486
+15	offrirti	_	VERB	V	VerbForm=Inf	_	_	_	start_char=369487|end_char=369495
+16	tutta	_	DET	DI	PronType=Ind	_	_	_	start_char=369496|end_char=369501
+17	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=369502|end_char=369504
+18	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=369505|end_char=369508
+19	gioventù	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=369509|end_char=369517
+20	,	_	PUNCT	FF	_	_	_	_	start_char=369517|end_char=369518
+21	tutta	_	DET	DI	PronType=Ind	_	_	_	start_char=369519|end_char=369524
+22	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=369525|end_char=369527
+23	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=369528|end_char=369531
+24	freschezza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=369532|end_char=369542
+25	–	_	PUNCT	FB	_	_	_	_	start_char=369543|end_char=369544
+26	giovinetta	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=369545|end_char=369555
+27	,	_	PUNCT	FF	_	_	_	_	start_char=369555|end_char=369556
+28	anch'	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=369557|end_char=369562
+29	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=369562|end_char=369564
+30	era	_	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=369565|end_char=369568
+31	bella	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=369569|end_char=369574
+32	!	_	PUNCT	FS	_	_	_	_	SpaceAfter=No|start_char=369574|end_char=369575
+33	…	_	PUNCT	FS	_	_	_	_	start_char=369575|end_char=369576
+
+# sent_id = 1869_tarchetti_fosca_q3_14
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Come tu avresti saputo formare il mio cuore, come t'avrei amato, come t'avrei ubbidito!
+1	Come	_	ADV	B	_	_	_	_	start_char=369577|end_char=369581
+2	tu	_	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	start_char=369582|end_char=369584
+3	avresti	_	AUX	VA	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	start_char=369585|end_char=369592
+4	saputo	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=369593|end_char=369599
+5	formare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=369600|end_char=369607
+6	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=369608|end_char=369610
+7	mio	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=369611|end_char=369614
+8	cuore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=369615|end_char=369620
+9	,	_	PUNCT	FF	_	_	_	_	start_char=369620|end_char=369621
+10	come	_	SCONJ	CS	_	_	_	_	start_char=369622|end_char=369626
+11	t'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=369627|end_char=369629
+12	avrei	_	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=369629|end_char=369634
+13	amato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=369635|end_char=369640
+14	,	_	PUNCT	FF	_	_	_	_	start_char=369640|end_char=369641
+15	come	_	SCONJ	CS	_	_	_	_	start_char=369642|end_char=369646
+16	t'	_	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No|start_char=369647|end_char=369649
+17	avrei	_	AUX	VA	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=369649|end_char=369654
+18	ubbidito	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=369655|end_char=369663
+19	!	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=369663|end_char=369664
+
+# sent_id = 1869_tarchetti_fosca_q3_15
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Tali le parole che essa mi diceva soventi.
+1	Tali	_	DET	DD	Number=Plur|PronType=Dem	_	_	_	start_char=369666|end_char=369670
+2	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=369671|end_char=369673
+3	parole	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=369674|end_char=369680
+4	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=369681|end_char=369684
+5	essa	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=369685|end_char=369689
+6	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=369690|end_char=369692
+7	diceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=369693|end_char=369699
+8	soventi	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=369700|end_char=369707
+9	.	_	PUNCT	FS	_	_	_	_	start_char=369707|end_char=369708
+
+# sent_id = 1869_tarchetti_fosca_q3_16
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Ella soffriva di non poter legare a me le prime e le più pure memorie della sua esistenza.
+1	Ella	_	_	_	_	_	_	_	start_char=369709|end_char=369713
+2	soffriva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=369714|end_char=369722
+3	di	_	ADP	E	_	_	_	_	start_char=369723|end_char=369725
+4	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=369726|end_char=369729
+5	poter	_	AUX	VM	VerbForm=Inf	_	_	_	start_char=369730|end_char=369735
+6	legare	_	VERB	V	VerbForm=Inf	_	_	_	start_char=369736|end_char=369742
+7	a	_	ADP	E	_	_	_	_	start_char=369743|end_char=369744
+8	me	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=369745|end_char=369747
+9	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=369748|end_char=369750
+10	prime	_	ADJ	NO	Gender=Fem|Number=Plur|NumType=Ord	_	_	_	start_char=369751|end_char=369756
+11	e	_	CCONJ	CC	_	_	_	_	start_char=369757|end_char=369758
+12	le	_	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	start_char=369759|end_char=369761
+13	più	_	ADV	B	_	_	_	_	start_char=369762|end_char=369765
+14	pure	_	ADV	B	_	_	_	_	start_char=369766|end_char=369770
+15	memorie	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	start_char=369771|end_char=369778
+16	della	_	_	_	_	_	_	_	start_char=369779|end_char=369784
+17	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=369785|end_char=369788
+18	esistenza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=369789|end_char=369798
+19	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=369798|end_char=369799
+
+# sent_id = 1869_tarchetti_fosca_q3_17
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Come aveva preveduto, la mia salute era rifiorita, io era ritornato forte, lieto, sereno; ma mi pareva aver tolto a lei tutto ciò che aveva aggiunto a me stesso.
+1	Come	_	SCONJ	CS	_	_	_	_	start_char=369801|end_char=369805
+2	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=369806|end_char=369811
+3	preveduto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=369812|end_char=369821
+4	,	_	PUNCT	FF	_	_	_	_	start_char=369821|end_char=369822
+5	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=369823|end_char=369825
+6	mia	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=369826|end_char=369829
+7	salute	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=369830|end_char=369836
+8	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=369837|end_char=369840
+9	rifiorita	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=369841|end_char=369850
+10	,	_	PUNCT	FF	_	_	_	_	start_char=369850|end_char=369851
+11	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=369852|end_char=369854
+12	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=369855|end_char=369858
+13	ritornato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=369859|end_char=369868
+14	forte	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=369869|end_char=369874
+15	,	_	PUNCT	FF	_	_	_	_	start_char=369874|end_char=369875
+16	lieto	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=369876|end_char=369881
+17	,	_	PUNCT	FF	_	_	_	_	start_char=369881|end_char=369882
+18	sereno	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=369883|end_char=369889
+19	;	_	PUNCT	FC	_	_	_	_	start_char=369889|end_char=369890
+20	ma	_	CCONJ	CC	_	_	_	_	start_char=369891|end_char=369893
+21	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=369894|end_char=369896
+22	pareva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=369897|end_char=369903
+23	aver	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=369904|end_char=369908
+24	tolto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=369909|end_char=369914
+25	a	_	ADP	E	_	_	_	_	start_char=369915|end_char=369916
+26	lei	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=369917|end_char=369920
+27	tutto	_	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	start_char=369921|end_char=369926
+28	ciò	_	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	start_char=369927|end_char=369930
+29	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=369931|end_char=369934
+30	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=369935|end_char=369940
+31	aggiunto	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=369941|end_char=369949
+32	a	_	ADP	E	_	_	_	_	start_char=369950|end_char=369951
+33	me	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=369952|end_char=369954
+34	stesso	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=369955|end_char=369961
+35	.	_	PUNCT	FS	_	_	_	_	start_char=369961|end_char=369962
+
+# sent_id = 1869_tarchetti_fosca_q3_18
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Essa non avvizziva, ma deperiva con lentezza.
+1	Essa	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=369963|end_char=369967
+2	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=369968|end_char=369971
+3	avvizziva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=369972|end_char=369981
+4	,	_	PUNCT	FF	_	_	_	_	start_char=369981|end_char=369982
+5	ma	_	CCONJ	CC	_	_	_	_	start_char=369983|end_char=369985
+6	deperiva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=369986|end_char=369994
+7	con	_	ADP	E	_	_	_	_	start_char=369995|end_char=369998
+8	lentezza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=369999|end_char=370007
+9	.	_	PUNCT	FS	_	_	_	_	start_char=370007|end_char=370008
+
+# sent_id = 1869_tarchetti_fosca_q3_19
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Si era come tramutata, non era più quella di un tempo.
+1	Si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=370009|end_char=370011
+2	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=370012|end_char=370015
+3	come	_	ADP	E	_	_	_	_	start_char=370016|end_char=370020
+4	tramutata	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=370021|end_char=370030
+5	,	_	PUNCT	FF	_	_	_	_	start_char=370030|end_char=370031
+6	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=370032|end_char=370035
+7	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=370036|end_char=370039
+8	più	_	ADV	B	_	_	_	_	start_char=370040|end_char=370043
+9	quella	_	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=370044|end_char=370050
+10	di	_	ADP	E	_	_	_	_	start_char=370051|end_char=370053
+11	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=370054|end_char=370056
+12	tempo	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=370057|end_char=370062
+13	.	_	PUNCT	FS	_	_	_	_	start_char=370062|end_char=370063
+
+# sent_id = 1869_tarchetti_fosca_q3_20
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Mi pareva fosse divenuta più alta, più gentile, più flessibile; la vedeva come fosse stata un'immagine di se stessa.
+1	Mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=370064|end_char=370066
+2	pareva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=370067|end_char=370073
+3	fosse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=370074|end_char=370079
+4	divenuta	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=370080|end_char=370088
+5	più	_	ADV	B	_	_	_	_	start_char=370089|end_char=370092
+6	alta	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=370093|end_char=370097
+7	,	_	PUNCT	FF	_	_	_	_	start_char=370097|end_char=370098
+8	più	_	ADV	B	_	_	_	_	start_char=370099|end_char=370102
+9	gentile	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=370103|end_char=370110
+10	,	_	PUNCT	FF	_	_	_	_	start_char=370110|end_char=370111
+11	più	_	ADV	B	_	_	_	_	start_char=370112|end_char=370115
+12	flessibile	_	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No|start_char=370116|end_char=370126
+13	;	_	PUNCT	FC	_	_	_	_	start_char=370126|end_char=370127
+14	la	_	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=370128|end_char=370130
+15	vedeva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=370131|end_char=370137
+16	come	_	SCONJ	CS	_	_	_	_	start_char=370138|end_char=370142
+17	fosse	_	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=370143|end_char=370148
+18	stata	_	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=370149|end_char=370154
+19	un'	_	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=370155|end_char=370158
+20	immagine	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=370158|end_char=370166
+21	di	_	ADP	E	_	_	_	_	start_char=370167|end_char=370169
+22	se	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=370170|end_char=370172
+23	stessa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=370173|end_char=370179
+24	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=370179|end_char=370180
+
+# sent_id = 1869_tarchetti_fosca_q3_21
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Spesso essa mi diceva scherzosamente: — Ho voluto essere il tuo medico, e ho trascurato un po' troppo me medesima.
+1	Spesso	_	ADV	B	_	_	_	_	start_char=370182|end_char=370188
+2	essa	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=370189|end_char=370193
+3	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=370194|end_char=370196
+4	diceva	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=370197|end_char=370203
+5	scherzosamente	_	ADV	B	_	_	_	_	SpaceAfter=No|start_char=370204|end_char=370218
+6	:	_	PUNCT	FC	_	_	_	_	start_char=370218|end_char=370219
+7	—	_	PUNCT	FF	_	_	_	_	start_char=370220|end_char=370221
+8	Ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=370222|end_char=370224
+9	voluto	_	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=370225|end_char=370231
+10	essere	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=370232|end_char=370238
+11	il	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=370239|end_char=370241
+12	tuo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=370242|end_char=370245
+13	medico	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=370246|end_char=370252
+14	,	_	PUNCT	FF	_	_	_	_	start_char=370252|end_char=370253
+15	e	_	CCONJ	CC	_	_	_	_	start_char=370254|end_char=370255
+16	ho	_	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=370256|end_char=370258
+17	trascurato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=370259|end_char=370269
+18	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=370270|end_char=370272
+19	po'	_	ADV	B	_	_	_	_	start_char=370273|end_char=370276
+20	troppo	_	ADV	B	_	_	_	_	start_char=370277|end_char=370283
+21	me	_	PRON	PC	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=370284|end_char=370286
+22	medesima	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=370287|end_char=370295
+23	.	_	PUNCT	FS	_	_	_	_	start_char=370295|end_char=370296
+
+# sent_id = 1869_tarchetti_fosca_q3_22
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = — Non so come avvenisse, ma è ben certo che ella mi aveva data la sua forza e la sua salute assieme col suo affetto.
+1	—	_	PUNCT	FF	_	_	_	_	start_char=370297|end_char=370298
+2	Non	_	ADV	BN	PronType=Neg	_	_	_	start_char=370299|end_char=370302
+3	so	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	start_char=370303|end_char=370305
+4	come	_	SCONJ	CS	_	_	_	_	start_char=370306|end_char=370310
+5	avvenisse	_	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No|start_char=370311|end_char=370320
+6	,	_	PUNCT	FF	_	_	_	_	start_char=370320|end_char=370321
+7	ma	_	CCONJ	CC	_	_	_	_	start_char=370322|end_char=370324
+8	è	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=370325|end_char=370326
+9	ben	_	ADV	B	_	_	_	_	start_char=370327|end_char=370330
+10	certo	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	start_char=370331|end_char=370336
+11	che	_	SCONJ	CS	_	_	_	_	start_char=370337|end_char=370340
+12	ella	_	_	_	_	_	_	_	start_char=370341|end_char=370345
+13	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=370346|end_char=370348
+14	aveva	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=370349|end_char=370354
+15	data	_	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=370355|end_char=370359
+16	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=370360|end_char=370362
+17	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=370363|end_char=370366
+18	forza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=370367|end_char=370372
+19	e	_	CCONJ	CC	_	_	_	_	start_char=370373|end_char=370374
+20	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=370375|end_char=370377
+21	sua	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=370378|end_char=370381
+22	salute	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=370382|end_char=370388
+23	assieme	_	ADV	B	_	_	_	_	start_char=370389|end_char=370396
+24	col	_	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=370397|end_char=370400
+25	suo	_	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=370401|end_char=370404
+26	affetto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=370405|end_char=370412
+27	.	_	PUNCT	FS	_	_	_	_	start_char=370412|end_char=370413
+
+# sent_id = 1869_tarchetti_fosca_q3_23
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = L'amore fa spesso di tali miracoli.
+1	L'	_	DET	RD	Definite=Def|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No|start_char=370414|end_char=370416
+2	amore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=370416|end_char=370421
+3	fa	_	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=370422|end_char=370424
+4	spesso	_	ADV	B	_	_	_	_	start_char=370425|end_char=370431
+5	di	_	ADP	E	_	_	_	_	start_char=370432|end_char=370434
+6	tali	_	DET	DD	Number=Plur|PronType=Dem	_	_	_	start_char=370435|end_char=370439
+7	miracoli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=370440|end_char=370448
+8	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n|start_char=370448|end_char=370449
+
+# sent_id = 1869_tarchetti_fosca_q3_24
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Del resto io non dirò come e quanto noi fossimo felici.
+1	Del	_	_	_	_	_	_	_	start_char=370451|end_char=370454
+2	resto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=370455|end_char=370460
+3	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=370461|end_char=370463
+4	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=370464|end_char=370467
+5	dirò	_	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	start_char=370468|end_char=370472
+6	come	_	SCONJ	CS	_	_	_	_	start_char=370473|end_char=370477
+7	e	_	CCONJ	CC	_	_	_	_	start_char=370478|end_char=370479
+8	quanto	_	ADV	B	_	_	_	_	start_char=370480|end_char=370486
+9	noi	_	PRON	PE	Number=Plur|Person=1|PronType=Prs	_	_	_	start_char=370487|end_char=370490
+10	fossimo	_	AUX	VA	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=370491|end_char=370498
+11	felici	_	ADJ	A	Number=Plur	_	_	_	SpaceAfter=No|start_char=370499|end_char=370505
+12	.	_	PUNCT	FS	_	_	_	_	start_char=370505|end_char=370506
+
+# sent_id = 1869_tarchetti_fosca_q3_25
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Triste quella felicità che si può dire!
+1	Triste	_	ADJ	A	Number=Sing	_	_	_	start_char=370507|end_char=370513
+2	quella	_	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	start_char=370514|end_char=370520
+3	felicità	_	NOUN	S	Gender=Fem	_	_	_	start_char=370521|end_char=370529
+4	che	_	PRON	PR	PronType=Rel	_	_	_	start_char=370530|end_char=370533
+5	si	_	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	_	_	_	start_char=370534|end_char=370536
+6	può	_	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=370537|end_char=370540
+7	dire	_	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No|start_char=370541|end_char=370545
+8	!	_	PUNCT	FS	_	_	_	_	start_char=370545|end_char=370546
+
+# sent_id = 1869_tarchetti_fosca_q3_26
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Io mi era serbato fino allora eccezionalmente puro, essa eccezionalmente ingenua.
+1	Io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=370547|end_char=370549
+2	mi	_	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=370550|end_char=370552
+3	era	_	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=370553|end_char=370556
+4	serbato	_	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	start_char=370557|end_char=370564
+5	fino	_	ADV	B	_	_	_	_	start_char=370565|end_char=370569
+6	allora	_	ADV	B	_	_	_	_	start_char=370570|end_char=370576
+7	eccezionalmente	_	ADV	B	_	_	_	_	start_char=370577|end_char=370592
+8	puro	_	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=370593|end_char=370597
+9	,	_	PUNCT	FF	_	_	_	_	start_char=370597|end_char=370598
+10	essa	_	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	start_char=370599|end_char=370603
+11	eccezionalmente	_	ADV	B	_	_	_	_	start_char=370604|end_char=370619
+12	ingenua	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=370620|end_char=370627
+13	.	_	PUNCT	FS	_	_	_	_	start_char=370627|end_char=370628
+
+# sent_id = 1869_tarchetti_fosca_q3_27
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Ci eravamo amati, ella per pietà, io per gratitudine; la stima, la simpatia, la conoscenza profonda delle nostre anime, più che la nostra stessa gioventù, ci avevano condotti alla passione.
+1	Ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=370629|end_char=370631
+2	eravamo	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=370632|end_char=370639
+3	amati	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=370640|end_char=370645
+4	,	_	PUNCT	FF	_	_	_	_	start_char=370645|end_char=370646
+5	ella	_	_	_	_	_	_	_	start_char=370647|end_char=370651
+6	per	_	ADP	E	_	_	_	_	start_char=370652|end_char=370655
+7	pietà	_	NOUN	S	Gender=Fem	_	_	_	SpaceAfter=No|start_char=370656|end_char=370661
+8	,	_	PUNCT	FF	_	_	_	_	start_char=370661|end_char=370662
+9	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=370663|end_char=370665
+10	per	_	ADP	E	_	_	_	_	start_char=370666|end_char=370669
+11	gratitudine	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=370670|end_char=370681
+12	;	_	PUNCT	FC	_	_	_	_	start_char=370681|end_char=370682
+13	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=370683|end_char=370685
+14	stima	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=370686|end_char=370691
+15	,	_	PUNCT	FF	_	_	_	_	start_char=370691|end_char=370692
+16	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=370693|end_char=370695
+17	simpatia	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=370696|end_char=370704
+18	,	_	PUNCT	FF	_	_	_	_	start_char=370704|end_char=370705
+19	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=370706|end_char=370708
+20	conoscenza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=370709|end_char=370719
+21	profonda	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=370720|end_char=370728
+22	delle	_	_	_	_	_	_	_	start_char=370729|end_char=370734
+23	nostre	_	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	start_char=370735|end_char=370741
+24	anime	_	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=370742|end_char=370747
+25	,	_	PUNCT	FF	_	_	_	_	start_char=370747|end_char=370748
+26	più	_	ADV	B	_	_	_	_	start_char=370749|end_char=370752
+27	che	_	SCONJ	CS	_	_	_	_	start_char=370753|end_char=370756
+28	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=370757|end_char=370759
+29	nostra	_	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	start_char=370760|end_char=370766
+30	stessa	_	ADJ	A	Gender=Fem|Number=Sing	_	_	_	start_char=370767|end_char=370773
+31	gioventù	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=370774|end_char=370782
+32	,	_	PUNCT	FF	_	_	_	_	start_char=370782|end_char=370783
+33	ci	_	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	start_char=370784|end_char=370786
+34	avevano	_	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	start_char=370787|end_char=370794
+35	condotti	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=370795|end_char=370803
+36	alla	_	_	_	_	_	_	_	start_char=370804|end_char=370808
+37	passione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No|start_char=370809|end_char=370817
+38	.	_	PUNCT	FS	_	_	_	_	start_char=370817|end_char=370818
+
+# sent_id = 1869_tarchetti_fosca_q3_28
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = Ella a venticinque anni, io a ventotto, eravamo ancora due fanciulli.
+1	Ella	_	_	_	_	_	_	_	start_char=370819|end_char=370823
+2	a	_	ADP	E	_	_	_	_	start_char=370824|end_char=370825
+3	venticinque	_	NUM	N	NumType=Card	_	_	_	start_char=370826|end_char=370837
+4	anni	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=370838|end_char=370842
+5	,	_	PUNCT	FF	_	_	_	_	start_char=370842|end_char=370843
+6	io	_	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	start_char=370844|end_char=370846
+7	a	_	ADP	E	_	_	_	_	start_char=370847|end_char=370848
+8	ventotto	_	NUM	N	NumType=Card	_	_	_	SpaceAfter=No|start_char=370849|end_char=370857
+9	,	_	PUNCT	FF	_	_	_	_	start_char=370857|end_char=370858
+10	eravamo	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=370859|end_char=370866
+11	ancora	_	ADV	B	_	_	_	_	start_char=370867|end_char=370873
+12	due	_	NUM	N	NumType=Card	_	_	_	start_char=370874|end_char=370877
+13	fanciulli	_	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=370878|end_char=370887
+14	.	_	PUNCT	FS	_	_	_	_	start_char=370887|end_char=370888
+
+# sent_id = 1869_tarchetti_fosca_q3_29
+# chunk_id = 1869_tarchetti_fosca_q3
+# quinto = 3
+# text = In un gran centro di corruzione come cotesto, noi eravamo rimasti illibati, puri, vergini, ricchi di illusione e di fede – e la felicità e la grandezza di un tale amore non possono essere raccontati.
+1	In	_	ADP	E	_	_	_	_	start_char=370889|end_char=370891
+2	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=370892|end_char=370894
+3	gran	_	ADJ	A	Number=Sing	_	_	_	start_char=370895|end_char=370899
+4	centro	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=370900|end_char=370906
+5	di	_	ADP	E	_	_	_	_	start_char=370907|end_char=370909
+6	corruzione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=370910|end_char=370920
+7	come	_	ADP	E	_	_	_	_	start_char=370921|end_char=370925
+8	cotesto	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No|start_char=370926|end_char=370933
+9	,	_	PUNCT	FF	_	_	_	_	start_char=370933|end_char=370934
+10	noi	_	PRON	PE	Number=Plur|Person=1|PronType=Prs	_	_	_	start_char=370935|end_char=370938
+11	eravamo	_	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	start_char=370939|end_char=370946
+12	rimasti	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	start_char=370947|end_char=370954
+13	illibati	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=370955|end_char=370963
+14	,	_	PUNCT	FF	_	_	_	_	start_char=370963|end_char=370964
+15	puri	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|start_char=370965|end_char=370969
+16	,	_	PUNCT	FF	_	_	_	_	start_char=370969|end_char=370970
+17	vergini	_	ADJ	A	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|start_char=370971|end_char=370978
+18	,	_	PUNCT	FF	_	_	_	_	start_char=370978|end_char=370979
+19	ricchi	_	ADJ	A	Gender=Masc|Number=Plur	_	_	_	start_char=370980|end_char=370986
+20	di	_	ADP	E	_	_	_	_	start_char=370987|end_char=370989
+21	illusione	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=370990|end_char=370999
+22	e	_	CCONJ	CC	_	_	_	_	start_char=371000|end_char=371001
+23	di	_	ADP	E	_	_	_	_	start_char=371002|end_char=371004
+24	fede	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=371005|end_char=371009
+25	–	_	PUNCT	FB	_	_	_	_	start_char=371010|end_char=371011
+26	e	_	CCONJ	CC	_	_	_	_	start_char=371012|end_char=371013
+27	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=371014|end_char=371016
+28	felicità	_	NOUN	S	Gender=Fem	_	_	_	start_char=371017|end_char=371025
+29	e	_	CCONJ	CC	_	_	_	_	start_char=371026|end_char=371027
+30	la	_	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	start_char=371028|end_char=371030
+31	grandezza	_	NOUN	S	Gender=Fem|Number=Sing	_	_	_	start_char=371031|end_char=371040
+32	di	_	ADP	E	_	_	_	_	start_char=371041|end_char=371043
+33	un	_	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	start_char=371044|end_char=371046
+34	tale	_	ADJ	A	Number=Sing	_	_	_	start_char=371047|end_char=371051
+35	amore	_	NOUN	S	Gender=Masc|Number=Sing	_	_	_	start_char=371052|end_char=371057
+36	non	_	ADV	BN	PronType=Neg	_	_	_	start_char=371058|end_char=371061
+37	possono	_	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	start_char=371062|end_char=371069
+38	essere	_	AUX	VA	VerbForm=Inf	_	_	_	start_char=371070|end_char=371076
+39	raccontati	_	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No|start_char=371077|end_char=371087
+40	.	_	PUNCT	FS	_	_	_	_	SpacesAfter=\n\n\n\n\n\n|start_char=371087|end_char=371088
+
